@@ -1,0 +1,11 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Intermediate pipeline artifacts -- regenerable with tools/extract_text.py.
+# The shipped bundle in kb/ (including kb/data and kb/pdfs) is committed.
+build/

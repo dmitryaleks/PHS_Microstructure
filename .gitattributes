@@ -1,0 +1,6 @@
+*.pdf binary
+*.png binary
+
+# Generated bundle and vendored library: keep them out of diffs and language stats.
+kb/data/*.js linguist-generated=true -diff
+kb/assets/minisearch.min.js linguist-vendored=true -diff
