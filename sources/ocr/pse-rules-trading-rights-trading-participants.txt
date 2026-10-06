@@ -1,0 +1,753 @@
+===== page 1 / 20 =====
+No.2009-0316
+MEMORANDUM
+The Philippine Stock Exchange, Inc.
+Trading Rules
+Membership Rules
+Computer Systems Update
+Administrative Matters
+Others:
+Listing Rules
+TO
+DATE
+SUBJECT
+ALL TRADING PARTICIPANTS
+18 June 2009
+Approval by SEC of Rules Governing Trading Rights
+and Trading Participants
+Please be informed that the Securities and Exchange Commission
+("SEC") approved on 28 May 2009 the Exchange's Rules Governing
+Trading Rights and Trading Participants. These rules supersede the
+dated Membership Rules of the Exchange. Attached for your further
+information and guidance are (a) the SEC approval letter and (b) the
+approved rules.
+Kindly note the following provisions of the rules mandating that:
+1.
+2.
+Finance / Admin / Membershi
+Tel. No.688-7560/7440/7460
+have a minimum unimpaired paid-up
+'Trading Participants
+capital, as defined by the Securities and Exchange Commission, of
+Twenty Million Pesos (P20,000,000) effective December 31, 2009;
+Provided further, That effective December 31, 2010 and onwards, the
+minimum unimpaired paid-up capital shall be Thirty Million Pesos
+(Rules Governing Trading Rights and Trading
+Participants, Art. III, Sec. 8(c)); and
+' [Each] Trading Participant ... pledge its trading right to the extent of
+its full value to secure the payment of all debts and claims due the
+clients of the Trading Participant, the government, the Exchange and
+to other Trading Participants of the Exchange and to the Securities
+Clearing Corporation of the Philippines." (ld., Art. II, Sec. 7).
+Market Re ufation Division.
+Tel. No. 688-7559
+Listin & Disclosures Gr
+Tel. No. 688-7501/7510
+COO / Information Tech. De t.
+Tet, No. 688-7405/819-4400
+Business Dev't & Info. Grou
+Tel. No. 688-7590
+CEO / Le a!
+Tel. No. 688-7400/819-4408
+===== page 2 / 20 =====
+MEMORANDUM
+The Philippine Stock Exchange,
+Inc.
+Trading Rules
+Membership Rules
+Listing Rules
+Computer Systems Update
+Administrative Matters
+Others:
+Accordingly, all Trading Participants are advised to:
+1.
+2.
+Take the appropriate measures to comply with the minimum
+unimpaired paid-up capital of Php20,000,000 by 31 December 2009;
+and
+Execute and submit to the Market Regulation Division ("MRD") the
+pledge agreement complying with the new requirement of the rules
+within thirty (30) days from the MRD's release of the revised form of
+the pledge agreement.
+For information and compliance.
+OSE H P.S N PEDRO
+Vice reside t
+Mar
+Finance / Admin / Membershi
+Tel. No.688-7560/7440/7460
+ulation Division
+Market Re ulation Division.
+Tel. No. 688-7559
+Listin & Disclosures Gr
+Tel. No. 688-7501/7510
+COO / Information Tech. De t.
+Tel. No. 688-7405/819-4400
+Business Devit & Info. Grou
+Tel. No. 688-7590
+CEO ILe al
+Tel. No. 688-7400/819-4408
+===== page 3 / 20 =====
+Republic of the PhilippineR
+SECURITIES AND FXCYXNGE COMMISSION
+SEC Building, EDSAp East Greenhills
+Mandaluyong City, Metro Manila
+Tel: (632) 584-2016 Email: JUN q 3 2009
+Market Regulation Departül,ent
+June 3, 2009
+PHILm'1NE STOCK
+PSE Center
+Excha?lge Road, Ortigas Center
+Pasig City
+Fax: 637-8803
+hf.+L/, Francisco Ed. Lim, President
+Gentlemen:
+Please be infonned that the Commission in its meeting on 2S May approved
+PSE's Rules Governing Trading Rights and Trading Püticipants, with Illinor
+modifications as follows:
+I.Section 7 of Africle II shall read:
+"SECTION 7. Pledge of Trading Right Urdess Trading Partidpa.4t Inas arranged A form of
+a-tmrantce Qc:ceptable fo the Exchange, the Trading Participant shell pledge its trading right to
+the extent Of its full value to secure the paynTLE'11t Of all dQb!s claims dlte to the: clients of the
+Trading Participant, the governmatp Exchange and to other Tr*ing Puäcipants Of
+Exchange and to the Securities Clearing C.orporation of the Philippines:
+Such indebtedness to the Exchange, SCC.P and other Ttadang Participhnfs, shall •always, änd in
+every case, be prior. preferred lien upon the value, Qi' the proeeUdE of sale of the trading
+rights."
+Section 8 (c) of Article FTI shall read:
+"SEC.-TION 8 Muyt have mcl keep minimum $.ubscdbæd capital ftock in such as
+may bé required by law 01' regulations Pmvi(.led, Trading have a
+ITünimum unimpaired paid up caoital, as defined by the =nmissio.n, TwenN Million Pesos
+effective Peeember 31421.109: Th#t efféctivo. 31 i 2010
+a-nd minimum unimaalr.ed paid up capital shao Thir±v Million
+The, Philippine *tack Exchange, fnc.
+I JUN 03 2009 |
+===== page 4 / 20 =====
+It is understood that this applies only to TPs who opted to defer compliance with
+the PIOO million Ltnimpaired Cäpital requirernent&
+34Section 9 (f) of Aiticle III shall be deleted.
+Please submit to üS immediately four (4) copies of the approved Rules Goveming
+Trading Rights and Trading Participants, with the SEC a+nendmentst bearing the
+si.gnatures of two PSE senior officers on each page of said rules, We shall retain two copies
+a-nd the remaining will be returned to you. Thev Shall lil<cwise Ibear the signature of our
+representative. The copies bearing the signatures of PSE and SEC representatives shall bc
+the official copies,
+Thank you.
+Very tuly yours,
+JOSE P, AQUINO
+Director
+2
+===== page 5 / 20 =====
+RULES GOVERNING TRADING RIGHTS AND TRADING
+PARTICIPANTS
+ARTICLE 1
+DEFINITION OF TERMS
+SECTION 1. In these Rules, the following words and expressions shall, unless the context
+provides otherwise, have the meanings ascribed to them hereunder:
+"Exchange" or "PSE" - means The Philippine Stock Exchange, Inc.
+"PSE Board" - means the Board of Directors of the Philippine Stock Exchange, Inc.
+"PSE Trading Right" - means the right or privilege granted by the Exchange to an
+individual or corporation to operate as a broker/dealer of securities subject to the
+regulatory powers of the Exchange.
+"Trading Right Owner" means the corporation or individual that owns a trading right in
+the Exchange.
+"Corporate Trading Right Owner" means that the owner of the trading right is a
+corporation.
+"Individual Trading Right Owner" means that the owner of the trading right is an
+individual.
+"Trading Right Certificate" - means the evidence or proof of ownership of a trading right
+by an individual or corporation.
+"Trading Participants" - means trading right owners/holders who have been admitted and
+approved by the PSE Board of Directors to trade using the trading facilities provided by
+the Exchange. Provided, however, that the Securities and Exchange Commission has
+granted said trading right holders the license to conduct business as broker/dealer of
+securities.
+"SCCP" - shall mean the Securities Clearing Corporation of the Philippines.
+"PDTC" - shall mean the Philippine Depository & Trust Corporation.
+"Rules" -
+shall mean these Rules Governing Trading Rights and Trading Participants.
+Page 1 of 16
+===== page 6 / 20 =====
+ARTICLE 11
+TRADING RIGHT OWNERSHIP
+SECTION 1. Ownership of Trading Right — Pursuant to the demutualization of the Philippine
+Stock Exchange ("PSE" or the "Exchange"), the Exchange conferred each of the existing 184
+members a trading right which is evidenced by a trading right certificate.
+A trading right represents the right to operate as a broker/dealer of securities in the
+Exchange.
+A trading right certificate shall not in any manner be construed as a shareholding in the
+Exchange.
+SECTION 2. Classification of Trading Right Owners — There are two classifications of Trading
+Right Owners: corporate and individual.
+SECTION 3. Acquisition of Trading Right - An individual or corporation may acquire a trading
+right in the following manner:
+a.
+b.
+c.
+Sale or transfer of trading right by its owner who is either an individual or corporation;
+Re-conveyance by a trustee of a trading right to its beneficial owner upon the
+termination of the covering trust agreement; and
+Any other mode of transfer or acquisition acceptable to the PSE Board of Directors
+("PSE Board").
+SECTION 4. Rights of a Trading Right Owner — Each Trading Participant shall own and
+hold and be entitled to one trading right on the Exchange. A trading right owner shall
+neither have voting right at meetings of the PSE nor the right to participate in the assets of
+the Exchange.
+Any modification to the rights of the Trading Participants, including the issuance of
+new trading rights, shall be made with the concurrence of the majority of Trading
+Participants.
+SECTION 5. Benefits of a Trading Right Owner - The rights, benefits and obligations of a
+trading right owner shall be limited to those covered by these rules and other related rules
+subsequently promulgated by the PSE Board.
+The continued enjoyment of the trading right and/or the use of the trading facilities of the
+Exchange shall always remain subject to the regulatory powers of the Exchange.
+Page 2 of 16
+===== page 7 / 20 =====
+SECTION 6. Change in Status of Trading Right Owners — An Individual Trading Right Owner
+may change his status to Corporate Trading Right Owner through the transfer of his trading right
+to a corporation wherein he holds controlling interest subject to the approval of the PSE Board.
+Such change as the above shall be charged a processing fee of not less than
+Ph' 10,000.00 or in the amount as may be prescribed by the PSE Board.
+SECTION 7. Pledge of Trading Right — Unless a Trading Participant has arranged a form of
+guarantee acceptable to the Exchange, the Trading Participant shall pledge its trading right to the
+extent of its full value to secure the payment of all debts and claims due the clients of the
+Trading Participant, the government, the Exchange and to other Trading Participants of the
+Exchange and to the Securities Clearing Corporation of the Philippines.
+Such indebtedness and claims due the clients of the Trading Participant, the government,
+the Exchange, SCCP, and other Trading Participants, shall always, and in every case, be a prior,
+preferred lien upon the value, or the proceeds of sale of the trading rights.
+For purposes of this section, the following are considered acceptable forms of guarantee:
+a. Standby letter of credit issued by a bank acceptable to the Exchange; or
+b. Surety bond executed to the Exchange and issued by a bonding company
+acceptable to the Exchange, in an amount determined by the PSE Board from time to
+time; or
+c. Pledge executed over PSE shares of stock; or
+d. Pledge executed over index shares of stock; or
+e. Pledge executed over government securities.
+SECTION 8. Maintenance of a Trading Right Registry — The Exchange shall keep a master
+registry of trading rights, indicating the owner, issued certificate and other information relating
+to the trading right.
+ARTICLE 111
+TRADING PARTICIPANTS
+SECTION 1. Initial Trading Participants — The Initial Trading Participants of the Exchange are
+the individual and corporate members of the Philippine Stock Exchange (PSE) immediately prior
+to its demutualization on August 03, 2001.
+There is only one class of Trading Participants on the Exchange which shall be no more
+than One Hundred Eighty-Four (184).
+Page 3 of 16
+===== page 8 / 20 =====
+SECTION 2. Admission of Trading Participants — The power of admission of any applicant is
+vested with the PSE Board. The rights, benefits and obligations of a Trading Participant shall
+not be transferred, assigned, sold, acquired or exercised by any person or corporation without
+prior approval of the PSE Board.
+An Individual Trading Right Owner applying to become a Trading Participant is required
+to organize a corporation to operate its trading right, subject to the specific provisions of the By-
+laws and rules and regulations promulgated by the Exchange.
+Entities applying to become Trading Participants must be approved by an affirmative
+vote of at least eight (8) members of the PSE Board.
+SECTION 3. Entrance Fees — An entity admitted as Trading Participant shall be assessed an
+entrance fee of not less than Php 200,000.00 or in an amount as may be prescribed by the PSE
+Board.
+SECTION 4. Change in Controlling Interest of a Trading Participant — Any change in ownership
+of a Trading Participant constituting a transfer of at least 51% of the total outstanding shares of
+the corporation over a period of twelve months shall require approval of the PSE Board.
+Such change as the above shall be charged a processing fee of not less than
+Php200,000.00 or in an amount as may be prescribed by the PSE Board.
+Trading Participants shall submit to the Exchange their ownership structure not later than
+the last Friday of June and December of each year. Any change constituting 10% or more in
+ownership must be reported to the Exchange within three (3) days upon its effectivity.
+SECTION 5. Acknowledgment of Trading Participants — Trading Participants may only enjoy
+the facilities of the Exchange and the privileges thereof after they have acknowledged in writing
+in a document prescribed by the Board from time to time that they accept and will abide by all
+the rules and regulations of the Exchange.
+SECTION 6. Non-lntervention of Trading Participants — No Trading Participant shall intervene,
+directly or indirectly, in the management, operation, administration, and control of any other
+Trading Participant.
+SECTION 7. Death of an Individual Trading Right Owner/ Trading Participant — In the event of
+the death of an individual trading right owner/ Trading Participant, his trading right shall be sold
+by the PSE Board for the account of the deceased Trading Participant's estate, provided,
+however, that the trading right may, subject to the procedures prescribed in the Exchange's By-
+Laws and/or other related rules and regulations, be transferred to the qualified next of kin or
+member of the immediate family on the condition that where the transfer does not involve a
+payment for the trading right, the transferee shall hold the trading right subject to the rights of the
+creditors of his deceased predecessor.
+Page 4 of 16
+===== page 9 / 20 =====
+SECTION 8. General Qualifications of Trading Participants — An entity applying to be a Trading
+Participant must have the following minimum qualifications:
+a.
+b.
+c.
+Must be a duly-registered domestic corporation authorized to transact business as a
+broker or dealer in securities;
+Must be composed of stockholders not exceeding such number as may be prescribed
+by law or regulations and who are all acceptable to the PSE Board; and
+Must have and keep a minimum subscribed capital stock in such amount as may be
+required by law or regulations; Provided, That Trading Participants shall have a
+minimum unimpaired paid-up capital, as defined by the Securities and Exchange
+Commission, of Twenty Million Pesos (P 20,000,000) effective December 3 1, 2009;
+Provided further, That effective December 31, 2010 and onwards, the minimum
+unimpaired paid-up capital shall be Thirty Million Pesos (P 30,000,000).
+SECTION 9. Application Requirements for Trading Participants — An entity applying to be a
+Trading Participant shall submit to the Exchange the following:
+a. Application Letter expressing intention to become a Trading Participant;
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+Certified-true copy of the Articles of Incorporation and By-Laws of the applicant-
+corporation;
+Company profile and latest financial statements audited by an SEC-accredited
+external auditor;
+Curriculum Vitae, latest Income Tax Return and Statement of Assets and Liabilities
+of all stockholders owning 5% or more of the outstanding shares of stock of the
+applicant-corporation and, for corporate shareholders of the applicant, latest Audited
+Financial Statement and General Infonnation sheet;
+Sworn Corporate Secretary's Certificate attesting to the authority granted by the
+company's Board of Directors in favor of the responsible officer to perform any and
+all acts necessary and proper in its application to be a Trading Participant;
+Reference letters from at least three (3) reputable persons or institutions in the
+Philippines, one of which must be a commercial bank;
+Certified-true copy of license from the SEC to operate as broker and dealer of
+securities and a copy of the Certificate from the Securities Clearing Corporation of
+the Philippines; and
+Letter of Undertaking from the applicant corporation stating the following:
+(i) Undertaking to engage solely in the stock and bond brokerage business
+and as a dealer in securities during the term of its license;
+Page 5 of 16
+===== page 10 / 20 =====
+(ii)
+(iii)
+Undertaking to commence trading operations within the period required
+by the Exchange;
+Certification that it has the required minimum unimpaired capital, exclusive
+of the value of the trading right, which should be in place prior to the
+operation of the trading right.
+NOMINEE
+SECTION 10. Appointment of a Nominee — Subject to the approval of the PSE Board, a Trading
+Participant shall nominate its representative to the Exchange otherwise known as a "Nominee".
+SECTION 11. General Qualifications of a Nominee — An applicant for nominee must be at least
+twenty-one (21) years of age, with legal residence in the Philippines and must have all the
+qualifications and none of the disqualifications as prescribed in these Rules.
+SECTION 12. Approval of a Nominee - In securing approval of the PSE Board of Directors for a
+Nominee, the Trading Participant shall submit the following requirements:
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+Sworn Corporate Secretary's Certificate attesting to the authority granted by
+the company's Board of Directors to appoint/ designate a nominee;
+Recommendation Letter from a Trading Participant in good standing in the
+Exchange;
+Reference letters from at least three (3) reputable persons or institutions in the
+Philippines, one of which must be a commercial bank;
+Curriculum Vitae with 2 copies each of the latest I.D. and passport-sized
+photos;
+Clearance from the Philippine National Police (PNP) and National Bureau of
+Investigation (NBI)•,
+Applicant's latest Income Tax Return or other proof of income;
+Letter of Undertaking executed by the Trading Participant assuming
+responsibility for any and all actions of the applicant-nominee related to his
+functions as Nominee; and
+Interview with at least three (3) members of the PSE Board including the
+President.
+The change of nominee shall undergo at least fifteen (15) calendar days of posting. For
+applicants who have been previously designated as Nominee, the posting period shall be for seven
+(7) days.
+Page 6 of 16
+===== page 11 / 20 =====
+The incumbent nominee shall continue to act as such until the assumption to office by the
+new Nominee.
+The Trading Participant shall pay the Exchange the amount of Fifty Thousand Pesos
+(Php50,000.00) or in an amount as may be prescribed by the PSE Board as entrance fee of the new
+Nominee.
+SECTION 13. Foreigners Designated as Nominees — Foreigners designated as Nominees shall
+submit to the Exchange the following:
+a.
+b.
+c.
+d.
+Copy of Alien Employment Permit (AEP) or Alien Employment Registration
+Certificate (AERC) issued by the Department of Labor and Employment;
+Copy of the Alien Certificate of Registration (ACR);
+Letter of Endorsement on behalf of the applicant issued by the consulate of the
+country of which the nominee-applicant is a citizen; and
+Character reference letter issued by a bank based in the applicant's place of domicile.
+SECTION 14. Rights and Obligations of a Nominee — All the rights and obligations of the
+Trading Participant pertaining to the operation and ownership of the trading right shall be
+exercised and performed by the Nominee, or the designated duly authorized representative of the
+Trading Participant.
+Compliance by the Trading Participant with the Securities Regulation Code (SRC), its
+implementing rules and all applicable rules of the SEC and the Exchange shall be the ultimate
+responsibility of the Nominee.
+SECTION 15. Need to Maintain a Nominee - Under no circumstance shall a Trading Participant
+be without a Nominee.
+An active Trading Participant without an approved Nominee shall be assessed a monthly
+penalty of not less than ten thousand pesos (Phpl 0,000.00) or in an amount as may be prescribed
+by the PSE Board, to commence after the lapse of 30 days from receipt of written notice by the
+Exchange that the Trading Participant had ceased to have a Nominee.
+SECTION 16. Resignation of a Nominee - In case of resignation of the Nominee, the SEC-
+registered Associated Person shall be the Nominee in an acting capacity until a new nominee is
+designated and approved by the PSE Board. The appointment of a new nominee must be
+completed within 30 days from date ofresiyution of the Nominee.
+If the resigned nominee intends to join another Trading Participant, he must submit a
+clearance issued by his former Trading Participant-employer in the form of Sworn Corporate
+Secretary's Certificate attesting to the authority granted by the company's Board of Directors to
+issue such clearance.
+Page 7 of 16
+===== page 12 / 20 =====
+SECTION 17. Liability of the Trading Participant for Acts of the Nominee and Associated
+Person — The Trading Participant shall be liable for the acts and omissions of its Nominee and
+Associated Person.
+SECTION 18. Credit Investigation — Applicants for Nominees shall be subjected to background
+investigation of his financial and business standing by a credit bureau accredited by the Exchange.
+COMMON PROVISIONS
+SECTION 19. Disqualifications - Any of the following shall be a ground for disqualification of a
+person or corporation acquiring a trading right and persons applying as Nominee of a Trading
+Participant:
+a.
+b.
+c.
+d.
+e.
+f.
+Conviction by final judgment of an offense involving moral turpitude; or
+Conviction by final judgment of an offense involving fraud; or
+Final decision by the Securities and Exchange Commission, PSE or other SROs
+or any court or other administrative body to have violated any provision of the
+Securities Regulation Code, the Corporation Code, or any other law, rule,
+regulation or order administered by the Securities and Exchange Commission or
+Bangko Sentral ng Pilipinas or PSE or other SROs; or
+Judicial declaration of insolvency; or
+Final conviction or decision by a foreign court or regulatory authority of
+violations analogous to any of the foregoing; or
+Conviction by final judgment of an offense punishable by imprisonment for a
+period exceeding six (6) years, or a violation of the Corporation Code,
+committed within five (5) years prior to the date of his appointment or
+designation.
+SECTION 20. Prohibitions — A Trading Right Owner, nominee, director, officer, employee or
+stockholder shall not in any way be connected in whatever capacity, directly or indirectly, with
+another Trading Participant.
+However, where the relationship is with a publicly listed company, the appropriate
+disclosure shall be made.
+Page 8 of 16
+===== page 13 / 20 =====
+ARTICLE
+TRADING RIGHT OPERATION
+SECTION 1. Exercise of Trading Right — A trading right owner may only exercise its right to
+trade using the facilities of the Exchange upon approval by the PSE Board of its application to
+become a Trading Participant.
+A Trading Participant is required to commence trading operations within one year from
+date of approval of its application or within such period as may be prescribed by the PSE Board.
+SECTION 2. Non-Operation of Trading Right — The PSE Board shall determine and prescribe
+the fee to be imposed on non-operating trading rights.
+SECTION 3. Voluntary Suspension of Trading Right Operation — A Trading Participant may go
+on voluntary suspension of trading operations subject to compliance with applicable PSE Rules.
+SECTION 4. Involuntary Loss of Trading Right — When a Trading Participant shall cease for any
+cause to be a Trading Participant of the Exchange, except by death or by voluntary sale or
+transfer approved by the PSE Board the trading right on the Exchange previously held and
+owned by him shall become ipso facto vacant and shall be invested in the PSE Board which
+alone, shall be entitled to dispose thereof.
+SECTION 5. Sale of Trading Right — A Trading Participant intending to sell its trading right
+must comply with the following guidelines and minimum requirements:
+a.
+b.
+c.
+d.
+e.
+f.
+The seller shall inform the Exchange in writing of its intention to sell its
+trading right;
+The seller shall furnish the Exchange a duly-notarized copy of the
+Memorandum of Agreement (MOA) covering the said sale to secure
+conditional approval of the PSE Board;
+The seller shall settle all its trading-related obligations, if any, and secure
+clearance from the Securities and Exchange Commission (SEC), SecuHties
+Clearing Corporation of the Philippines (SCCP), Philippine Depository &
+C01poration (PDTC) and PSE•,
+The seller shall publish the sale of its trading right in 3 major newspapers of
+general circulation in such form as may be prescribed by the Exchange;
+The seller shall execute a Letter of Unconditional Guarantee to cover for any
+and all third party claims against the sale of the trading right that may arise
+within 30 days after publication date;
+The sales proceeds shall be put in escrow in a bank specified by the parties
+and shall be released by the PSE-FIG to the seller upon approval by the PSE
+Page 9 of 16
+===== page 14 / 20 =====
+g.
+h.
+of the sale or transfer of the trading right. The Exchange shall deduct from
+the sales proceeds all charges that may have been incurred relative to the
+escrow such as escrow fee, notarial fee, etc.
+The parties shall execute a Letter of Undertaking holding the Exchange free
+and harmless from any and all taxes, liabilities and other claims of third
+parties arising from the sale transaction;
+The seller shall submit to the Exchange a copy of the final sale documents for
+the immediate transfer of the trading right in the name of the Buyer including
+BIR clearance.
+All claims that may arise during the 30-day period upon publication date may be filed
+with the PSE-MRD which shall assist in the processing of all validated claims prior to the release
+of the escrowed funds.
+SECTION 6. The Exchange as the Sole Escrow Agent in Sale or Transfer of Trading Right — The
+Exchange shall be the sole Escrow agent in any sale or transfer of trading right. The parties shall
+authorize the Exchange to place the entire sales proceeds in an interest-bearing instrument with a
+bank acceptable to them. The Exchange shall be held free and harmless from any risk in relation
+to the investment of the escrowed funds.
+The Exchange shall charge an Escrow Fee of not less than Php 50,000.00 or in an amount
+as may be prescribed by the PSE Board.
+SECTION 7, Commencement of Trading Operations — A Trading Participant intending to
+commence operation or exercise its trading right on the Exchange must comply with the
+following requirements :
+a.
+b.
+c.
+d.
+e.
+Application letter stating intention to commence operation, date of operation,
+business address/general e-mail address, telephone/fax numbers and proposed
+business name;
+Proof of full compliance with the requirements of Sec. 7, Art. II;
+Application letter addressed to the PSE Market Operations and Surveillance
+Department (PSE-MOSD) for broker's code, trading cap and trading floor
+computer requirement, or off-site requirements;
+Certified-true copy of the Articles of Incorporation and By-Laws of the applicant-
+corporation;
+Curriculum vitae, latest Income Tax Return and latest Statement of Assets and
+Liabilities of all stockholders owning 5% or more of the outstanding shares of
+stock of the applicant-corporation and, for corporate shareholders of the
+applicant, latest Audited Financial Statement and General Information sheet;
+Page 10 of 16
+===== page 15 / 20 =====
+f.
+g.
+h.
+i.
+j.
+k.
+SEC Order and SEC Certificate registering the Trading Participant as broker and
+dealer of securities;
+Stock Broker Bond for Php5 million and Dealer Bond for Php 1 million or such
+other amount as may be prescribed by the SEC;
+Minutes of Organizational Meeting containing the following:
+Election of directors and officers;
+1.
+ii. Adoption of resolutions regarding officers/persons authorized to sign
+checks and endorse stock certificates;
+Duly-notarized Corporate Secretarys Certificate certifying that copies of aforesaid
+minutes are true and correct;
+List of key officers and employees. Must at least have one (1) Associated Person
+and one (1) Salesman, both of whom have SEC license, and must have sufficient
+backroom personnel;
+Sample forms to be used;
+l. Bank certificate attesting that the company has opened an account thereat;
+m. Copy of SEC license and Maktrade certificate of salesmen; and
+n. Copy of SEC license of associated persons.
+SECTION 8. Cessation of Trading Operations — A Trading Participant intending to cease
+trading operations must comply with the following:
+a.
+b.
+c.
+d.
+e.
+File letter with the Exchange announcing the company's intention to cease
+trading operation at least 30 days prior to effectivity date;
+Duly-notarized letter of undertaking to inform or advise its clients of the firm's
+closure to ensure orderly processing of claims or transfer of accounts to the
+successor broker;
+Clearance from all appropriate PSE business units, SCCP and PDTC;
+Appointment of successor-broker to handle remaining clients' accounts. The
+Exchange must be furnished with an original or a certified true copy of the
+Memorandum of Agreement (MOA) between the closing broker and the
+successor broker;
+Publication of notice of closure with a minimum size of 1/8 of a page in three
+(3) newspapers of general circulation;
+Page 11 of 16
+===== page 16 / 20 =====
+f.
+g.
+List of separated personnel together with respective clearances; and
+Surrender all identification cards issued by the Exchange to trading floor
+personnel.
+SECTION 9. Resumption of Trading Operations — A Trading Participant who is under voluntary
+suspension may resume trading operations anytime with prior notice to the Exchange and the
+SEC and subject to compliance with the following requirements:
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+Letter advising the Exchange of its intention to resume trading operations at
+least 30 days prior to effectivity date;
+Business address, location, telephone, fax number and general e-mail address;
+SEC Order and SEC Certificate registering the corporation as broker-dealer of
+securities;
+Stockbroker bond of Php 5 Million and Dealer Bond of Php 1 Million or such
+amount as may be prescribed by the SEC;
+Clearance from all appropriate PSE business units;
+List of key officers and employees;
+Copy of SEC license and Maktrade certificate of salesmen;
+Copy of SEC license of associated persons.
+SECTION 10. Operation of a Branch Office — A Trading Participant may be authorized to
+operate a branch office upon compliance with the following:
+a.
+b.
+c.
+d.
+e.
+Application letter to the Exchange indicating intention of the Trading Participant
+to open a branch office/s;
+Copy of SEC registration authorizing the operation of the branch office/s;
+Cun•iculum vitae of branch personnel with latest ID photo;
+Business address and location, telephone number, fax number and general e-mail
+address;
+Two (2) pictures of the branch office showing the faqade and interior (if possible,
+with staff in the background);
+Page 12 of 16
+===== page 17 / 20 =====
+f.
+g.
+Duly-notarized written consent from the trading right owner or the Nominee
+assuming responsibility for any and all actions of its branch office, holding the
+Exchange free and harmless from any and all actions, claims and damages arising
+from the operations of the branch office; and
+Payment of application fee.
+The application to operate a branch office, notwithstanding the submission of the
+foregoing, must be approved by the Market Regulation Division.
+SECTION 11. Qualifications of Personnel Manning Trading Participant's Branch Office
+Personnel of the branch office/s must possess the following qualifications:
+a.
+b.
+Manager/Head of the branch office must be duly- licensed by the SEC and
+qualified in terms of experience and training relative to the operation of a stock
+brokerage business; and
+All salesmen who will be granted access to the trading terminals must be duly-
+licensed by the SEC and must have passed the Maktrade Certification Exams
+given by the Exchange.
+ARTICLE V
+BROKERS AND DEALERS
+SECTION l. Registration of Salesmen and Associated Persons of Trading Participants — A person
+shall not be employed as a salesman or associated person of a Trading Participant unless the
+required registration as a salesman or associated person is secured from the Securities and
+Exchange Commission.
+Every person registered as Salesman or Associated Person shall file the appropriate
+registration renewal form with the SEC and renew his license as Salesman or Associated Person
+on an annual basis.
+A salesman's registration shall cease to be effective upon termination of employment with
+the Trading Participant.
+SECTION 2. Signing of Pledge of Commitment — All salesmen, traders and dealers and agents
+and associated persons are mandated to sign the Exchange's Pledge of Commitment and abide by
+the Code of Ethics for Salesmen and Traders.
+SECTION 3. Submission of List of Directors and Officers, Employees, Agents, Dealers, Etc.
+Trading Participants shall submit to the Exchange a complete list of directors, officers, agents,
+dealers, traders and salesmen, associated persons and all other employees, including their
+respective positions, addresses and contact numbers, not later than the first Friday of January
+and July of each year.
+Page 13 of 16
+===== page 18 / 20 =====
+For newly approved Trading Participants, the list of employees, together with the
+Personnel Information Sheet, shall be submitted to the Exchange prior to commencement of their
+trading operations.
+SECTION 4. Personnel Movement — Trading Participants shall notify the Exchange of any
+personnel movement, whether hiring, resignation or termination of employment, within 30 days
+upon effectivity thereof.
+SECTION 5. Cooling-Off Period on Hiring Terminated Employees, Associated Persons,
+Salesmen, Traders, Agent, Dealer, Etc. — An employee, associated person, salesman, trader,
+agent or dealer whose employment has been teminated cannot be employed as regular,
+probationary or casual employee, or as apprentice, trainee, consultant, or in any other position,
+directly or indirectly, by another Trading Participant until after the lapse of six (6) months from
+the date of resignation or termination, unless a written clearance or conformity to join another
+Trading Participant is secured by the person concerned from the former employer, prior to the
+effectivity of the new employment.
+This prohibition shall also apply to a resigned or terminated employee of the Exchange
+applying to join a Trading Participant as regular, probationary, or casual employee, or as
+apprentice, trainee, or consultant, or be employed in any manner or position, directly or
+indirectly by the Trading Participant.
+SECTION 6. Publication of List of Newly Hired, Resigned or Terminated Employees - The list
+of newly hired, resigned or terminated employees of Trading Participants shall be circularized by
+the Exchange every first week of the month and shall be posted on the PSE website for seven
+calendar days.
+SECTION 7. Penalty for Violation of the Policy on Hiring and Termination of Employees
+Trading Participants shall abide by the Policy on Hiring and termination of Employees at all
+times. A corresponding penalty shall be imposed per act of violation by any Trading Participant:
+First offense
+Php 50,000.00
+Subsequent offenses - Php 100,000.00
+Penalty for Failure to Notify the Exchange of Personnel Movement The
+SECTION 8.
+Exchange shall impose the following penalties on Trading Participants that fail to notify the
+Exchange of any personnel movement (for every employee not reported to the Exchange),
+whether hiring, resignation or termination from office, within thirty (30) days from the
+effectivity date:
+First offense
+Second offense
+Subsequent offenses
+Php 3,000.00
+Php 6,000.00
+Phi) 10,000.00
+Page 14 of 16
+===== page 19 / 20 =====
+SECTION 9. Penalty for Failure to Return Exchange-Issued Identification Cards - It shall be
+the duty of the nominee to cause the return of Exchange-issued identification cards by resigning
+employees. Otherwise, the Trading Participant shall be subjected to the following penalties:
+First offense
+Second offense
+Php 3,000.00
+Php 6,000.00
+Subsequent offenses — Phpl 0,000.00
+SECTION 10. Brokers' Code — Each Trading Participant has an assigned Broker's Code that is
+deemed permanent in nature. The Exchange shall assign the next available code in numerical
+sequence to a Trading Participant that will commence trading operation for the first time.
+SECTION 11. Dues — The dues for all Exchange Trading Participants shall be levied monthly
+based on an amount fixed by the Board. The following are the guidelines in the imposition and
+collection of dues from Trading Participants:
+a. Dues shall be collected equally among operating and non-operating Trading
+Participants. The monthly dues shall be one thousand pesos (Php 1,000.00) or
+such amount as may be prescribed by the Board, paid not later than the 15th day
+of the following month;
+b. In the event a Trading Participant fails to pay its monthly dues, a written notice
+shall be sent by the Exchange, either by messenger or registered mail, calling its
+attention thereto, and if not paid by the last day of the month, notice shall be
+posted on the bulletin board of the Exchange on the following day. If dues are
+not paid within fifteen (15) days thereafter, the Trading Participant shall be
+suspended until payment is made; and
+c. Should payment not be made within three (3) months after payment is due, the
+trading right of the delinquent Trading Participant shall be declared vacant and
+it may be disposed of by the PSE Board in accordance with the By-Laws of the
+Exchange.
+Notwithstanding the suspension, transfer, death, and expulsion, or for any other reason,
+the Trading Participant shall continue to be liable for dues to the Exchange, until the trading right
+has been transferred in the records of the Exchange.
+Page 15 of 16
+===== page 20 / 20 =====
+ARTICLE VI
+PENALTY CLAUSE
+The Exchange shall impose the following penalties for violation of any
+SECTION 1. Penalties
+provisions of this Rule:
+First offense
+- Stern written warning
+Second offense
+Php 20,000.00
+Subsequent offense -
+Php 50,000.00
+THE PHILIPPINE STOCK EXCHANGE, INC.
+F CISC E . LIM
+Pr siden & CEO
+JOS PH P.
+vp, rketR
+AN PEDRO
+lation Division
+SECURITIES AND EXCHANGE COMMISSION
+JOSE P. AQUINO
+Director
+Market Regulation Department
+Page 16 of 16

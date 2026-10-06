@@ -15,6 +15,7 @@ kb/                     the deliverable -- copy this folder anywhere
   pdfs/                 archived source documents
 content/                the chapters, as markdown with [^slug:page] citations
 sources/catalog.yaml    the source registry: provenance, edition dates, checksums
+sources/ocr/            OCR text for scanned source PDFs (Windows OCR; committed, slow to redo)
 research_notes/         the raw research notes the chapters were synthesised from
 reports/                executive summary of the research
 tools/                  the pipeline (see below)
@@ -53,6 +54,7 @@ python tools/collect_sources.py   # research-note "Source catalog" blocks -> sou
 python tools/dedupe_archive.py    # collapse byte-identical PDFs onto one slug (--apply)
 python tools/sync_sources.py      # reconcile catalog with kb/pdfs: status, sha256, page counts
 python tools/extract_text.py      # per-page text -> build/fulltext.json
+python tools/ocr_sources.py       # Windows OCR for scanned PDFs -> sources/ocr/ (then re-run extract)
 python tools/build_kb.py          # render + index -> kb/data/*.js   (--draft while authoring)
 python tools/verify_kb.py         # static consistency checks over the shipped bundle
 python tools/smoke_test.py        # headless Chrome at a real file:// origin, every route

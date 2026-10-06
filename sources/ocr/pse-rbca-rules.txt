@@ -1,0 +1,1907 @@
+===== page 1 / 48 =====
+Republic of the Philippines
+SECURITIES AND EXCHANGE COMMISSION
+SEC Building, EDSA, GreenhilJs, Mandaluyong City, Metro Manila
+SEC MEMORANDUM CIRCULAR NO. 16
+Series of 2004
+TO:
+ALL BROKERS DEALERS
+PHILIPPINE STOCK EXCHANGE
+SUBJECT: ADOPTION OF THE RISK BASED CAPITAL ADEQUACY
+REQUIREMENT/RATIO (RBCA) FOR BROKERS DEALERS
+The Commission, pursuant to its regulatory and supervisory powers under
+Section 5 of the Securities Regulation Code (SRC), approved the following guidelines
+on the adoption in the Phifipp!nes of the Risk Based Capital Adequacy (RBCA)
+Framework for all registered Brokers Dealers in accordance with SRC Rule 28.1 (E) (2)
+(iv) of the SRC. These guidelines shall cover the following risks: (1) Position or Market
+Risk, (2) Credit Risks such as Counterparty Risk, Settlement Risk, Large Exposure
+Riskr and Margin Financing Risk, and (3) Operational Risk.
+PART l: PRUDENTIAL AND FINANCIAL MEASURES
+RULE 49.1 (A) PAID up CAPITAL REQUIREMENT
+Untess otherwise prescribed by the Commission, the paid-up capital of every Broker
+Dealer covered by the RBCA shall be governed by the existing requirements of SRC
+Rule 28.1 (E) (v).
+For this purpose, the term "paid up capital" shall include the following:
+a. Capital contributions of partners or par value or stated value of Common Stock
+b. Payment made on Subscribed Common Stock
+===== page 2 / 48 =====
+c.
+d.
+e.
+f.
+g.
+Par or Stated Value of Preferred
+Payment made on Subscribed Prefeik
+Common Stock to be Distributed (arj* a Stock Dividend Declaration)
+Additional Paid in Capital for both Preferred Stocks
+Donated Capital
+The value representing Treasury Stock isÉd in the computation of Paid up
+capital.
+RULE 49.1 RESERVE FUND
+(1) Every Broker Dealer shall annualty..*te a certain minimum percentage
+of its audited profit after tax and to the Appropriate Retained
+Earnings Account in accordance schedule:
+Unimpaired Paid Up CaviüMinimum percentage or profit
+after tax to be placed in the
+PhP (million)
+'Appro riated Retained Earnin s
+Between 10-30
+Between 30s 50
+More than 50
+200/0
+(2) The amount appropriated shall not tifie for payment of dividends.
+(3) Where in any financial year the Br€;k.æs paid up capital is impaired, the
+Broker Dealer, •is required to Appropriated Retained Earnings
+to the capital account an amount equi the impairment. Such amount so
+transferred out shall not be available tent of dividend,
+(4) Consistent with the general usage•RC Rule 28.1 (E) (v), the term
+"Unimpaired Paid Up Capital" shaitT& firm's Total Paid up Capital less
+any deficiency jn the Retained Eamii.)gnt.
+(5) A Broker Dealer may submit to thetsion for approvaf its own capital
+build up plan in lieu of the requirej.ne& provision.
+(6) Notwithstanding the requirements *section, the Commission may
+prescribe a different capital all Broker Dealers, specifically
+those incurring net losses during may include the programmed
+infusion of fresh capital.
+Page 2 of 48
+Final version
+===== page 3 / 48 =====
+RULE 49.1 (C) RESERVE AND CUSTODY OF
+SECURITIES
+Unfess otherwise prescribed by the Cory* the responsibilities related to the
+setting up of a Reserve Requirement Acr#ery Broker Deafer and the custody
+of securities shall be governed by the t.Tints of SRC Rule 49.2 (Customer
+Protection Reserves and Custody of Secur* shafl be observed at all times.
+PART 2 FINANCIAL REPORTING
+Financial Records and Reporting shål}• #rily governed by SRC Rule 52.1
+(Accounts and Records, Reports, Members and Others)
+and secondarily by all pertinent provisions.2C and its]mplementing Rules, and
+all other regulations which the time to time adopt.
+With respect to compliance with the on RBCA, every Broker Dealer
+covered by the RBCA rules shall :itReport as of month end and file the
+same with the Commission on or before {bf the following. month. The RBCA
+Report shall be certified by the firm'S Person and President/Nominee
+Director and a copy submitted to the Brotieä Audit Committee or in lieu thereof,
+its Board of Directors. A pro-forma RBC.Ap be prescribed by this Commission
+shall form part of this Rule.
+In situations where any of the financial Dt of Broker Dealers as prescribed
+under Part 6 Subsection II is breached, theted Person must immediately notify
+the Commission, the Exchange, and . fth.ny's Board of Directors. Proper
+corrective measures must be adopted by {Mto avoid suspension of operations.
+Daily notification by the Broker Dealer is reqthe Commission and the Exchange
+until the breach is fixed or corrected.
+In compliance with the requirements of (5) (Annual Audited Financial
+Reports of Broker Dealers), every Bro&r Shall, in lieu of submitting a
+Computation of Net Capital under SRC the RBCA Report.
+Page 3 of 48
+Fina/ version
+===== page 4 / 48 =====
+PART 3 RISK MANAGEMEtNTERNAL CONTROL
+RULE 49.1 (D) PRINCIPLES OF RISKTMENT
+(1) Every Broker Dealer shall -
+(a) establish, maintain and exercis& policies and procedur.es on risk
+management; and
+(b) have its own system of monitor*) a daily basis.
+The Broker Dealer should be ab}e..tæ and demonstrate the objectives
+and operation of the system to unge and the Commission. • The
+policies and procedures on risk shall be documented in a Risk
+Management Manual. Said marsu± periodically updated to effect
+certain changes in the system..A:ön from the management of the
+Broker Dealer that the Risk Managocedures have been consistently
+followed should be submitted to jhe%ion and the Exchange.
+(2) Every Broker Dealer shall detemi&ecord in its financial records
+appropriate position and credit lipoi.t*ounterparties to which it has a
+credit exposure.
+(3) The position and credit limits estab}is'tSe appropriate to the type, nature
+and volume of business undertakezv.aancial status of the counterparty
+and shall be reviewed on a regular: Eeast once a year. Every Broker
+Dealer shall be responsible in det.tätle propriety of conducting more
+frequent reviews taking into in the financial condition
+of its counterparties.
+(4) A Broker Dealers financial records. ±apable of being summarized in
+such a way as to permit actual expose measured regularly against the
+established position and credit limrs.
+(5) A Broker Dealer shall in a manner such that they
+adequately disclose, or are capabie •tely disclosing, in a prompt and
+appropriate manner, the financial andi information which will enable its
+management to
+Page 4 of 48
+Final version
+===== page 5 / 48 =====
+(a) identify, quantify, control and mmy$roker Dealer's risk exposures;
+(b) make timely and informed deciSiQ%
+(c) monitor the performance of all Broker Dealerts business on an
+up-to-date basis;
+(d) monitor the quality of the Broke.nibsets; and
+(e) safeguard the assets of the and assets belonging to other
+persons for which the Broker Dee'@nsjble,
+(6) Every Broker Dealer's risk systems should be capable of being
+externally and independently audited *hange, Commission or any other
+third party acting on behalf of the Exckthe Commission..
+RULE 49.1 (E) INTERNAL CONTROL
+(1) Every Broker Dealer shall establish. afäin at all times written policies and
+procedures on internal control and .sh&bfe to describe and demonstrate
+the objectives and operation of such*nd procedures to the Exchange
+and the Commission.
+(2) fn determining the scope and nature. internal control, a Broker Dealer
+shall consider all relevant factors intL:$ize of the business, the diversity
+of operations, the volume, size and.tcpf transactions, the degree of risk
+associated with each area of operati{te amount of control by its senior
+management over day to day operation
+(3) The systems of internal control shall in such a way as to ensure that
+(a) all transactions and into are recorded and are within
+the scope of authority of the Br,Dßi or the individual acting on behalf
+of the Broker Dealer entering into*sactions or commitments;
+(b)
+there are procedures to safegu± and control liabilities, including
+assets belonging to other which the Broker Dealer is
+accountable;
+(c) there are measures, so far as öéy practicablet to minimise the risk
+of losses to the Broker Dealer:ägularities, fraud or error and to
+identify such matters should theyu that prompt remedial action may
+be taken by the management;
+and
+(d) there is clear delineation of respöi and proper segregation of tasks
+among the departments and the piof the Broker Deafer.
+Page 5 of 48
+Final version
+===== page 6 / 48 =====
+PART 4 PROVISIONING ERDUE ACCOUNTS
+RULE 49.1 (F) PROVISIONS FOR
+A. Definitions
+For purposes of implementing the reqü of this section, the following terms
+shall have their respective meanings:
+• Amount outstanding — with resr*articular customer account, refers
+to the total or aggregate receiväb!EtibJe due from any account at any
+one time, inclusive of commission*nterest charges and other relevant
+and reasonable charges).
+• Contra losses refers to all iossü by customers arising from contra
+transactions, inclusive of relevant änabfe charges.
+Contra transaction — refers to:a where a Broker Dealer allows its
+client to settle outstanding outstanding sell positions of
+the same securities where the •oröoth buy and sell orders are made
+within the same period stipulated•unrnission. Unless another period is
+prescribed by the Commission, t.h*ferred to is the same trading day.
+Effective date — refers to the efi•e$ of the guidelines.
+Equity — refers to the client's/cu±quired equity maintenance in the
+form of cash and securities neec.i.e»oses of opening a margin account
+with the Broker Dealer
+• Interest — refers to all charges ahüable by the customer to the Broker
+Dealer arising from a legal any similar arrangement.
+• Interest-in.-suspense — refers tc&st that has been suspended and
+credited to the interest-in-suspense in accordance with these rules.
+• .lnterest-in-suspense account—ithe account so designated for the
+interest-in-suspense.
+Margin account
+refers to :thot opened and maintained by a
+customer for the purpose of pursuant to credit facilities
+extended by the Broker Dealer.•tctomer as evidenced by a •formal
+agreement entered into by both pai
+Non-performing account accounts which have remained
+outstanding for a relatively long:.pqualified under Schedule for Part 4
+Page 6 of 48
+Final version
+===== page 7 / 48 =====
+(found at the end of these Rules) and which requires specific and general
+provisioning for possible uncollectibüy.
+• Overdue purchase contract refersto a buy contract for securities which is
+outstanding and for which no mancäory close out•could be implemented due
+to the following reasons:
+i.
+1.
+ii.
+iii.
+Securities giving rise b the outstanding position have been
+suspended from tradjngby the Exchange or the Commission;
+There is no ready marke
+Such other circumstmces ot causes acceptable to the
+Commission or upon reanmendation of.the Exchange.
+B. Provisioning for Overdue AccouMs
+2.
+3.
+4.
+Consistent with SRC RLile 52.1 (Accounts and Records, Reports,
+Examination of Exchanges.Members and Others) subsection 11 (on
+Monthly Aging of Accouaift• Receivable), every Broker Deafer shall
+provide for Specific and Gæral Provisions for overdue accounts on
+all non-performing customeraccouns.
+Unless otherwise prescrjbedby the Commission, every Broker Dealer
+shall comply with these gü}efines in the preparation of its RBCA
+report and audited financial±tements.
+Specific and General Prnöions for Overdue Accounts shall be
+computed in 'accordance •the &hedule for Patt 4 (found at the
+end of these Rules).
+Every Broker Dealer iS own policies on the writing off of
+bad debts and these polies must be consistent with Generally
+Accepted Accounting Prir#les (GAAP).. International Accounting
+Standards (IAS) may be reorted to in cases whether there are no
+applicable Philippine GAAP that addresses the issue. The Broker
+Dealer, within seven (7) daF after effecting the write off, is required
+to disclose the same to fie Commission and Exchange provide
+specific details on these off accounts of single clients where
+such amounts singly or in agregate exceeds P500,000.
+Page 7 of 48
+Fina/ version
+===== page 8 / 48 =====
+PART 5 SATISFACTORY Sü}-1TlON AGREEMENTS
+RULE 49.1 (G) SUBORDINATED LIABILM
+i.
+A.
+This rule sets forth Y.i)iöd non-exclusive requirements for
+satisfactory (hereinafter "subordination
+agreement"). The E.kc@mmission, or Broker Deafer may
+require or include sui provisions as may be deemed
+necessary to the extg±ch provisions do not cause the
+subordination agree:vt fail to meet the minimum
+requirements of this
+The subordinated ayce±ll be approved by the Exchange,
+if affecting an Exchai$ber, or by the Commission, if
+affecting a non-Excha$ber. Said agreement shall take
+effect upon such appro€
+a.
+b.
+c.
+d.
+For purposes 49.1 (G):
+A may be either a subordinated
+loan agreemeåized demand note agreement.
+"Subordinated &ement" shall mean a notarized
+agreement evit*or governing a subordinated
+borrowing of (:ash
+The "Collater3YV any securities pledged to secure
+a secured deuü±shall mean the market value of
+such securitie.$Æucing the market value of the
+securities by requirements as provided in
+Subsection V betia
+"Payment mean the obligation of a
+Broker Dealer-inef any subordination agreement (i)
+to repay cash--.lfithe Broker Dealer pursuant to a
+subordinated or, (ii) to return a secured
+demand note .Ä2L± to the Broker Dealer or reduce
+the unpaid prin•ewnt thereof and to return cash or
+Page 8 of 48
+Fina/ version
+===== page 9 / 48 =====
+securities pledged as. collateral to secure the secured
+demand note. "Payment" shall mean the performance by
+a Broker Dealer of a Payment Obligation.
+(1)
+(2)
+(3)
+Secured demand note agreement shall mean a
+notarized agreement (including the related Secured
+demand note) evidencing or governing the
+contribution of a secured demand note to a Broker
+Dealer and the pledge of securities and/or cash with
+the Broker Dealer as coilateral to secure payment of
+such secured demand note. The secured demand
+note agreement may provide that neither the lender,
+his heirs, executors, administrators or assigns shall
+be personally liable on such note and that, in the
+event of default, the Broker Dearer shall look *for
+payment of such note solely to the cotlateral then
+pledged to secure the same.
+The secured demand note shall be a promissory
+note executed by the lender and shall be payable on
+the demand of the Broker Dealer to which it is
+contributed; provided, however, that the making-of
+such demand may be conditioned upon the
+occurrence of any . of certain events which are
+acceptable to the Commission and to an Exchange
+in the case of a Broker Dealer which is a member of
+that Exchange.
+If such note, is not paid upon presentment and
+demand as provided for therein, the Broker Dealer
+shall have the right to liquidate all or any part of the
+securities then pledged as collateral to secure
+payment of the same and to apply the net proceeds
+of such liquidation, together with any cash then
+included in the collateral, in payment of such note.
+Subject to the prior rights of the Broker Dealer as
+pledgee, the lender, as defined herein, may retain
+ownership of the collateral and have the benefit of
+any increases and bear the risks of any decreases in
+the value of the collateral and may retain the right to
+vote securities contained within the collateral and
+any right to income therefrom or distributions
+Page 9 of 48
+Fina/ version
+===== page 10 / 48 =====
+(4)
+(5)
+thereon, except the Broker Deafer shall have the
+right to receive and hold as pledgee all dividends
+payable in securities and ali partial and complete
+liquidating dividends.
+Subject to the prior rights of the Broker Deafer as
+pledgee, the fender may have the right to direct the
+sale of any securities included in the collateral, to
+direct the purchase .of securities with any cash
+included therein, •to withdraw excess collateral or to
+subStitute cash so other securities as collateral,
+provided that the net proceeds of any such sale and
+the cash so substituted and the securities so
+purchased or substituted are held by the Broker
+Dealer, as pledgee, and are included within the
+collateral to secure payment of the secured demand
+note, and provided further that no such transaction
+shall be permitted if, after: giving effect thereto, the
+sum of the amount of any cash, plus the Collateral
+Value of the securities, then pledged as collateral to
+secure the secured demand note would be fess than
+the unpaid principal amount of the secured demand
+note.
+Upon payment by the lender, as distinguished from
+a reduction by the lender which is provided for in
+"Annex 49.1-2A" paragraph 6(C) or reduction by the
+Broker Dealer as provided for in "Annex 49.1-2A"
+paragraph (b)(7) of the Implementing Rules and
+Regulations of the SRC* of all- or any part of the
+unpaid principal amount of the secured demand
+note, a Broker Dealer shall issue to the fender a
+subordinated loan agreement in the amount of such
+payment (or in the case of a Broker Dealer that is a
+partnership credit a capital account of the lender) or
+preferred or common stock(s) of the Broker Dealer in
+the amount of such payment, or any combination of
+the foregoing, as provided for in the secured
+demand note agreement.
+"Lender" shall mean the person who lends cash to a
+Broker Dealer pursuant to a subordinated
+Page IO of 48
+Final version
+===== page 11 / 48 =====
+B.
+c.
+D.
+and the person who contributes a secured demand note to
+a Broker Dealer pursuant to a secured demand note
+agreement.
+Recourse to the Subordination Agreements is viewed as a temporary
+relief to address RBCA requirements of Broker Dealers and is not
+intended to replace the permanent infusion of capital by stockholders.
+Thus, subordinated loans shall be for a maximum period of four (4)
+years or for such longer period as the Commission deems appropriate,
+provided however, that a capital buildup plan shall be a requirement for
+the approval of the subordinated loan. Advances or Agreements that
+have been outstanding for more than four (4) years would require
+conversion-to capital unless, during the life of the subordinated loan, an
+equivalent infusion of capital by way of investment is made or earnings
+have accumulated to an equivalent amount by reason of profitable
+operations, in which case compufsory conversion of the debt to equity
+can be dispensed with upon prior application with and approval by the
+Commission.
+In order to ensure financial viability of the Broker Dealer, the Exchange,
+for Exchange Broker Dealers, or the Commission, for non-Exchange
+Bröker Dealers, may impose additional requirements to regulate the
+resort to financing by way of subordination agreements and may
+exercise discretion in the approval of such agreements.
+The Minimum requirements for Subordination Agreements and
+Miscellaneous Provisions and the sample format of the Subordinated
+Loan Agreement are set forth in Annex 49.1-2A and Annex 49.1-2A
+respectively, of the Implementing Rufes and Regulations of the SRC.
+PART 6 RISK BASED CAPITAL ADEQUACY REQUIREMENTS
+RULE 49. 1 (H) RISK BASED CAPITAL ADEQUACY RATIO REQUIREMENTS
+(RBCA)
+Subsection l. DEFINITION AND INTERPRETATION
+Page I i of 48
+Final version
+===== page 12 / 48 =====
+A. DEFINITION
+Adequately secured indebtedness shall be deemed to exist when the
+excess of the market value of the collateral over the amount of the
+indebtedness is sufficient to make the loan acceptable as a fully secured
+loan to banks regularly making secured loans to Broker Dealers.
+Aggregate Indebtedness shall mean the total money liabilities of a Broker
+Dealer arising in connection with any transaction whatsoever, and includes,
+among other things, money borrowed, money payable against securities
+loaned' and securities failed to receive, the market value of securities
+borrowed to the extent to which no equivalent value is paid or credited (other
+than the market value of margin securities borrowed from customers and
+margin securities borrowed from non-customers), customers' and non-
+customers' free credit balances, and credit balances in customerS and non-
+customers' accounts having short positions in securities, but excluding:
+i.
+ii.
+iii.
+Indebtedness adequately collateralized by securities which are
+carried long by the Broker Dealer and which have not been sold or
+by securities which collateralize a secured demand note in
+conformity with SRC Rule 49.1 (G) above;
+Amounts payable against securities loaned, which securities are
+carried long by the Broker Dealer and which have not been sold or
+which securities collateralize a secured demand note in conformity
+with SRC Rule 49.1 (G) above;
+Amounts payable against securities failed to receive which
+securities are carried tong by the Broker Dealer and which have not
+been sold or which securities collateralize a secured demand note in
+conformity with SRC Rule 49.1 (G) above; or amounts payable
+against securities failed to receive for which the Broker Dealer also
+has a receivable related to securities of the same issue and quantity •
+thereof which are either faits to deliver or securities borrowed, by the
+Broker Dealer;
+Fixed liabilities adequately secured by assets acquired for use in the
+ordinary course of the trade or business of a Broker Dealer but not
+other fixed liabilities secured by assets of the Broker Dealer shall be
+so excluded unless the sole recourse of the creditor for nonpayment
+of such liability is to such asset;
+Page 12 of 48
+Fina/ version
+===== page 13 / 48 =====
+vi.
+vii.
+Viji.
+ix,
+Indebtedness subordinated to the claims of creditors pursuant to a
+satisfactory subordination agreement in conformity with SRC Rule
+49.1. (G) above;
+Liabilities which are effectively subordinated to the claims of
+creditors, but which are not subject to a satisfactory subordination
+agreement in conformity with SRC Rule 49.1 (G) above; by non-
+customers of the Broker Dealer prior to such subordination, except
+such subordinations by customers as have been äpproved by an
+Exchange in the case of a member of that Exchange and the
+Commission in the case of a firm that is not a member of an
+Exchange;
+Credit balances in accounts of general partners;
+Deferred tax liabilities; and
+Eighty percent (80%) of amounts payable against securities loaned
+for which the Broker Dealer has receivables related to securities of
+the same class and issue and quantity that are securities borrowed
+by the Broker Dealer.
+Asset or Market Liquidity Risk means that risk that an entity will be
+unable to unwind a position •in a financial instrument at or near its market
+value because of the lack of depth or disruption in the market for that
+instrument.
+Broker Dealer, Broker or Dealer — shall refer to any Broker and/or Dealer
+registered by the Commission under the Securities Regulation Code and
+its implementing rules and regulations.
+Commission means Securities and Exchange Commission or SEC
+Core Equity— shall refer to the sum of:
+ii.
+iii.
+via
+Paid-up common stock;
+Paid-up perpetual and non-cumulative preferred stock
+Common stock dividends distributable
+Perpetual and non-cumulative preferred stock dividends
+distributable;
+Additional paid in Capital (also known as Surplus);
+Surplus reserves excluding revaluation reserves or appraisal
+capital;
+Page 13 of 48
+Final version
+===== page 14 / 48 =====
+vii. Opening retained* earnings adjusted for all current year
+movements
+Provided, further, That the fonowing items shall be deducted from the
+Total of Core Equity:
+(1) Common stock treasury shares
+(2) Perpetual and non-cumufative preferred stock treasury shares;
+(3) Unbooked valuation reserves and other capital adjustments (such
+as unrealized gain in value of non-current investments)
+• Counterparty means any person or entity with or for whom a Broker
+Dealer carries on, or intends to carry on, any dealings in securities or
+another asset which could be either another executing Broker Deafer or a
+client.
+Counterparty Risk means the risk of a counterparty defaulting on its
+finaocial obligation to a Broker Dealer.
+Counterparty Risk Requirement — means the amount necessary to
+accommodate a given level of its Counterparty Risk, as calculated in
+accordance with Subsection VI.
+Customer shall mean any person from whom, or on whose behalf, a
+Broker Dealer received, acquired or holds funds or securities for the
+account of such person, but shall not include a general, special or limited
+partner or director or officer of the Broker Dealer, or any person to the
+extent that such person has a claim for property or funds which by
+contract, agreement or understanding, or by operation of law, is part of the
+capital of the Broker Dealer or is subordinated to the claims of creditors of
+the Broker Dealer. However, the term "customer" of a Broker Dealer shall
+include another Broker Dealer (the initiating Broker as defined in SRC Rule
+34.1 wherein the latter maintains separately a Dealer account and a
+speciat omnibus account in behalf of his customer with the former.
+Debt or Liability - means borrowed funds represented by a security,
+instrument or public document that must be repaid by the Broker Dealer,
+issuer, or debtor.
+• Debt securities — means securities other than equity securities which may
+be any of the following or of a similar nature:
+Of 48
+Final version
+===== page 15 / 48 =====
+iii.
+ive
+vi.
+A debt security without call .or put provisions;
+A discounted security without call or put provisions;
+A non-convertible preferred share;
+A redeemable preferred share with a fixed and certain date for
+redemption;
+An interest in a managed collective investment scheme
+investing only in debt or fixed income securities, mortgages, or
+cash;
+Any other.instrument defined as such by the Commission.
+Equity per Books (also called Net Worth)—refers to the Total
+Stockholder$ Equity section of the Balance Sheet computed as the
+difference between the book values of Total Assets and Total Liabilities.
+• Equity Eligible for Net Liquid Capital - shall refer to the Equity as per
+Books adjusted for all other liabilities which in substance can be treated as
+sources of capital, less ineligible equity items, the computation of which is
+described in Subsection Ill below.
+Equity Securities- means securities other than debt securities which may
+be any of the following or of a similar nature:
+i.
+iii.
+iv.
+A share other than those referred to in paragraphs (iii) and (iv)
+of the definition of Debt securities;
+A depository receipt;
+An installment receipt;
+An interest in a managed collective investment scheme other
+than an interest referred to in paragraph (e) of the definition of
+Debt securities;
+An instrument defined as such by the Commission;
+• Exchange Traded — means traded or listed on a Registered Exchange
+e Funding Liquidity Risk means the risk that an entity cannot obtain the
+necessary funds to meet its obligations as they fall due at normal times
+and during a crisis.
+General Guarantees — shall refer to general guarantees of indebtedness
+and acceptances (including endorsements with the character of
+acceptances) made by the Broker Dealer for loans or indebtedness
+incurred or assumed by a person/individual or entity other than the Broker
+Dealer himself.
+Page 15 of48
+Fina] version
+===== page 16 / 48 =====
+Indebtedness Subordinated to the claims of Creditors
+— refers to
+subordinated liabilities as provided under Part 5 (Satisfactory
+Subordination Agreements) above.
+Large Exposure Limit Means the maximum permissible large exposure
+and calculated as a percentage of Core Equity in accordance with
+Subsection VII.
+Large Exposure Risk — means risks to which a Broker Dealer is exposed
+whether by way of:
+a. a proportionally large amount of exposure to a particular counterparty;
+b. a proportionally large exposure to a single issuer of debt;
+c. a proportionally large exposure to a single equity security or single
+issuer group;
+Large Exposure Risk Requirement — means the amount necessary to
+accommodate a given level of the Broker Dealer's Large Exposure Risk,
+which is in excess of the Large Exposure Limit.
+e Liquid Assets— means securities or other assets which have a ready
+market which are realizable or capable of being converted into cash within
+30 days.
+e Liquid Securities- means securities which have a ready market as
+defined herein below.
+Marked to Market — is a securities valuation method where securities are
+valued at their closing prices on •a market day.
+Net Liquid Capital (also called NLC) shall mean the Equity Eligible for
+Net Liquid Capital of a Broker Deafer, adjusted for non-a!lowable current
+and non-current assets as described in Subsection below.
+• Operational Risk —is the exposure associated with commencing and
+remaining in business arising separately from exposures covered by other
+risk requirements. It is the risk of loss resulting from inadequate or failed
+internal processes, people and systems which ihcludet among others, risks
+of fraud, operational or settlement failure and shortage of liquid resources,
+or from external events.
+Page 16 of 48
+Fina/ version
+===== page 17 / 48 =====
+Operational Risk Requirement- means the amount calculated in
+accördance with Subsection IV which is required to cover a level of
+Operational Risk.
+• Position Risk (also called Market Risk)- is the risk to which a Broker
+Dealer is exposed to and arising from securities held by it as a principal or
+in its proprietary or dealer account.
+• Position Risk Requirement (also called Market Risk Requirement)
+means the amount necessary to accommodate a given level of Position
+Risk (also called Market Risk), as calculated in accordance with
+Subsection V.
+e Ready market — means a recognized established securities market in
+which exists independent bona fide offers to buy and setl so that a price
+reasonably related to the last sales price or current bona fide competitive
+bid and offer quotations can be determined for a particular security almost
+instantaneously and where payment will be received in Settlement of a sale
+at such price within a relatively short time. Notwithstanding the above
+definition, the Commission may declare a certain security as not having a
+ready market on the basis of historical trading volume.
+A Ready market shall also be deemed to exist where securities have been
+accepted as collateral for a loan by a bank and where the Broker Dealer
+demonstrates to an Exchange in the case of a member of that Exchange or
+the Commission in the case of a firm that is not a member of an Exchange
+that such securities adequately secure such loans.
+• Risk Based Capital Adequacy Ratio (also called RBCA Ratio)— means
+the ratio linking the net liquid capital to the Broker Dealer's total risk
+exposure (Total Risk Requirement), cafculated as the Broker Dealer's Net
+Liquid Capital (NLC) divided by its Total Risk Capital Requirement
+(TRCR).
+• Total Risk Capital Requirement (TRCR) is the sum of:
+A. Operational Risk requirement
+B. Credit Risk Requirement which incfude requirements for Counterparty
+Risk, Settlement Risk, Large Exposure Risk, and Margin
+Lending/Financing Risk
+C. Position or Market Risk Requirement
+Page 17 of 48
+Final version
+===== page 18 / 48 =====
+Securities. Borrowing and Lending refers to any transaction by the
+Broker Dealer under an equity or debt security lending and borrowing
+agreement, a repurchase or reverse repurchase agreement or an
+agreement for the sale and buyback of the security or other similar
+agreement as prescribed by the Exchange and duly approved by the
+Commission and, subject to appropriate tax laws, by the Bureau of Internal
+B, INTERPRETATION
+The RBCA Rules should be applied and understood in relation to the Securities
+Regulation Code (SRC) and its implementing rules and regulations. In case of doubt,
+the RBCA rules should be interpreted in a manner that is consistent with the SRC and
+its implementing rules and regulations and international best practices in financial
+services regulation. When in need of policy direction or legal interpretation, the Broker
+Dealer must seek guidance from the Commission's Market Regulation Department. In
+choosing the appropriate treatment of financial transactions which impact on the RBCA
+computation, the choice should be •that which would provide a more conservative
+computation of RBCA ratio.
+Subsection II. OBLIGATIONS OF BROKER DEALERS
+A. General Obligations:
+1. Every Broker Dealer shall ensure that:
+a.
+b.
+c.
+Its Risk Based Capital Adequacy Ratio is greater than or equal to 1.1
+Its Core Equity is at all times greater than its Operational Risk
+Requirement. In case of breach, the Broker Dealer shall be allowed to
+continue it operations provided that, it shall submit a capital build plan
+which should be realized within ninety (90) calendar days from time of
+breach.
+The Special Reserve Bank Account created for the Exclusive Benefit of
+Customers shall be maintained by the Broker Dealer as prescribed under
+SRC Rule 49.2 (Customer Protection Reserves and Custody of Assets)
+and mentioned in Part I (Rule 49.C) of this Rule. Qualified Securities
+maintained in the Reserve Custody Account pursuant to the said SRC
+Rüle Shal! be subject to the appropriate position risk requirement.
+Page 18 of 48
+Final version
+===== page 19 / 48 =====
+d.
+e.
+2.
+3.
+Every Broker Dealer shall, at all times, have and maint?in a NLC of at
+least Five Million Pesos or five percent (5%) of. his
+aggregate indebtedness whichever is higher. However, a Broker Dealer
+who dears only with proprietary shares and who does not keep the
+shares under its custody shall have and -maintain a net capitaf of P2.5
+Million Pesos or two and one-half percent (2.5%) of his aggregate
+indebtedness, whichever is higher. In cases where, in order to meet the
+RBCA ratio of at least 1.1, an. NLC higher than Five Million Pesos
+or five percent (5%) of aggregate indebtedness is required,
+the higher NLC shafl be maintained.
+The Commission may prescribe a lower or higher minimum NLC
+depending on the effectiveness of the risk management systems
+adopted by Broker Dealers, their ability to instantaneousiy respond to
+various risks as a result of daily monitoring and reporting on capital
+adequacy levers, and other developments in the market that would
+impact on the risk exposure levers of the firms.
+In computing position (or •market) and counterparty risk exposures, all
+assets shall be marked to market daily.
+Notwithstanding the monthly reporting tö be made to the Commission and
+the Exchange on its RBCA as of month end, every Broker Dealer shall
+compute its Net RBCA Margin and RBCA Ratio on a daily basis and
+these working papers wilf form part of the Books and Records of the firm.
+The Commission or an Exchange, in the case of a member of an
+Exchange, may require Broker Dealers from time to time to submit reports
+which reflect their RBCA Ratio and Margin. In such cases, the Broker
+Dealer shall immediately submit said reports to the Exchange or the
+Commission.
+Every Broker Dealer shall immediately céase doing business as a Broker
+Déa!er, and shaft notify the Exchange and the Commission if (i) the
+minimum Risk Based Capital Adequacy Ratio of 1.1 or (2) the minimum
+NLC is breached.
+B. No Broker Dealer shall permit its aggregate indebtedness to all other persons to
+exceed 2,000 percent of its NLC.
+Page 19 0148
+Fina] version
+===== page 20 / 48 =====
+C.
+Notwithstanding the requirement in paragraphs A & B above, every Broker
+Dealer shall notify the Commission in writing within twenty four (24) hours, the
+occurrence of any of the following events:
+i:
+ii.
+The Broker Dealer's computation shows that its Aggregate
+Indebtedness is in excess of 1 , 700 percent of its NLC; and /or
+The Broker Dealer's computation shows that its Risk Based Capital
+Adequacy Ratio is less than 1.2; or
+The Broker Dealer shall, upon immediate notificatiom take afl necessary action
+to increase -its NLC or reduce jtS total risk exposure. The Exchange, upon prior
+consultation with the Commission, or the Commission may, after receipt of such
+notice, direct the Broker Dealer in its conduct of its operations and/or impose
+conditions, if necessary.
+The Broker Dealer is given ten (10) calendar days within which to effect its
+proposal. Pending actual implementation, the Broker Dealer is required to notify
+the Commission on a daily basis of its NLC position,
+D. LIMITATIONS ON WITHDRAWAL OF CORE EQUITY
+No equity capital of a Broker Dealer may be withdrawn by action of a
+stockholder or a partner or by redemption or repurchase of shares of stock
+or through the payment of dividends or any similar distribution, nor may
+any unsecured advance or loan be made to a stockholder, partner, sole
+proprietor, employee or affiliate, if after giving effect thereto and to any
+other such withdrawals, advances or loans and any payments under
+satisfactory subordination agreements in conformity with SRC Rule 49.1
+(G) above which ate scheduled to occur within one hundred and eighty
+(180) days following such withdrawal, advance or loan if:
+a.
+b.
+The Broker Dealer's NLC would be less than one hundred
+twenty percent (120%) of the minimum amount required by
+paragraph (A) of this rule; or,
+The aggregate indebtedness of the Broker Dealer exceeds
+one thousand five hundred percent (1500%) of its net capital.
+Page 20 of 48
+Fina/ version
+===== page 21 / 48 =====
+ii.
+iii.
+This, however, shall not preclude a Broker Dealer from making required tax
+payments or preclude the payment to partners of reasonable
+compensation, .and such payments shall not be included in the calculation
+of withdrawals, advances, or loans for purposes of paragraph D above.
+For the purpose of this section, any transaction between a Broker Dealer
+and a stockholder, partner, sole proprietor, employee or affiliate that
+results in a diminution of the Broker Dealer's net capital shall be deemed
+to be an advance or loan of net capital
+Subsection Ill. COMPUTATION OF NET LIQUID CAPITAL (.NLC)
+A. General Principles.
+In computing NLC, all non-allowable assets/equities, and collateralized liabifities will
+be deducted and allowable liabilities and equities are added to Equity per Books.
+B. Computation of Equity Eligible for Net Liquid Capital
+Equity Eligible for Net Liquid Capital shall be the sum of•the following:
+i. Equity as per Books;
+ii. Liabilities of the Broker Deafer which are subordinated to the claims of
+creditors pursuant to a satisfactory subordination agreement in conformity with
+SRC Rule 49.1 paragraph 2 and in accordance with the following schedule:
+Period remaining from RCBA
+Computation date to maturity date
+3 years 1 day to 4 years
+2 years 1 day to 3 years
+1 year 1 day to 2 years
+1 year or less
+Allowable
+Inclusion
+100%
+75%
+500/0
+00/0
+iii.
+In the case of a Broker Dealer who is a sole proprietor) the excess of
+liabilities which have not been incurred in the course of business as a
+Broker Dealer over assets not used -in the business.
+Deposit for Futures Stock Subscription for which an application for increase
+in capital stock or request for exemption for registration has been filed with
+the Commission and the subscription, which is in the form of Allowable
+Page 21. of 48
+Final version
+===== page 22 / 48 =====
+Assets, shall not be withdrawn . prior to SEC approval of the
+application/request. For net capital purposes, the same shall be considered
+part of aggregate indebtedness unless there is evidence that such amount
+is a deposit but an irrevocable subscription or a subordinated loan
+agreement has been entered into with the subscriber.
+Provided, further, That the following items shall be excluded from Eligible Equity
+for Net Liquid Capital:
+(1 ) Deferred Income Tax;
+(2) Revaluation Reserves;
+(3) Minority Interest and any outside investment in affiliates and
+associates
+C. Computation of Net Liquid Capital (NLC)
+tn computing NLC, the Equity Eligible for Net Liquid Capital ofra Broker Dealer is
+adjusted by the following, provided, however, that in determining net worth, all long
+and all short securities position shall be marked to their market value:
+i.
+a.
+b.
+Adding unrealized profits (or deducting unrealized losses) in the accounts
+of the Broker Dealer.
+Deducting fixed assets and assets which cannot be readily converted into
+cash [less anyjndebtedness excluded in accordance with paragraph (iv) of
+the Definition of the term Aggregate Indebtedness] including, among other
+things:
+Real estate; furniture and fixtures; Exchange memberships/trading
+rights; prepaid rent, insurance and other expenses; goodwill,
+organization expenses;
+Ail unsecured advances and ioans; deficits in customers' and non-
+customers' unsecured and partly secured notes; deficits in special
+omnibus accounts or similar accounts carried on behalf of another
+Broker Dealer, after application of calls for margin, marks to the market
+or other required deposits that are outstanding three (3) business days
+or less; deficits in customers' and non-customers' unsecured and partly
+secured accounts after application of calls for margin, marks to the
+market or other required deposits that are outstanding three (3)
+business days or 'less, except deficits in cash accounts for which not
+Page 22 of48
+Fina/ version
+===== page 23 / 48 =====
+more than one extension respecting a specified securities transaction
+has been requested and granted; the market value of stock loaned in
+excess of the value of any collateral received therefore; and any
+collateral deficiencies in secured demand notes in Conformity with SRC
+Rule 49.1 (G) above.
+For the purpose of the above, a loan or any other form of receivables
+shall be considered "unsecured" unless the following conditions exist:
+(2)
+(3)
+(4)
+the receivable is secured by collateral which is •otherwise
+unencumbered provided, however, that such receivable will
+be considered secured only to the extent of the market value
+of such collateral after application of such percentage
+deductions as may be prescribed by the Commission;
+the collateral is in the possession or control of the Trading
+Member; and
+the Broker Dealer has a legally enforceable written security
+agreement executed by the debtor in its favor under which
+the Trading Member shall have the power to readily sell or
+otherwise convert the collateral into cash.
+the collateral is liquid in nature and in any of the following
+forms:
+(a) Cash deposit jn Philippine peso;
+(b) Cash deposit in foreign currency acceptable
+to the Commission;
+(c) Securities listed in the Exchange or other
+recognized stock exchanges unless specified
+by the Commission as not having a ready
+market;
+(d) Government bonds or other debt instruments
+which have a ready market; and
+(e) Any other collaterals which may be specified
+by the Commission as having a ready market;
+c.
+Interest receivable, floor brokerage receivable, commissions
+receivable from other Broker Dealers, and management fees
+receivable from registered investment companies, all of which
+receivables are outstanding longer than thirty (30) days from the
+date they arose; dividends receivable outstanding longer than thirty
+(30) days from the payable date;
+Page 23 of 48
+Fina! version
+===== page 24 / 48 =====
+d.
+h.
+Insurance claims which, after fifteen (15) business days from the
+date the loss giving rise to the claim is discovered, are not covered
+by an opinion of an outside counsel that the claim is valid and is
+covered by insurance policies presently in effect; insurance claims
+which after thirty (30) business days from the date the loss giving
+rise to the claim is discovered and which are accompanied by an
+opinion of outside counsel described above, have not been
+acknowledged in writing by the insurance carrier as due and
+payable; and insurance claims acknowledged in writing by the
+carrier as due and payable outstanding longer than Wventy (20)
+business days from the date they are so acknowledged by the
+carrier;
+All other unsecured receivables; all assets doubtful of collection less
+any reserves established therefore; the amount by which the
+market value of securities failed to receive outstanding longer than
+thirty (30) days exceeds the contract value of such fails to receive;
+Any receivable from an affiliate of the Broker Dealer (not otherwise
+deducted from net worth) and the market value of any collateral
+given to an affiliate (not othemise deducted from net worth) to
+secure a liability over the amount of the liability of the Broker Dealer
+unless the books and records of the affiliate are made available for
+examination when requested by the Commission or the Exchange,
+where the Broker Dealer is a member for the Broker Dealer, in
+order to demonstrate the validity of the receivable or payable, or
+when the affiliate is an financial intermediary or entity duly registered
+and regulated by another government agency and that the
+receivable arises from an arms length transaction. The provisions of
+this subsection shall not apply where the affiliate is a Broker Dealer;
+Afuture income tax benefit (Deferred Income Tax)
+Any deposit with or loan to a person other than:
+(1) A deposit or loan with a deposit taking institution duly
+authorized and registered with the Bangko Sentral ng Pilipinas
+(BSP);
+(2) A deposit or Joan to the extent the balance is secured by
+collateral which is Liquid, evidenced in writing and valued at
+Page 24 0148
+Fina/ version
+===== page 25 / 48 =====
+j.
+k.
+m.
+n.
+the Marked to Market value or another valued approved by the
+Commission;
+(3) A deposit of funds as a margin to the extent that those funds
+relate to an open position;
+A deposit with a third party clearing organization, unless approved by
+the Commission;
+A Related Party/Associated Person Balance to the extent that the
+balance is not secured by collateral which is Liquid, evidenced in
+writing and valued at the Marked to Market value or to another value
+approved by the Commission;
+A debt which was reported or created more than 30 days previously
+other than a debt:
+(1) from another Broker Dealer that is not a Related Party or
+Associated Person; or
+(2) which is secured by coltateral which is Liquid, evidenced in
+writing and valued at the Marked to Market value or to another
+valued approved by the Commission;
+Any prepayment which is not Liquid;
+An Liquid Asset which has been restricted for the purpose of
+obtaining or creating a non-allowable or illiquid asset or set aside for
+use outside the ordinary course of the Broker Dealer's securities
+business;
+All other assets which are not Liquid and those prescribed by the
+Commission.as such;
+iii.
+Deducting general guarantees and indemnities for loans and indebtedness other
+than those incurred by the Broker Dealer, unless othetwise permitted by the
+Exchange and Commission. Provided, however, that where the Broker Dealer
+guarantee is given to a company within the Broker Dealer's group of
+companies, that company's assets and liabilities (to the extent that they are
+covered by the Broker Dealer's guarantee) shall be taken into account as being
+part of the Broker Dealer's assets and liabilities for purposes of computing
+Page 25 of 48
+Final version
+===== page 26 / 48 =====
+iv.
+NLC, and in such case the guarantee shall not be deducted from the
+computation unless the Exchange or Commission provides otherwise.
+Deducting tong and shortsecurities differences as follows:
+a.
+b.
+c.
+Deducting the market value of all short securities differences (which shall
+include securities positions reflected on the securities record which are not
+susceptible to either count or confirmation) unresolved after discovery.
+Deducting the market value of any long securities differences, where such
+securities have been sold by the Broker Dealer before they are adequately
+resolved, less any reserves established therefore;
+For an Exchange member, the Exchange, and in the case of a Broker
+Dealer that is not a member of an Exchange, the Commission may extend
+the periods in paragraph C (ii)(b) above of this section for up to ten (10)
+business days if it finds that exceptional circumstances warrant an
+extension.
+Subsection OPERATIONAL RISK
+A. General Principles.
+Every Broker Dealer shall always ensure that its Operational Risk Requirement is
+always less than its Core Equity.
+B.. Computation of Operational Risk Requirement
+1. The Broker Dealer's Operational Risk Requirement .shall be computed as:
+x
+Average of last 3 years' Gross Revenue
+Page 26 of 48
+Final version
+===== page 27 / 48 =====
+3.
+4.
+2. The 3-year average gross revenue_value shall be calculated on the basis of the
+audited financial statements of the last three (3) years immediately preceding the
+date of reporting which have been. filed and submitted with the Commission.
+For this purpose, the term "Gross Revenue" shall refer to the all sources of
+revenue of the Broker Dealer, net of any relevant final tax, if any, which include
+among, others:
+a. Commission Income
+b. Interest Revenue
+c. Net_Recovery from (provision for) market decline of marketable securities
+owned
+d. Rental Revenue
+d. Dividend Revenue
+e. •Gain on sales of marketable securities and other assets
+f. Other gains/revenues
+For purposes of computing "Gross Revenue," losses are- not netted against
+revenue accounts.
+The Commission or the Exchange, upon prior consultation with the Commission,
+may include or exclude certain revenue items for purposes of determining the
+basis for the computation of the Operational Risk Requirement. Inclusion by the
+Commission of other sources of revenue in the computation of "Gross Revenue"
+shall not be construed as approval by the Commission for the Broker Dealer to
+engage in activities inconsistent with or prohibited by its secondary registration or
+primary franchise.
+The Commission or the Exchange, upon prior consultation with the Commission,
+may require a Broker Dealer to increase its Operational Risk Requirement or set
+a minimum amount of operational risk requirement if the Commission or the
+Exchange is not satisfied that the internal control systems, corporate governance,
+personnel staffing, Written Supervisory Procedures and other similar processes
+are adequate.
+Page 27 of 48
+Final version
+===== page 28 / 48 =====
+Subsection V POSITION RISK
+A. General Principles.
+Every Broker Dealer shall compute its Position Risk Requirements for all equity, debt,
+and foreign exchange positions held by it as principal in accordance with the following
+conditions:
+1. In addition to the requirements of SRC Rule 52.1, every Broker Dealer shall
+recbrd separately •securities held for trading purposes and those held for
+investment purposes. The securities in the Broker Dealer's books that are
+held for trading purposes shall form part of the computation of NLC and
+subject to position risk requirements while securities held for investment
+purposes Shal} be excluded in the computation of NLC and not subject .to
+position risk requirements.
+2. Equity securities shall be classified according to (1) Equities in PHISIX; (2)
+Other Equities outside the PHISIX; and (3) Equities not Listed in the
+Exchange but proven to be marketable, with separate position risk factors
+being applied to each category as provided in Schedule A;
+3. Debt securities shall be classified according to (1) Republic of the Philippine
+Bonds; and (2) Other Corporate Debts with separate position risk factors
+being applied to each category as provided in Schedule A;
+4. Foreign Currency positions shafl likewise be subject to a position risk
+requirement as provided in Schedule A;
+5. Alt debt and equity securities shall be marked to market using the closing
+prices of the immediately preceding trading day;
+6. Where a Broker Dealer has a position in an instrument or security for which
+no risk treatment is provided under this section, the Broker Dealer must
+immediately seek clarification or guidance from the Commission's Market
+Regulation Department on the appropriate treatment. Pending Commission
+action, the Position Risk Requirement shall be one hundred percent (100%) of
+the marked to market value of the said instrument or security.
+Page 28 of48
+Fina] version
+===== page 29 / 48 =====
+B. Computation of Position Risk Requirement
+1. Position Risk Requirement shall be computed as.follows:
+Position Risk
+Requirement
+2. Position .Risk Factors
+Marked to Market
+x
+value of the
+Instrument/Security
+Position Risk Factor
+Position Risk Factors are presented in Schedule A
+3. Principle on Netting of long and short positions
+a. Netting on long equity position against a short position is allowed provided
+the positions are of the same type of security.
+Subsection VI Counterparty Risk Requirement
+A. General Principles.
+1. The Broker Dealer shall calculate its Counterparty Risk Requirement for any of
+the following counterparty exposures:
+b.
+c.
+d.
+f.
+g.
+h.
+Unsettled
+customer trades (arising from customer-to-broker
+agency relationship)
+Unsettled principal trades (arising from broker-to—broker or broker-
+to-Exchange/Clearing Agency relationship);
+Loans and other dues;
+Free deliveries;
+Securities lending and borrowing;
+Margin Lending;
+Sub-underwriting arrangements or best efforts underwriting
+arrangements;
+Other exposures as determined by the Exchange or Commission.
+Page 29 of 48
+Final version
+===== page 30 / 48 =====
+2. ln.the computation of the Counterparty Risk Requirement, the following rules
+would apply:
+a.
+b.
+c.
+d.
+e.
+Counterparty Risk Requirement shall be computed only for negative
+exposures to a counterparty and not for positive exposures.
+Counterparty Risk Requirement shall be calculated daily.
+Counterparty Exposures are marked to market.
+Reduction of Counterparty Risk Requirement is allowed to the extent
+of any of the following:
+the amount of collateral that was put up to Support
+the exposure;
+(ii)
+the amount of provisions made on the exposure.
+Offsetting of positive and negative counterparty exposures prior to
+calculation of Counterparty Risk Requirement •is allowed provided
+that:
+they are of the same counterparty;
+(ii)
+they are similar in nature in that they fall within the
+same class or category as enumerated in A.I
+above; and
+(iii) The Broker Dealer has a valid and binding netting
+agreement with the counterparty.
+f. Counterparty Risk Requirement shall be computed for all counterparty
+exposures regardless of the relationship between the Broker Dealer
+and its counterparty.
+3. Any other instrument which cannot be properly classified for countervveighting
+or is not in its standard form, shall have a Counterparty Risk Requirement for
+its full marked to market value, net of any collateral or discounts, until such
+time that the Broker Dealer obtains guidance from the Commission's Market
+Regulation Department on the proper treatment of such instrument or
+exposure.
+4. The Exchange or the Commission may set a higher Counterparty Risk
+Requirement ift in its own judgment, the Broker Dealer may be exposed to
+material potential losses arising from any counterparty transaction unless the
+Broker Dealer can provide documentation or proof acceptable to the
+Exchange and Commission that. its counterparty can commit to meet its
+obligations upon maturity. Acceptable proof may include evidence of financial
+standing, adequate securit% or acceptable guarantees.
+Page 30 of 48
+Fina] version
+===== page 31 / 48 =====
+B.
+Computatiön of Counterparty Risk Requirement
+1. Counterparty Risk Requirement shall be computed as follows:
+Counterparty
+Risk Requirement =
+(CRR)
+Counterparty
+Exposure x
+Counterparty
+Weighting
+x
+Credit Risk
+Factor
+(CRF)
+2. Counterparty Weighting (CW), which is determined on the basis of the type
+of counterparty, is provided in Schedule B.I.
+3.
+4.
+Credit Risk Factor (CRF), which is determined on the basis of the type or
+nature of counterparty exposure risk, is provided in Schedules B.2 to B.5.
+In the absence of a specific prescription as to the CRF to be applied to a
+particular counterparty exposure, the CRF to be used is 8%.
+Unsettled customer trades (arising from customer-to-broker agency
+relationship)
+a.
+b.
+C.
+d.
+A counterparty exposure of this kind occurs when (a) the customer
+poses the possible risk of failing to deliver securities on a sell
+contract or (b) the cUstomer poses the possible risk of failing to pay
+cash on a buy contract.
+A negative counterparty exposure exists when the current market
+value exceeds the transaction value of the stock in a seli contract. A
+positive counterparty exposure exists when the current market
+value is less than the transaction value of the stock in a sell contract.
+A negative counterparty exposure exists when the transaction
+value exceeds the current market value of the stock in a buy
+contract. A positive counterparty exposure exists when the
+transaction value is less than the current market value of the stock in
+a buy contract.
+Computation of the Counterparty Risk Requirement. on unsettled
+customer trades shall be made in accordance with Schedule B.2.
+Page 31 of48
+Final version
+===== page 32 / 48 =====
+4.
+Unsettled principal trades (arising from broker-to—broker or broker-to-
+Exchange/.Clearing Agency relationships);
+a.
+b.
+C.
+d.
+A counterparty exposure risk of this kind occurs when (a) the Broker
+Dealer poses the possible risk of failing to receive cash from its
+counterparty on a sell contract or (b) the Broker Dealer poses the
+possible risk of failing to receive the securities from its counterparty
+on a buy contract.
+A negative counterparty exposure exists when the transaction
+value exceeds the current market value of the stock in a sell
+contract. A positive counterparty exposure exists when the
+transaction value is less than the current market value.of the stock in
+a sales contract.
+A negative counterparty exposure exists when the current value
+exceeds the transaction value of the stock in a buy contract. A
+positive counterparty exposure exists when¯the current value is
+less than the transaction value of the stock in a buy contract.
+Computation of the Counterparty Risk Requirement on unsettled
+principal trades shall be made in accordance with Schedule B.3.
+5. Debts/Loans, contra losses and other amounts due
+a.
+b.
+A Broker Dealer has a counterparty exposure if a debt/loan,
+receivable from a customer/client, contra loss, or any other amount
+due is not paid on its agreed due date. In the case of a contra loss,
+the due date shall be the date of the contra.
+Computation of the Counterparty Risk Requirement on debts/ loans,
+contra losses and other amounts due shall be made in accordance
+with Schedule B.4.
+6. Free Deliveries
+a.
+b.
+A free delivery happens when the trade results from a delivery of the
+security or any other financial instrument to a counterparty without
+receiving payment or where payment is made without receiving a
+security or any other financial•instrument.
+The Counterparty exposure in such cases shall be the contract value
+of the transaction or trade and the computation of the Counterparty
+Page 32 of 48
+Final version
+===== page 33 / 48 =====
+c.
+d.
+Risk Requirement on free deliveries shall be made in accordance
+with Subsection VI (B) above.
+Notwithstanding the computation in Subsection VI (B) (6) (b) above,
+where delivery or settlement is not made within thee (3) trading days
+from due date, the Counterparty Risk Requirement of the Broker
+Dealer shall be the full contract value of the transaction.
+For this purpose, due date shall refer to:
+the date of the delivery by the Broker Dealer on deliveries
+without receiving payment from the counterparty.
+(2) The date of payment by the Broker Dealer on payments for
+securities without receiving securities from the counterparty.
+7. Securities Borrowing and Lending
+a.
+b.
+A counterparty risk exposure exists in Secfrities Borrowing and
+Lending in the following instances:
+(1)
+(2)
+For borrowinq transactions. the difference between the
+market value of the deposit (plus accrued interest) and the
+value of the securities received.
+For [endinq transactions, the difference between the market
+value of the securities on lend (plus unpaid fees) and the
+value of the collateral received.
+Computation of the Counterparty Risk Requirement on securities
+borrowing and lending shall be made in accordance with Subsection
+VI B.I above.
+8. Margin Financing Lending
+a. For trades in Financial Instruments which are margined, the counterparty
+risk amount shall be:
+(1)
+the full value of the outstanding settlement amount, premium,
+deposit, margin call or minimum margin maintenance that the
+counterparty (customer) is required to pay to the Broker
+Dealer, regardless of whether or not the Broker Dealer is
+required to pay that amount to an Exchange, clearing house
+or other entity;
+Page 33 of48
+Final version
+===== page 34 / 48 =====
+(2)
+the full value of the outstanding settlement amount, premium,
+deposit, margin call or minimum margin maintenance that is
+due from an entity with respect •to client or house trades
+cleared by that entity;
+b.
+c.
+d.
+The counterparty risk shall commence at the time that amounts are
+normally scheduled for payment to the relevant exchange or clearing
+house.
+A Broker Dealer may reduce the unpaid settlement amount, premium,
+deposit or margin call by the amount of the cash paid by the
+Counterparty or collateral held by the Broker Dealer on behalf of the
+Counterparty if the collateral is liquid, valued at the mark to market value
+or another value approved by the Exchange and the collateral
+arrangement between the Broker Dealer is evidenced in writing. The
+requirements of the next succeeding subsection (C) on Use of
+Collaterals shall apply,
+Computation of the Counterparty Risk Requirement on Margin Financing
+Lending shall, be made in accordance with Schedule B.5 and
+Subsection VI B.I above.
+C. Use of Collateral to Reduce Counterparty Risk Exposure
+1, A Broker Dealer may reduce its Counterparty Risk Exposure that serves as
+the basis in the computation of Counterparty Risk Requirement if sufficient
+collateral or security is available to cover the exposure. For purposes of
+determining whether the security is properly collateralized, the criteria
+prescribed under Subsection III (C) (ii) shall usedT in so far as they are
+applicable.
+2, The Value of the collateral used to reduce Counterparty Risk Exposure shall
+be net of the appropriate Position Risk Requirements as set forth in
+Subsection V.
+3. The Commission may in the future provide additional guidelines or directives
+refating to the discounting of collaterals.
+4. Reconciliation and inventory counts, when appropriate, should be done on
+ali collaterals at month end.
+Page 34 of 48
+Fina/ version
+===== page 35 / 48 =====
+Subsection VII Large Exposure Risk Requirement (LERR)
+A. General Principles,
+1. A Member Company shall compute its Large Exposure Risk Requirement in
+2.
+3.
+4.
+relation to -
+(i) its exposure toa single client or counterparty;
+(ii) its direct exposure to debt; and
+(iii) its direct exposure to a Singte equity and its group of companies;
+for all amounts arising in the normal course of trading in equity and debt
+securities in accordance with the provisions set out under this Subsection
+VIE.
+LERR shall be computed on counterparty transactions (for its exposure to a
+single client or counterparty) and proprietary poSitions (for its direct
+exposure to debt and single equity/issue or group of companies). For this
+purpose, the Counterparty Risk and Position Risk Requirements as
+prescribed in Subsections VI and V, respectively, shall be considered.
+For purposes of computing the LERR for direct exposures to debt and single
+equity/issue or group, the position risk requirements of both securities held
+in proprietary accounts and as collateral of counterparties shall be
+aggregated:
+The Commission may, upon written recommendation from the Exchange
+reduce or waive the Large Exposure Risk Requirement for specific Broker
+Dealers subject to terms and conditions as the Commission deems fit, The
+Commission may also reduce, increase, •vary or waive the maximum Large
+Exposure Risk prescribed in this subsection as the Commission deems fit.
+B. Computation of LERR
+1. Exposure to a Singte client/counterparty
+a. A Large Exposure Risk to a single client/counterparty occurs when the
+total of the counterparty Risk exposure for such single ctient/counterparty
+as computed in Subsection Vt (B) above exceeds ten percent (10%) of
+the Broker Dealer's Core Equity.
+Page 35 of 48
+Fina! version
+===== page 36 / 48 =====
+b.
+c.
+d.
+For purposes of computing the Broker Dealer's Large Exposure Risk in
+relation to a single client or counterparty, the Broker Dealer shall include
+its exposure to persons connected to that client or counterparty.
+The LERR of a Broker Dealer to a single client or counterparty shall be
+equal to 100% of that portion of the counterparty risk exposure in excess
+of 10% of the Broker Dealer's Core Equity.
+For purposes of this section, the term "single client or counterparty"
+includes -
+(i)
+(ii)
+where such sinale client or counterparty is an individual, the
+individual, spouse of the individual, the partnership of which he is a
+partner, any partner ofthe individual, the spouse of the partner and
+ali the companies or corporations over which the individual
+exercises control. For the purpose of this subsection, an individual
+is deemed to exercise 'Icontrof" over a company or corporation if the
+individual or the individual's spouse, severally or jointly -
+(aa) holds, directly or indirectly, more than fifty per cent (50%) of the
+shares of the corporation,
+(bb) has the power to appoint, or cause to be appointed, a majority
+of the directors of the company or corporation, or
+(cc) has the power to make, cause to be made, decisions in
+respect of the business or administration of the company or
+corporation, and to give effect to such decisions, or cause
+them to be given effect to.
+where such sinqle client or counterpartv is a corporation, the
+corporation and its affiliated Company where the company exercises
+management and ownership control or significant control over the
+corporation.
+e. The maximum LERR that a Broker Dealer is allowed to carry in its books in
+relation to any single client or counterparty is thirty percent (30%) of its
+Core Equity.
+f. The Broker Dealer shall report to the Exchange/Commission promptly all
+its Large exposure risk relating to a particular client or counterparty.
+Page 36 0148
+Final version
+===== page 37 / 48 =====
+3.
+Reporting of write off of receivables of clients shall be governed by the
+provisions of Part IV of these Rules.
+2. Direct Exposure to a debt issue
+a. A Large Exposure Risk to a single debt issue when the Large Exposure
+Risk in relation to an issuer of debt as computed in Subsection V (B)
+exceeds ten percent (10%) of the Broker Dealer's Core Equity.
+b. The LERR of a Broker. Dealer to a single debt issue shall be equal to
+100% of that portion of the net position or exposure in excess of 10% of
+the Broker Deafer's Core Equity.
+c. The maximum LERR that a Broker Dealer is allowed to carry in its books
+in relation to any single client or counterparty is thirty percent (30%) of its
+Core Equity.
+d. The Broker Dealer shall report to the Exchange/Commission promptly all
+its Large exposure risk relating to debt.
+Direct exposure to a sinqle •equity relative to a particular issuer company and its
+group of companies;
+a. A Large Exposure Risk to a single equity relative to a particular issuer and
+b.
+its group of companies happens when--
+(1) LERR to Equity vs. Issuer Limit-lt has a net position or
+exposure (either tong or short) that exceeds five percent (5%) of
+the total listed issue of the equity; or
+(2) LERR to Equity vs. Core Equity Limit-lt has a net position or
+exposure that exceeds ten percent (10%) of the Broker Dealer's
+Core Equity.
+For purposes of determining what constitutes net position or exposure, the
+Broker Dealer shall:
+(1) Include underwriting and sub-underwriting agreements which
+are carried as principal positions of the Broker Dealer;
+(2) Include equity OTC options or equity warrants that are in the
+money at its full underlying value;
+Page 37 of 48
+Final version
+===== page 38 / 48 =====
+c.
+d.
+(3) Not treat out of the money equity OTC options or equity
+warrants as an exposure;
+(4) Consider as part of single equity, positions held in other listed
+securities of affiliates.
+For purposes of this section, single equity relative to a particular issuer
+and its group of companies, shall include:
+(1) Collateral underlying debtors or margin accounts (including
+interest);
+(2) Collateral underlying loans and advances; and
+(3) Investment in the stock accounts; and
+(4) Other securities of a similar nature;
+Computation of the LERR to Equity vs. Issuer limit.
+(2)
+The Broker Dealer has to multiply the value of the
+exposure in excess of five percent (5%) of the total
+issue by the Position Risk Factor.
+A Broker Dealer who has an exposure of twenty
+percent (20%) or more of the issuer's capital shall be
+assumed to exercise significant influence or control
+over the issuer company and accordingly such
+investment shall not be considered part of NLC and
+accordingly, is not included in the computation of
+LERR.
+e. Computation of LERR to Equitv vs. Core Equity limit
+g.
+(1)
+A Large Exposure Risk Requirement to a single equity
+is computed by• multiplying the value of the exposure in
+excess of ten percent (10%) of the Broker Dealer's Core
+Equity by the Position Risk Factor -as described in
+Subsection V (A)
+In cases where LERR to Equity is computed for both Issuer and Core Equity
+limits, the higher of the two values shall be chosen to represent the Broker
+Dealer's LERR for that particular Equity.
+The maximum LERR that a Broker Dealer is allowed to carry in its books ih
+relation to any equity is two hundred fifty percent (250%) of its Core Equity.
+Page 38 of 48
+Fina/ version
+===== page 39 / 48 =====
+h.
+The Broker Dealer shall report to the Exchange/Commission promptly all its
+Large exposure risk relating to debt.
+PART 7 EFFECTIVITY AND IMPLEMENTATION OF THE RBCA RULES
+A. These Rules shall take effect fifteen (15) days after its publication in two (2)
+newspapers of general circu}ation.
+B. A period of transition from the Net Capital Regime to the RBCA Regime shall
+commence upon effectivity of these Rules up to November 30, 2005. During
+such period, every Broker Dealer shall comply with the continuing reportorial
+requirements of the SRC and its Implementing Rules and Regulations, including
+the RBCA Rules.
+For this purpose, every Broker Dealer iS required to simultaneously submit to
+the Commission and the Exchange its FINOP and RBCA reports. A Statement
+showing a reconciliation of the differences shown in the FINOP and. RBCA
+Reports shall likewise be submitted for efficient verification. To assist the Broker
+Dealer in adjusting to the new Rules during the transition period, the FINOP
+Report as of month-end will be submitted not later tban the 15th of the
+succeeding month as required under the existing SRC Rüles while the RBCA
+Report as of month-end will be submitted not later than the last day of the
+following month. The reconciliation report will be submitted together with the
+RBCA Report.
+Every Broker Dealer is expected to compute its RBCA Ratio upon effectivity of
+these Rules. The first RBCA Report together with the reconciliation report shall
+be filed with the Commission and the Exchange not later than January 31 , 2005
+and shall reflect the computed RBCA ratio as of December 31 , 2004,
+The last filing of the RBCA Report together with the reconciliation report for the
+transition period shall be no later than the first business day of January 2006
+and for the FINOP report, no later than December 15, 2005. Both reports shall
+reflect the computed RBCA ratio as of November 30, 2005.
+Starting December 1, 2005, every Broker Dealer is expected to comply with all
+the requirements of the RBCA Rules. The first fifing of the RBCA Report, post
+Page 39 of 48
+Final version
+===== page 40 / 48 =====
+transition, shall be made not later than January 16, 2006 and shall reflect the
+computed RBCA ratio as of December 31 , 2005.
+C. In filing the 2004 Audited Financial Statements, every Broker Dealer is required
+to submit its computations of the Adjusted Net Capital and the RBCA Ratio
+together with the corresponding reconciliation statement. Said computations
+shall be attached to and form part of the year-end Audited Financial
+Statements.
+D. While penalties and sanctions shall not be imposed on Broker Dealers who fail
+to comply with the financial requirements as prescribed under Subsection II of
+Part 6 during the transition period, sanctions shall be imposed on Broker
+Dealers who fail to comply with the reportoria} requirements as prescribed in
+these Rules or fail to show interest and effort to attain the objectives that the
+Commission has set during the transition period, specifically those set forth in
+paragraph E below.
+E. During the transition period, Broker Dealers who meet the prescribed financial
+requirements will be encouraged to. sustain compliance with the RBCA
+requirements while those who fail to meet the same shall be closely monitored
+by the Commission and the Exchange and required to submit a financial or
+operational plan that would allow them to comply with the RBCA requirements
+by December 1 2005.
+F. During the transition period, the Exchange is expected to equip its key
+personnel with the necessary training on the RBCA Rules, install new systems
+or enhance existing systems to generate timely information as required by the
+Rules, and develop the appropriate audit programs for the effective monitoring
+of Broker Dealers' compliance with the Rules.
+G. Upon the effectivity of the RBCA Rules, the treatment of specific accounts shall
+be as follows:
+1 . Subordinated Loan Aqreements. For purposes of applying the graduated
+haircut on subordinated loan agreements outstanding prior to the
+effectivity of the RBCA Rules, the existing requirements of SRC Rules
+49.1 (1) (E) and 49.1 (2) (B) shall• apply. New Subordinated Loan
+AgreementS entered into upon effectivity of the RBCA Rules shall be
+covered by the requirements set forth in Part 5 (B) and Subsection Ill (B)
+of the RBCA Rules. Any renewal of existing subordinated loan
+agreements while the RBCA Rules are already in effect shall be
+Page 40 of48
+Fina/ version
+===== page 41 / 48 =====
+considered as new subordinated loan agreements subject to the
+requirements of the new Rules.
+2. Investment in PSE Shares. For purposes of computing NLC, the
+investment in PSE Shares shall be considered as an Investment
+(ineligible or non-allowable asset) unless it can be proven that the PSE
+shares are being held for trading purposes in which case they shall be
+subject to the appropriate position risk requirement, However, the
+Commission may declare the PSE Shares as not having a ready market
+as defined in the Rules.
+H. During the transition period, every Broker Dealer is required to formulate its
+own Risk Management Manual which shall be filed with the Commission for its
+approval on or before the deadline that will be prescribed by the Commission.
+I. At the end of the transition period, SRC Rule 49.1 (1) and (2) on the Net Capital
+Rule and Satisfactory Subordination Agreements, respectively, shall be
+superseded by the relevant provisions of the RBCA Rules.
+J. The Commission shall review the RBCA rules once every two (2) years.
+However, it may conduct a more frequent review of the Rules when it deems
+necessary consistent with public interest and the protection of investors.
+November 11, 2004, Mandaluyong City, Philippines.
+Chairperson
+E ELOISA C. GLORIA
+Commissioner
+MA.€J\ ANITA E. CUETO
+tommissioner
+Com •ssioner
+JESUS E
+Co
+MARTINEZ
+m ioner
+Page 41 of 48
+Final version
+===== page 42 / 48 =====
+SCHEDULE FOR PART 4
+SCHEDULE FOR SPECIFIC AND GENERAL PROVISIONING
+FOR OVERDUE ACCOUNTS
+A. Customer accounts qualifying as Non-performing Accounts
+Type of account
+1. Contra losses
+2. Overdue purchase
+contracts
+3. Margin Accounts
+Criteria for classification of
+account as non-performing
+When the account remains
+unpaid starting from T + 4 or
+more from the date of contra
+transaction
+When the account refnains
+unpaid starting from T + 14
+When, upon making a margin
+call, the period to put up equity
+to meet the margin deficiency
+has sex ired
+Date for classification
+T + 14 or when the
+broker exercises its right
+of mandatory close out
+the securities
+over
+servin as collateral
+Upon expiration of
+period
+B.
+Specific Provision
+1. Specific provisions for bad and doubtful accounts shall be made for contra
+losses, overdue purchase contractS and margin accounts. For purposes of
+this section, these types of accounts are classified as Doubtful or Loss
+depending on the default period each respectively has. They are as
+follows:
+Type of Accounts
+1. Contra losses
+2. Overdue purchase
+contracts
+3. Margin Accounts
+Period-when account is
+overdue
+a. T +4 to 30 calendar days
+b. over 30 calendar da s
+a. T +14 to 30 calendar days
+b. over 30 calendar da s
+When the Equity has fallen
+below the required minimum
+margin maintenance and the.
+margin deficiency is more
+than PIO,OOO.OO
+Classification
+a. Doubtful
+b. Loss
+a. Doubtful
+b. Loss
+Loss
+Page 42 Qf48
+Final version
+===== page 43 / 48 =====
+2.
+3.
+4.
+The Specific Provision for Doubtful accounts is computed by getting, for
+each• doubtful account, an amount equivalent to fifty percent (50%) of the
+amount outstanding, net of collateral. Basis for the computation would be
+the individual accounts.
+The Specific Provision for Loss Accounts is computed by getting, for each
+Loss account, an amount equivalent to one hundred percent (100%) of the
+amount outstanding, net of collateral. Basis for the computation would be
+the individual accounts.
+Reversal of specific provisions is allowed under certain conditions as
+specified below:
+T pe of account
+1 Contra Losses
+2. Overdue purchase
+contracts
+3. Margin accounts
+When reversal is allowed
+When full or partial payment in settlement is received to the extent
+that of the amount of the case received upon settlement
+When full or partial payment in settlement is received to the extent
+that of the amount of the case received u on settlement
+When customer's equity is increased to equal or partly meet the
+required initial margin or minimum margin maintenance pursuant to
+SRC Rufe 48.1 Mar in
+5.
+6.
+Reversal of specific provisions is also allowed for overdue accounts .initially
+reported by the Broker Dealer but were collected or recovered subsequent
+to the date of the reporting to the Commission and the Exchange but
+before the release of the audited financial statements of the Broker
+Dealers.
+Reclassification of Non-performing account to Performing account is
+allowed only upon full payment or. settlement of the balance (for contra
+losses and overdue purchase contracts) and when adequate equity is put
+up by the customer (for margin accounts).
+C. General Provision
+1.
+2.
+A general provision shall be established equivalent to not fess than two
+percent (2%) of the Broker Dealer's total trade receivable net of the
+balance of the specific reserve for overdue accounts.
+Total Trade Receivables refer to all collectibles from customers arising
+from trade conducted by the Broker Dealer inclusive of losses,
+commissions charges and accrued interest, whether traded via the
+Exchange or outside the Exchange. It excludes contracts which are not yet
+due for settlement.
+Page 43 of 48
+Final version
+===== page 44 / 48 =====
+SCHEDULE A
+POSITION RISK REQUIREMENT
+POSITION RISK FACTORS
+SRC Rule 49 (H) Subsection V
+Type of
+Instrument/ Security
+E uities
+Equities in the PHISIX
+Other Equities outside the
+PHISIX
+Other equities not listed •in the
+Exchange and proven to be
+marketable
+Debt
+Republic bf the Philippines
+Bonds
+Up tol ear
+>1 to 5years
+>5 to 10 years
+• >10 to 20 years
+> 20 ears
+Other Corporate Debts
+FX Position
+Position Risk
+Factor
+1000/0
+1.2%
+3.9%
+5.3%
+7.6%
+100%
+8%
+Page 44 of 48
+Final version
+===== page 45 / 48 =====
+SCHEDULE B.I
+COUNTERPARTY RISK REQUIREMENT
+COUNTERPARTY WEIGHTING
+SRC Rule 49 (H) Subsection VI
+Counterpart Exposure
+Government
+• National Government
+Bangko Sentral ng Piljpinas (BSP)
+Local Government
+• Local government
+Financial Institutions
+Government owned banks and financial
+institutions
+Private}y owned banks and financial institutions
+duly registered with the BSP
+Other non-bank financial institutions duly
+registered with the SEC other than those
+affiliated with Broker Dealer
+• Other non-bank financial institutions duly
+registered with the SEC affiliated with Broker
+Dealer
+Clearinq Houses and Exchanqes
+Clearing house
+Re istered stock and fixed income exchan es
+Reqistered Broker Dealers
+Exchange Trading Participants
+Non-exchange Trading Participants
+e Exchange /Non-Exchange Trading Participants
+with tradin restrictions
+Others
+Wei ht
+00/0
+500/0
+50%
+1000/0
+100%
+page 45 Of 48
+Fina! version
+===== page 46 / 48 =====
+SCHEDULE B.2
+COUNTERPARTY RISK REQUIREMENT
+COUNTERPARTY RISK FACTORS FOR UNSETTLED AGENCY TRADES
+SRC Rule 49 (H) Subsection vr
+Agency Transaction
+i. Sell Contract
+Time period for
+application of
+Percenta e
+T to T + 2 of clients
+- covers possible risk of
+failing to receive the
+security on a sales
+contract
+From T + 3 to T + 13
+of clients
+Beyond T + 13 of
+clients
+2. Buy Contract
+T to T + 2 of clients
+covers possible risk of
+failing to give cash
+a ment on a buy order
+From T + 3 to T + 13
+of clients
+Beyond T + 13 of
+clients
+Credit Risk Factor
+8% of the mark to market value of the sell contract
+multiplied by the CW, for negative counterparty
+exposure (i.e., if.the current market value exceeds the
+transaction value of the stock)
+0% if it is a positive counterparty exposure (i.e. if the
+current market vafue is less than the transaction value
+of the stock
+The marked to market value of the contract multiplied
+by the CW for negative counterparty exposures
+(i.e., if the current market value exceeds the
+transaction value of the stock)
+0% if it is a positive counterparty exposure (i.e. if the
+current market value is less than the transaction value
+of the stock
+8% of the mark to market value of the buy contract
+multiplied by the CW, for negative counterparty
+exposure (i.e., if the transaction value exceeds the
+current market value of the stock)
+0% if it is a positive counterparty exposure (i.e. if the
+transaction value is less than the current market value
+of the stock
+The marked to market value of the contract multiplied
+by the CW for negative counterparty exposures
+(i.e., if the •transaction value exceeds the current
+market value of the stock) •
+0% if it is a positive counterparty exposure {i.e. if the
+transaction value is less than the current market value
+of the stock)
+Page 46 of48
+Final version
+===== page 47 / 48 =====
+SCHEDULE B.3
+COUNTERPARTY RISK REQUIREMENT
+COUNTERPARTY RISK FACTORS FOR UNSETTLED PRINCIPAL TRADES
+SRC Rule 49 (H) Subsection VI
+Principal Transaction
+1. Seff Contract
+- covers possible risk of
+counterparty failing to
+deliver securities on a
+sell order
+2 Buy Contract
+- covers possible risk of
+counterparty failing to
+deliver securities on a
+bu contract
+Time period for
+application of
+Percentage
+counterparties (i.e.
+Exchange/Clearing
+Agency or BD)
+From T + 3 to T + 13
+of clients
+Beyond T + 13 Of
+counterparties
+T to T +2 of
+counterparties
+From T + 3 to T + 13
+of countparties
+Beyond T + 13 of
+counterparties
+Credit Risk Factor
+8% of the mark to market value of the self contract
+multiplied by the CW, for negative counterparty
+exposure (i.e., if the transaction value exceeds the
+current market value of the stock)
+00/0 if it is a positive counterparty exposure (i.e. if the
+transaction value is Jess ethan the current market value
+of the stock
+The marked to market value of the contract multiplied
+by the CW for negative counterparty exposures
+(i.e., if the transaction vatue exceeds the current
+market value of the stock)
+0% if it is å positiVe counterparty exposure (i.e. if the
+transaction value is less than the current market value
+of the stock
+8% of the mark to market value of the buy contract
+multiplied by the CWI for negative counterparty
+exposure (i.e., if the current market value exceeds the
+transaction value of the stock)
+0% if it is a positive counterparty exposure (i.e. if the
+Current market value is fess than the transaction value
+of the stock
+The marked to market value of the contract multiplied
+by the CW for negative counterparty exposures
+(i.e., if the current market value exceeds the
+transaction value of the stock)
+0% if it is a positive counterparty exposure (i.e. if the
+current market value is fess than the transaction value
+of the stock
+Page 47 of 48
+Final version
+===== page 48 / 48 =====
+SCHEDULE B.4
+COUNTERPARTY RISK REQUIREMENT
+COUNTERPARTY RISK FACTORS FOR DEBTS/LOANS, CONTRA LOSS, AND
+OTHER DEBTS DUE
+SRC Rule 49 (H) Subsection
+Debt/Aging Period
+Less than 2 da s (or T +0 to T+2
+3- 13 s (or T+3 to T+13)
+14-30 days
+Over 30 days
+SCHEDULE
+Credit Risk Factor
+of Counter art Ex osure
+Zero
+8% of amount due
+50% of amount due
+100% of. amount due
+COUNTERPARTY RISK REQUIREMENT
+COUNTERPARTY RISK FACTORS FOR MARGIN FINANCING LENDING
+SRC Rule 49 (H) Subsection VI
+Credit Risk Factor
+(of Counterparty Exposure)
+100% of net exposure
+Page 48 of 48
+Fina/ version

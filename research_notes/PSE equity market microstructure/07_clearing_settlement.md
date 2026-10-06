@@ -9,12 +9,13 @@ As-of date of these notes: **6 October 2026**. Evidence labels: **[P]** = primar
 ## 1. SCCP: legal status, CCP model, risk management, CTGF, rulebook edition
 
 ### Takeaway
-SCCP is a 100% PSE-owned, SEC-registered clearing agency (permanent licence January 2002) that becomes the central counterparty to every PSE-executed equity trade by novation, settling DVP Model 3 (multilateral net, cash and securities) at CM (broker) level, not beneficial-owner level. It is a **limited-recourse CCP**: its obligations are capped at what it receives from CMs plus the Clearing and Trade Guaranty Fund (CTGF, about ₱1.6bn at end-2023) plus credit lines arranged for the fund. Risk control is daily mark-to-market collateral (MMCD) with full collateralisation of net negative exposure, early-delivery powers, the CTGF and bank credit lines; there is no initial margin.
+SCCP is a 100% PSE-owned, SEC-registered clearing agency (permanent licence January 2002) that becomes the central counterparty to every PSE-executed equity trade by novation, settling DVP Model 3 (multilateral net, cash and securities) at CM (broker) level, not beneficial-owner level. It is a **limited-recourse CCP**: its obligations are capped at what it receives from CMs plus the Clearing and Trade Guaranty Fund (CTGF, ₱1.77bn at 31 Dec 2025 per PSE's audited statements) plus credit lines arranged for the fund. Risk control is daily mark-to-market collateral (MMCD) with full collateralisation of net negative exposure, early-delivery powers, the CTGF and bank credit lines; there is no initial margin.
 
 ### Cited findings
 
 **1.1 Legal status, ownership, membership**
 - SCCP is a wholly-owned PSE subsidiary under SEC supervision, incorporated 23 Jan 1996, commercial operations from 3 Jan 2000, permanent licence 17 Jan 2002; the SEC authorises it to impose fines, penalties and sanctions on CMs [P] [^sccp-web-about]. PSE's FY2019 annual report: temporary licence, operations from 3 Jan 2000, SEC approved the permanent-licence request on 15 Jan 2002 subject to compliance with SRC Sec. 42 [P] [^pse-annual-report-2019:39]. (Clearstream says "1 January 2002" [S] [^clearstream-ph-market-infrastructure]; treat 15 vs 17 Jan 2002 as approval vs licence date, and Clearstream's date as unreliable.)
+- SCCP's own clearing system, the Central Clearing and Central Settlement (CCCS) system, was launched on 29 May 2006: it applies multilateral netting with novation, "the original parties to the contracts disappear" and SCCP "now stands as the Central Counterparty to all trades transacted in the Exchange" [P] [^pse-audited-fs-2025:39]. (Earlier phases of SCCP's operations from 3 Jan 2000 are not described in the documents I read.)
 - PSE's FY2025 annual report still describes SCCP as a wholly owned subsidiary responsible for DVP clearing, the CTGF and Fails Management, and risk monitoring [P] [^pse-annual-report-2025:8]. PSE's President/CEO is also SCCP's President/CEO; SCCP's chairman is PSE's chairman; broker-directors sit on SCCP's board [P] [^pse-annual-report-2025:44-47].
 - Statute: SRC Sec. 41 (use of unregistered clearing agency unlawful), Sec. 42 (registration; 42.2(f): rules must provide a guarantee fund to which members contribute based on a relative percentage of the daily exposure of the four largest trading brokers; depositories exempt), Sec. 43-44 (book-entry transfers and clearing-agency records as best evidence), Sec. 47.6 (first priority for a registered clearing agency's claims against a participant on dissolution) [P] [^ra-8799-src:46-48] [^ra-8799-src:50]. 2015 SRC IRR Rule 42 (SEC Form 42-CA; risk-management manual, BCP, insurance plan; duty to notify SEC of participant breaches/difficulties) [P] [^sec-2015-src-irr:158-162]; IRR 36.4.4.5 lets the SEC require uniform settlement systems "including the use of a central counterparty (CCP)" [P] [^sec-2015-src-irr:119]; IRR 28.1.2.5.2(b): ₱100m minimum unimpaired paid-up capital for broker-dealers participating in a registered clearing agency [P] [^sec-2015-src-irr:77].
 - Rule changes need SEC approval and take effect 15 days after SEC approval unless the SCCP Board/SEC provides otherwise (Rules 1.4.1, 1.4.3); SCCP has final interpretive authority (Rule 1.2.8) [P] [^sccp-clearing-house-rules-2018:10] [^sccp-clearing-house-rules-2018:12].
@@ -33,9 +34,9 @@ SCCP is a 100% PSE-owned, SEC-registered clearing agency (permanent licence Janu
 **1.3 Risk management: MMCD, early delivery, monitoring**
 - MMCD (Rule 8): SCCP marks every CM's unsettled trades daily to the last closing price; exposure = [Sum(PP x MM) - Sum(PP x CP)] + [Sum(PS x CP) - Sum(PS x MM)] where PP/PS = unsettled buy/sell shares, CP = contract price, MM = market (last traded/closing) price [P] [^sccp-clearing-house-rules-2018:44]. T+2 amendment (effective 24 Aug 2023): window cut from three to two days of unsettled trades ("two days' worth of unsettled Trades"), MM defined as last traded/closing price [P] [^sccp-memo-06-0823-sec-approval-t2-amendments:3-4]. Corporate-action price changes are reflected in the MTM (Rule 8.1.6) [P] [^sccp-clearing-house-rules-2018:44].
 - Net negative exposure must be fully collateralised (Rule 8.1.7); CMs can cut it by early delivery of the securities causing it (8.1.3, 8.1.10.3) [P] [^sccp-clearing-house-rules-2018:43] [^sccp-clearing-house-rules-2018:45-46]. Notice via C&S message board by 18:00 on the computation day (8.1.9/OP 6.4); collateral due 12:00 noon next business day (8.1.10; OP 6.5); excess withdrawable 09:00-12:00 next day (OP 6.6) [P] [^sccp-clearing-house-rules-2018:45-46] [^sccp-clearing-house-operating-procedures-2018:32] [^sccp-clearing-house-operating-procedures-2018:34]. Late/missing collateral fine: 1st offence 1/4 of 1% of the required collateral, 2nd 1/2 of 1% plus warning, 3rd 1% plus recommendation for suspension (plus out-of-pocket costs) [P] [^sccp-clearing-house-rules-2018:47] [^sccp-clearing-house-rules-2018:62].
-- Eligible collateral (Rule 8.1.8, SEC-approved 13 Dec 2022, effective 20 Feb 2023): cash, or securities that are constituents of the PSEi, PSE MidCap and PSE Dividend Yield indices (25% haircut) and "PSE shares" (35% haircut); valued at last close; list reviewed every six months. Haircuts were aligned with CMIC/SEC RBCA position-risk factors (SEC MC 16-2004 Sch. A) [P] [^sccp-memo-02-0223-collateral-haircut-rates:1] [^sccp-memo-07-0823-sec-approved-amendments:3-4]. Current list: memo 01-0126 (effective 2 Feb 2026: PSEi adds RCR, drops AGI; DivY adds OGP, URC, drops KEEPR, SECB; MidCap adds AGI, APX, drops DD, RCR) [P] [^sccp-memo-01-0126-eligible-collateral-list:1]; a newer list memo 01-0726 (28 Jul 2026) exists but was not archived [P-web] [^sccp-web-memos-index].
-- Risk containment (Rule 7.6): SCCP may require Early Delivery (not later than SD-1) of cash/securities in five situations (unstable markets, exposure disproportionate to the CM's finances, record of rule violations/unsound management, market conditions/price swings, risk levels reached); the May 2024 version dropped the "additional margin" option and added lifting when the risk is gone [P, consultation text] [^sccp-memo-01-0524-sec-recommended-revisions:3-4]. SEC approval of Rules 3.4, 5.1.4, 6.2.8 and 7.6 was announced 21 Jan 2025, effective immediately, but the archived memo reproduces the text of only 3.4, 5.1.4(3) and 6.2.8, not 7.6 [P] [^sccp-memo-02-0125-sec-approval-rules-3-4-5-1-4-6-2-8-7-6:1-3]. Precedent: SCCP imposed "T+1 early delivery" (two business days ahead of the T+3 cut-off) on six named securities (ACE, FPI, MVC, PHES, WIN, WPI) from 2009 until the Board lifted it effective 20 Jan 2012 [P] [^sccp-memo-03-0112-early-delivery-lifting:1]. OP 5.5.1 (2018 text): CMs at a risk level, or trades with unusual price/volume surges, may be required to settle early [P] [^sccp-clearing-house-operating-procedures-2018:29]. A separate 2012-2013 "Settlement Restrictions" scheme (proposed Rule 7.6.1-7.6.4: SCCP Board/PSE Board may restrict an Identified Security or Identified CM by early delivery of securities by net sellers, early delivery of cash by net buyers, or 100% cash collateral where securities are unavailable; "done-through" trading via another TP prohibited during a restriction; own penalty table approved by the SCCP Board 15 Oct 2012) was circulated for comment (memos 04-0812, 02-0413) but does **not** appear in the 2013 or 2018 consolidated Rules, whose Rule 7 ends at 7.5, and the Nov 2021 draft lists existing Rule 7.6 as "None" [P] [^sccp-memo-04-0812-settlement-restrictions-proposal:1-4] [^sccp-memo-02-0413-settlement-restrictions-revisions:1-5] [^sccp-clearing-house-rules-2018:42] [^sccp-memo-03-1121-proposed-amendments:26]; treat it as never adopted (inference) and the 2025 Rule 7.6 as its narrower successor.
-- Monitoring: unusual settlement obligations (risk multiple vs 6-month moving average), trade concentration (reported to CMIC), monthly Daily Average Netted Obligation vs Net Liquid Capital, recurring fails (>= 2 within 7 trading days), habitual lates (>= 3 per year) [P] [^sccp-web-services] [^sccp-clearing-house-operating-procedures-2018:29]. No initial margin exists in the rulebook (the margin option was deleted from the 2024 Rule 7.6 draft and an "MMCD Fund/Credit Ring Agreement" section is deleted) [P] [^sccp-memo-01-0524-sec-recommended-revisions:4] [^sccp-clearing-house-operating-procedures-2018:37]; Clearstream's "SCCP has proposed to implement margin requirements ... with the SEC" is stale [S] [^clearstream-ph-settlement-process].
+- Eligible collateral (Rule 8.1.8, SEC-approved 13 Dec 2022, effective 20 Feb 2023): cash, or securities that are constituents of the PSEi, PSE MidCap and PSE Dividend Yield indices (25% haircut) and "PSE shares" (35% haircut); valued at last close; list reviewed every six months. Haircuts were aligned with CMIC/SEC RBCA position-risk factors (SEC MC 16-2004 Sch. A) [P] [^sccp-memo-02-0223-collateral-haircut-rates:1] [^sccp-memo-07-0823-sec-approved-amendments:3-4]. Before that increase the haircut was a flat 20% on all eligible securities collateral, imposed from 14 Nov 2008 [P] [^pse-audited-fs-2025:40]. Current list: memo 01-0126 (effective 2 Feb 2026: PSEi adds RCR, drops AGI; DivY adds OGP, URC, drops KEEPR, SECB; MidCap adds AGI, APX, drops DD, RCR) [P] [^sccp-memo-01-0126-eligible-collateral-list:1]; a newer list memo 01-0726 (28 Jul 2026) exists but was not archived [P-web] [^sccp-web-memos-index].
+- Risk containment (Rule 7.6, SEC-approved and announced 21 Jan 2025, effective immediately under Rule 1.4.3): SCCP "may, in its discretion, require Early Delivery (i.e., not later than SD-1) of the Cash or Securities obligations from one or more Clearing Members" in five situations: (1) unstable conditions or price fluctuations in one or more securities, in addition to the Rule 8 mark-to-market collateral; (2) exposure larger than the CM's financial condition justifies or that places SCCP at risk; (3) a record of frequent rule violations, unsound management or serious operational defects; (4) market conditions or price fluctuations such that SCCP calls on affected CMs to follow "any of the additional risk containment measures under this Rule as determined by SCCP" (none is itemised); (5) when certain risk levels determined by SCCP have been reached. SCCP "shall lift the early delivery requirement" once the risks are no longer present [P] [^sccp-memo-02-0125-sec-approval-rules-3-4-5-1-4-6-2-8-7-6:3]. The May 2024 consultation draft also allowed SCCP to "require additional margins"; SCCP deleted that option because early delivery "may currently be an adequate protection" [P] [^sccp-memo-01-0524-sec-recommended-revisions:3-4]. The same memo's pp.1-2 carry the other approved amendments (Rule 3.4/Annex 11, Rule 5.1.4(3), Rule 6.2.8) [P] [^sccp-memo-02-0125-sec-approval-rules-3-4-5-1-4-6-2-8-7-6:1-2]. Precedent: SCCP imposed "T+1 early delivery" (two business days ahead of the T+3 cut-off) on six named securities (ACE, FPI, MVC, PHES, WIN, WPI) from 2009 until the Board lifted it effective 20 Jan 2012 [P] [^sccp-memo-03-0112-early-delivery-lifting:1]. OP 5.5.1 (2018 text): CMs at a risk level, or trades with unusual price/volume surges, may be required to settle early [P] [^sccp-clearing-house-operating-procedures-2018:29]. A separate 2012-2013 "Settlement Restrictions" scheme (proposed Rule 7.6.1-7.6.4: SCCP Board/PSE Board may restrict an Identified Security or Identified CM by early delivery of securities by net sellers, early delivery of cash by net buyers, or 100% cash collateral where securities are unavailable; "done-through" trading via another TP prohibited during a restriction; own penalty table approved by the SCCP Board 15 Oct 2012) was circulated for comment (memos 04-0812, 02-0413) but does **not** appear in the 2013 or 2018 consolidated Rules, whose Rule 7 ends at 7.5, and the Nov 2021 draft lists existing Rule 7.6 as "None" [P] [^sccp-memo-04-0812-settlement-restrictions-proposal:1-4] [^sccp-memo-02-0413-settlement-restrictions-revisions:1-5] [^sccp-clearing-house-rules-2018:42] [^pse-sccp-revised-rules:42] [^sccp-memo-03-1121-proposed-amendments:26]; treat it as never adopted (inference) and the 2025 Rule 7.6 as its narrower successor.
+- Monitoring: unusual settlement obligations (risk multiple vs 6-month moving average), trade concentration (reported to CMIC), monthly Daily Average Netted Obligation vs Net Liquid Capital, recurring fails (>= 2 within 7 trading days), habitual lates (>= 3 per year) [P] [^sccp-web-services] [^sccp-clearing-house-operating-procedures-2018:29]. No initial margin exists in the rulebook (the margin option was deleted from the 2024 Rule 7.6 draft and is absent from the final text of 21 Jan 2025; an "MMCD Fund/Credit Ring Agreement" section is deleted) [P] [^sccp-memo-01-0524-sec-recommended-revisions:4] [^sccp-memo-02-0125-sec-approval-rules-3-4-5-1-4-6-2-8-7-6:3] [^sccp-clearing-house-operating-procedures-2018:37]; Clearstream's "SCCP has proposed to implement margin requirements ... with the SEC" is stale [S] [^clearstream-ph-settlement-process].
 - Client-asset protection rule (Rule 2.3.5, SEC-approved, in force 23 Aug 2023): CMs may deliver only securities of the instructing client; using another client's shares to settle is prohibited unless under a securities-borrowing-and-lending arrangement; violations (found by CMIC) are grounds for suspension/termination under Rule 2.5.1 [P] [^sccp-memo-07-0823-sec-approved-amendments:2] [^sccp-memo-03-0623-client-securities-prohibition:1].
 
 **1.4 CTGF: contributions, formula, size, uses, waterfall**
@@ -44,12 +45,12 @@ SCCP is a 100% PSE-owned, SEC-registered clearing agency (permanent licence Janu
 - Deficiency collection: if trade value averaged **₱1.5bn/day for two calendar months**, all CMs pay deficiency = 11% x daily average trade value of the preceding six months, outright or amortised over two years at an imputed 12% p.a. [P] [^sccp-clearing-house-rules-2018:34]; since 21 Jan 2025 Rule 5.1.4(3) is replaced by: SCCP may, **with SEC approval**, require supplemental contributions from all active CMs when the CTGF is no longer commensurate with a sustained increase in trade volume [P] [^sccp-memo-02-0125-sec-approval-rules-3-4-5-1-4-6-2-8-7-6:2].
 - **Ideal Fund Size (OP 4.4.1, 2018 text)**: reviewed semi-annually; "IFS = [Net Trades_LM x LP x ((SD x RL) + ADV)] / 100 + [Net Trades_LM x LP x FC x 180/360]"; Net Trades_LM = net trade value of the four largest members; LP (liquidation period) = 7 days (T+3 settlement plus an allowance for next-day buy-in/sell-out needing another 3 days); SD = 3.23 ("67% probability level"); ADV = 0.04; FC (financing cost) = 15% p.a.; RL = 2.33 (99% coverage). Computed to cover exposure for one settlement cycle (four-largest-members basis mirrors SRC 42.2(f)) [P] [^sccp-clearing-house-operating-procedures-2018:26] [^sccp-clearing-house-rules-2018:32]. The printed unit conventions are ambiguous and the parameters (LP, cycle) predate T+2; no updated parameters are published [I].
 - Composition (Rule 5.1.2): PSE contribution, CM contributions, interest income [P] [^sccp-clearing-house-rules-2018:32]; SCCP's website also lists an "SCCP Reserve Fund" [P] [^sccp-web-services]. Investment: Philippine-government securities or other Board-approved instruments (Rule 5.1.5); additional resources (credit lines from settlement banks, insurance) and use of the fund as collateral for credit lines (Rule 5.1.3) [P] [^sccp-clearing-house-rules-2018:32] [^sccp-clearing-house-rules-2018:34]; SCCP keeps a CTGF account at each settlement bank and credit facilities to minimise actual drawings (OP 2.4.2) [P] [^sccp-clearing-house-operating-procedures-2018:8]. Permitted uses: net money obligations, buy-ins, collateral for credit lines or SBL, insurance premium, SCCP losses/expenses incidental to clearing (Rule 5.1.6) [P] [^sccp-clearing-house-rules-2018:34].
-- **Size history (PSE annual-report notes; CTGF is off balance sheet, contributions treated as trust monies):** ₱786.3m (31 Dec 2013), ₱838.5m (2014), ₱981.5m (2016), ₱1,064.8m (2017), ₱1,097.7m (2018: TP principal ₱688.7m + PSE ₱80.0m + accumulated income net of unrealised loss ₱329.1m), ₱1,247.7m (2019) [P] [^pse-annual-report-2014:130] [^pse-annual-report-2017:67] [^pse-annual-report-2018:121] [^pse-annual-report-2019:66]; management fee to SCCP = 0.1% of year-end fund level [P] [^pse-annual-report-2019:66]. Latest figure: "around PHP 1.600 bn (approx. USD 29.2 mn) as of 31 December 2023" [S] [^clearstream-ph-settlement-process]. Year-end unsettled exposure for context: ₱8.75bn undelivered (net selling) + ₱3.03bn unpaid purchases at 31 Dec 2019, all settled in January with no failed trades [P] [^pse-annual-report-2019:65].
+- **Size history (the "Client Monies" note to PSE's audited consolidated statements; the CTGF is off balance sheet and treated as trust monies):** ₱786.3m (31 Dec 2013), ₱838.5m (2014), ₱981.5m (2016), ₱1,064.8m (2017), ₱1,097.7m (2018: TP principal ₱688.7m + PSE ₱80.0m + accumulated income net of unrealised loss ₱329.1m), ₱1,247.7m (2019), ₱1,367.2m (2020), ₱1,429.5m (2021), ₱1,476.4m (2022), ₱1,589.5m (2023), ₱1,627.6m (2024) and **₱1,770.7m at 31 Dec 2025** [P] [^pse-annual-report-2014:130] [^pse-annual-report-2017:67] [^pse-annual-report-2018:121] [^pse-annual-report-2019:66] [^pse-audited-fs-2020:84] [^pse-audited-fs-2022:80] [^pse-annual-report-2024-compiled-17a:148] [^pse-audited-fs-2025:86]. Composition at 31 Dec 2025: TP principal contributions ₱952.7m (up ₱49.2m in 2025 after a net fall of ₱34.0m in 2024, when the note's "Contributions" line was negative, which implies refunds exceeded new contributions [I]), PSE's ₱80.0m, accumulated net interest income ₱730.4m and unrealised gains ₱7.7m [P] [^pse-audited-fs-2025:86]. Assets: government debt securities at FVOCI (face ₱1,436.5m, of which ₱98.0m matures within a year), a time deposit ₱308.8m and cash in banks ₱10.0m; under SCCP's rules the fund may be invested only in securities issued or guaranteed by the Republic or other investments approved by SCCP's board [P] [^pse-audited-fs-2025:87] [^pse-annual-report-2024-compiled-17a:149]. SCCP's management fee is 0.1% of the year-end fund (₱1.77m for 2025) [P] [^pse-audited-fs-2025:87]. Beyond the fund, SCCP "appropriated retained earnings amounting to ₱50.00 million for the settlement of trade obligations of defaulting clearing members should the clearing and trade guarantee fund not be enough" (unchanged at 31 Dec 2024 and 2025) [P] [^pse-audited-fs-2025:65]. Clearstream's "around PHP 1.600 bn ... as of 31 December 2023" [S] [^clearstream-ph-settlement-process] agrees with the audited ₱1,589.5m. Year-end unsettled exposure, for context: ₱8.75bn undelivered (net selling) + ₱3.03bn unpaid purchases at 31 Dec 2019 (T+3) [P] [^pse-annual-report-2019:65]; ₱4.36bn + ₱1.64bn = ₱6.01bn at 31 Dec 2024 and ₱4.62bn + ₱1.72bn = ₱6.33bn at 31 Dec 2025 (dollar-denominated: US$16,240 and nil), all settled in the following January with no failed trades [P] [^pse-audited-fs-2025:82].
 - **Default waterfall as written (OP 3.11, alternative cash settlement)**: (1) defaulter's cash entitlement held in escrow, (2) its margin collateral, (3) its MTM collateral, (4) its CTGF contribution, (5) SCCP's reserve appropriated for the CTGF, (6) credit lines availed by SCCP, (7) mutualised CTGF contributions [P] [^sccp-clearing-house-operating-procedures-2018:19]. Cash fails are first bridged by SCCP advances (CTGF or credit lines) so receivers are paid on time [P] [^sccp-clearing-house-operating-procedures-2018:10]. A Nov 2021 draft Rule 5.1.7 would order CTGF application as defaulter's contributions, fund interest, SCCP's contributions, then non-defaulters pro rata, with replenishment in reverse order [P, proposal] [^sccp-memo-03-1121-proposed-amendments:17-19]; adoption unverified.
 - Refundability: before 2018 "there shall be no return of cash contributions" [P] [^pse-sccp-revised-rules:35]; Rule 5.2 amended effective 1 Aug 2018 (SEC approval 13 Mar 2018) to refund contributions as trade-related assets on cessation/termination, initially only for TPs/CMs actively operating when the amendment took effect [P] [^sccp-clearing-house-rules-2018:35] [^pse-annual-report-2018:47]; further conditions SEC-approved and effective 8 Jul 2025 (regulatory clearances incl. SEC broker-dealer cancellation order, all liabilities settled, audited proof that the CM absorbed the contributions rather than collecting them from clients, bank details; no cheques to "Cash/Bearer") [P] [^sccp-memo-01-0725-ctgf-refund-sec-approval:1-2] [^sccp-memo-02-0624-ctgf-refund-proposal:1-2].
 - Interest on CTGF advances (as amended 21 Jan 2025, Rule 6.2.8): the defaulter bears costs, taxes and lost interest from pre-terminating CTGF investments; credit-line advances bear the lender's rate; until paid, stated in the Demand Notice (replaced "BSP overnight borrowing rate plus spread") [P] [^sccp-memo-02-0125-sec-approval-rules-3-4-5-1-4-6-2-8-7-6:2] [^sccp-memo-01-0524-sec-recommended-revisions:3].
-- SCCP fees: initial CM fee ₱5,000; **clearing fee 0.0001 (1 bp), VAT-inclusive, of gross trade value per month** [P] [^sccp-clearing-house-rules-2018:62]. Cross-check: H1-2026 SCCP service fees ₱165.45m against ₱926.54bn trading value equals 1 bp/1.12 x 2 sides x value (₱165.5m), so the fee appears unchanged [I] [^pse-analyst-briefing-1h-2026:7].
-- SCCP's own capital: no public figure found; SCCP's PSE-consolidated accounts show only the CTGF and trust-money notes [Gap].
+- SCCP fees: initial CM fee ₱5,000; **clearing fee 0.0001 (1 bp), VAT-inclusive, of gross trade value per month** [P] [^sccp-clearing-house-rules-2018:62]. Cross-check: H1-2026 SCCP service fees of ₱165.45m against ₱926.54bn trading value equal 1 bp / 1.12 x 2 sides x value (₱165.5m) [I] [^pse-analyst-briefing-1h-2026:7]; FY2025 SCCP service fees of ₱317.99m (+19.12%, "due to a similar percentage increase in turnover value") against turnover of ₱1,780.77bn (average daily ₱7.33bn; 2024: ₱1,494.90bn) equal the same formula (₱318.0m) [P for the inputs, I for the match] [^pse-annual-report-2025:16]; so the 1 bp VAT-inclusive fee, charged on both sides, appears unchanged.
+- SCCP's own capital: SCCP's stand-alone statements were not found; PSE's consolidated notes disclose only the CTGF and the ₱50.00m appropriation above, SCCP's unrecognised deferred tax asset (₱3.65m, which shows SCCP uses the optional standard deduction for tax) and an unfunded retirement plan [P] [^pse-audited-fs-2025:39] [^pse-audited-fs-2025:65] [Gap for equity].
 
 **1.5 Which rulebook is in force (edition table)**
 
@@ -63,28 +64,29 @@ SCCP is a 100% PSE-owned, SEC-registered clearing agency (permanent licence Janu
 | 18 Aug 2023 memo (eff. 24 Aug 2023) | Rules + OpProcs "T+2-related" | See section 2/3 | In force |
 | 23 Aug 2023 memo 07-0823 | Rules 2.3.5, 4.7-4.9, 6.2.5, 6.3.5, 8.1.8; OP 2.8-2.10, 3.8.3-3.8.4 | Client-share prohibition; early settlement of BISO trades; holiday/unexpected-event rules; multi-trade-date settlement | In force |
 | SEC 9 Jan 2024; eff. 5 Mar 2024 | OP 2.5.3.2 (renumbered) | Early batch run | In force |
-| 21 Jan 2025 | Rules 3.4/Annex 11, 5.1.4(3), 6.2.8, 7.6 | Allocation algorithm; supplemental CTGF; costs; risk containment | In force (7.6 text not in archived memo) |
+| 21 Jan 2025 | Rules 3.4/Annex 11, 5.1.4(3), 6.2.8, 7.6 | Allocation algorithm; supplemental CTGF; costs; risk containment (early delivery only, no margin) | In force (full text of all four in the memo) |
 | 8 Jul 2025 | Rule 5.2, OP 4.2.1.3 | CTGF refund conditions | In force |
 | after 8 Jul 2025 to 11 Sep 2026 | none | No rule/consultation memo in SCCP memo index | [^sccp-web-memos-index] |
 
 Sources for the table: [^sccp-clearing-house-rules-2018:1] [^sccp-memo-03-1121-proposed-amendments:3-4] [^sccp-memo-02-0223-collateral-haircut-rates:1] [^sccp-memo-06-0823-sec-approval-t2-amendments:1] [^sccp-memo-07-0823-sec-approved-amendments:1] [^sccp-memo-01-0324-early-batch-run-effectivity:1] [^sccp-memo-02-0125-sec-approval-rules-3-4-5-1-4-6-2-8-7-6:3] [^sccp-memo-01-0725-ctgf-refund-sec-approval:2] [^sccp-web-rules-page] [^sccp-web-memos-index].
 
 ### Inferences
-- [I] SCCP functions as a CCP with a small, mutualised, partly pre-funded default fund and no initial margin; with average daily traded value of roughly ₱8bn (₱926.5bn over roughly 110-120 sessions in H1 2026) the ₱1.6bn (end-2023) CTGF is of the order of a fifth of one average day's turnover, which is why the rulebook leans on full MTM collateralisation, early delivery and a 12:00 hard deadline rather than on fund size.
+- [I] SCCP functions as a CCP with a small, mutualised, partly pre-funded default fund and no initial margin. FY2025 turnover averaged ₱7.33bn a day (₱1,780.77bn for the year), so the ₱1.77bn CTGF at end-2025 is about a quarter of one average day's turnover and about 28% of the ₱6.33bn of net obligations outstanding at that year-end (T+2 means roughly two days of trades are always open). That is why the rulebook leans on full MTM collateralisation, early delivery and a 12:00 hard deadline rather than on fund size. The fund has grown about 42% since 2019 (₱1.25bn to ₱1.77bn); average daily value was ₱6.10bn in 2024 and ₱7.33bn in 2025 [^pse-annual-report-2025:16].
 - [I] The July 2025 "absorbed, not passed to clients" refund condition implies CTGF contributions are expected to be a broker cost, not a client charge.
 - [I] Because the posted PDFs are stale, any implementation spec must treat memo amendments as authoritative and re-check SCCP memos monthly.
 
 ### Execution implications
 - Your economic exposure is to the CM (broker/custodian chain) first; SCCP absorbs a CM default for trade settlement but is recourse-limited to the CTGF plus credit lines. Prefer clearing brokers with strong net liquid capital; SCCP's DANO/NLC monitoring and RBCA data are not public (inference from the monitoring design).
+- Size the tail honestly: the mutualised resources are the CTGF (₱1.77bn at end-2025), SCCP's ₱50m appropriated reserve and bank credit lines whose size is not published, against ₱6.33bn of net obligations open at the 2025 year-end and about ₱7.3bn of daily turnover. A large broker's default is absorbed first by that broker's escrowed entitlements and MMCD collateral, so your practical protection is the broker's collateral position and your own custody and segregation arrangements, not the fund [I].
 - Collateral burden sits with the broker (daily MTM, due 12:00 next day); expect brokers to ask for pre-funding or pre-positioned inventory on volatile names, and for SCCP to impose SD-1 early delivery (Rule 7.6) on specific CMs/securities in stress.
 - Cost model: SCCP clearing fee 1 bp VAT-inclusive on gross value (each side) and CTGF 0.2 bp of turnover are broker-level costs; whether and how brokers pass them on is in the commission chapter.
 - Foreign-client (FC) and local-client (LC) trades net separately; a broker cannot net a foreign client's sell against a local client's buy.
 - Allocation algorithm only matters in a partial-settlement event (largest price, then smallest quantity, then random).
 
 ### Gaps
-- Consolidated, SEC-approved current text of the Rules and Operating Procedures (T+2 version) is not published; final text of Rule 7.6 and of any adopted Rule 5.1.7 waterfall/Rule 6.1 restructure not located.
+- Consolidated, SEC-approved current text of the Rules and Operating Procedures (T+2 version) is not published; text of any adopted Rule 5.1.7 waterfall/Rule 6.1 restructure not located (the final Rule 7.6 is in memo 02-0125 p.3).
 - Whether block/negotiated trades are now guaranteed by SCCP (Nov 2021 proposal; PSE negotiated-trade circulars are covered elsewhere).
-- SCCP's own capital/equity, its CPMI-IOSCO PFMI self-assessment (none found), CTGF size after Dec 2023, and updated Ideal-Fund-Size parameters under T+2.
+- SCCP's own equity (only the ₱50.0m appropriation is disclosed in the group notes), its CPMI-IOSCO PFMI self-assessment (none found), and updated Ideal-Fund-Size parameters under T+2.
 - HSBC's status as a settlement bank.
 
 ---
@@ -100,9 +102,13 @@ Equities settle **T+2** for trades executed from 24 Aug 2023 (first T+2 settleme
 - Predecessor: "Settlement shall be performed on a rolling T+3 cycle ... Settlement Cut-Off shall be at 12:00 NN of Settlement Date" (OP 2.1.5; Rule 8.1.1 "settled three Business Days after Transaction Date") [P] [^sccp-clearing-house-operating-procedures-2018:6] [^sccp-clearing-house-rules-2018:43].
 - SCCP Memo 01-0623 (13 Jun 2023): target T+2 effective trade date 24 Aug 2023; last T+3 trades (23 Aug) and first T+2 trades (24 Aug) both settle 29 Aug 2023 because 28 Aug is a holiday; industry-wide testing 29 Jul-7 Aug 2023; revised rules had been submitted to the SEC in December 2021 [P] [^pse-cn-2023-0031-t2-settlement:2-3]. PSE CN-2023-0031 (23 Jun 2023) relayed it [P] [^pse-cn-2023-0031-t2-settlement:1].
 - SEC En Banc approved the 24 Aug 2023 go-live on 10 Aug 2023 [P] [^sccp-memo-04-0823-t2-go-live:1] [^sccp-memo-05-0823-settlement-dates-t2-heroes-day:1]; SEC approval of the T+2-related Rules/OP amendments announced 18 Aug 2023, effective on implementation 24 Aug 2023 [P] [^sccp-memo-06-0823-sec-approval-t2-amendments:1]. PSE's releases (15 Aug and 4 Sep 2023) confirm the dates and that the first settlements were completed before deadline [P-web] [^pse-pr-t2-go-live] [^pse-pr-t2-migration-complete].
-- Two-week transition (SEC-approved): deadlines +1 hour. 29 Aug 2023: Batch 1 (trade date 23 Aug, T+3) 12:00 PM instead of 11:00 AM; Batch 2 (24 Aug, T+2) 3:00 PM instead of 2:00 PM; 30 Aug-11 Sep 2023: 1:00 PM instead of 12:00 NN; regular 12:00 NN from 12 Sep 2023 [P] [^sccp-memo-02-0723-transition-period:1] [^sccp-memo-04-0823-t2-go-live:1-2]. (The June memo had planned 12:30 PM; the SEC-approved figure was 1:00 PM [P] [^pse-cn-2023-0031-t2-settlement:3].)
+- Two-week transition (SEC-approved): deadlines +1 hour. 29 Aug 2023: Batch 1 (trade date 23 Aug, T+3) 12:00 PM instead of 11:00 AM; Batch 2 (24 Aug, T+2) 3:00 PM instead of 2:00 PM; 30 Aug-11 Sep 2023: 1:00 PM instead of 12:00 NN; regular 12:00 NN from 12 Sep 2023; during the extension late-settlement penalties applied only from 1:01 PM [P] [^sccp-memo-02-0723-transition-period:1] [^sccp-memo-04-0823-t2-go-live:1-2]. (The June memo had planned 12:30 PM [P] [^pse-cn-2023-0031-t2-settlement:3]; the SEC-approved figure was 1:00 PM [P] [^sccp-memo-02-0723-transition-period:1] [^sccp-memo-04-0823-t2-go-live:1-2].)
 - Why T+2 was feasible: the new C&S System supports any cycle, multiple trade dates per settlement date and multi-currency settlement, receives trades from the PSE engine in real time and uses ISO 20022 with banks and depository; SCCP board awarded the project to Millennium IT/LSEG Technology on 15 May 2019; go-live 27 Mar 2023 [P] [^sccp-memo-03-1121-proposed-amendments:3] [P-web] [^pse-pr-sccp-new-cs-system].
-- **T+1:** no T+1 or shorter-cycle memo, consultation or SEC action appears in SCCP's memo index through 11 Sep 2026 [P-web] [^sccp-web-memos-index]; PSE's 2026 AGM report and 1H-2026 analyst briefing list the integration roadmap (single post-trade system, new depository system, Nasdaq Eqlipse trading engine) without any settlement-cycle change [P] [^pse-asm-2026-president-report:28] [^pse-analyst-briefing-1h-2026:31] [^pse-analyst-briefing-3m-2026:24-25]; Clearstream (updated 5 Jan 2026) still shows equities T+2 [S] [^clearstream-ph-settlement-process]. The only T+1 items found are fixed-income conventions at PDEx, not equities: PDEx Trading Convention Sec. 6 already sets the standard fixed-income settlement date at the next trading day (T+1), and a proposal posted on 20 Jul 2026 on PDS's "Rule Proposals for Approval of the SEC" list (text updated as of Dec 2024, earlier version approved by PDEx's Market Governance Board in Mar 2022) would add "spot" settlement up to T+3 and an "extended settlement date" of up to two further trading days for trades with offshore clients that need a longer pre-settlement period to reconcile details with global custodians, against an extension fee of ₱2,500 per day (₱5,000 in the 2022 text), and treat settlement beyond that as a failed trade [P] [^pdex-proposed-settlement-date-conventions-2026:1-2] [^pds-web-rules]. Do not read this as an equities T+1 plan [I].
+- C&S System project record: the project was "put on hold a number of times" in earlier years to give way to the new trading system and the planned PDS Group acquisition, and the board awarded it on 15 May 2019 [P] [^pse-annual-report-2018:47] [^pse-annual-report-2019:27]; SCCP signed the software-licence/maintenance and consultancy agreements with Millennium IT (an LSEG subsidiary) by 4 Dec 2019 [P] [^pse-17c-2019-12-04-sccp-millennium-it-agreements:1-2]; PSE's annual reports then forecast go-live in the first quarter of 2022 (FY2020 report) and the second quarter of 2022 (FY2021 report) [P] [^pse-annual-report-2020:47] [^pse-annual-report-2021:32]; it happened on 27 Mar 2023, about a year after the first forecast, and the T+2 cycle followed five months later [I from the dates].
+- What PSE's FY2025 audited statements say about the system and the T+2 move: the system "can accommodate any settlement cycle, unlike the previous system which was hardcoded with settlement cycle T+3", settles two trade dates in one settlement date, "is capable of being connected directly to the PSE trading engine, which will make real time marking to market possible in the future" (so MTM is still end-of-day), and let SCCP "release the cash and securities entitlements of its clearing members at a much earlier time" [P] [^pse-audited-fs-2025:40]. The same note says brokers, custodian banks, PDTC, transfer agents, PSE's Issuer Regulation Division and CMIC took part in working groups, readiness activities and testing over a five-month period before the T+2 migration on 24 Aug 2023, and lists the expected benefits (lower credit and counterparty risk, cash deployment efficiency, more liquidity, lower collateral requirements) [P] [^pse-audited-fs-2025:41].
+- **T+1:** no T+1 or shorter-cycle memo, consultation or SEC action appears in SCCP's memo index through 11 Sep 2026 [P-web] [^sccp-web-memos-index]; PSE's 2026 AGM report and 1H-2026 analyst briefing list the integration roadmap (single post-trade system, new depository system, Nasdaq Eqlipse trading engine) without any settlement-cycle change [P] [^pse-asm-2026-president-report:28] [^pse-analyst-briefing-1h-2026:31] [^pse-analyst-briefing-3m-2026:24-25]; Clearstream (updated 5 Jan 2026) still shows equities T+2 [S] [^clearstream-ph-settlement-process], and PSE's own circular of 10 Sep 2026 on dual-class declassification still calls T+2 "the standard" settlement cycle [P] [^pse-cn-2026-0041-declassification-price-suspension:1].
+- Dated international comparison: PSE's FY2025 audited statements still say T+2 "aligned the Philippine settlement cycle with major international markets including the U.S., Europe, Canada, Australia, Japan, Hong Kong" [P] [^pse-audited-fs-2025:41]; that sentence is dated, because the US and Canada have settled T+1 since 28 May 2024 (general market knowledge, not a PSE source) [I].
+- Fixed income is different: the only T+1 items found are fixed-income conventions at PDEx, not equities: PDEx Trading Convention Sec. 6 already sets the standard fixed-income settlement date at the next trading day (T+1), and a proposal posted on 20 Jul 2026 on PDS's "Rule Proposals for Approval of the SEC" list (text updated as of Dec 2024, earlier version approved by PDEx's Market Governance Board in Mar 2022) would add "spot" settlement up to T+3 and an "extended settlement date" of up to two further trading days for trades with offshore clients that need a longer pre-settlement period to reconcile details with global custodians, against an extension fee of ₱2,500 per day (₱5,000 in the 2022 text), and treat settlement beyond that as a failed trade [P] [^pdex-proposed-settlement-date-conventions-2026:1-2] [^pds-web-rules]. Do not read this as an equities T+1 plan [I].
 
 **2.2 DVP model and account structure**
 - DVP Model 3 (multilateral net for both legs) with SCCP guaranteeing DVP [P] [^sccp-web-services] [^sccp-clearing-house-operating-procedures-2018:5]. Securities move by book-entry at PDTC between CM Securities Settlement Accounts and SCCP's accounts; cash moves between CM Cash Settlement Accounts at settlement banks and SCCP's nostro [P] [^sccp-clearing-house-rules-2018:31] [^sccp-clearing-house-operating-procedures-2018:6-7]. CMs hold a Cash Settlement Account (and a Cash Collateral Deposit Account) at a settlement bank; one account per currency under the new system [P] [^sccp-clearing-house-rules-2018:12-13] [^sccp-memo-03-1121-proposed-amendments:7-8].
@@ -126,8 +132,8 @@ Equities settle **T+2** for trades executed from 24 Aug 2023 (first T+2 settleme
 | SD+1 09:15 / 10:00 / 12:00 | Cure deadline and suspension; buy-in/sell-out executed; Demand Notice | see 3 |
 | Trade date 18:00 | MMCD requirement posted; collateral due 12:00 next business day | [P] [^sccp-clearing-house-rules-2018:45] |
 
-- Historical performance (T+3 era, share of CM obligations met by the 12:00 deadline per the annual reports): 2015 cash 99.99% and securities 99.98%; 2016 securities 99.99% and cash 99.98%; 2017 securities 99.98% and cash 99.97%; average time SCCP released Due Broker entitlements 12:34 (2015), 12:28 (2016), 12:31 (2017); "no overnight fails" in 2015 and 2016 [P] [^pse-annual-report-2015:66] [^pse-annual-report-2016:72] [^pse-annual-report-2017:32]. Post-2023 statistics not found.
-- Settlement finality: Cash/securities delivered in the run are final; for the cash leg BSP RTGS payments are final and irrevocable once settlement accounts are debited/credited, and RTGS applies DvP (money leg released only if the security leg is delivered or earmarked) [P] [^bsp-m-2022-049-peso-rtgs-rules:8].
+- Historical performance (T+3 era, share of CM obligations met by the 12:00 deadline per the annual reports): 2015 cash 99.99% and securities 99.98%; 2016 securities 99.99% and cash 99.98%; 2017 securities 99.98% and cash 99.97%; average time SCCP released Due Broker entitlements 12:34 (2015), 12:28 (2016), 12:31 (2017); "no overnight fails" in 2015 and 2016 [P] [^pse-annual-report-2015:66] [^pse-annual-report-2016:72] [^pse-annual-report-2017:32]. 2018: compliance 99.99% (securities) and 99.96% (cash), average release of entitlements 12:37 p.m.; 2019: 99.99% for both, average release by 12:30 p.m.; no overnight settlement default in either year, so SCCP did not draw its settlement-bank credit facilities [P] [^pse-annual-report-2018:47] [^pse-annual-report-2019:27]. The annual reports for FY2020 onward (all read) no longer print compliance or release-time statistics, so there are no T+2-era figures; the only recent data are year-end snapshots: all trades outstanding at 31 Dec 2024 and 31 Dec 2025 were settled in the following January and "no failed trades occurred from these transactions" [P] [^pse-audited-fs-2025:82].
+- Settlement finality: trades settled in SCCP's run are final and irrevocable (Rule 4.6; see 1.2) [P] [^sccp-clearing-house-rules-2018:31]. For the interbank cash leg, BSP's Peso RTGS rules (M-2022-049) make a payment "final and irrevocable" once the paying and receiving participants' settlement accounts are debited and credited, and say the RTGS will settle the money leg of a security transaction "only when the security involved has been delivered or at least earmarked by the concerned FMI" (DvP) [P] [^bsp-m-2022-049-peso-rtgs-rules:8]; the documents do not say whether SCCP's equity cash legs use that DvP interface, so treat the DvP sentence as the BSP's general rule for FMIs, not as a description of SCCP's settlement banks [I].
 
 **2.4 Cash leg: settlement banks and PhilPaSSplus**
 - Cash is netted per CM into a Net Money Obligation/Entitlement; CMs fund the Cash Settlement Account with cleared funds; the settlement bank confirms to SCCP online and funds move to SCCP's nostro; Rule 4.1.2's Cash List also tells banks how much each must pay another "for the synchronization of funds between them" [P] [^sccp-clearing-house-rules-2018:29] [^sccp-clearing-house-rules-2018:31]; the 2024 early-run memo refers to the banks' "rebalancing process" [P] [^sccp-memo-01-0324-early-batch-run-effectivity:2].
@@ -156,7 +162,7 @@ Equities settle **T+2** for trades executed from 24 Aug 2023 (first T+2 settleme
 ### Gaps
 - Official SCCP T+2 Operating Procedures text (intraday times such as 13:15/13:30 sweep) is not republished; the 2018 times may have changed with the new system.
 - Whether SCCP/PDTC/settlement banks will use BSP's extended (22/7) RTGS hours after the targeted November 2026 soft launch; no SCCP statement yet.
-- Settlement statistics after 2017 (fail rates, release times).
+- Settlement statistics after 2019 (compliance rates, release times, fail counts); none are published in the annual reports.
 - When T+3 itself replaced earlier cycles (not needed for current design).
 
 ---
@@ -178,13 +184,13 @@ SCCP pays the receiving side first (CTGF/credit lines) and holds the defaulter's
 - **No more share borrowing after a buy-in**: the 2018 text had SCCP borrow the bought-in quantity to deliver immediately and charge the defaulter interest until T+3 settlement; the T+2 redline deleted the borrowing sentence (interest/charges now accrue until all obligations are fully paid), and the Nov 2021 rationale says the new system "assigns" the buy-in trade to the defaulting CM so receivers are delivered for the defaulter's account [P] [^sccp-clearing-house-operating-procedures-2018:21] [^sccp-memo-06-0823-sec-approval-t2-amendments:8] [^sccp-memo-03-1121-proposed-amendments:25].
 - **Fines (Rules Annex 7 / OP 3.14; unchanged by the T+2 amendment)**: late cash or securities after 12:00 and up to 14:00 on SD: ₱1,000 + 1/8 of 1% (0.125%) of the fail value plus any advance charges and out-of-pocket costs; cash/securities fails after 14:00 or not made: ₱1,000 + 1/4 of 1% (0.25%) of the fail value **compounded daily** until paid/delivered or advances repaid, plus costs, and preventive suspension if not cured by 09:15 SD+1 [P] [^sccp-clearing-house-rules-2018:62] [^sccp-memo-06-0823-sec-approval-t2-amendments:4]. Collateral-default fines in 1.3.
 - **When the fine tiers and the cash-collateral rule took effect**: SEC approved on 28 Jun 2012 (letter received 13 Jul) and the amendments took effect **23 Jul 2012**: new Rule 6.2.7 (cash as collateral pending delivery); a lower fee of ₱1,000 + 1/8 of 1% for "Late Settlements" (12:00-14:00) while "Settlement Fails" (after 14:00 or not made) stayed at ₱1,000 + 1/4 of 1% compounded daily; CMs were reminded that repeated fines are grounds for suspension/termination under Rule 2.5.1(b) [P] [^sccp-memo-01-0812-sec-approval-fails-management:1-3].
-- **Sanction ladder**: repeated violations, suspension for a third time -> termination (Rule 2.5.1); preventive suspension (2.5.3); appeals to SEC within 10 business days without stay (2.5.5) [P] [^sccp-clearing-house-rules-2018:24-25]. Recurring fails (>= 2 in 7 trading days) are reported to CMIC [P] [^sccp-clearing-house-operating-procedures-2018:29]. Enforcement example: EquitiWorld Securities suspended 25-27 Mar 2024 under Rule 2.5.1(a)/(b) for persistent late cash payments from Feb 2020 to Nov 2023 [P] [^sccp-memo-03-0324-clearing-member-suspension:1].
+- **Sanction ladder**: repeated violations, suspension for a third time -> termination (Rule 2.5.1); preventive suspension (2.5.3); appeals to SEC within 10 business days without stay (2.5.5) [P] [^sccp-clearing-house-rules-2018:24-25]. Recurring fails (>= 2 in 7 trading days) are reported to CMIC [P] [^sccp-clearing-house-operating-procedures-2018:29]. Enforcement example: EquitiWorld Securities suspended 25-27 Mar 2024 under Rule 2.5.1(a)/(b) for persistent late cash payments from Feb 2020 to Nov 2023 [P] [^sccp-memo-03-0324-clearing-member-suspension:1]; in Nov 2024 the SEC En Banc ordered CMIC to take over the firm "for the purpose of settling [its] liabilities to its customers, the PSE and other trading participants", CMIC filed a proposed allocation plan in May 2025 and the SEC approved the early release of intact shares to clients in June 2025 [P] [^pse-audited-fs-2025:59] [^pse-audited-fs-2025:89].
 - **Custodian-side**: unmatched instructions auto-cancel at the end of the third business day after the first attempted settlement date; penalties are passed through and must be pre-funded by SD-1 14:30 PHT [S] [^clearstream-ph-settlement-services].
 - **Short sales and fails**: short selling needs borrowed stock (SBL); a borrowing executed with a lender cures a fail before buy-in (OP 3.10.4) [P] [^sccp-clearing-house-operating-procedures-2018:17]; SBL rules are covered elsewhere.
 
 ### Inferences
 - [I] The fine is economically a 12.5-25 bp per-event cost on the notional plus daily compounding, but the dominant risk to a defaulting broker's client is the buy-in price, which is "prevailing offer" at 10:00 and can be well above the contract price; the difference is charged to the CM and will be passed to the client.
-- [I] Sell-outs/buy-ins create predictable 10:00-open-adjacent order flow in the failing security; with no commission and a single designated TP, such executions are likely visible as agency crossings by one broker code (unverified).
+- [I] Buy-ins and sell-outs put a one-off block of order flow into the failing security at about 10:00 on SD+1; with no commission and a single designated TP, such executions may show up as agency prints under one broker code (unverified).
 
 ### Execution implications
 - Ensure every sell is covered at the broker's PDTC settlement account (or borrowed) by 12:00 SD; leave no reliance on late-day cure: after 14:00 the fine doubles and 09:15 SD+1 triggers suspension and a market buy-in.
@@ -202,10 +208,11 @@ SCCP pays the receiving side first (CTGF/credit lines) and holds the defaulter's
 ## 4. Depository, custody and beneficial-owner visibility
 
 ### Takeaway
-PDTC (Philippine Depository & Trust Corp.), formerly PCD, is the sole central securities depository for PSE-listed equities. Lodged shares are immobilised in the name of **PCD Nominee Corporation (PCNC)** (separate Filipino and non-Filipino holdings); participants (brokers, custodians) hold book-entry positions and are treated by PDTC as beneficial owners, so beneficial-owner detail exists only at participant level except under the **Name-on-Central-Depository (NoCD)** facility (mandatory for dollar-denominated shares since 2017, offered for REITs, expansion to all stocks planned). A "no-jumbo" rule has required electronic lodgement of all registered securities of listed companies since 1 July 2010. PSE now controls PDTC's parent (about 94.6% of PDS Group at 5 Mar 2026).
+PDTC (Philippine Depository & Trust Corp.), formerly PCD, is the sole central securities depository for PSE-listed equities. Lodged shares are immobilised in the name of **PCD Nominee Corporation (PCNC)** (separate Filipino and non-Filipino holdings); participants (brokers, custodians) hold book-entry positions and are treated by PDTC as beneficial owners, so beneficial-owner detail exists only at participant level except under the **Name-on-Central-Depository (NoCD)** facility (mandatory for dollar-denominated shares since 2017, offered for REITs, expansion to all stocks planned). A "no-jumbo" rule has required electronic lodgement of all registered securities of listed companies since 1 July 2010. PSE now controls PDTC's parent (beneficial ownership of PDS Group 94.55% at 5 Mar 2026).
 
 ### Cited findings
-- **Role and ownership**: PDTC provides depository services for equities (and fixed-income registry); PDSHC holds 97.72% of PDTC and 100% of PDEx [P] [^pse-17c-2024-12-26-pdshc-acquisition-agreements:5]. PSE signed agreements on 26 Dec 2024 to acquire up to 61.92% of PDSHC (SEC approval 19 Dec 2024; ₱600/share, ₱2.32bn total, enterprise value ₱3.75bn) to vertically integrate the depository with trading, clearing and settlement [P] [^pse-17c-2024-12-26-pdshc-acquisition-agreements:3-5]. PSE beneficially owned **92.06% of PDS at 30 May 2025 and 94.55% at 5 Mar 2026** [P] [^pse-asm-2025-presidents-report:32] [^pse-analyst-briefing-3m-2026:25]. The amended 17-C of 4 Feb 2026 (closing of the PDIC sale, 0.34%) gives the closing trail: PSE's existing 20.98% plus purchases of 4,603,217 PDSHC shares (73.65% of the company; ₱2.76bn at ₱600) from SGX, Whistler, SMC, Golden Astra (32.36%, closed 27 Dec 2024), FINEX and IHAP (2.19%, by 17 Jan 2025), AIA (4%, 31 Jan 2025), BAP and member banks (18.80%, 24 Feb 2025), SSS and Insular (2 Apr 2025), Citicorp, TCS, Mizuho, MUFG, LandBank and PDIC, leaving PSE "beneficially" owning **94.55%**, "subject to customary post-closing conditions" [P] [^pse-17c-2026-02-04-pdic-pdshc-shares:3-5] [^pse-17c-2026-02-04-pdic-pdshc-shares:9]; the remaining ~5.45% is therefore held by holders that had not sold at that date [I]. (That filing prints the SEC approval date as 19 Dec 2023, whereas the original 26 Dec 2024 filing says 19 Dec 2024 [^pse-17c-2024-12-26-pdshc-acquisition-agreements:3]; I treat 2023 as a typo [I].) Integration roadmap: "single system for post-trade activities (clearing and settlement, and depository)", acceptance of fixed-income assets as collateral, NoCD expansion; Phase 2 target 2027; a new central depository system for PDTC is in implementation [P] [^pse-asm-2026-president-report:28] [^pse-analyst-briefing-3m-2026:24-25]. Assets in the depository at end-June 2026: ₱6.08tn (equities ₱5.45tn = 41.9% of domestic listed market value) [P] [^pse-analyst-briefing-1h-2026:18].
+- **Role and ownership**: PDTC provides depository services for equities (and fixed-income registry); PDSHC holds 97.72% of PDTC and 100% of PDEx [P] [^pse-17c-2024-12-26-pdshc-acquisition-agreements:5]. PSE signed agreements on 26 Dec 2024 to acquire up to 61.92% of PDSHC (SEC approval 19 Dec 2024; ₱600/share, ₱2.32bn total, enterprise value ₱3.75bn) to vertically integrate the depository with trading, clearing and settlement [P] [^pse-17c-2024-12-26-pdshc-acquisition-agreements:3-5]. PSE beneficially owned **92.06% of PDS at 30 May 2025 and 94.55% at 5 Mar 2026** [P] [^pse-asm-2025-presidents-report:32] [^pse-analyst-briefing-3m-2026:25]. PSE's consolidated statements show PDSHC owned 94.21% at 31 Dec 2025 (53.34% at 31 Dec 2024; PDSHC's income statement is consolidated only from 1 Jan 2025), and 94.21% plus the 0.34% bought from PDIC on 4 Feb 2026 equals the 94.55% above [P for the inputs, I for the arithmetic] [^pse-audited-fs-2025:16] [^pse-annual-report-2025:16]. The amended 17-C of 4 Feb 2026 (closing of the PDIC sale, 0.34%) gives the closing trail: PSE's existing 20.98% plus purchases of 4,603,217 PDSHC shares (73.65% of the company; ₱2.76bn at ₱600) from SGX, Whistler, SMC, Golden Astra (32.36%, closed 27 Dec 2024), FINEX and IHAP (2.19%, by 17 Jan 2025), AIA (4%, 31 Jan 2025), BAP and member banks (18.80%, 24 Feb 2025), SSS and Insular (2 Apr 2025), Citicorp, TCS, Mizuho, MUFG, LandBank and PDIC, leaving PSE "beneficially" owning **94.55%**, "subject to customary post-closing conditions" [P] [^pse-17c-2026-02-04-pdic-pdshc-shares:3-5] [^pse-17c-2026-02-04-pdic-pdshc-shares:9]; the remaining ~5.45% is therefore held by holders that had not sold at that date [I]. (That filing prints the SEC approval date as 19 Dec 2023, whereas the original 26 Dec 2024 filing says 19 Dec 2024 [^pse-17c-2024-12-26-pdshc-acquisition-agreements:3]; I treat 2023 as a typo [I].) Integration roadmap: "single system for post-trade activities (clearing and settlement, and depository)", acceptance of fixed-income assets as collateral, NoCD expansion; Phase 2 target 2027; a new central depository system for PDTC is in implementation [P] [^pse-asm-2026-president-report:28] [^pse-analyst-briefing-3m-2026:24-25]. Assets in the depository at end-June 2026: ₱6.08tn (equities ₱5.45tn = 41.9% of domestic listed market value) [P] [^pse-analyst-briefing-1h-2026:18].
+- **Scale of PDTC's charges**: in FY2025, the first year PDSHC is consolidated, PSE reports "depository-related fees" of ₱714.36m (25.13% of group operating revenue), made up of securities-account fees and registry-maintenance fees charged by PDTC, and ₱447.96m of transaction fees from PDEx and PDTC combined within trading-related fees [P] [^pse-annual-report-2025:16]. [I] PDTC bills its participants (brokers, custodians), so depository charges reach you through your broker's or custodian's fee schedule; no PDTC tariff was read, so the per-security or per-transfer rates are unknown.
 - **Who the participants are**: PDS's "Depository Participants as of 30 September 2026" page lists **192 equities depository participants** (stockbrokers, bank trust departments, insurers, pension funds such as SSS and GSIS, and the global custodian banks Citibank N.A., Deutsche Bank AG Manila Branch (clients' account), The Hongkong and Shanghai Banking Corporation (two accounts) and Standard Chartered Bank; SCCP itself is also a participant) and **63 fixed-income depository participants**; BNP Paribas, State Street and Northern Trust do not appear as direct participants [P-web] [^pds-web-depository-participants]. [I] Global custodians without a direct PDTC account reach the market through one of these sub-custodians (consistent with Clearstream's use of Standard Chartered).
 - **Legal title and nominee**: securities lodged are immobilised by transferring legal title to PCD Nominee; PCD acts as depository and, through PCD Nominee, as nominee/trustee of participants, is not a fiduciary, and treats participants as beneficial owners of everything in their accounts; PCD Nominee is a wholly owned subsidiary with the single purpose of holding legal title, not beneficial ownership [P] [^pdtc-depository-rules-1997:8] [^pdtc-depository-rules-1997:27]. Securities are fungible; book-entry delivery is final and irrevocable and constitutes constructive delivery (Rules 1.7.7-1.7.9) [P] [^pdtc-depository-rules-1997:15]. (The PDS website still posts the November 1997 "Rules of the Philippine Central Depository" as "PDTC Depository Rules"; later amendments are not visible. The PDTC Registry Rules (April 2021) and the PDS list of foreign-currency securities accepted in NoCD (30 Sep 2026) are password-protected on the PDS bucket and could not be read [P-web] [^pds-web-rules].)
 - **Account structure and nationality**: participants maintain Principal-Local/Foreign, Client-Local and Client-Foreign accounts; foreign clients' holdings must be segregated in a Client-Foreign sub-account; only the Settlement Sub-Account is eligible for transactions [P] [^pdtc-depository-rules-1997:14-15]; transfer agents reconcile PCNC balances separately for Filipino and foreign holdings daily by 12:00 noon next business day [P] [^pse-memo-2010-0203-lodgment:5] [^pse-memo-2010-0203-lodgment:9]. Clearstream: local and foreign investors cannot be commingled in one PDTC account (Rule 1.7) [S] [^clearstream-ph-investment-regulation].
@@ -240,7 +247,7 @@ PDTC (Philippine Depository & Trust Corp.), formerly PCD, is the sole central se
 ## 5. Corporate actions: ex-date, dividends, stock dividends, rights, price adjustment
 
 ### Takeaway
-Since **24 Aug 2023 the PSE sets the ex-date at one trading day before the record date (RD-1)**; before that the convention was three trading days before the record date. Issuers must disclose a record date at least 10 trading days ahead and pay within 18 trading days of the record date; PDTC pays participants after receiving good funds. Rights offerings are non-tradable, subscribe-or-lapse with a record date at least 15 trading days after board approval. On ex-date the reference price becomes the exchange's adjusted closing price and the Exchange may cancel all resting orders.
+Since **24 Aug 2023 the PSE sets the ex-date at one trading day before the record date (RD-1)**; before that the convention was three trading days before the record date. Issuers must disclose a record date at least 10 trading days ahead and pay within 18 trading days of the record date; PDTC pays participants after receiving good funds. Rights offerings are non-tradable, subscribe-or-lapse with a record date at least 15 trading days after board approval. On ex-date the reference price becomes the exchange's adjusted closing price and, under Revised Trading Rules Art. IV Sec. 14(c), the Exchange cancels resting orders on cash/property-dividend ex-dates and whenever a corporate action adjusts the closing price.
 
 ### Cited findings
 - **Ex-date convention**: PSE CN-2023-0031 (23 Jun 2023): "the determination of the ex-rights date for corporate actions beginning the target effective date of August 24, 2023 will be one (1) trading day prior to the disclosed record date"; ex-dates of previously disclosed actions were adjusted via amended disclosures [P] [^pse-cn-2023-0031-t2-settlement:1]. The prior rule (still printed in the January 2025 compilation of the Consolidated Listing and Disclosure Rules): "the Exchange shall automatically determine the ex-date ... three (3) Trading Days before the announced record date" [P] [^pse-listing-disclosure-rules:107]. Custodian guides confirm RD-1 under T+2 and entitlement by trade date vs ex-date (receive trades entitled only if trade date is before ex-date; deliver trades entitled if trade date is on or after ex-date) [S] [^clearstream-ph-securities-administration] [^rbc-ph-market-profile]. Conflict: Clearstream's page also still states "three working days before record date" (legacy text) [S] [^clearstream-ph-securities-administration]. Dates are announced via PSE EDGE disclosures (SEC-posted), and the Exchange broadcasts dividends/rights to trading terminals in start-of-day actions [P] [^pse-listing-disclosure-rules:102] [^pse-implementing-guidelines-trading-rules:5-6].
@@ -248,17 +255,17 @@ Since **24 Aug 2023 the PSE sets the ex-date at one trading day before the recor
 - **Cash dividends**: dividend declaration disclosed to the Exchange; record date set per SEC (and BSP where applicable) rules and **disclosed not less than 10 trading days before the record date** (CLDR Art. VII Secs. 6, 6.1); payment date set per SEC/BSP rules and **not more than 18 trading days from the record date**, with cash for PDTC-lodged shares remitted to PDTC within 18 trading days; single declaration for several dividends allowed if dates are explicit (Guidance Notes 16-19) [P] [^pse-listing-disclosure-rules:146-147]. PDTC credits participants once issuer funds are good (at least one business day before payment date) and participants distribute net of withholding tax [P] [^pdtc-depository-rules-1997:31]. Custodian guides: typical payment 30-40 calendar days after record date; cheques from issuers to the CSD need one day to clear; non-resident dividend tax 25% (15% with tax sparing/treaty relief) [S] [^clearstream-ph-asset-servicing] [^clearstream-ph-settlement-services] [^rbc-ph-market-profile].
 - **Stock dividends**: credited through PDTC to participants after TA confirms the listing/payment date and a new jumbo certificate in PCNC's name; dividends on lodged shares "whether from unissued capital or resulting from an increase in capital stock" go to PDTC within 18 trading days of the record date **set by the SEC** [P] [^pdtc-depository-rules-1997:31] [^pse-listing-disclosure-rules:147]. Stock dividends are tax-exempt for non-residents [S] [^rbc-ph-market-profile].
 - **Stock rights offerings** (CLDR Art. V Pt B): listing and SEC registration applications within 90 days of board approval, price range (floor/cap) disclosed at filing (Sec. 1); underwriter must take up shares not subscribed after the second round; unexercised rights first go to holders who exercised, and holders seeking extra shares must indicate and pay in round one (Secs. 3-4); **record date at least 15 trading days after approval** (Sec. 7); **offering period starts within 30 calendar days of the record date**, offering memorandum to the Exchange at least 7 calendar days earlier (Sec. 8); post-offer certification of subscription and new stockholder list within 15 days (Sec. 5); delay penalties include a 25% surcharge on listing fees plus 1% a day (Sec. 9) [P] [^pse-listing-disclosure-rules:106-108]. Mechanics at PDTC: participants forward subscription forms to beneficial owners and return them to the TA; new shares are lodgeable after full payment [P] [^pdtc-depository-rules-1997:31-32]. Custodian guides: rights are **not tradable** (exercise or lapse), subscription must be made at least two days (payment two business days) before the offer closes, new shares arrive 15-45 days (RBC) or 30-60 days after payment (Clearstream), pari passu with parent shares; rights events are offered to foreign holders "subject to availability" [S] [^clearstream-ph-securities-administration] [^rbc-ph-market-profile] [^clearstream-ph-asset-servicing]. No PSE rule on trading rights exists in the rulebooks read (inference of non-tradability from silence plus custodians' statements).
-- **Reference-price adjustment on ex-date**: Reference Price = previous day's closing price, or the **Adjusted Closing Price (ACP)** "in the event of corporate actions that would result to an adjustment of the Closing Price", or last traded/last ACP if no trade; ACP is "the Closing Price of a Security with adjustments due to corporate events" (Revised Trading Rules Art. IV Sec. 6; Art. I Sec. 1) [P] [^pse-revised-trading-rules:20] [^pse-revised-trading-rules:8]. The static threshold is +/-50% of the reference price (including the Last Adjusted Closing Price, LACP); the opening reference price is the previous close or LACP; **the Exchange may cancel all active orders when corporate actions result in adjustment of the Closing Price** [P] [^pse-implementing-guidelines-trading-rules:10] [^pse-implementing-guidelines-trading-rules:16] [^pse-implementing-guidelines-trading-rules:18]. PSE's index methodology confirms stock dividends, rights, splits and other actions adjust the previous day's last traded price and/or free-float factor [P] [^pse-index-policy-2024:14]. Exact ACP formulas (cash dividend deduction, stock-dividend ratio, rights TERP) were **not found** in the primary documents read. Data-feed hooks for the adjusted price: the securities static-data file carries `lacp` (last adjusted close price); the end-of-day quote file carries "Adjusted Previous" (previous close adjusted to corporate actions); the ITCH feed sends the (adjusted) reference price at start of day as an Add Order [A] message with order number and quantity zero (Total View) or a BBO [O] message with sizes set to 0x7FFFFFFFFFFFFFFF (Basic), and a manual intraday reference-price update generates the same messages [P] [^pse-securities-static-data-file:4] [^pse-quote-file-eod-spec-2014:2] [^pse-itch-equities-feed-spec-v2-3:27]. (Specs are the X-stream-era documents; the Nasdaq Eqlipse migration may change message formats.)
+- **Reference-price adjustment on ex-date**: Reference Price = previous day's closing price, or the **Adjusted Closing Price (ACP)** "in the event of corporate actions that would result to an adjustment of the Closing Price", or last traded/last ACP if no trade; ACP is "the Closing Price of a Security with adjustments due to corporate events" (Revised Trading Rules Art. IV Sec. 6; Art. I Sec. 1) [P] [^pse-revised-trading-rules:20] [^pse-revised-trading-rules:8]. The static threshold is +/-50% of the reference price (including the Last Adjusted Closing Price, LACP); the opening reference price is the previous close or LACP; **the Exchange may cancel all active orders when corporate actions result in adjustment of the Closing Price** [P] [^pse-implementing-guidelines-trading-rules:10] [^pse-implementing-guidelines-trading-rules:16] [^pse-implementing-guidelines-trading-rules:18]. The Revised Trading Rules are mandatory where the Implementing Guidelines say "may": Art. IV Sec. 14(c) provides that "the Exchange shall cancel" as invalid (i) orders for a security "in the event of corporate actions resulting to an adjustment in the Closing Price", (ii) "orders on the ex-date for Securities with cash and/or property dividends" and (iii) orders that cross a board lot; I read the same wording on the scanned 2010 base text and in the SEC-approved amendment effective January 2012 [P] [^pse-revised-trading-rules:25] [^pse-tpa-2011-0110-amended-revised-trading-rules:4]. PSE can get the adjustment wrong: on 21 Dec 2023 it suspended UnionBank (UBP) for the whole day because "the stock's previous closing price was not adjusted to account for UBP's 27 percent stock dividends", and resumed on 22 Dec "with the adjusted share price" [P] [^pse-cn-2023-0074-ubp-trading-suspension:1]. For a dual-class declassification the adjusted price is "the closing price of the Class A shares or Class B shares, whichever is higher" on the last trading day before declassification, preceded by a two-trading-day suspension so that earlier trades settle "through the standard T+2 settlement cycle" (circular of 10 Sep 2026; worked example: last trading day Thu 10 Sep, suspension from Fri 11 Sep, T+2 settlement completed Mon 14 Sep, declassification, delisting and resumed trading Tue 15 Sep) [P] [^pse-cn-2026-0041-declassification-price-suspension:1-2]. PSE's index methodology confirms stock dividends, rights, splits and other actions adjust the previous day's last traded price and/or free-float factor [P] [^pse-index-policy-2024:14]. Exact ACP formulas (cash dividend deduction, stock-dividend ratio, rights TERP) were **not found** in the primary documents read. Data-feed hooks for the adjusted price: the securities static-data file carries `lacp` (last adjusted close price); the end-of-day quote file carries "Adjusted Previous" (previous close adjusted to corporate actions); the ITCH feed sends the (adjusted) reference price at start of day as an Add Order [A] message with order number and quantity zero (Total View) or a BBO [O] message with sizes set to 0x7FFFFFFFFFFFFFFF (Basic), and a manual intraday reference-price update generates the same messages [P] [^pse-securities-static-data-file:4] [^pse-quote-file-eod-spec-2014:2] [^pse-itch-equities-feed-spec-v2-3:27]. (Specs are the X-stream-era documents; the Nasdaq Eqlipse migration may change message formats.)
 - **Clearing interplay**: SCCP's MTM reflects price changes from corporate actions (Rule 8.1.6) [P] [^sccp-clearing-house-rules-2018:44]; market claims: custodians can file claims from record date +1 for trades that settle across the record date or fail; "protection of rights" notices go out from ex-date +2 trading days [S] [^rbc-ph-market-profile].
 - **Taxes touching flows**: stock transaction tax reduced from 0.6% to **0.1%** of gross selling price for exchange transactions from 1 Jul 2025 (RA 12214/CMEPA) [P] [^pse-cn-2025-0026-stt-decrease-advisory:1] [^pse-cn-2025-0028-cmepa-effectivity:1]; Clearstream reflects 0.1% [S] [^clearstream-ph-settlement-process]; RBC (Sep 2023) still shows 0.6% (stale) [S] [^rbc-ph-market-profile].
 
 ### Inferences
 - [I] Under T+2 a buyer on the ex-date settles on RD+1 and so is not on the register at RD; a buyer on RD-2 settles on RD and is. Under T+3 the arithmetic ex-date would have been RD-2, so the old RD-3 convention carried a one-day safety buffer. Moving to RD-1 therefore shifted the ex-date two trading days closer to the record date (one day from the shorter cycle, one from dropping the buffer): shares now trade cum-entitlement until RD-2 instead of RD-4. Backtests and corporate-action calendars spanning 24 Aug 2023 need the convention switched at that date.
-- [I] Order cancellation at the ex-date reset means any resting order can be purged when the closing price is adjusted; strategies must resubmit at the open.
+- [I] Under RTR Art. IV Sec. 14(c) resting orders in a stock with a cash or property dividend are cancelled on its ex-date, and all orders in a stock whose closing price is adjusted are cancelled; the rule text does not carve out multi-day validities (GTC/GTW/GTD), so assume they are purged too and that strategies must resubmit after the open's reference price is set.
 
 ### Execution implications
 - Pull ex-dates, record dates and payment dates from the EDGE "Dividends and Rights" list (POST endpoint above) and the market calendar, and recompute entitlement with trade date < ex-date; do not use the legacy "3 trading days before record date" convention (still present in the PSE rulebook compilation).
-- On ex-date, re-seed reference/limit prices from the ACP/LACP (static-data `lacp`, EOD "Adjusted Previous", SOD reference-price message), expect threshold and order-book resets, and avoid carrying GTC/resting orders across ex-dates.
+- On ex-date, re-seed reference/limit prices from the ACP/LACP (static-data `lacp`, EOD "Adjusted Previous", SOD reference-price message), expect the Exchange to cancel resting orders (RTR Art. IV Sec. 14(c)), and avoid carrying GTC/resting orders across ex-dates; cross-check the published reference price against your own adjustment because PSE itself once opened a day with an unadjusted price (UBP, 21 Dec 2023).
 - Rights cannot be sold: if the strategy cannot subscribe, avoid holding through the rights record date or accept dilution; check custodian availability and early internal deadlines (custodian cut-offs precede the company's).
 - Withholding tax on dividends to non-residents is at source via PDTC participants: plan relief-at-source paperwork (treaty/tax sparing) with the custodian before pay date.
 - Dividend proceeds arrive after the payment date plus bank/cheque clearing (days), not on pay date.
@@ -280,9 +287,10 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
 - **Settlement flow for foreign investors (Clearstream, updated 5 Jan 2026)**: matched trades go to SCCP; the broker-to-custodian leg settles at PDTC (BaNCS v6), not DVP in the SCCP sense: "movements of cash and securities for off-exchange transactions do not adhere to DVP principles", it is a two-step payment then delivery; securities to be sold must be in the broker's account by 12:00 SD; for purchases custodians pay brokers when securities arrive after the SCCP window; pre-matching facility exists; delivery trades are not on automatic release; the system is available 07:00-18:00 [S] [^clearstream-ph-settlement-process]. RBC: broker-to-custodian settlement is gross trade-for-trade; deadline strictly 12:00 noon for deliveries/receipts; pre-matching still by file exchange and phone; finality when both delivery and receipt orders are executed in PDTC; funds via RTGS or direct entry (some counterparties still use manager's cheques) [S] [^rbc-ph-market-profile].
 - **Pre-matching and cut-offs at Clearstream (CBL), listed equities**: pre-matching manual via telephone starting 09:00 on SD-1; mismatches advised by 09:30 on SD; no amendment of a mismatched instruction - cancel and re-instruct by 10:00 on SD; no countervalue tolerance; no partial settlement; funding for third-party-bank cash must be credited by SD-1 14:30 PHT (MT210 is no guarantee); CBL deadline for receipt of valid instructions for PDTC-eligible securities is **03:35 CET/CEST on SD in both seasons, i.e. 09:35 PHT** (CBL's own expected settlement-result windows are 07:30-08:30 for deliveries and 10:30-11:30 for receipts on its summer-2026 table, i.e. 13:30-14:30 and 16:30-17:30 PHT by my conversion) [S] [^clearstream-ph-settlement-services] [^clearstream-ph-settlement-times]. Conversion PHT = CEST + 6h (summer 29 Mar-24 Oct 2026) or CET + 7h (winter 25 Oct 2025-27 Mar 2026) [I].
 - **SSI conventions (Clearstream)**: counterparty delivers to "SCB (BIC SCBLPHMM) for account of CBL (BIC CEDELULL) in favour of [client name and account]" and receives from the same; cash via MT202 with `REC/RTGS` in :72: and beneficiary bank BIC in :58D:; manager's cheques not accepted; remittances to SCB with purpose "Securities Transaction" in :70:; CBL accepts only securities with a valid BSP registration (BSRD/BSP reference number) for receipts; turnaround/back-to-back processing available (POOL ID, SETR//TURN) [S] [^clearstream-ph-settlement-services] [^clearstream-ph-cash-services] [^clearstream-ph-investment-regulation].
-- **BSP registration (FX Manual, May 2025 edition, as amended through Circular 1192 of 11 Apr 2024)**: Sec. 32.2: inward foreign investments need not be registered with the BSP unless repatriation of capital/earnings in pesos is to be funded with FX resources of authorised agent banks (AABs); a BSRD evidences registration, "except those covered by Section 37 for which a BSRD shall no longer be issued" [P] [^bsp-fx-manual-morfxt-2025-05:42]. Sec. 37: equity securities of residents listed on an onshore exchange (e.g., PSE), ETFs, PDRs and others are registered by a **registering AAB** (an FCDU bank designated by the investor) reporting to the BSP; inward FX must be converted to pesos via an AAB/AAB forex corp unless the investment must be funded in FX; the investor signs an "Authority to Disclose Information" covering all registered investments [P] [^bsp-fx-manual-morfxt-2025-05:46]. Clearstream's custodian view: BSP registration is needed for repatriation, BSRD replaced by a BSP reference number, and CBL accepts only registered securities for receipt [S] [^clearstream-ph-investment-regulation] [^clearstream-ph-settlement-services].
+- **BSP registration (FX Manual, "Updated as of May 2025"; Secs. 32.2 and 37 last amended by Circular 1192 of 11 Apr 2024; the live file on bsp.gov.ph fetched on 6 Oct 2026 is byte-identical to the archived copy, so this is still the current edition)**: Sec. 32.2: inward foreign investments need not be registered with the BSP unless repatriation of capital/earnings in pesos is to be funded with FX resources of authorised agent banks (AABs); a BSRD evidences registration, "except those covered by Section 37 for which a BSRD shall no longer be issued" [P] [^bsp-fx-manual-morfxt-2025-05:42]. Sec. 37: equity securities of residents listed on an onshore exchange (e.g., PSE), ETFs, PDRs and others are registered by a **registering AAB** (an FCDU bank designated by the investor) reporting to the BSP; inward FX must be converted to pesos via an AAB/AAB forex corp unless the investment must be funded in FX; the investor signs an "Authority to Disclose Information" covering all registered investments [P] [^bsp-fx-manual-morfxt-2025-05:46]. Clearstream's custodian view: BSP registration is needed for repatriation, BSRD replaced by a BSP reference number, and CBL accepts only registered securities for receipt [S] [^clearstream-ph-investment-regulation] [^clearstream-ph-settlement-services].
 - **Same-day turnaround** allowed for foreign investors but constrained by cheque clearing; instructions on both legs must arrive together [S] [^clearstream-ph-settlement-process].
 - **Give-up/Take-up (GUTU)**: under the Revised Trading Rules (2010) a trading participant may assign an outstanding client order to another TP for clearing and settlement; the Settling TP assumes liability by agreement but the Assigning TP stays solidarily liable; proprietary orders cannot be given up [P] [^pse-revised-trading-rules:27-28] [^pse-revised-trading-rules:9]. SCCP's give-up/take-up facility was proposed in January 2011 (SCCP Board 19 Jan 2011; PSE proposed rules 21 Jan 2011) and revised by the SCCP Board on 18 May 2011, per PSE Memo for Brokers 03-0511 of 24 May 2011 [S, paywalled summary] [^digest-ph-sccp-gutu-2011]; a word search of the posted 2018 SCCP Rules and OpProcs finds no give-up/take-up provision, so the operative mechanics are not in the published rulebook (inference), and current status is unverified.
+- **Class A/B share declassification (delivery of the class bought)**: SEC Memorandum Circular No. 10, s. 2025 (PSE CN-2025-0035 of 11 Aug 2025; the SEC text attached to that circular has a blank number and date, the PSE circular names it MC 10 of 7 Aug 2025) repeals the 1973 rules that let "B" shares trade on the regular board and made buyers accept either "A" or "B" certificates, discontinues the Class A/B split of listed common shares, gives affected companies one year to amend their articles, and in the meantime obliges regular-board buyers to "accept the delivery of the specific class of shares that they have purchased and paid for"; its preamble says the split "has been a source of administrative inefficiencies for the trading participants and the SCCP"; Sec. 4 requires a foreign buyer whose trade breaches a foreign-ownership limit, through its broker, to dispose of the excess at the prevailing market price immediately (same day if found during trading hours, otherwise at the next open) and return the proceeds [P] [^pse-cn-2025-0035-sec-declassification-mandate:1-3]. PSE CN-2025-0036 (15 Aug 2025): the circular took effect on 9 Aug 2025, affected companies have until 9 Aug 2026 to amend their articles, and the buyer-receives-the-class-bought rule applies from 11 Aug 2025 [P] [^pse-cn-2025-0036-declassification-effectivity:1]. Per-issuer completion is by PSE circular (price adjustment and two-day suspension before delisting; see 5) [P] [^pse-cn-2026-0041-declassification-price-suspension:1-2]. [I] For a foreign holder this removes one source of delivery mismatches for the listed names still dual-class, but the foreign-ownership accounting that follows the PCD Nominee (Filipino/foreign) split and the FOL-breach unwind (Sec. 4 of the SEC circular) remain.
 - **Dollar-denominated securities (DDS)**: PSE DDS Rules (SEC-approved 10 Nov 2016) Part D: settlement in USD; TPs need an FCDU account and a separate USD cash settlement account at the SCCP-designated settlement bank; USD cash list to the bank; funds must be good cleared funds by the deadline (same-day USD notes may not clear); no CCCS cash instruction needed (cash handled outside CCCS under the old system); same fails management; CTGF contributions paid in pesos using the PDEx closing USD rate; separate USD MTM collateral (cash USD, or early delivery up to settlement date), USD cash collateral deposit accounts [P] [^pse-dds-rules:8-10]. SCCP's Dec 2016 TP training: settlement bank BDO, deadline 12:00 NN of T+3 then, USD fund transfers via PDDTS the day before settlement, penalties in PHP at the PDEx close [P] [^sccp-dds-clearing-settlement-2016:3-5] [^sccp-dds-clearing-settlement-2016:11-14]. The new C&S System handles PHP and USD settlement and collateral (four PHP and four USD collateral accounts per CM) [P] [^sccp-cs-quick-guide:5] [^sccp-memo-01-0222-collateral-accounts-pdtc:2]; no separate DDS cycle announcement was found, so I infer DDS follow the T+2 cycle with the same 12:00 deadline [I]. SCCP's 2016 deck also covers BSP FX rule changes (Circular 925) letting residents buy FX through the banking system, and PSE's FY2016 report records the BSP Monetary Board approval (8 Sep 2016) of FX amendments including purchases to fund SCCP settlement fails [P] [^sccp-dds-clearing-settlement-2016:6-10] [^pse-annual-report-2016:72]. NoCD mandatory for DDS [P] [^sec-dds-directive-2017:1].
 - **FX/price conventions**: peso settlement; FX typically arranged on T+1 by the investor with the custodian (standing instructions or embedded FX in MT54x); local exchange rate conventions not set by SCCP [S] [^rbc-ph-market-profile].
 
@@ -295,6 +303,7 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
 - Avoid late partial fills with different counter-values: no tolerance, no partial settlement at CBL.
 - Using a clearing broker via give-up/take-up can centralise settlement but check with the exchange rule status and your broker's agreement.
 - DDS: keep USD liquidity at the designated settlement bank the day before SD; accept NoCD consent/KYC steps.
+- FOL-capped names: a buy that breaches the foreign ownership limit is unwound by the foreign buyer's broker at market the same day or at the next open (SEC MC 10-2025 Sec. 4), so FOL headroom checks belong before order entry, not at settlement.
 
 ### Gaps
 - No HSBC, Citi, Deutsche Bank, Standard Chartered, BNP or J.P. Morgan Philippines market guides retrieved (Euroclear/SC URLs returned 403; others not found); other custodians' SSI formats and cut-offs are unknown.
@@ -449,8 +458,8 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   canonical_url: https://sccp.com.ph/resources/files/memos/2023/06-0823%20Announcement%20of%20SEC%20Approval%20of%20T+2-Related%20Amendments%20to%20the%20SCCP%20Rules%20and%20Operating%20Procedures.pdf
   local_path: pdfs/sccp-memo-06-0823-sec-approval-t2-amendments.pdf
   edition: in-force
-  amended_through: 2023-08-24
-  note: "Redline: strikethrough = deleted, bold-underline = inserted (text extraction interleaves both; read visually)."
+  amended_through: 2023-08-18
+  note: "Memo dated 18 Aug 2023; amendments effective on T+2 implementation 24 Aug 2023. Redline: strikethrough = deleted, bold-underline = inserted (text extraction interleaves both; read visually)."
 - slug: sccp-memo-07-0823-sec-approved-amendments
   title: "SCCP Memo 07-0823 (23 Aug 2023): SEC-approved amendments (Rule 2.3.5, buy-in/sell-out, collateral, holidays, multiple settlement)"
   publisher: SCCP
@@ -513,7 +522,7 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   local_path: pdfs/sccp-memo-02-0125-sec-approval-rules-3-4-5-1-4-6-2-8-7-6.pdf
   edition: in-force
   amended_through: 2025-01-21
-  note: "Effective immediately under Rule 1.4.3; body shows 3.4/Annex 11, 5.1.4(3), 6.2.8 but not 7.6 text."
+  note: "Effective immediately under Rule 1.4.3; pp.1-2 show Rule 3.4/Annex 11, 5.1.4(3) and 6.2.8; p.3 shows the full new Rule 7.6 text in a boxed block above the signature (the PDF text layer places it after the signature)."
 - slug: sccp-memo-01-0725-ctgf-refund-sec-approval
   title: "SCCP Memo 01-0725 (8 Jul 2025): SEC approval of amendments on refund of CTGF contributions"
   publisher: SCCP
@@ -653,7 +662,7 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   title: "PSE Consolidated Listing and Disclosure Rules (published as of January 2025)"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/15/2025/01/Consolidated-Listing-and-Disclosure-Rules-Updated-011025.pdf
   local_path: pdfs/pse-listing-disclosure-rules.pdf
   edition: in-force
   amended_through: 2025-01-31
@@ -662,7 +671,7 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   title: "PSE Revised Trading Rules (SEC-approved; PSE memo 2010-0275, 8 Jun 2010)"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/15/2021/04/Revised-Trading-Rules.pdf
   local_path: pdfs/pse-revised-trading-rules.pdf
   edition: in-force
   amended_through: 2010-06-08
@@ -671,7 +680,7 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   title: "Implementing Guidelines of the Revised Trading Rules (PSE memo 2010-0340, 22 Jul 2010)"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/15/2021/04/Implementing-Guidelines-of-the-Revised-Trading-Rules.pdf
   local_path: pdfs/pse-implementing-guidelines-trading-rules.pdf
   edition: in-force
   amended_through: 2010-07-22
@@ -680,7 +689,7 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   title: "PSE Annual Report 2014 (with consolidated FS)"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://ir.pse.com.ph/wp-content/uploads/sites/4/2020/04/2014-PSE-Annual-Report.pdf
   local_path: pdfs/pse-annual-report-2014.pdf
   edition: historical
   amended_through: 2014-12-31
@@ -689,7 +698,7 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   title: "PSE Annual Report 2015"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://ir.pse.com.ph/wp-content/uploads/sites/4/2020/04/2015-PSE-Annual-Report.pdf
   local_path: pdfs/pse-annual-report-2015.pdf
   edition: historical
   amended_through: 2015-12-31
@@ -698,7 +707,7 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   title: "PSE Annual Report 2016"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://ir.pse.com.ph/wp-content/uploads/sites/4/2020/04/PSE-2016-FA-Meeting-Challenges.pdf
   local_path: pdfs/pse-annual-report-2016.pdf
   edition: historical
   amended_through: 2016-12-31
@@ -707,7 +716,7 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   title: "PSE Annual Report 2017"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2021/07/2017_PSE_Annual_Report.pdf
   local_path: pdfs/pse-annual-report-2017.pdf
   edition: historical
   amended_through: 2017-12-31
@@ -716,70 +725,133 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   title: "PSE Annual Report 2018"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2021/02/2018_PSE_Annual_Report.pdf
   local_path: pdfs/pse-annual-report-2018.pdf
   edition: historical
   amended_through: 2018-12-31
-  note: "CTGF composition (p.121)."
+  note: "CTGF composition (p.121); 2018 clearing and settlement statistics, Rule 5.2 refund approval and C&S project history (p.47)."
 - slug: pse-annual-report-2019
   title: "PSE Annual Report 2019"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2021/06/PSE-Annual-Report-2019-1.pdf
   local_path: pdfs/pse-annual-report-2019.pdf
   edition: historical
   amended_through: 2019-12-31
-  note: "SCCP licence history (p.39); CTGF P1.248bn (p.66)."
+  note: "SCCP licence history (p.39); 2019 clearing and settlement statistics and the 15 May 2019 award of the new C&S system (p.27); year-end exposure (p.65); CTGF P1.248bn (p.66)."
+- slug: pse-annual-report-2020
+  title: "PSE Annual Report 2020 (SEC Form 17-A for FY2020)"
+  publisher: The Philippine Stock Exchange, Inc.
+  type: pdf
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2021/06/2020-Annual-Report.pdf
+  local_path: pdfs/pse-annual-report-2020.pdf
+  edition: historical
+  amended_through: 2020-12-31
+  note: "I archived this file. Image-only scan except the cover page (80 pages; I read p.47 from a rendered image): Dec 2019 Millennium IT agreements and the forecast Q1 2022 go-live of the new clearing and settlement system."
+- slug: pse-annual-report-2021
+  title: "PSE Annual Report 2021 (SEC Form 17-A for FY2021)"
+  publisher: The Philippine Stock Exchange, Inc.
+  type: pdf
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2022/05/2021-Annual-Report.pdf
+  local_path: pdfs/pse-annual-report-2021.pdf
+  edition: historical
+  amended_through: 2021-12-31
+  note: "I archived this file. Image-only scan except the cover page (63 pages; I read p.32 from a rendered image): forecast Q2 2022 go-live of the new clearing and settlement system."
+- slug: pse-17c-2019-12-04-sccp-millennium-it-agreements
+  title: "PSE SEC Form 17-C (4 Dec 2019): SCCP agreements with Millennium IT Software (Private) Limited for Millennium Post Trade and Millennium Risk"
+  publisher: The Philippine Stock Exchange, Inc. (via PSE EDGE)
+  type: pdf
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2021/02/17-C-04-December-2019-%E2%80%93-Agreements-between-SCCP-subsidiary-and-Millennium-IT-Software-Private-Limited.pdf
+  local_path: pdfs/pse-17c-2019-12-04-sccp-millennium-it-agreements.pdf
+  edition: historical
+  amended_through: 2019-12-04
+  note: "I archived this file. Scope only (software licence and maintenance; consultancy); no contract value stated. Pages 4-6 are blank."
 - slug: pse-annual-report-2025
   title: "PSE Annual Report 2025"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2026/04/2025-Annual-Report.pdf
   local_path: pdfs/pse-annual-report-2025.pdf
   edition: in-force
   amended_through: 2025-12-31
   note: "SCCP description and governance (pp.8, 44-47)."
+- slug: pse-audited-fs-2020
+  title: "PSE and Subsidiaries: Audited Consolidated Financial Statements for the year ended 31 December 2020 (Annex B to the FY2020 SEC Form 17-A)"
+  publisher: The Philippine Stock Exchange, Inc.
+  type: pdf
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2021/05/Annex-B-Audited-Consolidated-Financial-Statements.pdf
+  local_path: pdfs/pse-audited-fs-2020.pdf
+  edition: historical
+  amended_through: 2020-12-31
+  note: "I archived this file. CTGF note (Note 34) on pp.84-85 gives the CTGF size and composition for 2020 and 2019; text layer present."
+- slug: pse-audited-fs-2022
+  title: "PSE and Subsidiaries: Audited Consolidated Financial Statements for the year ended 31 December 2022 (Annex B to the FY2022 SEC Form 17-A)"
+  publisher: The Philippine Stock Exchange, Inc.
+  type: pdf
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2023/05/Annex-B-%E2%80%93-Audited-Consolidated-Financial-Statements.pdf
+  local_path: pdfs/pse-audited-fs-2022.pdf
+  edition: historical
+  amended_through: 2022-12-31
+  note: "I archived this file. Image-only scan (no text layer); I read the CTGF note (Note 34, printed page 69) on physical p.80 from a rendered image: CTGF size and composition for 2022 and 2021."
+- slug: pse-annual-report-2024-compiled-17a
+  title: "PSE SEC Form 17-A for FY2024 compiled with annexes (includes the audited consolidated financial statements)"
+  publisher: The Philippine Stock Exchange, Inc.
+  type: pdf
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2025/04/Annual-Report-Compiled-17-A-with-Annexes_compressed-1.pdf
+  local_path: pdfs/pse-annual-report-2024-compiled-17a.pdf
+  edition: historical
+  amended_through: 2024-12-31
+  note: "I archived this file. 290 pages, image-only scan; I read the CTGF note (Note 36, printed pp.71-73) on physical pp.148-150 from rendered images: CTGF size and composition for 2024 and 2023, asset breakdown and the paragraph on the SEC's 13 Mar 2018 approval of the Rule 5.2 refund amendment."
+- slug: pse-audited-fs-2025
+  title: "PSE and Subsidiaries: Audited Consolidated Financial Statements for the year ended 31 December 2025 (Annex B to the FY2025 SEC Form 17-A)"
+  publisher: The Philippine Stock Exchange, Inc.
+  type: pdf
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2026/04/Annex-B-%E2%80%93-Audited-Consolidated-Financial-Statements.pdf
+  local_path: pdfs/pse-audited-fs-2025.pdf
+  edition: in-force
+  amended_through: 2025-12-31
+  note: "I archived this file (106 pages, text layer). Cited: p.16 (PDSHC ownership 94.21%), p.39 (CCCS launch 29 May 2006, SCCP deferred tax), p.40-41 (SCCP risk note: MMCD, 20% haircut since 14 Nov 2008, new C&S System, T+2), p.59 and p.89 (Equitiworld takeover), p.65 (SCCP 50.00m appropriation), p.82 (outstanding trades at year-end), p.86-87 (CTGF size, composition, assets)."
 - slug: pse-asm-2025-presidents-report
   title: "PSE 2025 Annual Stockholders' Meeting: President's Report"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2025/07/PSE-ASM-2025-PRESIDENT_S-REPORT-FINAL-v2.pdf
   local_path: pdfs/pse-asm-2025-presidents-report.pdf
   edition: historical
-  amended_through: 2025-05-30
-  note: "PSE owns 92.06% of PDS at 30 May 2025 (p.32)."
+  amended_through: 2025-07-12
+  note: "Cover: President's Report, July 12, 2025. PSE owns 92.06% of PDS at 30 May 2025 (p.32)."
 - slug: pse-asm-2026-president-report
   title: "PSE 2026 Annual Stockholders' Meeting: President's Report"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2026/07/PSE-ASM-2026-PRESIDENT_S-REPORT.pdf
   local_path: pdfs/pse-asm-2026-president-report.pdf
   edition: in-force
-  amended_through: undated
-  note: "PDS integration roadmap incl. single post-trade system, Phase 2 target 2027 (p.28)."
+  amended_through: 2026-07-04
+  note: "Cover: President's Report, July 4, 2026. PDS integration roadmap incl. single post-trade system, Phase 2 target 2027 (p.28); NoCD expansion (p.28)."
 - slug: pse-analyst-briefing-3m-2026
   title: "PSE Analyst Briefing, 3M 2026"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2026/07/3M-2026-PSE-Analyst-Briefing.pdf
   local_path: pdfs/pse-analyst-briefing-3m-2026.pdf
   edition: historical
-  amended_through: 2026-03-31
-  note: "PSE owns 94.55% of PDS at 5 Mar 2026; new central depository system (pp.24-25)."
+  amended_through: 2026-03-18
+  note: "PSE owns 94.55% of PDS at 5 Mar 2026; new central depository system (pp.24-25). Cover date March 18, 2026."
 - slug: pse-analyst-briefing-1h-2026
   title: "PSE Analyst Briefing, 1H 2026"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2026/08/2026.08.17-PSE-STAR-1H-2026.pdf
   local_path: pdfs/pse-analyst-briefing-1h-2026.pdf
   edition: in-force
-  amended_through: 2026-06-30
-  note: "SCCP service fees, depository assets, PDS roadmap (pp.7, 18, 31)."
+  amended_through: 2026-08-17
+  note: "SCCP service fees (p.7), depository assets (p.18), PDS roadmap (p.31). Cover: PSE STAR Briefing, August 17, 2026; data to 30 Jun 2026."
 - slug: pse-17c-2024-12-26-pdshc-acquisition-agreements
   title: "PSE SEC Form 17-C (26 Dec 2024): Agreements for the acquisition of PDSHC shares"
   publisher: The Philippine Stock Exchange, Inc. (via PSE EDGE)
   type: pdf
-  canonical_url: unknown (archived by another researcher; PSE EDGE)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/4/2025/01/17-C-December-26-2024-%E2%80%93-Signing-of-Agreements-for-the-Acquisition-of-Philippine-Dealing-System-Holdings-Corp.pdf
   local_path: pdfs/pse-17c-2024-12-26-pdshc-acquisition-agreements.pdf
   edition: historical
   amended_through: 2024-12-26
@@ -792,30 +864,75 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   local_path: pdfs/pse-17c-2026-02-04-pdic-pdshc-shares.pdf
   edition: historical
   amended_through: 2026-02-04
-  note: "Archived by another researcher; I cite pp.3-9 for PSE's 94.55% beneficial ownership of PDSHC, the aggregate 73.65% purchase and the closing trail. Pages 11-69 (attached PDSHC financial statements) have no text layer."
+  note: "Archived by another researcher (browser print of the EDGE page, file_id 1866581; the same filing is also at documents.pse.com.ph under sites/4/2026/03). I cite pp.3-9 for PSE's 94.55% beneficial ownership of PDSHC, the aggregate 73.65% purchase and the closing trail. Pages 11-69 (attached PDSHC financial statements) have no text layer."
+- slug: pse-tpa-2011-0110-amended-revised-trading-rules
+  title: "PSE TPA 2011-0110 (7 Dec 2011): SEC-approved amendments to the Revised Trading Rules, effective January 2012"
+  publisher: The Philippine Stock Exchange, Inc.
+  type: pdf
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/15/2024/08/1_Amended-Revised-Trading-Rules_TPA_2011-0110.pdf
+  local_path: pdfs/pse-tpa-2011-0110-amended-revised-trading-rules.pdf
+  edition: in-force
+  amended_through: 2011-12-07
+  note: "Archived by another researcher; scanned (pages 2-6 have no text layer; I read p.4 as an image). I cite only Art. IV Sec. 14(c) (order cancellation on corporate actions and ex-dates); other articles in it have since been amended (trading hours, 2013-2025)."
+- slug: pse-cn-2023-0074-ubp-trading-suspension
+  title: "PSE CN-2023-0074 (21 Dec 2023): Trading suspension of Union Bank of the Philippines shares"
+  publisher: The Philippine Stock Exchange, Inc.
+  type: pdf
+  canonical_url: https://documents.pse.com.ph/CircularOPSPDF/CN-2023-0074.pdf
+  local_path: pdfs/pse-cn-2023-0074-ubp-trading-suspension.pdf
+  edition: n/a
+  amended_through: 2023-12-21
+  note: "Archived by another researcher. Previous close not adjusted for UBP's 27% stock dividend; trading resumed 22 Dec 2023 at the adjusted price."
+- slug: pse-cn-2025-0035-sec-declassification-mandate
+  title: "PSE CN-2025-0035 (11 Aug 2025): SEC mandate to declassify Class A and Class B shares (SEC MC 10 s.2025 attached, pp.2-3)"
+  publisher: The Philippine Stock Exchange, Inc. / Securities and Exchange Commission
+  type: pdf
+  canonical_url: https://documents.pse.com.ph/CircularOPSPDF/CN-2025-0035.pdf
+  local_path: pdfs/pse-cn-2025-0035-sec-declassification-mandate.pdf
+  edition: in-force
+  amended_through: 2025-08-11
+  note: "Archived by another researcher. The attached SEC circular text has a blank number and date; PSE's cover page names it MC 10 s.2025 issued 7 Aug 2025."
+- slug: pse-cn-2025-0036-declassification-effectivity
+  title: "PSE CN-2025-0036 (15 Aug 2025): Effectivity of the SEC circular mandating declassification of Class A and Class B shares"
+  publisher: The Philippine Stock Exchange, Inc.
+  type: pdf
+  canonical_url: https://documents.pse.com.ph/CircularOPSPDF/CN-2025-0036.pdf
+  local_path: pdfs/pse-cn-2025-0036-declassification-effectivity.pdf
+  edition: in-force
+  amended_through: 2025-08-15
+  note: "Archived by another researcher. Effective 9 Aug 2025; articles to be amended by 9 Aug 2026; buyers receive the class bought from 11 Aug 2025."
+- slug: pse-cn-2026-0041-declassification-price-suspension
+  title: "PSE circular of 10 Sep 2026 (filed as 2026-0041): Price adjustment upon declassification of shares and trade suspension prior to delisting"
+  publisher: The Philippine Stock Exchange, Inc.
+  type: pdf
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/15/2026/09/2026-0041-Declassification-Price-Adjustment-and-Trading-Suspension-Mechanics.pdf
+  local_path: pdfs/pse-cn-2026-0041-declassification-price-suspension.pdf
+  edition: in-force
+  amended_through: 2026-09-10
+  note: "Archived by another researcher. Adjusted price = higher of Class A/B closes; two-trading-day suspension so trades settle on the standard T+2 cycle; sample timeline on p.2."
 - slug: ra-8799-src
   title: "Republic Act No. 8799, The Securities Regulation Code"
   publisher: Republic of the Philippines
   type: pdf
-  canonical_url: https://lawphil.net/statutes/repacts/ra2000/ra_8799_2000.html
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/15/2021/04/Securities-Regulation-Code-1.pdf
   local_path: pdfs/ra-8799-src.pdf
   edition: in-force
   amended_through: 2000-07-19
-  note: "Archived by another researcher; canonical URL is the lawphil HTML text I read for section wording."
+  note: "Archived by another researcher; the archived file is the PSE-hosted copy (249,135 bytes, same as the URL shown). Approved 19 Jul 2000 per the last page."
 - slug: sec-2015-src-irr
   title: "2015 Implementing Rules and Regulations of the Securities Regulation Code"
   publisher: Securities and Exchange Commission (Philippines)
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://appointment.sec.gov.ph/wp-content/uploads/2019/11/2015IRR_RA9799.pdf
   local_path: pdfs/sec-2015-src-irr.pdf
   edition: in-force
-  amended_through: 2015-12-31
-  note: "Rule 42 (clearing agencies), 36.4.4.5 (CCP), 28.1.2.5.2(b)."
+  amended_through: 2015-08-04
+  note: "Signed 4 August 2015 (SEC Resolution No. 494, s.2015); effective 15 days after the last newspaper publication (publication date not in the document). Rule 42 (clearing agencies), 36.4.4.5 (CCP), 28.1.2.5.2(b)."
 - slug: pse-dds-rules
   title: "PSE Rules on Dollar Denominated Securities (SEC-approved 10 Nov 2016)"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/15/2021/01/Approved_DDS_Rules.pdf
   local_path: pdfs/pse-dds-rules.pdf
   edition: in-force
   amended_through: 2016-11-10
@@ -824,16 +941,16 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   title: "PSE CN-2018-0023 (10 Apr 2018): Proposed rule amendment and guidelines for trading without settlement"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/CircularOPSPDF/CN-2018-0023.pdf
   local_path: pdfs/pse-cn-2018-0023-trading-without-settlement-proposal.pdf
-  edition: superseded
+  edition: historical
   amended_through: 2018-04-10
   note: "T+3-era SCCP guideline; formalised later as Rule 4.9."
 - slug: pse-cn-2025-0026-stt-decrease-advisory
   title: "PSE CN-2025-0026 (11 Jun 2025): Advisory on decrease of stock transaction tax"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/CircularOPSPDF/CN-2025-0026.pdf
   local_path: pdfs/pse-cn-2025-0026-stt-decrease-advisory.pdf
   edition: in-force
   amended_through: 2025-06-11
@@ -842,7 +959,7 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   title: "PSE CN-2025-0028 (26 Jun 2025): Effectivity of RA 12214 (CMEPA)"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/CircularOPSPDF/CN-2025-0028.pdf
   local_path: pdfs/pse-cn-2025-0028-cmepa-effectivity.pdf
   edition: in-force
   amended_through: 2025-06-26
@@ -851,25 +968,25 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   title: "PSE Policy on Index Management (2024)"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/15/2024/01/Policy-on-Index-Management-ver-2024.pdf
   local_path: pdfs/pse-index-policy-2024.pdf
   edition: in-force
-  amended_through: undated
-  note: "Corporate-action adjustment language (p.14)."
+  amended_through: 2024-01-31
+  note: "Cover says only 'January 2024' (month precision; month end used). Corporate-action adjustment language (p.14)."
 - slug: pse-itch-equities-feed-spec-v2-3
   title: "PSE ITCH Equities Feed Specification v2.3 (X-stream)"
   publisher: The Philippine Stock Exchange, Inc. / OMX Technology
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/15/2024/03/PSE_Equities_Feed_Specification_v2.3.pdf
   local_path: pdfs/pse-itch-equities-feed-spec-v2-3.pdf
-  edition: historical
-  amended_through: 2014-10-09
-  note: "Revision history to 2014-10-09; reference-price message mechanics (p.27). Pre-Eqlipse."
+  edition: in-force
+  amended_through: 2018-10-05
+  note: "Cover: Version 2.3, 5 October 2018 (revision history from 2014). X-stream feed, live until the Nasdaq Eqlipse cutover planned for 23 Nov 2026 (per the market-architecture chapter). Reference-price message mechanics (p.27)."
 - slug: pse-securities-static-data-file
   title: "PSE Securities Static Data File specification"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/15/2026/07/PSE_Securities-Static-Data_File_v1.0-1.pdf
   local_path: pdfs/pse-securities-static-data-file.pdf
   edition: in-force
   amended_through: 2026-06-22
@@ -878,7 +995,7 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   title: "PSE Quote File (EOD) specification (2014)"
   publisher: The Philippine Stock Exchange, Inc.
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://documents.pse.com.ph/wp-content/uploads/sites/15/2021/01/Quote-File-for-End-of-Dat-Security-Prices-updated-as-of-November-04-2014.pdf
   local_path: pdfs/pse-quote-file-eod-spec-2014.pdf
   edition: historical
   amended_through: 2014-11-04
@@ -890,8 +1007,8 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   canonical_url: https://www.bsp.gov.ph/PaymentAndSettlement/ScheduleofPesoRTGS.pdf
   local_path: pdfs/bsp-schedule-peso-rtgs.pdf
   edition: in-force
-  amended_through: 2025-06-21
-  note: "Obtained from Wayback capture 2025-06-21 (BSP blocks curl). Possibly superseded by the 22/7 operations regime; unverified."
+  amended_through: undated
+  note: No date printed on the document. Obtained from Wayback capture 2025-06-21 (BSP blocks curl). Possibly superseded by the 22/7 operations regime; unverified.
 - slug: bsp-philpassplus-primer
   title: "The PhilPaSSplus Primer"
   publisher: Bangko Sentral ng Pilipinas
@@ -899,8 +1016,8 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   canonical_url: https://www.bsp.gov.ph/PaymentAndSettlement/PhilPaSSplus_primer.pdf
   local_path: pdfs/bsp-philpassplus-primer.pdf
   edition: in-force
-  amended_through: 2025-10-14
-  note: "Wayback capture 2025-10-14; operating hours 9:00-17:45 Mon-Fri (p.10)."
+  amended_through: undated
+  note: "No date printed on the document. Wayback capture 2025-10-14; operating hours 9:00-17:45 Mon-Fri (p.10)."
 - slug: bsp-faqs-22x7-peso-rtgs-2026-07
   title: "BSP Payments and Settlements Department: Frequently Asked Questions on the 22/7 Peso Real-Time Gross Settlement Operations (July 2026)"
   publisher: Bangko Sentral ng Pilipinas
@@ -917,17 +1034,17 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   canonical_url: https://www.bsp.gov.ph/Regulations/Issuances/2022/M-2022-049.pdf
   local_path: pdfs/bsp-m-2022-049-peso-rtgs-rules.pdf
   edition: in-force
-  amended_through: 2022-12-31
-  note: "Wayback capture 2025-04-15; OCR-noisy scan; payment finality and DvP (p.8). Date of issuance not verified."
+  amended_through: 2022-11-17
+  note: Approved by Monetary Board Resolution No. 1680 dated 17 Nov 2022 (memo issuance date not stated). Wayback capture 2025-04-15; OCR-noisy scan; payment finality and DvP (p.8).
 - slug: bsp-fx-manual-morfxt-2025-05
   title: "BSP Manual of Regulations on Foreign Exchange Transactions (May 2025)"
   publisher: Bangko Sentral ng Pilipinas
   type: pdf
-  canonical_url: unknown (archived by another researcher)
+  canonical_url: https://www.bsp.gov.ph/Regulations/MORFXT/MORFXT.pdf
   local_path: pdfs/bsp-fx-manual-morfxt-2025-05.pdf
   edition: in-force
   amended_through: 2025-05-31
-  note: "Sections 33, 36, 37 on registration of inward investments (p.42)."
+  note: "Cover: 'Updated as of May 2025' (month precision; month end used). Sec. 32.2 (p.42) and Sec. 37 (p.46) on registration of inward investments. The live file at the URL shown, fetched through WebFetch's local binary save on 6 Oct 2026, is byte-identical to the archived copy; BSP blocks curl."
 - slug: sccp-web-about
   title: "SCCP website: About Us"
   publisher: SCCP
@@ -1034,8 +1151,8 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   canonical_url: https://www.pds.com.ph/rules/
   local_path: null
   edition: in-force
-  amended_through: 2026-09-30
-  note: "Lists PDTC Registry Rules (Apr 2021, SEC-approved 6 May 2021) and FCY-NoCD securities list (30 Sep 2026), both password-protected PDFs; also PDEx fixed-income T+1 convention proposals. Companion page https://www.pds.com.ph/pdtc-guidelines/."
+  amended_through: 2026-08-27
+  note: "Rules page: latest dated items are a 27 Aug 2026 comment proposal and a 20 Jul 2026 PDEx settlement-date proposal for SEC approval; PDTC Registry Rules (May 2021). The FCY-securities NoCD list (30 Sep 2026) and the Registry Rules PDF are password-protected and sit on the companion page https://www.pds.com.ph/pdtc-guidelines/."
 - slug: pdex-proposed-settlement-date-conventions-2026
   title: "PDEx: Proposed amendments to the Trading Conventions on Settlement Date (fixed income; revived Nov 2024, updated Dec 2024)"
   publisher: Philippine Dealing & Exchange Corp. (PDS Group)
@@ -1043,8 +1160,8 @@ Foreign institutions trade through a local broker (foreign-client flag), and the
   canonical_url: https://pdswordpressbucket.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/07/Proposed-Amendments-to-the-Trading-Conventions-on-Settlement-Date.pdf
   local_path: pdfs/pdex-proposed-settlement-date-conventions-2026.pdf
   edition: n/a
-  amended_through: 2024-12-01
-  note: "Fixed-income market, not equities; listed on https://www.pds.com.ph/rules/ under rule proposals for SEC approval with posting date 20 Jul 2026. The document itself says only 'Updated as of December 2024' (month precision; day set to 01 by me)."
+  amended_through: 2024-12-31
+  note: "Fixed-income market, not equities; listed on https://www.pds.com.ph/rules/ under rule proposals for SEC approval with posting date 20 Jul 2026. The document itself says only 'Updated as of December 2024' (month precision; month end used)."
 - slug: pds-web-depository-participants
   title: "PDS Group website: Depository Participants (as of 30 September 2026)"
   publisher: Philippine Dealing System Group

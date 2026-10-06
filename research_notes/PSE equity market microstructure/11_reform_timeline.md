@@ -1,8 +1,8 @@
 # PSE equity market reform timeline, 2018 to 6 October 2026 (currency check for Chapter 17)
 
-**Status of this file:** v2, 6 Oct 2026. Revision log: v1 = first complete draft from the material gathered first (chronology, pipeline, conflicts, execution implications, source catalog); v2 = adds the primary text of the 13th negative list, the 2024 and 2025 president's reports (slippage record, board-lot filing, PDTC lending-agent approval), broker-failure and delisting events, the 6 Oct 2026 EDGE outage, the 2023 MPO consultation, BSP foreign-investment notices, a version-gating table, and a products row; every cited slug and page number was machine-checked against kb/pdfs.
+**Status of this file:** v3, 6 Oct 2026. Revision log: v1 = first complete draft (chronology, pipeline, conflicts, execution implications, source catalog); v2 = adds the primary text of the 13th negative list, the 2024 and 2025 president's reports (slippage record, board-lot filing, PDTC lending-agent approval), broker-failure and delisting events, the 6 Oct 2026 EDGE outage, the 2023 MPO consultation, BSP foreign-investment notices, a version-gating table, SCCP post-trade rule changes and a products row; v3 = cross-check against the sibling notes 01-10 and primary re-reads: adds baseline rows (DMA algorithmic ban, ETF market making, short-selling legal base, commission cap, 2012 MPO rule, CMIC), the 2020 IPO-tax repeal, listing and disclosure rule changes (2021 Main/SME recut, 2022 backdoor-listing and preferred-share rules, 2023 REIT and stabilisation rules, EDGE cut-offs, ALMF), corporate and broker-failure events, pipeline row P21, a look-ahead calendar (2D) and conflicts C17-C20, and corrects the SCCP allocation-algorithm description (the old text had it backwards), the PDTC approval wording and the SEC MC 13-2017 date. Every cited slug and page number was machine-checked against kb/pdfs.
 
-**As-of date:** 6 October 2026. **Evidence cut-off:** PSE circular/announcement index and New Trading Engine (NTE) pages fetched 6 Oct 2026 (index re-fetched about 14:30 local). The newest entries are three EDGE-outage notices posted 6 Oct 2026, then TPA-2026-0041 (2 Oct) and PSE's relay of an SEC request for comments on broker-dealer capital (1 Oct); nothing was posted 3-5 Oct. SEC, BIR and Official Gazette sites were blocked or unavailable, so SEC/BIR items after 17 Aug 2026 are known only through PSE's relays and the press. The shared WebSearch quota (200 calls) ran out mid-task, so the last third of discovery relied on PSE's own indexes and direct fetches; news cross-checks are fewer than planned.
+**As-of date:** 6 October 2026. **Evidence cut-off:** PSE circular/announcement index and New Trading Engine (NTE) pages fetched 6 Oct 2026 (index re-fetched about 14:30 and again about 22:00 local; the NTE "Updates" tab still lists only CN-2025-0046). The newest entries are three EDGE-outage notices posted 6 Oct 2026, then TPA-2026-0041 (2 Oct) and PSE's relay of an SEC request for comments on broker-dealer capital (1 Oct); nothing was posted 3-5 Oct. FTSE Russell's 2026 country-classification announcement (scheduled 6 Oct) was still a "Document to follow" placeholder at the same re-check. SEC, BIR and Official Gazette sites were blocked or unavailable, so SEC/BIR items after 17 Aug 2026 are known only through PSE's relays and the press. The shared WebSearch quota (200 calls) ran out mid-task, so the last third of discovery relied on PSE's own indexes and direct fetches; news cross-checks are fewer than planned.
 
 **Citation convention.** `[^slug:N]` = physical page N (PDF-viewer page, not the printed folio) of kb/pdfs/slug.pdf. `[^slug]` = a web page or a whole document. Every slug is defined in the "Source catalog" at the end, with URL and edition. Many PSE PDFs are scanned images; those were read from rendered page images.
 
@@ -15,7 +15,7 @@
 ## 1. Chronology of rule and structural changes, 2018 to 6 October 2026
 
 ### Takeaway
-The PSE order book's static parameters moved little in 2018-2026: the 15-band board-lot/tick table is the same one that appears as "existing" in PSE's December 2025 consultation, and PSE's web list of amendments to the Revised Trading Rules shows nothing between 2013 and the 2020 COVID measures, then only VWAP and minimum-commission items in 2024 (the list omits the 2025 halt/typhoon amendments, so it is not exhaustive). What changed was (1) cost and tax: STT 0.5% to 0.6% on 1 Jan 2018 (TRAIN) and 0.6% to 0.1% on 1 Jul 2025 (CMEPA), minimum commission removed 18 Apr 2024; (2) session design: shortened hours Mar 2020-Dec 2021, a new 09:30-15:00 schedule on 6 Dec 2021, and a Closing VWAP session that moved the close to 15:15 on 1 Mar 2024; (3) risk controls: lower static floor -50% to -30% (24 Mar 2020), three-level index circuit breaker (4 May 2020), ">50% of ADTV" halt trigger and typhoon rule (20 Aug 2025); (4) post-trade: SCCP new clearing system (27 Mar 2023) and T+3 to T+2 (24 Aug 2023); (5) shorting: guidelines effective 2 Oct 2023, go-live 6 Nov 2023; (6) ownership and benchmarks: index free-float floor 12% to 15% to 20%, MidCap/DivY indices, tiered minimum public ownership (11 Aug 2026), Class A/B declassification, RA 11647/11659 and the 12th/13th negative lists; (7) corporate: PSE took control of PDS Group in Dec 2024. The biggest microstructure change (Nasdaq Eqlipse engine, one-share lots, negotiated trades) is scheduled for 23 Nov 2026 and is NOT live.
+The PSE order book's static parameters moved little in 2018-2026: the 15-band board-lot/tick table is the same one that appears as "existing" in PSE's December 2025 consultation, and PSE's web list of amendments to the Revised Trading Rules shows nothing between 2013 and the 2020 COVID measures, then only VWAP and minimum-commission items in 2024 (the list omits the 2025 halt/typhoon amendments, so it is not exhaustive). What changed was (1) cost and tax: STT 0.5% to 0.6% on 1 Jan 2018 (TRAIN) and 0.6% to 0.1% on 1 Jul 2025 (CMEPA), IPO tax repealed Sep 2020 (RA 11494), minimum commission removed 18 Apr 2024; (2) session design: shortened hours Mar 2020-Dec 2021, a new 09:30-15:00 schedule on 6 Dec 2021, and a Closing VWAP session that moved the close to 15:15 on 1 Mar 2024; (3) risk controls: lower static floor -50% to -30% (24 Mar 2020), three-level index circuit breaker (4 May 2020), ">50% of ADTV" halt trigger and typhoon rule (20 Aug 2025); (4) post-trade: SCCP new clearing system (27 Mar 2023) and T+3 to T+2 (24 Aug 2023), plus SCCP rule changes on collateral (20 Feb 2023), client assets (23 Aug 2023), allocation algorithm and early delivery (21 Jan 2025) and CTGF refunds (2018 and 2025); (5) shorting: guidelines effective 2 Oct 2023, go-live 6 Nov 2023; (6) ownership and benchmarks: index free-float floor 12% to 15% to 20%, MidCap/DivY indices, tiered minimum public ownership (11 Aug 2026), Class A/B declassification, RA 11647/11659 and the 12th/13th negative lists; (7) corporate: PSE took control of PDS Group in Dec 2024, after a 2018 rights offering to meet the broker-ownership cap; (8) listing and disclosure rules: Main/SME recut (24 Mar 2021), backdoor-listing and preferred-share rules (2022), REIT and stabilisation rules (2023), EDGE release cut-off 3:30 pm then 4:00 pm (25 May 2026). The biggest microstructure change (Nasdaq Eqlipse engine, one-share lots, negotiated trades) is scheduled for 23 Nov 2026 and is NOT live.
 
 ### Cited Findings
 
@@ -35,12 +35,12 @@ The PSE order book's static parameters moved little in 2018-2026: the 15-band bo
 | Short selling | Allowed since 6 Nov 2023 for PSEi, MidCap, Dividend Yield constituents and ETFs (53 eligible securities on the first Daily Short Selling Report, 52 on 5 Oct 2026; both reports show zero short-sale volume and no short interest in any security); short-interest ratio at or below 10% of outstanding shares; uptick rule (SRC Rule 24.2-2); not accepted in pre-open or pre-close; day orders only; no aggregation; none in odd-lot market or block sales; naked shorting prohibited | 6 Nov 2023 | revised PSE SBL rules (directed pooled lending, onshore lending agent) filed with SEC 16 Apr 2026, awaiting approval | [^pse-cn-2023-0048:8-10][^pse-cn-2023-0056:1][^pse-dssr-2023-11-06:1-2][^pse-dssr-2026-10-05:1-2][^pse-web-sbl-short-selling][^pse-pr-regulatory-reforms-2026-06-15] | P |
 | SBL plumbing | MSLA/GMSLA registered with BIR; PSE sole pre-clearing body for MSLAs; PDTC Lending Agency Service live with cash-collateral borrowers; offshore collateral allowed for deals with a foreign party | PDTC pool Apr-May 2026; MSLA guidelines approved by the SEC 15 May 2026 | SEC decision on revised SBL rules | [^pse-cn-2026-0022:1-2][^pse-cn-2026-0025:1][^pse-cn-2023-0027-offshore-collateral-sbl:1][^pse-cn-2024-0035:1-2] | P |
 | PSE index series | PSEi 30 stocks; MidCap 20; Dividend Yield 20; six sector indices; free float of at least 20%; Feb/Aug reviews; liquidity = median daily value rank (old test) | PSEi membership changes 3 Aug 2026; float 20% applied from the Dec 2022 review | revised methodology (98% cumulative market cap; MTAR + MADV; 15% float exception at PHP250bn+) at the Feb 2027 rebalance | [^pse-cn-2021-0046-index-policy-revision-2021:1][^pse-cn-2026-0035:1][^pse-cn-2026-0033b:1] | P |
-| Minimum public ownership | IPO: 33% (market cap up to PHP500M), 25% (to PHP1bn, offer at least PHP165M), 20% (to PHP50bn, offer at least PHP250M), 15% (above PHP50bn, offer at least PHP10bn); REIT 33.33%; maintenance 20% (15% above PHP50bn); possible 12% floor for PHP200bn+ listings; pre-2017 listings 10% and 2017-2026 listings 20% grandfathered | 11 Aug 2026 | none | [^pse-memo-2026-08-11-mpo-rule-effectivity:2-4] | P |
+| Minimum public ownership | IPO: 33% (market cap up to PHP500M), 25% (to PHP1bn, offer at least PHP165M), 20% (to PHP50bn, offer at least PHP250M), 15% (above PHP50bn, offer at least PHP10bn); REIT 33.33%; maintenance 20% (15% above PHP50bn); possible 12% floor for PHP200bn+ listings; pre-2017 listings 10% and 2017-2026 listings 20% grandfathered | 11 Aug 2026 | none | [^pse-amended-mpo-rule-2026-08:2-4] | P |
 | Engine, clearing, floor | PSEtrade XTS (Nasdaq X-stream) since 22 Jun 2015; SCCP on LSEG Millennium since 27 Mar 2023; floorless trading since 27 Jun 2022 | as stated | Nasdaq Eqlipse NTE target 23 Nov 2026 | [^pse-annual-report-2015:42][^pse-pr-sccp-new-clearing-system-2023-03-31][^pse-pr-trading-floor-closed-2022-06-24] | P |
 | Block sale / crosses / VWAP | Regular block sale at least PHP20M within +/-5% of reference price; special block sale at least PHP50M; crosses within best bid/offer; Closing VWAP trades at least PHP500,000, single TP, executed only 15 min after run-off | 1 Mar 2024 (VWAP) | Negotiated Trades (proposed) | [^pse-cn-2026-0031-negotiated-trades:3][^pse-approved-rules-vwap-trading-2024:7] | P |
-| Products | Common stocks (Main and SME boards), dollar-denominated securities, REITs (8 listed since AREIT on 13 Aug 2020; trading restricted to PSE-"eligible" brokers), one ETF (FMETF), preferred shares. Not available: derivatives, GPDRs, structured warrants, market-maker programmes beyond ETFs | REITs 2020; others unchanged | GPDR, structured warrants, index futures, ETF rule changes (all Proposed, Section 2) | [^pse-web-new-listings][^pse-cn-2020-0066-reit-broker-eligibility:1-2][^pse-web-etf-page][^gma-2023-10-20-short-selling-nov-6][^pse-analyst-briefing-1h-2026:9-10] | P/S |
+| Products | Common stocks (Main and SME boards), dollar-denominated preferred series (four series, two of them suspended), REITs (8 listed since AREIT on 13 Aug 2020; trading restricted to PSE-"eligible" brokers), one ETF (FMETF, listed 2 Dec 2013, one market maker), preferred shares, two PDRs (ABSP, GMAP) and one company-warrant series (AGIW, listed 19 Dec 2025). Not available: derivatives, GPDRs, structured warrants, market-maker programmes beyond the ETF | REITs 2020; warrants Dec 2025; others unchanged | GPDR, structured warrants, index futures, ETF rule changes (all Proposed, Section 2) | [^pse-web-new-listings][^pse-cn-2020-0066-reit-broker-eligibility:1-2][^pse-web-etf-page][^pse-press-agi-warrants][^pse-listed-company-directory-frame][^pse-sec-frames-snapshot][^pse-annual-report-2013:22][^gma-2023-10-20-short-selling-nov-6][^pse-analyst-briefing-1h-2026:9-10] | P/S |
 | Foreign ownership law | 13th Regular Foreign Investment Negative List (EO 113, signed 13 Apr 2026; effective 15 days after publication, reported as 1 or 2 May 2026): no foreign equity in mass media/internet business, corporate practice of architecture, cooperatives, private security, small-scale mining; up to 25% private recruitment and defense construction; 30% advertising; 40% for public utilities (six categories), natural resources (renewables fully open), private land, retail trade with paid-up capital under PHP25M, educational institutions, condominiums; telecom operation 100% with reciprocity, 50% without. RA 11659 limits "public utility" to six categories; RA 11647 amends the Foreign Investments Act | 2022 statutes; 13th list May 2026 | none | [^eo-113-2026-13th-finl:1-5][^ra-11659-public-service-act-amendments:4][^ra-11659-public-service-act-amendments:14][^ra-11647-foreign-investments-act-amendments:8][^kpmg-2026-04-13th-finl] | P (effective date S) |
-| Benchmarks | MSCI Philippines Index has 9 constituents (30 Sep 2026); FTSE classifies the Philippines "Secondary emerging" (Sep 2026 ground rules); MSCI 2026 market classification announcement did not mention the Philippines | Aug-Sep 2026 | MSCI/FTSE reviews (dates not retrieved) | [^msci-philippines-index-factsheet-2026-09:1][^ftse-geis-ground-rules-2026-09:45][^ladige-2026-06-msci-mcr] | P/S |
+| Benchmarks | MSCI Philippines Index has 9 constituents (30 Sep 2026); FTSE classifies the Philippines "Secondary emerging" (Sep 2026 ground rules); MSCI 2026 market classification announcement did not mention the Philippines | Aug-Sep 2026 | FTSE Russell's 2026 annual country-classification announcement was scheduled for Tue 6 Oct 2026 (FTSE's page still showed only a "Document to follow" placeholder when checked); MSCI's November review date not retrieved | [^msci-philippines-index-factsheet-2026-09:1][^ftse-geis-ground-rules-2026-09:45][^ftse-country-classification-interim-2026-03:5][^ftse-equity-country-classification-page][^ladige-2026-06-msci-mcr] | P/S |
 
 #### 1B. Dated chronology (effective date first; implementing document in the Sources column)
 
@@ -48,71 +48,99 @@ The PSE order book's static parameters moved little in 2018-2026: the 15-band bo
 
 | ID | Date | Area | State | Status (6 Oct 2026) | Sources | Ev |
 |---|---|---|---|---|---|---|
-| B0.1 | 2013-11-04 | Session timetable | 09:00 pre-open; 09:30 open; 12:00 recess; 13:30 resume; 15:15 pre-close (auction 15:15-15:18, no-cancel 15:18-15:20); 15:20 run-off/trading-at-last; 15:30 close. Pre-close lengthened from 3 to 5 min (SEC approval 26 Sep 2013); the 2012 timetable (effective 2 Jan 2012) had pre-close 15:17 | Superseded (R2.2, R3.3) | [^pse-memo-extended-pre-close-implementation-2013:1][^pse-memo-pre-close-schedule-2013:1][^pse-memo-new-trading-hours-2011:1] | P |
+| B0.1 | 2013-11-04 | Session timetable | 09:00 pre-open; 09:30 open; 12:00 recess; 13:30 resume; 15:15 pre-close (auction 15:15-15:18, no-cancel 15:18-15:20); 15:20 run-off/trading-at-last; 15:30 close. Pre-close lengthened from 3 to 5 min (SEC approval 26 Sep 2013); the 2012 timetable (effective 2 Jan 2012) had pre-close 15:17 | Superseded (R2.4, R3.4) | [^pse-memo-extended-pre-close-implementation-2013:1][^pse-memo-pre-close-schedule-2013:1][^pse-memo-new-trading-hours-2011:1] | P |
 | B0.2 | 2015-06-22 | Engine | Migration to PSEtrade XTS (Nasdaq X-stream) | In force until NTE | [^pse-annual-report-2015:42] | P |
-| B0.3 | to 2023-08-23 | Settlement | T+3 | Superseded (R4.4) | [^pse-cn-2023-0031-t2-settlement:1] | P |
+| B0.3 | to 2023-08-23 | Settlement | T+3 | Superseded (R4.8) | [^pse-cn-2023-0031-t2-settlement:1] | P |
 | B0.4 | to 2017-12-31 | STT | One-half of 1% (0.5%) of gross selling price | Superseded (R1.1) | [^pse-cn-2017-0082-stt-increase-advisory:1] | P |
-| B0.5 | to 2020-03-23 | Price limits | Static band +50% / -50%; single circuit breaker (PSEi -10% = 15-minute halt, an offshoot of the 2008 crisis) | Superseded (R2.3, R2.4) | [^pse-cn-2020-0028:1][^pse-cn-2020-0044:1] | P |
+| B0.5 | to 2020-03-23 | Price limits | Static band +50% / -50%; single circuit breaker (PSEi -10% = 15-minute halt, an offshoot of the 2008 crisis) | Superseded (R2.5, R2.6) | [^pse-cn-2020-0028:1][^pse-cn-2020-0044:1] | P |
 | B0.6 | to 2018-02 | Index policy | PSEi/sector-index free-float floor 12%; recompositions in March and September | Superseded (R1.2) | [^pse-cn-2018-0013-index-policy-revision-2018:1] | P |
 | B0.7 | pre-2018 | Board lot / tick | Same 15-band table as the "existing" table in the Dec 2025 consultation | In force | [^pse-cn-2025-0046-board-lot-trading-at-last:4] | P |
+| B0.8 | 2014-01-02 | Algorithmic and high-frequency access | PSE Direct Market Access (DMA) Rules (SEC-approved; PSE memo 26 Nov 2013) take effect on the first trading day of 2014: the DMA facility may not be used for high-frequency or algorithmic trading; Sponsored Access only for QIBs; six-month transition for existing DMA offerings | In force (the Sep 2023 proposal to allow algorithmic trading, R4.10, has no approval on record) | [^pse-memo-sec-approved-dma-rules-2013-11-26:1][^pse-memo-sec-approved-dma-rules-2013-11-26:8] | P |
+| B0.9 | 2013-03-18 | ETF and market making | SEC-approved PSE ETF Rules including Part C ETF Market Making Rules: two-way quotes within a maximum spread of 20 / 15 / 10 / 5 ticks by price band, at least 5 board lots per order, a wide spread (3 minutes) cured within 90 seconds, presence at least 50% of each day and 80% of the month. FMETF, still the only ETF, listed 2 Dec 2013 | In force (amendments proposed in 2026, P10) | [^pse-etf-rules:1][^pse-etf-rules:22-23][^pse-annual-report-2013:22] | P |
+| B0.10 | 2007-02-15 to 2015-11-09 | Short selling and SBL (legal base) | PSE SBL Rules (SEC-approved 16 Nov 2006) and SBL Guidelines effective 15 Feb 2007; Revised Trading Rules with short-selling provisions published 8 Jun 2010 and effective with the new trading system on 26 Jul 2010 (PSE may stop or cap short selling in a stock and require disclosure of short positions); SRC IRR Rule 24.2-2 (uptick test) effective 9 Nov 2015. The programme itself only went live on 6 Nov 2023 | Superseded by the programme rules (R1.7, R4.11, R4.13) | [^pse-sbl-short-selling-intro-presentation:2][^pse-implementing-guidelines-trading-rules:1][^pse-revised-trading-rules:20][^sec-2015-src-irr:71][^sec-2015-src-irr-notice-of-effectivity:1] | P |
+| B0.11 | to 2024-04-17 | Commission | PD 154 (14 Mar 1973) capped broker commission at 1% with a PHP20 minimum; the SEC raised the cap to 1.5% on 14 Dec 1977; PSE's rule on minimum commission rates set a size-graded minimum of 0.25% to 0.05% of the value of the trade | Superseded (R5.8); the 1.5% cap remains | [^pse-cn-2024-0029-min-commission-removal:2] | P |
+| B0.12 | 2012-01-01 | Minimum public ownership | PSE Amended MPO Rule (SEC approval 19 Dec 2011) effective 1 Jan 2012: a company that is non-compliant from 1 Jan 2013 is suspended for up to six months and then automatically delisted (no involuntary-delisting procedure; five-year relisting bar). SEC MC 13-2017, issued 1 Dec 2017, later required IPO issuers to have 20% public ownership and to keep it at all times (12 months to cure a shortfall) | Superseded for new listings (R2.10, R7.14); the suspend-then-delist ladder is carried into the 2026 rule | [^pse-sr6-mpo-rule-2012:1][^pse-sr6-mpo-rule-2012:3][^pse-sr6-2-mpo-initial-backdoor-2020:3] | P |
+| B0.13 | 2012-02-02 | Surveillance and halts | CMIC begins as PSE's independent audit, surveillance and compliance arm (SEC authority with provisional SRO status from 2 Feb 2012). Its rules (V1.2, 15 Dec 2011) let CMIC, with the PSE President's approval, restrict, halt or suspend trading in a listed security, or by a TP in it, on breach of pre-established price or volume benchmarks | In force | [^pse-annual-report-2025:8][^pse-cmic-rules:112] | P |
 
 **B1. 2018-2019**
 
 | ID | Effective date | Area | Change (before to after) | Status | Sources | Ev |
 |---|---|---|---|---|---|---|
-| R1.1 | 2018-01-01 | Tax (RA 10963 TRAIN) | Stock transaction tax on listed shares 0.5% to 0.6% (6/10 of 1%) of gross selling price, seller-paid. TRAIN approved 19 Dec 2017; PSE advisories 26 and 29 Dec 2017. BIR forms and eFPS were not updated at start (RMC 2-2018) | Superseded 1 Jul 2025 (R6.4) | [^ra-10963-train:24][^ra-10963-train:54][^pse-cn-2017-0082-stt-increase-advisory:1][^pse-cn-2017-0084-stt-increase-effectivity:1][^pse-cn-2018-0003-train-transition:1-2] | P |
-| R1.2 | 2018-02-12 memo; applied in the recomposition effective 2018-02-19 | PSEi methodology | Free-float floor for PSEi (and sector indices) 12% to 15%; recomposition months March/September to February/August; financial criteria may be used for screening | Superseded for the float floor (R3.2) | [^pse-cn-2018-0013-index-policy-revision-2018:1][^pse-cn-2018-0014-index-recomposition-2018-02:1][^pse-index-policy-feb2018:5-6] | P |
-| R1.3 | 2018-02 | Venue | HQ moves to PSE Tower (BGC); one unified trading floor replaces separate Makati and Pasig floors | Superseded (floor closed R3.9) | [^pse-pr-trading-floor-closed-2022-06-24] | P |
-| R1.4 | 2018-04-10 (proposal) | Trading days | Proposed rule that PSE stays open on special non-working days in NCR and on government-only suspension days, with SCCP/CMIC "trading without settlement" guidelines; comments to 25 Apr 2018. Outcome not found | Proposed (adoption not verified) | [^pse-cn-2018-0023-trading-without-settlement-proposal:1] | P (proposal); outcome unknown |
-| R1.5 | 2018-06-05 SEC approval; PSE memo 2018-06-22 | Short selling | SEC approves PSE Guidelines for Short Selling Transactions (eligible: PSEi members and ETFs; short-interest ratio at or below 10%); effectivity left "in due course" and in fact took until 2 Oct 2023 | Superseded (R4.7, R4.9) | [^pse-cn-2018-0035-short-selling-guidelines-sec-approved:1-2] | P |
-| R1.6 | 2018-10-29 (signed) | Foreign ownership | EO 65: 11th Regular Foreign Investment Negative List | Superseded (R3.10) | [^lawphil-eo-65-2018] | P |
-| R1.7 | 2019-01-22/23 | Short selling | Guidelines amended: short orders barred only in pre-open and pre-close (previously also run-off), to match system configuration and SRC Rule 40.3.3 | Incorporated in Oct 2023 text | [^pse-cn-2019-0004-short-selling-guidelines-amendment:1] | P |
-| R1.8 | 2019-02-05 BSP Circular 1030; PSE notice 2019-07-08 | Foreign investment access | BSP liberalised its FX rules: exchange-traded funds added to the instruments eligible for registered inward foreign investment (repatriation of capital and income through the banking system) | In force | [^pse-cn-2019-0037-foreign-investment-etf:1] | P |
+| R1.1 | 2018-01-01 | Tax (RA 10963 TRAIN) | Stock transaction tax on listed shares 0.5% to 0.6% (6/10 of 1%) of gross selling price, seller-paid. TRAIN approved 19 Dec 2017; PSE advisories 26 and 29 Dec 2017. BIR forms and eFPS were not updated at start (RMC 2-2018) | Superseded 1 Jul 2025 (R6.7) | [^ra-10963-train:24][^ra-10963-train:54][^pse-cn-2017-0082-stt-increase-advisory:1][^pse-cn-2017-0084-stt-increase-effectivity:1][^pse-cn-2018-0003-train-transition:1-2] | P |
+| R1.2 | 2018-02-12 memo; applied in the recomposition effective 2018-02-19 | PSEi methodology | Free-float floor for PSEi (and sector indices) 12% to 15%; recomposition months March/September to February/August; financial criteria may be used for screening | Superseded for the float floor (R3.3) | [^pse-cn-2018-0013-index-policy-revision-2018:1][^pse-cn-2018-0014-index-recomposition-2018-02:1][^pse-index-policy-feb2018:5-6] | P |
+| R1.3 | 2018-02 | Venue | HQ moves to PSE Tower (BGC); one unified trading floor replaces separate Makati and Pasig floors | Superseded (floor closed R3.15) | [^pse-pr-trading-floor-closed-2022-06-24] | P |
+| R1.4 | 2018-03-22 | PSE corporate | PSE stock rights offering: 11.5M new shares at PHP252 (offer period 12-16 Mar 2018, listed 22 Mar 2018, PHP2.90bn gross), part of PSE's plan to bring trading-participant ownership within the 20% limit of SRC Sec. 33.2 and to fund the planned purchase of PDS Holdings; PSE's 2018 President's message says the offering and later administrative steps took TP ownership below 20% | Historical | [^pse-annual-report-2018:8][^pse-annual-report-2018:68] | P |
+| R1.5 | 2018-04-10 (proposal) | Trading days | Proposed rule that PSE stays open on special non-working days in NCR and on government-only suspension days, with SCCP/CMIC "trading without settlement" guidelines; comments to 25 Apr 2018. Outcome not found | Proposed (adoption not verified) | [^pse-cn-2018-0023-trading-without-settlement-proposal:1] | P (proposal); outcome unknown |
+| R1.6 | 2018-04-16 | PSE corporate (PDS) | PSE files an SEC Form 17-C rejecting a press report (Inquirer, 16 Apr 2018) that it had backed out of buying PDS Holdings after the share-purchase-agreement timetable lapsed on 31 Mar 2018; it says it remains committed to unifying the fixed-income and equity markets. The stake stayed at 20.98% until the Dec 2024 agreements (R5.14) | Historical | [^pse-17c-2018-04-16-pds-deal-clarification:3][^pse-annual-report-2025:19] | P |
+| R1.7 | 2018-06-05 SEC approval; PSE memo 2018-06-22 | Short selling | SEC approves PSE Guidelines for Short Selling Transactions (eligible: PSEi members and ETFs; short-interest ratio at or below 10%); effectivity left "in due course" and in fact took until 2 Oct 2023 | Superseded (R4.11, R4.13) | [^pse-cn-2018-0035-short-selling-guidelines-sec-approved:1-2] | P |
+| R1.8 | 2018-08-01 effective (SEC approval 2018-03-13) | Clearing fund | SCCP Rule 5.2 and Operating Procedure 4.3.1.3 amended: contributions to the Clearing and Trade Guaranty Fund (CTGF) become refundable, as trade-related assets, when a clearing member ceases business or terminates membership, for TPs and clearing members actively operating at the effective date; the 2013 rule had said there was no return of cash contributions (except excess initial contributions). SCCP's posted consolidated rulebook carries the 13 Mar 2018 revision date | In force (refund conditions changed 8 Jul 2025, R6.9) | [^sccp-clearing-house-rules-2018:35][^pse-sccp-revised-rules:35][^pse-annual-report-2018:47] | P |
+| R1.9 | 2018-10-05 | Broker control | At CMIC's request PSE denies Meridian Securities access to the trading facilities for one day (start of day 5 Oct 2018); it may resume on the next trading day | Historical | [^pse-cn-2018-0048-cmic-denial-of-access-meridian:1] | P |
+| R1.10 | 2018-10-29 (signed) | Foreign ownership | EO 65: 11th Regular Foreign Investment Negative List | Superseded (R3.16) | [^lawphil-eo-65-2018] | P |
+| R1.11 | 2019-01-22/23 | Short selling | Guidelines amended: short orders barred only in pre-open and pre-close (previously also run-off), to match system configuration and SRC Rule 40.3.3 | Incorporated in Oct 2023 text | [^pse-cn-2019-0004-short-selling-guidelines-amendment:1] | P |
+| R1.12 | 2019-02-05 BSP Circular 1030; PSE notice 2019-07-08 | Foreign investment access | BSP liberalised its FX rules: exchange-traded funds added to the instruments eligible for registered inward foreign investment (repatriation of capital and income through the banking system) | In force | [^pse-cn-2019-0037-foreign-investment-etf:1] | P |
+| R1.13 | 2019-03-22 | Listing fees and offer rules | CN-2019-0012 introduces a new fee framework for listing applications, and CN-2019-0013 requires the price range to be disclosed for follow-on offerings and stock rights offerings of common shares and ETFs (titles from the CLDR supplemental-rule index; the texts were not read) | In force | [^pse-listing-disclosure-rules:14] | P (titles) |
+| R1.14 | 2019-06-04 | Incident | Trading halted at 11:45 for a fire drill at PSE Tower; resumed 13:30; close unchanged at 15:30 | Historical | [^pse-cn-2019-0031-trading-halt-fire-drill:1] | P |
 
 **B2. 2020**
 
 | ID | Effective date | Area | Change (before to after) | Status | Sources | Ev |
 |---|---|---|---|---|---|---|
-| R2.1 | 2020-02-07 | REIT regime | SEC approves PSE Amended REIT Listing Rules (effective immediately); SEC REIT Rules (MC 1-2020) effective the same date | In force | [^pse-cn-2020-0005-amended-reit-listing-rules:1][^sec-mc-1-2020-reit-irr:1] | P |
-| R2.2 | 2020-03-16 to 2020-03-19 | Session timetable | Shortened hours announced 15 Mar (16 Mar: 09:00 pre-open, 09:30 open, 12:45 pre-close, 12:50 run-off, 13:00 close); full suspension of trading and clearing from 17 Mar (ECQ); resumption Thu 19 Mar with 09:00/09:30/12:45/12:50/13:00 and trading floor closed (offsite trading). Extended 30 Apr, 15 May, then "until further notice" | Superseded 6 Dec 2021 (R3.3) | [^pse-cn-2020-0017:1][^pse-cn-2020-0021:1][^pse-cn-2020-0025-resumption-of-trading:1] | P |
-| R2.3 | 2020-03-24 | Price limit | Lower static threshold 50% to 30% below reference price (SEC approval 20 Mar 2020); upper stays +50% | In force | [^pse-cn-2020-0028:1-2][^pse-pr-lower-static-threshold-2020] | P |
-| R2.4 | 2020-05-04 | Circuit breaker | Single trigger (PSEi -10% = 15-minute halt) replaced by three levels: -10% / -15% / -20% = 15 / 30 / 60 minutes; each level once per day; level cut-off times defined against the then 15:15 pre-close (L1 until 14:55, L2 until 14:40, L3 until 14:10; shortened schedule 12:25 / 12:10 / 11:40). SEC approved 20 Mar 2020 | In force | [^pse-cn-2020-0044:1-4] | P |
-| R2.5 | 2020-05-26 PSE notice | Foreign investment access | BSP confirms that non-resident investments in REIT securities (onshore-listed equity) can be registered for repatriation of capital and earnings | In force | [^pse-cn-2020-0052-nonresident-reit-investment:1] | P |
-| R2.6 | 2020-06-01 | Floor and hours | GCQ in Metro Manila: trading floor reopens with health protocols; shortened hours continue | Superseded (R3.3, R3.9) | [^pse-cn-2020-0051-gcq-floor-reopening:1] | P |
-| R2.7 | 2020-07-15 | REIT trading access | Only "eligible" TPs (REIT training attended, operational-readiness certification) may trade REIT shares; IPO allocations 20% brokers / 10% local small investors | In force (PSE REIT page still hosts the forms) | [^pse-cn-2020-0066-reit-broker-eligibility:1-2] | P |
-| R2.8 | 2020-08-03 | MPO | SEC-approved PSE guidelines: IPO offer 33% or PHP50M (market cap to PHP500M), 25% or PHP100M (to PHP1bn), 20% or PHP250M (above PHP1bn); maintain at least 20%; listing by introduction and backdoor listing at least 20% | Superseded 11 Aug 2026 (R7.13) | [^pse-cn-2020-0076-mpo-initial-backdoor-listing:1] | P |
-| R2.9 | 2020-08-13 | Products | First REIT (AREIT) lists on the Main Board; PSE's list of REIT listings now shows AREIT, DDMPR, FILRT, MREIT, RCR, CREIT, VREIT, PREIT | Historical | [^pse-web-new-listings] | P |
+| R2.1 | 2020-01-13 | Incident | No trading at PSE and no clearing or settlement at SCCP for the day (Taal volcano ash emission) | Historical | [^pse-cn-2020-0002-trading-suspension-2020-01-13:1] | P |
+| R2.2 | 2020-02-07 | REIT regime | SEC approves PSE Amended REIT Listing Rules (effective immediately); SEC REIT Rules (MC 1-2020) effective the same date | In force | [^pse-cn-2020-0005-amended-reit-listing-rules:1][^sec-mc-1-2020-reit-irr:1] | P |
+| R2.3 | 2020-02-25 | Short selling oversight | SEC-approved CMIC Implementing Guidelines on Securities Borrowing and Lending and Short Selling take effect (CMIC memorandum 2020-005 of 10 Feb 2020; effective 25 Feb 2020, fifteen days after publication); the guidelines' content beyond the cover memo was not re-read here | In force | [^cmic-sbl-short-selling-guidelines:1] | P |
+| R2.4 | 2020-03-16 to 2020-03-19 | Session timetable | Shortened hours announced 15 Mar (16 Mar: 09:00 pre-open, 09:30 open, 12:45 pre-close, 12:50 run-off, 13:00 close); full suspension of trading and clearing from 17 Mar (ECQ); resumption Thu 19 Mar with 09:00/09:30/12:45/12:50/13:00 and trading floor closed (offsite trading). Extended 30 Apr, 15 May, then "until further notice" | Superseded 6 Dec 2021 (R3.4) | [^pse-cn-2020-0017:1][^pse-cn-2020-0021:1][^pse-cn-2020-0025-resumption-of-trading:1] | P |
+| R2.5 | 2020-03-24 | Price limit | Lower static threshold 50% to 30% below reference price (SEC approval 20 Mar 2020); upper stays +50% | In force | [^pse-cn-2020-0028:1-2][^pse-pr-lower-static-threshold-2020] | P |
+| R2.6 | 2020-05-04 | Circuit breaker | Single trigger (PSEi -10% = 15-minute halt) replaced by three levels: -10% / -15% / -20% = 15 / 30 / 60 minutes; each level once per day; level cut-off times defined against the then 15:15 pre-close (L1 until 14:55, L2 until 14:40, L3 until 14:10; shortened schedule 12:25 / 12:10 / 11:40). SEC approved 20 Mar 2020 | In force | [^pse-cn-2020-0044:1-4] | P |
+| R2.7 | 2020-05-26 PSE notice | Foreign investment access | BSP confirms that non-resident investments in REIT securities (onshore-listed equity) can be registered for repatriation of capital and earnings | In force | [^pse-cn-2020-0052-nonresident-reit-investment:1] | P |
+| R2.8 | 2020-06-01 | Floor and hours | GCQ in Metro Manila: trading floor reopens with health protocols; shortened hours continue | Superseded (R3.4, R3.15) | [^pse-cn-2020-0051-gcq-floor-reopening:1] | P |
+| R2.9 | 2020-07-15 | REIT trading access | Only "eligible" TPs (REIT training attended, operational-readiness certification) may trade REIT shares; IPO allocations 20% brokers / 10% local small investors | In force (PSE REIT page still hosts the forms) | [^pse-cn-2020-0066-reit-broker-eligibility:1-2] | P |
+| R2.10 | 2020-08-03 | MPO | SEC-approved PSE guidelines: IPO offer 33% or PHP50M (market cap to PHP500M), 25% or PHP100M (to PHP1bn), 20% or PHP250M (above PHP1bn); maintain at least 20%; listing by introduction and backdoor listing at least 20% | Superseded 11 Aug 2026 (R7.14) | [^pse-sr6-2-mpo-initial-backdoor-2020:1] | P |
+| R2.11 | 2020-08-13 | Products | First REIT (AREIT) lists on the Main Board; PSE's list of REIT listings now shows AREIT, DDMPR, FILRT, MREIT, RCR, CREIT, VREIT, PREIT | Historical | [^pse-web-new-listings] | P |
+| R2.12 | 2020-08-14 | Listing rules (SME lock-up) | CN-2020-0080 revises the mandatory lock-up rule for SME Board listings (title from the CLDR supplemental-rule index; the text was not read) | Superseded in part (lock-up amendments of 13 Jun 2022, R3.13) | [^pse-listing-disclosure-rules:14] | P (title) |
+| R2.13 | 2020-09-11 approved (RA 11494; effective on publication) | Tax (Bayanihan II) | NIRC Sec. 127(B), the IPO tax, is repealed (Sec. 6 of RA 11494): it had charged 4% / 2% / 1% of the gross selling price of shares of a closely held corporation sold through an IPO, by the share of outstanding stock sold, paid by the issuer (primary) or the seller (secondary). CMEPA later re-used subsection (B) for domestic shares listed abroad (R6.7), so the current Code has no IPO tax; the STT on listed-share sales is untouched | In force | [^ra-11494-bayanihan-ii:20][^ra-11494-bayanihan-ii:25][^ra-8424-nirc-1997:165-166][^ra-12214-cmepa:16] | P |
+| R2.14 | 2020-12-21 | Voluntary delisting | SEC-approved amendments to the Voluntary Delisting Rules, effective immediately: approval by two-thirds of the entire board (including a majority, and not fewer than two, of the independent directors) and by holders of two-thirds of outstanding and listed shares, with votes against at most 10%; minimum tender price is the higher of the independent fairness-opinion valuation (SRC Rule 19.2.6) and the one-year VWAP before the board-approval disclosure | In force (2023 proposals to amend, R4.9, not confirmed adopted) | [^pse-sr8-1-voluntary-delisting-2020:1] | P |
 
 **B3. 2021-2022**
 
 | ID | Effective date | Area | Change (before to after) | Status | Sources | Ev |
 |---|---|---|---|---|---|---|
-| R3.1 | 2021-03-26 approved (RA 11534 CREATE) | Tax | Corporate income tax 30% to 25% from 1 Jul 2020 (20% for small firms); non-resident foreign corporation income tax 30% to 25% from 1 Jan 2021; final tax on non-resident foreign corporation dividends 15% only if the home country credits tax, else 25%. Act effective 15 days after publication (secondary: 11 Apr 2021) | In force | [^ra-11534-create:6][^ra-11534-create:11][^ra-11534-create:77] | P (11 Apr date: S/I) |
-| R3.2 | 2021-08-05 memo; 2021-08-16 | PSEi methodology | Float floor 15% to 20% (first applied at the Dec 2022 review, i.e. the Feb 2023 recomposition); early-inclusion provision; PSEi insertion if ranked 25th or higher and removal if 36th or lower by full market cap | In force (partly replaced at the Feb 2027 rebalance, P13) | [^pse-cn-2021-0046-index-policy-revision-2021:1] | P |
-| R3.3 | 2021-12-06 | Session timetable | New full-day schedule: 09:00 pre-open, 09:30 open, 12:00 recess, 13:00 resume, 14:45 pre-close, 14:50 run-off, 15:00 close. PSE calls it the "pre-pandemic" schedule, but the pre-March-2020 schedule resumed at 13:30 and closed at 15:30 (see conflicts C1) | Superseded 1 Mar 2024 for the close time (R5.3) | [^pse-cn-2021-0059:1] | P |
-| R3.4 | 2022-01-04 | Incident | Trading cancelled for the day: failure to connect the Nasdaq trading engine and the Flextrade front-end (43 of 125 TPs could not connect) | Historical | [^pse-cn-2022-0001-delay-market-opening:1][^pse-cn-2022-0002-cancellation-of-trading-2022-01-04:1] | P |
-| R3.5 | 2022-01-14 to 2022-02-28 | Session timetable | Omicron shortened schedule: 09:00 pre-open, 09:15 no-cancel, 09:30 open, 12:45 pre-close, 12:48 no-cancel, 12:50 run-off, 13:00 close (to 31 Jan; run to 28 Feb is implied by R3.6) | Historical | [^pse-cn-2022-0004:1][^pse-cn-2022-0009-trading-schedule-mar-2022:1] | P/I |
-| R3.6 | 2022-03-01 | Session timetable | Full-day schedule restored with 09:15 and 14:48 no-cancel phases listed | Superseded 1 Mar 2024 (close) | [^pse-cn-2022-0009-trading-schedule-mar-2022:1] | P |
-| R3.7 | 2022-03-02 and 2022-03-21 approved | Foreign ownership | RA 11647 amends the Foreign Investments Act; RA 11659 amends the Public Service Act: "public utility" (60/40 Filipino ownership) limited to six categories (electricity distribution, electricity transmission, petroleum pipelines, water and sewerage pipelines, seaports, public utility vehicles); Sec. 34 amends the foreign-ownership limits in the laws covering BOT projects, domestic shipping, civil aviation, toll roads, transport network vehicles and public telecommunications (RA 7925), so telecoms, airlines, shipping and toll operators are no longer constitutional "public utilities". Both Acts effective 15 days after publication | In force | [^ra-11647-foreign-investments-act-amendments:8][^ra-11659-public-service-act-amendments:4][^ra-11659-public-service-act-amendments:14][^ra-11659-public-service-act-amendments:15] | P |
-| R3.8 | 2022-03-28 | Indices | PSE MidCap and PSE Dividend Yield indices launched (20 members each; base 1,000 at 30 Dec 2010; float floor 15% at launch) | In force | [^pse-cn-2022-0013-launch-midcap-divy-indices:1-3][^pse-pr-new-indices-2022-03-28] | P |
-| R3.9 | 2022-06-24 last floor day; floorless from 2022-06-27 | Venue | Trading floor closed permanently (only 29 of 85 booth-leasing TPs renewed) | In force | [^pse-pr-trading-floor-closed-2022-06-24] | P |
-| R3.10 | 2022-06-27 signed | Foreign ownership | EO 175: 12th Regular Foreign Investment Negative List (replaced the 11th); effective 15 days after publication | Superseded by EO 113 (R7.7) | [^eo-175-2022-12th-finl:1] | P |
-| R3.11 | 2022-09-21 announced; live Aug 2023 | Retail access | GCash "GStocks" (AB Capital Securities as broker, PSE tech support) announced; PSE later reports over 1.7 million registered users and 15,000 on Maya Stocks | In force | [^pse-pr-gcash-gstocks-2022-09-21][^pse-analyst-briefing-3m-2026:21] | P |
-| R3.12 | 2022-09-26 | Incident | Typhoon: no trading and no clearing/settlement | Historical | [^pse-cn-2022-0035-trading-suspension-2022-09-26:1] | P |
+| R3.1 | 2021-03-24 | Listing rules (Main and SME boards) | CN-2021-0021: SEC (approval of 4 Feb 2021) amends the Main Board and SME Board listing rules (Art. III Parts D and E) and adds Part E-1, SME Board listing under a sponsor model; replaces the 2013 Main/SME rules (CN-2013-0023); temporary COVID relief for IPO applications filed in 2021 and 2022 (profitability may be judged on any two of the three latest fiscal years, excluding the year of impact). Effective immediately | In force | [^pse-cn-2021-0021-amended-listing-rules:1-2][^pse-listing-disclosure-rules:5][^pse-listing-disclosure-rules:14] | P |
+| R3.2 | 2021-03-26 approved (RA 11534 CREATE) | Tax | Corporate income tax 30% to 25% from 1 Jul 2020 (20% for small firms); non-resident foreign corporation income tax 30% to 25% from 1 Jan 2021; final tax on non-resident foreign corporation dividends 15% only if the home country credits tax, else 25%. Act effective 15 days after publication (secondary: 11 Apr 2021) | In force | [^ra-11534-create:6][^ra-11534-create:11][^ra-11534-create:77] | P (11 Apr date: S/I) |
+| R3.3 | 2021-08-05 memo; 2021-08-16 | PSEi methodology | Float floor 15% to 20% (first applied at the Dec 2022 review, i.e. the Feb 2023 recomposition); early-inclusion provision; PSEi insertion if ranked 25th or higher and removal if 36th or lower by full market cap | In force (partly replaced at the Feb 2027 rebalance, P13) | [^pse-cn-2021-0046-index-policy-revision-2021:1] | P |
+| R3.4 | 2021-12-06 | Session timetable | New full-day schedule: 09:00 pre-open, 09:30 open, 12:00 recess, 13:00 resume, 14:45 pre-close, 14:50 run-off, 15:00 close. PSE calls it the "pre-pandemic" schedule, but the pre-March-2020 schedule resumed at 13:30 and closed at 15:30 (see conflicts C1) | Superseded 1 Mar 2024 for the close time (R5.4) | [^pse-cn-2021-0059:1] | P |
+| R3.5 | 2021-12-24 and 2021-12-31 | Session timetable | Half-day trading: 09:00 pre-open, 09:15 no-cancel, 09:30 open, 11:55 pre-close, 11:58 no-cancel, 12:00 run-off, 12:10 close (the last documented use of a half-day timetable) | Historical | [^pse-cn-2021-0063-half-day-trading-2021-12:1] | P |
+| R3.6 | 2022-01-04 | Incident | Trading cancelled for the day: failure to connect the Nasdaq trading engine and the Flextrade front-end (43 of 125 TPs could not connect) | Historical | [^pse-cn-2022-0001-delay-market-opening:1][^pse-cn-2022-0002-cancellation-of-trading-2022-01-04:1] | P |
+| R3.7 | 2022-01-14 to 2022-02-28 | Session timetable | Omicron shortened schedule: 09:00 pre-open, 09:15 no-cancel, 09:30 open, 12:45 pre-close, 12:48 no-cancel, 12:50 run-off, 13:00 close (to 31 Jan; run to 28 Feb is implied by R3.8) | Historical | [^pse-cn-2022-0004:1][^pse-cn-2022-0009-trading-schedule-mar-2022:1] | P/I |
+| R3.8 | 2022-03-01 | Session timetable | Full-day schedule restored with 09:15 and 14:48 no-cancel phases listed | Superseded 1 Mar 2024 (close) | [^pse-cn-2022-0009-trading-schedule-mar-2022:1] | P |
+| R3.9 | 2022-03-01 | Disclosure timing | EDGE posting cut-off set at 3:30 pm: disclosures received by then are released the same trading day, later ones the next trading day (effective with the return to the full-day schedule) | Superseded 25 May 2026 (R7.10) | [^pse-cn-2022-0010-edge-cutoff-330pm:1] | P |
+| R3.10 | 2022-03-02 and 2022-03-21 approved | Foreign ownership | RA 11647 amends the Foreign Investments Act; RA 11659 amends the Public Service Act: "public utility" (60/40 Filipino ownership) limited to six categories (electricity distribution, electricity transmission, petroleum pipelines, water and sewerage pipelines, seaports, public utility vehicles); Sec. 34 amends the foreign-ownership limits in the laws covering BOT projects, domestic shipping, civil aviation, toll roads, transport network vehicles and public telecommunications (RA 7925), so telecoms, airlines, shipping and toll operators are no longer constitutional "public utilities". Both Acts effective 15 days after publication | In force | [^ra-11647-foreign-investments-act-amendments:8][^ra-11659-public-service-act-amendments:4][^ra-11659-public-service-act-amendments:14][^ra-11659-public-service-act-amendments:15] | P |
+| R3.11 | 2022-03-28 | Indices | PSE MidCap and PSE Dividend Yield indices launched (20 members each; base 1,000 at 30 Dec 2010; float floor 15% at launch) | In force | [^pse-cn-2022-0013-launch-midcap-divy-indices:1-3][^pse-pr-new-indices-2022-03-28] | P |
+| R3.12 | 2022-05-24 | Listing rules (preferred shares) | CN-2022-0023: rule on initial listing through a preferred-share offering without listing common shares: minimum public offering of PHP1bn or 20% of the market capitalisation of the preferred shares, at least 1,000 holders each with at least one board lot, 20% public ownership maintained | Superseded 12 Aug 2026 (R7.15) | [^pse-listing-disclosure-rules:14][^pse-listing-disclosure-rules:90-91] | P |
+| R3.13 | 2022-06-13 | Listing rules (REIT, local small investors, lock-up) | Three amendment memos take effect: MEA-2022-0001 (REIT listing rules: lock-up exemption and stockholders' equity), MEA-2022-0002 (rules for Local Small Investors) and MEA-2022-0003 (lock-up rule in the Main and SME Board listing rules); titles from the CLDR index, texts not re-read here | In force | [^pse-listing-disclosure-rules:13][^pse-listing-disclosure-rules:14] | P (titles) |
+| R3.14 | 2022-06-22 | Listing rules (backdoor listing) | CN-2022-0026 (further amending CN-2022-0024 of 26 May 2022) sets the Revised Rules on Backdoor Listing: PSE suspends trading immediately after evaluating the disclosure and lifts the suspension one full trading day after it disseminates the comprehensive corporate disclosure (and any SEC confirmations); a one-hour halt follows disclosure of the final price of the mandatory follow-on offering; effective immediately | In force | [^pse-sr7-backdoor-listing-2022:1][^pse-sr7-backdoor-listing-2022:4] | P |
+| R3.15 | 2022-06-24 last floor day; floorless from 2022-06-27 | Venue | Trading floor closed permanently (only 29 of 85 booth-leasing TPs renewed) | In force | [^pse-pr-trading-floor-closed-2022-06-24] | P |
+| R3.16 | 2022-06-27 signed | Foreign ownership | EO 175: 12th Regular Foreign Investment Negative List (replaced the 11th); effective 15 days after publication | Superseded by EO 113 (R7.7) | [^eo-175-2022-12th-finl:1] | P |
+| R3.17 | 2022-09-21 announced; live Aug 2023 | Retail access | GCash "GStocks" (AB Capital Securities as broker, PSE tech support) announced; PSE later reports over 1.7 million registered users and 15,000 on Maya Stocks | In force | [^pse-pr-gcash-gstocks-2022-09-21][^pse-analyst-briefing-3m-2026:21] | P |
+| R3.18 | 2022-09-26 | Incident | Typhoon: no trading and no clearing/settlement | Historical | [^pse-cn-2022-0035-trading-suspension-2022-09-26:1] | P |
+| R3.19 | 2022-11-16 consultation | Disclosure halts and trading rules | CN-2022-0045 (2022 amendments, Part II; comments to 1 Dec 2022) proposes making a disclosure-halt request voluntary and removing the automatic halt when an issuer fails to confirm or deny a rumour (penalties instead); the Jan 2025 consolidated rules still carry the old wording | Proposed (adoption not found) | [^pse-cn-2022-0045-consultation-2022-part-ii:1][^pse-cn-2022-0045-consultation-2022-part-ii:4][^pse-listing-disclosure-rules:145] | P; adoption unknown |
 
 **B4. 2023**
 
 | ID | Effective date | Area | Change (before to after) | Status | Sources | Ev |
 |---|---|---|---|---|---|---|
-| R4.1 | 2023-02-10 memo (SEC approval 2022-12-13) | Clearing collateral | SCCP Rule 8.1.8: securities of the PSEi, MidCap and Dividend Yield indices (and PSE shares) accepted as collateral in the mark-to-market collateral deposit (MMCD) system, haircut 25% (PSE shares 35%), aligned with the RBCA position-risk factors. Effective date not stated in the part read | In force | [^sccp-memo-02-0223-collateral-haircut-rates:1] | P |
-| R4.2 | 2023-03-27 | Clearing | SCCP moves to LSEG Technology Millennium Clearing/Risk (multi-currency; settles multiple trade dates in one day; prerequisite for T+2) | In force | [^pse-pr-sccp-new-clearing-system-2023-03-31] | P |
-| R4.3 | 2023-05-24 | SBL | SEC approves offshore collateral for SBL with at least one foreign party (cash USD/EUR/JPY/GBP/AUD; OECD government/agency debt rated BBB or better; constituents of WFE-member benchmark indices), for Qualified Buyers. SEC also approved PDTC as a Lending Agent on 21 Jul 2023 | In force | [^pse-cn-2023-0027-offshore-collateral-sbl:1][^pse-cn-2023-0048:2][^pse-asm-2024-presidents-report:24] | P |
-| R4.4 | 2023-08-24 | Settlement | T+3 to T+2 (first T+2 trade date 24 Aug; SEC En Banc approval 10 Aug). Trades of 23 Aug (last T+3) and 24 Aug (first T+2) both settled on 29 Aug 2023. Ex-date moves to one trading day before record date. Deadline 12:00 noon (temporarily 13:00 until 11 Sep). SCCP rule amendments effective on go-live | In force | [^pse-cn-2023-0031-t2-settlement:1-2][^pse-cn-2023-0040-t2-go-live:1-3][^sccp-memo-06-0823-sec-approval-t2-amendments:1][^sccp-memo-07-0823-sec-approved-amendments:1] | P |
-| R4.5 | 2023-08-25 consultation | MPO | PSE proposes amendments to the Public Ownership Guidelines, the Amended MPO Rule and the Amended Voluntary Delisting Rules (codify MPO levels by listing vintage and monthly public-ownership-report triggers; delisting vote basis); comments to 8 Sep 2023. Adoption date not found; the Aug 2026 rule restates the codified levels | Proposed (outcome unclear) | [^pse-cn-2023-0041-mpo-delisting-consult:1-3] | P; adoption unknown |
-| R4.6 | 2023-09-05 consultation | Algorithmic trading / VWAP | PSE proposes allowing algorithmic trading (DMA Rules then prohibited it via DMA, with exemptions for child orders of conditioned parent orders) and a VWAP facility. VWAP adopted (R5.3); no approval notice for the algorithmic-trading part was found | Algo part: Proposed (outcome unknown); VWAP part: In force | [^pse-cn-2023-0043:2][^pse-cn-2023-0043:4] | P; algo outcome unknown |
-| R4.7 | 2023-10-02 | Short selling | PSE Guidelines for Short Selling Transactions declared effective; eligible set widened from PSEi + ETFs to PSEi + MidCap + Dividend Yield + ETFs; BIR (letter 6 Sep 2023) accepts registration of a GMSLA with a foreign party; offshore collateral recognised | In force | [^pse-cn-2023-0048:1-2][^pse-cn-2023-0048:8][^pse-pr-short-selling-effectivity-2023-10-02] | P |
-| R4.8 | 2023-10-09 consultation | Board lot | Proposal to cut lot sizes to allow a PHP100 minimum investment (e.g. 1,000,000 to 20,000; 100 to 20 for 5-9.99; 10 to 2 for 50-99.95; 10 to 1 for 100+); comments to 23 Oct 2023. PSE's July 2024 report says it was "awaiting SEC approval" (maximum lot 1,000,000 cut to 20,000; minimum 5 cut to 1); no approval was ever announced, the July 2025 report does not mention it, and the Dec 2025 paper shows the old table as "existing" and proposes one-share lots instead | Abandoned (filed, never approved, replaced by R6.10; I) | [^pse-cn-2023-0051:1][^pse-cn-2023-0051:3-4][^pse-asm-2024-presidents-report:18][^pse-cn-2025-0046-board-lot-trading-at-last:4] | P; "abandoned" is I |
-| R4.9 | 2023-11-06 | Short selling | Program go-live (postponed from 23 Oct 2023 to give more preparation time); FEOMS recertification needed to tag short sales; Daily Short Sell Report published; its first edition (6 Nov 2023) lists 53 eligible securities, all with zero volume | In force | [^pse-cn-2023-0056:1][^pse-dssr-2023-11-06:1-2][^gma-2023-10-20-short-selling-nov-6] | P |
+| R4.1 | 2023-02-20 (SCCP memo 2023-02-10; SEC approval 2022-12-13) | Clearing collateral | SCCP Rule 8.1.8: securities of the PSEi, MidCap and Dividend Yield indices (and PSE shares) accepted as collateral in the mark-to-market collateral deposit (MMCD) system, haircut 25% (PSE shares 35%), aligned with the RBCA position-risk factors; effective Monday 20 Feb 2023. The eligible list follows PSE's index reviews (latest archived: memo 01-0126 of 28 Jan 2026, effective 2 Feb 2026: PSEi adds RCR and drops AGI; MidCap adds AGI and APX and drops DD and RCR; Dividend Yield adds OGP and URC and drops KEEPR and SECB) | In force | [^sccp-memo-02-0223-collateral-haircut-rates:1-2][^sccp-memo-01-0126-eligible-collateral-list:1] | P |
+| R4.2 | 2023-03-07 to 2023-03-21 | Listing rules (sponsors, issued shares) | CN-2023-009 (7 Mar 2023) sets documentary requirements and fees for accrediting sponsors and for SME listing under the sponsor model; CN-2023-0012 (21 Mar 2023) issues implementing guidelines for the listing of issued and outstanding shares (titles from the CLDR index; the texts were not read) | In force | [^pse-listing-disclosure-rules:15] | P (titles) |
+| R4.3 | 2023-03-09 | Listing rules (REIT) | CN-2023-0010 issues the 2023 amendments to the Amended REIT Listing Rules and the consolidated listing rules; the 2023 text requires a 90% distribution policy and public-company status on and after listing (at least 1,000 public shareholders each holding at least 50 shares, together at least one-third) and does not apply the three-year same-business test to REITs (which of these provisions are new in 2023 was not isolated) | In force | [^pse-listing-disclosure-rules:13][^pse-sr3-2-reit-listing-amend-2023:2] | P |
+| R4.4 | 2023-03-27 | Clearing | SCCP moves to LSEG Technology Millennium Clearing/Risk (multi-currency; settles multiple trade dates in one day; prerequisite for T+2) | In force | [^pse-pr-sccp-new-clearing-system-2023-03-31] | P |
+| R4.5 | 2023-05-12 | Listing rules (price stabilisation) | CN-2023-0022 inserts CLDR Art. III Part A Sec. 13: an applicant conducting a secondary offering must hold a stabilisation fund (offers up to PHP10bn: 10-15% of the base offer; PHP10-25bn: 12.5-15%; above PHP25bn: 15%); stabilisation may not breach the minimum public ownership; weekly reports to PSE; prior SEC approval; effective immediately | In force | [^pse-cn-2023-0022-stabilization-fund:1-2] | P |
+| R4.6 | 2023-05-24 | SBL | SEC approves offshore collateral for SBL with at least one foreign party (cash USD/EUR/JPY/GBP/AUD; OECD government/agency debt rated BBB or better; constituents of WFE-member benchmark indices), for Qualified Buyers as defined in SRC Rule 10.1.3 as amended by SEC MC 6-2021 (a client of a prime broker must itself be a Qualified Buyer). PDTC received the SEC's approval (called conditional in PSE's Oct 2023 retail webinar deck) to act as a Lending Agent on 21 Jul 2023 | In force | [^pse-cn-2023-0027-offshore-collateral-sbl:1][^pse-cn-2023-0048:2][^pse-asm-2024-presidents-report:24][^pse-sbl-short-selling-webinar-2023:3] | P |
+| R4.7 | 2023-08-23 | Clearing (client assets, buy-ins) | SCCP memo 07-0823: SEC-approved amendments in force immediately: Rule 2.3.5 bars clearing members from using one client's shares to settle another client's obligations unless under a securities borrowing and lending arrangement; buy-in and sell-out trades settle earlier than the regular cycle where practicable; settlement dates are adjusted for holidays and unexpected events; multiple trade dates can settle in one day | In force | [^sccp-memo-07-0823-sec-approved-amendments:1-2] | P |
+| R4.8 | 2023-08-24 | Settlement | T+3 to T+2 (first T+2 trade date 24 Aug; SEC En Banc approval 10 Aug). Trades of 23 Aug (last T+3) and 24 Aug (first T+2) both settled on 29 Aug 2023. Ex-date moves to one trading day before record date. Deadline 12:00 noon (temporarily 13:00 until 11 Sep). SCCP rule amendments effective on go-live | In force | [^pse-cn-2023-0031-t2-settlement:1-2][^pse-cn-2023-0040-t2-go-live:1-3][^sccp-memo-06-0823-sec-approval-t2-amendments:1][^sccp-memo-07-0823-sec-approved-amendments:1] | P |
+| R4.9 | 2023-08-25 consultation | MPO | PSE proposes amendments to the Public Ownership Guidelines, the Amended MPO Rule and the Amended Voluntary Delisting Rules (codify MPO levels by listing vintage and monthly public-ownership-report triggers; delisting vote basis); comments to 8 Sep 2023. Adoption date not found; the Aug 2026 rule restates the codified levels | Proposed (outcome unclear) | [^pse-cn-2023-0041-mpo-delisting-consult:1-3] | P; adoption unknown |
+| R4.10 | 2023-09-05 consultation | Algorithmic trading / VWAP | PSE proposes allowing algorithmic trading (DMA Rules then prohibited it via DMA, with exemptions for child orders of conditioned parent orders) and a VWAP facility. VWAP adopted (R5.4); no approval notice for the algorithmic-trading part was found | Algo part: Proposed (outcome unknown); VWAP part: In force | [^pse-cn-2023-0043:2][^pse-cn-2023-0043:4] | P; algo outcome unknown |
+| R4.11 | 2023-10-02 | Short selling | PSE Guidelines for Short Selling Transactions declared effective; eligible set widened from PSEi + ETFs to PSEi + MidCap + Dividend Yield + ETFs; BIR (letter 6 Sep 2023; PSE's Oct 2023 deck says PSE received the confirmation on 25 Sep 2023) accepts registration of a GMSLA with a foreign party; offshore collateral recognised | In force | [^pse-cn-2023-0048:1-2][^pse-cn-2023-0048:8][^pse-pr-short-selling-effectivity-2023-10-02][^pse-sbl-short-selling-webinar-2023:3] | P |
+| R4.12 | 2023-10-09 consultation | Board lot | Proposal to cut lot sizes to allow a PHP100 minimum investment (e.g. 1,000,000 to 20,000; 100 to 20 for 5-9.99; 10 to 2 for 50-99.95; 10 to 1 for 100+); comments to 23 Oct 2023. PSE's July 2024 report says it was "awaiting SEC approval" (maximum lot 1,000,000 cut to 20,000; minimum 5 cut to 1); no approval was ever announced, the July 2025 report does not mention it, and the Dec 2025 paper shows the old table as "existing" and proposes one-share lots instead | Abandoned (filed, never approved, replaced by R6.15; I) | [^pse-cn-2023-0051:1][^pse-cn-2023-0051:3-4][^pse-asm-2024-presidents-report:18][^pse-cn-2025-0046-board-lot-trading-at-last:4] | P; "abandoned" is I |
+| R4.13 | 2023-11-06 | Short selling | Program go-live (postponed from 23 Oct 2023 to give more preparation time); FEOMS recertification needed to tag short sales; Daily Short Sell Report published; its first edition (6 Nov 2023) lists 53 eligible securities, all with zero volume | In force | [^pse-cn-2023-0056:1][^pse-dssr-2023-11-06:1-2][^gma-2023-10-20-short-selling-nov-6] | P |
 
 **B5. 2024**
 
@@ -120,30 +148,41 @@ The PSE order book's static parameters moved little in 2018-2026: the 15-band bo
 |---|---|---|---|---|---|---|
 | R5.1 | 2024-01-03 | Incident | Market halted 09:32; resumed 11:56 (technical issue with a third-party front-end provider); afternoon on schedule | Historical | [^pse-cn-2024-0001-market-halt:1][^pse-cn-2024-0003-update-market-halt:1] | P |
 | R5.2 | 2024-01-26 memo; effective 2024-02-05 | PSEi methodology | Pension-fund/SSS/GSIS shares counted as free float unless the fund has a board seat (effective immediately); semiannual membership changes effective 5 Feb 2024 | In force | [^pse-cn-2024-0008:1] | P |
-| R5.3 | 2024-02-01 SEC-approved rules effective; 2024-03-01 go-live | Closing sequence | VWAP Trading Rules: Closing VWAP session 15:00-15:15; market close 15:00 to 15:15 (half-day: Closing VWAP 12:10-12:25, close 12:25). VWAP trades at least PHP500,000, single TP, executed only in the 15 minutes after run-off at the full-day VWAP computed by PSE (excluding block sales, intentional crosses and odd lots) | In force | [^pse-approved-rules-vwap-trading-2024:1][^pse-approved-rules-vwap-trading-2024:3][^pse-approved-rules-vwap-trading-2024:7][^pse-cn-2024-0012-vwap-go-live:1][^pse-pr-vwap-2024-02-16] | P |
-| R5.4 | 2024-03-05 memo (SEC approval 2024-01-09) | Settlement batch | SCCP Operating Procedure 2.5.3.2: the settlement batch run (normally 12:00) may start earlier once all cash and securities obligations are delivered, with 10 minutes' notice to clearing members and settlement banks | In force | [^sccp-memo-01-0324-early-batch-run-effectivity:1] | P |
-| R5.5 | 2024-04-18 | Commission | SEC MC 7-2024 (16 Apr 2024) removes the minimum broker commission; PSE's minimum-commission rule (0.25% to 0.05% bands) ceased to be in force; PD 154 maximum of 1.5% remains | In force | [^pse-cn-2024-0029-min-commission-removal:1-3][^pse-pr-cmepa-day1-2025-07-01] | P |
-| R5.6 | 2024-06-05 | SBL tax | BIR RR 10-2024 amends RR 10-2006: MSLA/GMSLA approval retroacts to complete submission; one registration for multilateral MSLA with accession agreements; counterparties may switch lender/borrower roles | In force | [^pse-cn-2024-0035:1-2] | P |
-| R5.7 | 2024-09-26 consultation | Products | PSE Rules for Global Philippine Depositary Receipts (GPDR) opened for comment to 16 Oct 2024 | Proposed (awaiting SEC; see Section 2) | [^pse-cn-2024-0047:1] | P |
-| R5.8 | 2024-10-09/10 | Broker failure | SEC involuntary suspension and preservation order against Equitiworld Securities; CMIC special audit of its books; CMIC later took over its operations (PSE circular titled "Take Over of the Operations of Equitiworld Securities, Inc.", Nov 2024) | Historical (liquidation plan approved Mar 2026, R7.5) | [^pse-cn-2024-0053-equitiworld-involuntary-suspension:1][^pse-web-announcements-archive] | P (take-over: title only) |
-| R5.9 | 2024-12-09 | Incident | Pre-open delayed; open moved to 09:55 | Historical | [^pse-cn-2024-0061-adjusted-schedule-2024-12-09:1] | P |
-| R5.10 | 2024-12-26 | Corporate | PSE signs to buy 61.92% of PDS Holdings (PHP600/share, PHP2.32bn) on top of its 20.98%; PDS consolidated as a majority-owned subsidiary in Dec 2024 | In force (ownership 94.55% at 5 Mar 2026) | [^pse-pr-pds-acquisition-2024-12-26][^philstar-2025-12-24-pds-landbank][^pse-analyst-briefing-3m-2026:25] | P/S |
+| R5.3 | 2024-01-30 | PSE governance | Supreme Court decides three consolidated petitions over PSE Nomelec rules on broker voting in PSE (G.R. 198425, 201174, 244462): injunctions against the SEC are reversed; the injunction against PSE and PSE Nomelec is affirmed (for Rule 2 of the 2010 Nomelec rules in G.R. 244462) | Historical | [^pse-annual-report-2025:11] | P |
+| R5.4 | 2024-02-01 SEC-approved rules effective; 2024-03-01 go-live | Closing sequence | VWAP Trading Rules: Closing VWAP session 15:00-15:15; market close 15:00 to 15:15 (half-day: Closing VWAP 12:10-12:25, close 12:25). VWAP trades at least PHP500,000, single TP, executed only in the 15 minutes after run-off at the full-day VWAP computed by PSE (excluding block sales, intentional crosses and odd lots) | In force | [^pse-approved-rules-vwap-trading-2024:1][^pse-approved-rules-vwap-trading-2024:3][^pse-approved-rules-vwap-trading-2024:7][^pse-cn-2024-0012-vwap-go-live:1][^pse-pr-vwap-2024-02-16] | P |
+| R5.5 | 2024-03-05 memo (SEC approval 2024-01-09) | Settlement batch | SCCP Operating Procedure 2.5.3.2: the settlement batch run (normally 12:00) may start earlier once all cash and securities obligations are delivered, with 10 minutes' notice to clearing members and settlement banks | In force | [^sccp-memo-01-0324-early-batch-run-effectivity:1] | P |
+| R5.6 | 2024-03-25 | Clearing member sanction | SCCP suspends EquitiWorld Securities as a clearing member from 25 to 27 Mar 2024 under Rule 2.5.1 for persistent or repeated late cash payments from Feb 2020 to Nov 2023; the SEC's involuntary suspension follows in Oct 2024 (R5.12) | Historical | [^sccp-memo-03-0324-clearing-member-suspension:1] | P |
+| R5.7 | 2024-04-11 | Foreign investment registration (BSP) | BSP Circular 1192 amends the FX Manual, including the sections on registering inward investments. In the manual as updated in May 2025, equity securities listed at an onshore exchange (e.g. PSE), ETFs and PDRs are registered when the registering authorised agent bank (AAB) reports them to the BSP, and a BSRD is no longer issued for them; the circular itself was not retrieved, so which amendment introduced the AAB-only route is not established | In force | [^bsp-fx-manual-morfxt-2025-05:42][^bsp-fx-manual-morfxt-2025-05:46] | P (route); date from the manual's amendment footnotes |
+| R5.8 | 2024-04-18 | Commission | SEC MC 7-2024 (16 Apr 2024) removes the minimum broker commission; PSE's minimum-commission rule (0.25% to 0.05% bands) ceased to be in force; PD 154 maximum of 1.5% remains | In force | [^pse-cn-2024-0029-min-commission-removal:1-3][^pse-pr-cmepa-day1-2025-07-01] | P |
+| R5.9 | 2024-06-05 | SBL tax | BIR RR 10-2024 amends RR 10-2006: MSLA/GMSLA approval retroacts to complete submission; one registration for multilateral MSLA with accession agreements; counterparties may switch lender/borrower roles | In force | [^pse-cn-2024-0035:1-2] | P |
+| R5.10 | 2024-09-26 consultation | Products | PSE Rules for Global Philippine Depositary Receipts (GPDR) opened for comment to 16 Oct 2024 | Proposed (awaiting SEC; see Section 2) | [^pse-cn-2024-0047:1] | P |
+| R5.11 | 2024-09-30 consultation | Disclosure and trading rules | CN-2024-0048 (comments to 11 Oct 2024) proposes extending the black-out rule to the issuer itself (no sale or buy-back) with a 30-calendar-day earnings black-out, capping the penalty for trading unlisted shares at PHP50m and, in the Revised Trading Rules, leaving the liquidation of error-account positions to the trading participant (no one-month limit) | Proposed (adoption not found) | [^pse-cn-2024-0048-consultation-blackout-rule:1][^pse-cn-2024-0048-consultation-blackout-rule:4-5][^pse-cn-2024-0048-consultation-blackout-rule:9-10] | P; adoption unknown |
+| R5.12 | 2024-10-09/10 | Broker failure | SEC involuntary suspension and preservation order against Equitiworld Securities; CMIC special audit of its books; CMIC later took over its operations (PSE circular titled "Take Over of the Operations of Equitiworld Securities, Inc.", Nov 2024) | Historical (liquidation plan approved Mar 2026, R7.5) | [^pse-cn-2024-0053-equitiworld-involuntary-suspension:1][^pse-web-announcements-archive] | P (take-over: title only) |
+| R5.13 | 2024-12-09 | Incident | Pre-open delayed; open moved to 09:55 | Historical | [^pse-cn-2024-0061-adjusted-schedule-2024-12-09:1] | P |
+| R5.14 | 2024-12-26 | Corporate | PSE signs to buy 61.92% of PDS Holdings (PHP600/share, PHP2.32bn) on top of its 20.98%; PDS consolidated as a majority-owned subsidiary in Dec 2024 | In force (ownership 94.55% at 5 Mar 2026) | [^pse-pr-pds-acquisition-2024-12-26][^philstar-2025-12-24-pds-landbank][^pse-analyst-briefing-3m-2026:25] | P/S |
 
 **B6. 2025**
 
 | ID | Effective date | Area | Change (before to after) | Status | Sources | Ev |
 |---|---|---|---|---|---|---|
-| R6.1 | 2025-01-21 memo | Settlement allocation | SEC approves SCCP Rules 3.4 (allocation algorithm: largest outstanding netted amounts settled first; partial deliveries; Annex 11), 5.1.4, 6.2.8 and 7.6 | In force | [^sccp-memo-02-0125-sec-approval-rules-3-4-5-1-4-6-2-8-7-6:1] | P |
-| R6.2 | 2025-03-24 | Incident | System connectivity issue: market open delayed to 11:10 | Historical | [^pse-cn-2025-0015-adjusted-schedule-2025-03-24:1] | P |
-| R6.3 | 2025-05-22 | Technology | PSE and Nasdaq announce the upgrade from PSEtrade XTS to Nasdaq Eqlipse Trading | Approved, not yet effective (NTE, Section 2) | [^pse-pr-nasdaq-eqlipse-2025-05-22][^pse-analyst-briefing-3m-2026:24] | P |
-| R6.4 | 2025-07-01 (signed 2025-05-29) | Tax (RA 12214 CMEPA) | STT 0.6% to 0.1% of gross selling price on "shares of stock and other securities" listed and traded on a local exchange (and, new, on domestic shares listed on foreign exchanges), with "securities" defined broadly; sale of listed shares exempt from DST; DST on original issuance 1% to 0.75%; final tax on bank interest 20%. PSE applies 0.1% to trades from 1 Jul 2025 (Tuesday) | In force | [^ra-12214-cmepa:3][^ra-12214-cmepa:16][^ra-12214-cmepa:17-18][^ra-12214-cmepa:25][^pse-cn-2025-0026-stt-decrease-advisory:1][^pse-cn-2025-0028-cmepa-effectivity:1][^bir-rr-20-2025-stt:4][^pse-pr-cmepa-day1-2025-07-01][^pse-analyst-briefing-3m-2026:20][^pse-annual-report-2025:39] | P |
-| R6.5 | 2025-07-04 / 2025-07-15 | Tax operations | BIR advisory: eBIRForms/eFPS lacked the new STT rate, so brokers file BIR Form 2552 manually and pay at an Authorized Agent Bank | Interim (current status not checked) | [^pse-cn-2025-0032-bir-stt-advisory:1] | P |
-| R6.6 | 2025-07-08 memo | Clearing fund | SEC approves amended SCCP Rule 5.2 and Operating Procedures on refund of Clearing and Trade Guaranty Fund contributions (conditions when a clearing member ceases business) | In force | [^sccp-memo-01-0725-ctgf-refund-sec-approval:1] | P |
-| R6.7 | 2025-08-05 | Tax regulations | BIR RR 19-2025 (DST), RR 20-2025 (STT; signed 29 Jul, effective 1 Jul 2025), RR 21-2025 (CMEPA income-tax provisions) | In force | [^bir-rr-19-2025-dst:1][^bir-rr-20-2025-stt:1][^bir-rr-20-2025-stt:4][^bir-rr-21-2025-cmepa-income:1] | P |
-| R6.8 | 2025-08-09 effective; 2025-08-11 first trading day | Share classes | SEC MC 10-2025 (7 Aug) repeals the 1973 Class A/B regular-board rule: buyers receive the class they bought (from 11 Aug 2025); companies must declassify by amending Articles by 9 Aug 2026; PSE (10 Sep 2026): two-day trading suspension before delisting of the classified shares, price adjusted to the higher of the A/B closes | In force; migration ongoing | [^pse-cn-2025-0035-sec-declassification-mandate:1-3][^pse-cn-2025-0036-declassification-effectivity:1][^pse-cn-2026-0041-declassification-price-suspension:1-2] | P |
-| R6.9 | 2025-08-20 (SEC-approved) | Halts and calamities | Market-wide halt trigger changed from "at least one-third of TPs cannot access the system" to "TPs with more than 50% of six-month ADTV (ex-block) cannot trade, directly or via their correspondent TP"; every TP needs a correspondent TP; new calamity guidelines (signal 3-5 in NCR = no trading). Consultation was May 2022 | In force | [^pse-cn-2025-0037:1-2][^pse-cn-2025-0037:4][^pse-cn-2022-0020-market-halt-consultation:4][^pse-annual-report-2025:40] | P |
-| R6.10 | 2025-12-15 consultation | Lot size / closing | PSE proposes One Lot One Share, a new tick table, removal of the odd-lot market and a change to run-off/trading-at-last matching, tied to the new engine; comments to 31 Dec 2025 | Proposed (Section 2) | [^pse-cn-2025-0046-board-lot-trading-at-last:1][^pse-cn-2025-0046-board-lot-trading-at-last:3-5] | P |
-| R6.11 | 2025-12-24 | Corporate | PSE raises its PDS stake to 94.21% (Landbank shares); DBP the main holdout (3.08%) | In progress | [^philstar-2025-12-24-pds-landbank] | S |
+| R6.1 | 2025-01-02 | Listing fees | Upper limit of the annual listing maintenance fee (ALMF) raised from PHP2.0m to PHP3.5m per Main Board company (rate 1/100 of 1% of market capitalisation, floor PHP250,000); the SME Board ALMF is unchanged (PHP100 per PHP1m, PHP50,000 to PHP250,000). SEC-approved; circular dated 19 Dec 2024 | In force | [^pse-cn-2024-0068-almf-effectivity:1] | P |
+| R6.2 | 2025-01-21 memo (effective immediately) | Settlement allocation and risk containment | SEC approves SCCP Rule 3.4 with a new Annex 11: when SCCP cannot pay every member in full it settles by price first (highest buy price and lowest sell price), then lowest quantity, then a pseudo-random process, and may make partial securities deliveries; this replaces the old priority list that settled the largest outstanding netted amounts first. Also approved: Rule 5.1.4(3) (supplemental CTGF contributions, with SEC approval, when the fund no longer matches trade volume), Rule 6.2.8 (a defaulting member bears costs, taxes and lost interest on Clearing Fund advances) and Rule 7.6 (early delivery by SD-1 in five situations) | In force | [^sccp-memo-02-0125-sec-approval-rules-3-4-5-1-4-6-2-8-7-6:1-3] | P |
+| R6.3 | 2025-02-24 to 2025-05-15 | PSE corporate (PDS) | After the Dec 2024 agreements (R5.14), PSE reports its stake in PDS Holdings at 78.33% (24 Feb 2025), 79.9% (end-Mar 2025) and 91.6% (15 May 2025), up from 20.98% | In progress (94.55% at 5 Mar 2026) | [^pse-press-fy2024-results][^pse-press-q1-2025-results] | P (issuer press releases) |
+| R6.4 | 2025-03-19 (reported) | IPO float | PSE's CEO says the SEC approved a temporary cut in the minimum public ownership for IPOs from 20% to 15%, on condition of a follow-on offering or private placement within two to three years to reach 20% (extendable by two years); no PSE circular found | Unclear (overtaken by the tiered MPO rule of 11 Aug 2026, R7.14) | [^tribune-pse-eases-float-2025] | S |
+| R6.5 | 2025-03-24 | Incident | System connectivity issue: market open delayed to 11:10 | Historical | [^pse-cn-2025-0015-adjusted-schedule-2025-03-24:1] | P |
+| R6.6 | 2025-05-22 | Technology | PSE and Nasdaq announce the upgrade from PSEtrade XTS to Nasdaq Eqlipse Trading | Approved, not yet effective (NTE, Section 2) | [^pse-pr-nasdaq-eqlipse-2025-05-22][^pse-analyst-briefing-3m-2026:24] | P |
+| R6.7 | 2025-07-01 (signed 2025-05-29) | Tax (RA 12214 CMEPA) | STT 0.6% to 0.1% of gross selling price on "shares of stock and other securities" listed and traded on a local exchange (and, new, on domestic shares listed on foreign exchanges), with "securities" defined broadly; sale of listed shares exempt from DST; DST on original issuance 1% to 0.75%; final tax on bank interest 20%. PSE applies 0.1% to trades from 1 Jul 2025 (Tuesday) | In force | [^ra-12214-cmepa:3][^ra-12214-cmepa:16][^ra-12214-cmepa:17-18][^ra-12214-cmepa:25][^pse-cn-2025-0026-stt-decrease-advisory:1][^pse-cn-2025-0028-cmepa-effectivity:1][^bir-rr-20-2025-stt:4][^pse-pr-cmepa-day1-2025-07-01][^pse-analyst-briefing-3m-2026:20][^pse-annual-report-2025:39] | P |
+| R6.8 | 2025-07-04 / 2025-07-15 | Tax operations | BIR advisory: eBIRForms/eFPS lacked the new STT rate, so brokers file BIR Form 2552 manually and pay at an Authorized Agent Bank | Interim (current status not checked) | [^pse-cn-2025-0032-bir-stt-advisory:1] | P |
+| R6.9 | 2025-07-08 memo (effective immediately) | Clearing fund | SEC approves amended SCCP Rule 5.2 and Operating Procedures 4.2.1.3 on the refund of Clearing and Trade Guaranty Fund contributions when a clearing member ceases business: regulatory clearances and the SEC cancellation order, all liabilities settled, and audited proof that the member shouldered the contributions rather than collecting them from clients (refund only to the extent proved) | In force | [^sccp-memo-01-0725-ctgf-refund-sec-approval:1-2] | P |
+| R6.10 | 2025-07-09 | Broker suspension | CMIC places Globalinks Securities & Stocks under involuntary suspension for continuing breaches of the capitalisation (RBCA) requirements of CMIC Rules Art. VIII (access to PSE, PDTC and SCCP systems restricted; client transfers and done-through sells allowed with CMIC approval; proprietary and related-party trades barred); CMIC lifts it on 14 Oct 2025 after a capital infusion | Historical (lifted) | [^pse-tpa-2025-0040-globalinks-involuntary-suspension:1-2][^pse-tpa-2025-0061-globalinks-lifting-of-suspension:1-2] | P |
+| R6.11 | 2025-08-05 | Tax regulations | BIR RR 19-2025 (DST), RR 20-2025 (STT; signed 29 Jul, effective 1 Jul 2025), RR 21-2025 (CMEPA income-tax provisions) | In force | [^bir-rr-19-2025-dst:1][^bir-rr-20-2025-stt:1][^bir-rr-20-2025-stt:4][^bir-rr-21-2025-cmepa-income:1] | P |
+| R6.12 | 2025-08-09 effective; 2025-08-11 first trading day | Share classes | SEC MC 10-2025 (7 Aug) repeals the 1973 Class A/B regular-board rule: buyers receive the class they bought (from 11 Aug 2025); companies must declassify by amending Articles by 9 Aug 2026; PSE (10 Sep 2026): two-day trading suspension before delisting of the classified shares, price adjusted to the higher of the A/B closes | In force; migration ongoing (PSE's directory of 6 Oct 2026 still lists five A/B pairs separately: ATN/ATNB, FJP/FJPB, LC/LCB, MA/MAB, OPM/OPMB) | [^pse-cn-2025-0035-sec-declassification-mandate:1-3][^pse-cn-2025-0036-declassification-effectivity:1][^pse-cn-2026-0041-declassification-price-suspension:1-2][^pse-listed-company-directory-frame] | P |
+| R6.13 | 2025-08-13 | Broker failure | CMIC places Mount Peak Securities under involuntary suspension (investigations over capitalisation requirements; access to PSE, PDTC and SCCP restricted; clients may request transfers or done-through sells with CMIC approval; proprietary and related-party trades barred) | Historical (later status not checked) | [^pse-tpa-2025-0050-mount-peak-involuntary-suspension:1-2] | P |
+| R6.14 | 2025-08-20 (SEC-approved) | Halts and calamities | Market-wide halt trigger changed from "at least one-third of TPs cannot access the system" to "TPs with more than 50% of six-month ADTV (ex-block) cannot trade, directly or via their correspondent TP"; every TP needs a correspondent TP; new calamity guidelines (signal 3-5 in NCR = no trading). Consulted in May 2022 (CN-2022-0020) and, for Part XXI of the Implementing Guidelines and the natural-disaster guidelines, on 17 Oct 2023 (CN-2023-0055; comments to 24 Oct 2023) | In force | [^pse-cn-2025-0037:1-2][^pse-cn-2025-0037:4][^pse-cn-2022-0020-market-halt-consultation:4][^pse-cn-2023-0055:1][^pse-annual-report-2025:40] | P |
+| R6.15 | 2025-12-15 consultation | Lot size / closing | PSE proposes One Lot One Share, a new tick table, removal of the odd-lot market and a change to run-off/trading-at-last matching, tied to the new engine; comments to 31 Dec 2025 | Proposed (Section 2) | [^pse-cn-2025-0046-board-lot-trading-at-last:1][^pse-cn-2025-0046-board-lot-trading-at-last:3-5] | P |
+| R6.16 | 2025-12-19 | Products (warrants) | Alliance Global Group's 2.2bn warrants (AGIW) list: PHP12 exercise price, five-year exercise period, PHP1.1bn gross proceeds; +100% on the first day (warrants are exempt from the static price limit) | In force | [^pse-press-agi-warrants][^pse-revised-trading-rules:20] | P |
+| R6.17 | 2025-12-24 | Corporate | PSE raises its PDS stake to 94.21% (Landbank shares); DBP the main holdout (3.08%) | In progress | [^philstar-2025-12-24-pds-landbank] | S |
+| R6.18 | 2025-12-26 (effective 2026-01-05) | Sector classification | CN-2025-0047 reclassifies 13 companies effective Monday 5 Jan 2026 (for example DITO from IT services to telecommunications, ATN from Holding Firms to Industrial, UNH, WIN and JAS to Property); sector-index membership changes accordingly. PSE classifies a company by the activity that generates at least 60% of its revenue | In force | [^pse-cn-2025-0047-sector-reclassification:1-2] | P |
 
 **B7. 2026 (to 6 Oct)**
 
@@ -151,21 +190,22 @@ The PSE order book's static parameters moved little in 2018-2026: the 15-band bo
 |---|---|---|---|---|---|---|
 | R7.1 | 2026-01-19 | Incident | PSE EDGE disclosure system outage; one-hour news halt of MRC shares (09:30-10:30) | Historical | [^pse-cn-2026-0004-2-emergency-disclosures-trading-halt:1-2] | P |
 | R7.2 | 2026-01-25 (SEC MC 1-2026 issued 8 Jan) | REIT regime | REIT eligible assets widened (indirect holdings through 2/3-owned SPVs; toll roads, railways, airports, ICT, energy, data centres; reinvestment period 2 years) | In force | [^pse-analyst-briefing-3m-2026:17][^philstar-2026-07-17-sec-accomplishments] | P/S |
-| R7.3 | 2026-02-02 | Dynamic threshold | Semiannual reclustering (Jul-Dec 2025 data); cluster rules unchanged | Superseded by R7.12 | [^pse-tpa-2026-0002-dynamic-threshold-review:1] | P |
-| R7.4 | 2026-02 (SEC MC 11-2026 signed; effective on publication) | MPO | New SEC minimum-public-ownership rules for listed issuers | In force (PSE rule R7.13) | [^pse-cn-2026-0020-mpo-consult:7-10] | P |
+| R7.3 | 2026-02-02 | Dynamic threshold | Semiannual reclustering (Jul-Dec 2025 data); cluster rules unchanged | Superseded by R7.13 | [^pse-tpa-2026-0002-dynamic-threshold-review:1] | P |
+| R7.4 | 2026-02 (SEC MC 11-2026 signed; effective on publication) | MPO | New SEC minimum-public-ownership rules for listed issuers | In force (PSE rule R7.14) | [^pse-cn-2026-0020-mpo-consult:7-10] | P |
 | R7.5 | 2026-03-19 | Broker failure | CMIC notice (relayed by PSE): SEC approves CMIC's proposed liquidation and allocation plan for distributing Equitiworld Securities' trade-related assets | In progress | [^pse-cn-2026-0012:1] | P |
 | R7.6 | 2026-04-03 | Universe | Asian Terminals (ATI) delisted voluntarily (approved 25 Mar 2026) | Historical | [^pse-cn-2026-0013-ati-voluntary-delisting:1] | P |
 | R7.7 | 2026-04-13 signed; effective 15 days after publication (reported 1 or 2 May 2026) | Foreign ownership | EO 113: 13th Regular Foreign Investment Negative List. List A (constitution/specific laws): no foreign equity in mass media and internet business, corporate practice of architecture, cooperatives, private security, small-scale mining, marine resources; up to 25% private recruitment and defense-related construction; 30% advertising; 40% for public utilities (the six RA 11659 categories), natural resources including water (renewables fully open), private land, retail trade with paid-up capital under PHP25M, educational institutions, rice and corn, government procurement, fishing vessels, condominiums; telecom operation and management 100% with reciprocity, 50% without (RA 11659 Sec. 25). List B (security, health, SMEs): 40% for firearms/explosives, military materiel (RA 12024), gambling, micro and small domestic enterprises under US$200,000 paid-in capital. KPMG reports the telecom, architecture, retail and materiel items as changes from the 12th list | In force | [^eo-113-2026-13th-finl:1-2][^eo-113-2026-13th-finl:3-7][^kpmg-2026-04-13th-finl] | P (change-vs-12th: S) |
 | R7.8 | 2026-04-22 (PDS memo); 2026-05-18 (PSE CN-2026-0022) | SBL | PDTC Lending Agency Service onboards first lenders and borrowers with BIR-registered agreements (cash collateral); more participants invited | In force | [^pse-cn-2026-0022:1-2] | P |
 | R7.9 | 2026-05-15 SEC approval, effective immediately; PSE memo 2026-05-22 | SBL approvals | SEC approves PSE's 2026 Revised Guidelines for MSLA clearance: PSE acts as one-stop shop for MSLA and accession-agreement pre-clearance and BIR registration (no separate SEC and BIR approval per MSLA). Press adds that registration time falls from 7 to 5 working days and the SEC fee of PHP5,030 is removed (Philstar, 10 Jun 2026) | In force | [^pse-cn-2026-0025:1][^philstar-2026-06-10-sec-msla][^pse-analyst-briefing-1h-2026:9] | P/S |
-| R7.10 | 2026-07-31 | Broker failure | CMIC imposes involuntary suspension on Benjamin Co Ca & Company, Inc. | Historical (status after suspension not checked) | [^pse-tpa-2026-0035-benjamin-co-ca-involuntary-suspension:1] | P |
-| R7.11 | 2026-08-03 | Indices and back-office | PSEi: Maynilad (MYNLD) in, Converge (CNVRG) out; MidCap, DivY and sector changes; new PSE Portal go-live for back-office files | In force | [^pse-cn-2026-0035:1][^pse-nte-faq-2026-08:2] | P |
-| R7.12 | 2026-08-07 | Dynamic threshold | Semiannual reclustering (Jan-Jun 2026 data) | In force | [^pse-tpa-2026-0036-dynamic-threshold-review:1] | P |
-| R7.13 | 2026-08-11 | MPO | PSE Amended MPO Rule and Revised Public Ownership Guidelines effective immediately (tiered IPO float 33/25/20/15%; REIT 33.33%; maintenance 20%/15%; lower float down to 12% possible above PHP200bn) | In force | [^pse-memo-2026-08-11-mpo-rule-effectivity:1-4] | P |
-| R7.14 | 2026-08-12 | Listing | Rule on listing preferred shares by IPO or direct listing: minimum offer PHP100M (was PHP1bn), 100 holders (was 1,000); direct-listed preferreds tradable immediately | In force | [^pse-cn-2026-0037-preferred-shares-rule-effectivity:1-2][^pse-analyst-briefing-1h-2026:16] | P |
-| R7.15 | 2026-08-31 (after close) | Benchmarks | MSCI Philippines Index drops Ayala Land (reported reason: share-price decline and weaker H1 earnings): 9 constituents; ICTSI 44.73%, BDO 13.41%, BPI 8.38%, SM Prime 7.72% at 30 Sep 2026 | In force | [^newswav-2026-08-msci-ali][^msci-philippines-index-factsheet-2026-09:1-2] | S/P |
-| R7.16 | 2026-08-31 | Universe | Robinsons Retail Holdings (RRHI) delisted voluntarily (approved 20 Aug 2026); PSE had already announced its removal from the Dividend Yield, MidCap and Services indices (CN-2026-0032, 14 Jul 2026, title only) | Historical | [^pse-cn-2026-0038-rrhi-voluntary-delisting:1][^pse-web-announcements-archive] | P |
-| R7.17 | 2026-10-06 | Incident | PSE EDGE portal again unavailable (second time in 2026 after 19 Jan); PSE directs the public to its website and companies to submit emergency disclosures (CN-2026-0046; batches for Globe, Jollibee, Ayala Corp, PLDT, ACEN and others posted the same day). No trading halt notice seen | Historical (same-day; resolution not checked) | [^pse-cn-2026-0046-edge-outage-access-to-disclosures:1][^pse-web-announcements-archive] | P |
+| R7.10 | 2026-05-25 | Disclosure timing | EDGE posting cut-off moves from 3:30 pm to 4:00 pm (CN-2026-0024 of 22 May 2026): disclosures received by 4:00 pm are released the same trading day, later ones the next trading day; the submission system stays open after the cut-off. Supersedes the 3:30 pm cut-off of 1 Mar 2022 (R3.9) | In force | [^pse-cn-2026-0024-edge-cutoff-4pm:1] | P |
+| R7.11 | 2026-07-31 | Broker failure | CMIC imposes involuntary suspension on Benjamin Co Ca & Company, Inc. | Historical (status after suspension not checked) | [^pse-tpa-2026-0035-benjamin-co-ca-involuntary-suspension:1] | P |
+| R7.12 | 2026-08-03 | Indices and back-office | PSEi: Maynilad (MYNLD) in, Converge (CNVRG) out; MidCap, DivY and sector changes; new PSE Portal go-live for back-office files | In force | [^pse-cn-2026-0035:1][^pse-nte-faq-2026-08:2] | P |
+| R7.13 | 2026-08-07 | Dynamic threshold | Semiannual reclustering (Jan-Jun 2026 data) | In force | [^pse-tpa-2026-0036-dynamic-threshold-review:1] | P |
+| R7.14 | 2026-08-11 | MPO | PSE Amended MPO Rule and Revised Public Ownership Guidelines effective immediately (tiered IPO float 33/25/20/15%; REIT 33.33%; maintenance 20%/15%; lower float down to 12% possible above PHP200bn) | In force | [^pse-amended-mpo-rule-2026-08:1-4] | P |
+| R7.15 | 2026-08-12 | Listing | Rule on listing preferred shares by IPO or direct listing: minimum offer PHP100M (was PHP1bn), 100 holders (was 1,000); direct-listed preferreds tradable immediately | In force | [^pse-cn-2026-0037-preferred-shares-rule-effectivity:1-2][^pse-analyst-briefing-1h-2026:16] | P |
+| R7.16 | 2026-08-31 (after close) | Benchmarks | MSCI Philippines Index drops Ayala Land (reported reason: share-price decline and weaker H1 earnings): 9 constituents; ICTSI 44.73%, BDO 13.41%, BPI 8.38%, SM Prime 7.72% at 30 Sep 2026 | In force | [^newswav-2026-08-msci-ali][^msci-philippines-index-factsheet-2026-09:1-2] | S/P |
+| R7.17 | 2026-08-31 | Universe | Robinsons Retail Holdings (RRHI) delisted voluntarily (approved 20 Aug 2026); PSE had already announced its removal from the Dividend Yield, MidCap and Services indices (CN-2026-0032, 14 Jul 2026, title only) | Historical | [^pse-cn-2026-0038-rrhi-voluntary-delisting:1][^pse-web-announcements-archive] | P |
+| R7.18 | 2026-10-06 | Incident | PSE EDGE portal again unavailable (second time in 2026 after 19 Jan); PSE directs the public to its website and companies to submit emergency disclosures (CN-2026-0046; batches for Globe, Jollibee, Ayala Corp, PLDT, ACEN and others posted the same day). No trading halt notice seen | Historical (same-day; resolution not checked) | [^pse-cn-2026-0046-edge-outage-access-to-disclosures:1][^pse-web-announcements-archive] | P |
 
 #### 1C. Supporting detail
 
@@ -197,50 +237,62 @@ The PSE order book's static parameters moved little in 2018-2026: the 15-band bo
 |---|---|---|---|---|
 | Stock transaction tax | 0.5% | before 2018 | 2017-12-31 | B0.4 |
 | | 0.6% | 2018-01-01 | 2025-06-30 | R1.1 |
-| | 0.1% | 2025-07-01 | open | R6.4 |
+| | 0.1% | 2025-07-01 | open | R6.7 |
 | Settlement cycle | T+3 | before 2023 | 2023-08-23 | B0.3 |
-| | T+2 | 2023-08-24 | open | R4.4 |
+| | T+2 | 2023-08-24 | open | R4.8 |
 | Lower static threshold | -50% | before 2020 | 2020-03-23 | B0.5 |
-| | -30% | 2020-03-24 | open | R2.3 |
+| | -30% | 2020-03-24 | open | R2.5 |
 | Index circuit breaker | single -10% = 15 min | before 2020 | 2020-05-03 | B0.5 |
-| | three levels -10/-15/-20% | 2020-05-04 | open | R2.4 |
+| | three levels -10/-15/-20% | 2020-05-04 | open | R2.6 |
 | Official close | 15:30 | 2013-11-04 | about 2020-03-13 (last full-day schedule; I) | B0.1 |
-| | 13:00 (no trading 17-18 Mar 2020) | 2020-03-16 | 2021-12-03 | R2.2 |
-| | 15:00 | 2021-12-06 | 2024-02-29 (13:00 from 2022-01-14 to 2022-02-28) | R3.3, R3.5, R3.6 |
-| | 15:15 (Closing VWAP 15:00-15:15) | 2024-03-01 | open | R5.3 |
-| Short selling | not operating | before 2023-11-06 | 2023-11-05 | R4.9 |
-| | operating (eligible list) | 2023-11-06 | open | R4.9 |
-| Broker minimum commission | sliding 0.25% to 0.05% | before 2024 | 2024-04-17 | R5.5 |
-| | none (maximum 1.5% remains) | 2024-04-18 | open | R5.5 |
-| Market-halt trigger | one-third of TPs unable to access | before 2025-08-20 | 2025-08-19 | R6.9 |
-| | TPs above 50% of six-month ADTV | 2025-08-20 | open | R6.9 |
-| Class A/B delivery on the regular board | either class | before 2025-08-11 | 2025-08-10 | R6.8 |
-| | class purchased | 2025-08-11 | open (declassification by 9 Aug 2026) | R6.8 |
+| | 13:00 (no trading 17-18 Mar 2020) | 2020-03-16 | 2021-12-03 | R2.4 |
+| | 15:00 | 2021-12-06 | 2024-02-29 (13:00 from 2022-01-14 to 2022-02-28) | R3.4, R3.7, R3.8 |
+| | 15:15 (Closing VWAP 15:00-15:15) | 2024-03-01 | open | R5.4 |
+| Short selling | not operating | before 2023-11-06 | 2023-11-05 | R4.13 |
+| | operating (eligible list) | 2023-11-06 | open | R4.13 |
+| Broker minimum commission | sliding 0.25% to 0.05% | before 2024 | 2024-04-17 | R5.8 |
+| | none (maximum 1.5% remains) | 2024-04-18 | open | R5.8 |
+| Market-halt trigger | one-third of TPs unable to access | before 2025-08-20 | 2025-08-19 | R6.14 |
+| | TPs above 50% of six-month ADTV | 2025-08-20 | open | R6.14 |
+| Class A/B delivery on the regular board | either class | before 2025-08-11 | 2025-08-10 | R6.12 |
+| | class purchased | 2025-08-11 | open (declassification by 9 Aug 2026) | R6.12 |
 | PSEi / sector float floor | 12% | before 2018-02 | 2018-02-18 | B0.6 |
 | | 15% | 2018-02-19 | Feb 2023 recomposition (I) | R1.2 |
-| | 20% | Feb 2023 recomposition (I) | Feb 2027 rebalance | R3.2 |
+| | 20% | Feb 2023 recomposition (I) | Feb 2027 rebalance | R3.3 |
 | Board lot / tick table | single 15-band table | at least 2013 | open (NTE target 2026-11-23) | B0.7, P2 |
+| EDGE same-day release cut-off | 3:30 pm | 2022-03-01 | 2026-05-22 | R3.9 |
+| | 4:00 pm | 2026-05-25 | open | R7.10 |
+| Annual listing maintenance fee cap (Main Board) | PHP2.0m | before 2025-01-02 | 2025-01-01 | R6.1 |
+| | PHP3.5m | 2025-01-02 | open | R6.1 |
+| IPO tax (NIRC Sec. 127(B)) | 4% / 2% / 1% of gross selling price | 1998-01-01 | on publication of RA 11494 (approved 2020-09-11; exact date not retrieved) | R2.13 |
+| | repealed | Sep 2020 | open | R2.13 |
+| Minimum public ownership at IPO | 10% (2012 rule) | 2012-01-01 | about Nov 2017 (I) | B0.12 |
+| | 20%, with offer-size tiers 33/25/20% from 2020-08-03 | about Dec 2017 (I) | 2026-08-10 | B0.12, R2.10 |
+| | tiered 33/25/20/15% (REIT 33.33%); maintenance 20% (15% above PHP50bn) | 2026-08-11 | open | R7.14 |
 
-**Short selling and SBL: sequence.** 30 Nov 2017 consultation (CN-2017-0068, title only) then SEC approval 5 Jun 2018 (R1.5), amendment Jan 2019 (R1.7), offshore collateral 24 May 2023 (R4.3), BIR GMSLA acceptance 6 Sep 2023 and guideline effectivity 2 Oct 2023 (R4.7), go-live 6 Nov 2023 (R4.9), BIR RR 10-2024 on 5 Jun 2024 (R5.6), PDTC lending pool Apr-May 2026 (R7.8), SEC-approved MSLA guidelines 15 May 2026 (R7.9); revised SBL rules filed with SEC 16 Apr 2026 (pending). MSCI's June 2026 accessibility review says the program "was implemented in November 2023. However, it is not yet an established market practice." [^msci-accessibility-review-2026:43]. Uptick rule text (SRC Rule 24.2-2.5): price above last sale, or equal to last sale only if that price exceeds the preceding different sale [^pse-web-sbl-short-selling].
+**Short selling and SBL: sequence.** Legal base 2006-2015 (B0.10), 30 Nov 2017 consultation (CN-2017-0068, title only), SEC approval 5 Jun 2018 (R1.7), amendment Jan 2019 (R1.11), CMIC guidelines effective 25 Feb 2020 (R2.3), offshore collateral 24 May 2023 (R4.6), BIR GMSLA acceptance 6 Sep 2023 and guideline effectivity 2 Oct 2023 (R4.11), SCCP client-share rule 23 Aug 2023 (R4.7), go-live 6 Nov 2023 (R4.13), BIR RR 10-2024 on 5 Jun 2024 (R5.9), PDTC lending pool Apr-May 2026 (R7.8), SEC-approved MSLA guidelines 15 May 2026 (R7.9); revised SBL rules filed with SEC 16 Apr 2026 (pending). MSCI's June 2026 accessibility review says the program "was implemented in November 2023. However, it is not yet an established market practice." [^msci-accessibility-review-2026:43]. Uptick rule text (SRC Rule 24.2-2.5): price above last sale, or equal to last sale only if that price exceeds the preceding different sale [^pse-web-sbl-short-selling].
 
-**PSEi methodology: sequence.** Float floor 12% to 15% (Feb 2018, R1.2); to 20% (Aug 2021 memo, first applied Dec 2022 review, R3.2); MidCap and Dividend Yield indices (Mar 2022, R3.8); pension-fund float clarification (Jan 2024, R5.2). Approved but not yet effective: 21 Jul 2026 revised policy to apply at the February 2027 rebalance (98% cumulative market-cap screen; MTAR of at least 15% (10% for incumbents) plus MADV top-25% in 9 of 12 months replaces the single median-daily-value test; float floor 20% with a 15% exception for companies of PHP250bn market capitalisation or more) [^pse-cn-2026-0033b:1][^pse-cn-2026-0033b:7-8]. PSEi 2018 liquidity test for comparison: top 25% by median daily value in 9 of 12 months [^pse-index-policy-feb2018:6].
+**PSEi methodology: sequence.** Float floor 12% to 15% (Feb 2018, R1.2); to 20% (Aug 2021 memo, first applied Dec 2022 review, R3.3); MidCap and Dividend Yield indices (Mar 2022, R3.11); pension-fund float clarification (Jan 2024, R5.2). Approved but not yet effective: 21 Jul 2026 revised policy to apply at the February 2027 rebalance (98% cumulative market-cap screen; MTAR of at least 15% (10% for incumbents) plus MADV top-25% in 9 of 12 months replaces the single median-daily-value test; float floor 20% with a 15% exception for companies of PHP250bn market capitalisation or more) [^pse-cn-2026-0033b:1][^pse-cn-2026-0033b:7-8]. PSEi 2018 liquidity test for comparison: top 25% by median daily value in 9 of 12 months [^pse-index-policy-feb2018:6].
 
 **Participant base.** Active trading participants: 132 when PSE moved to PSE Tower in Feb 2018 [^pse-pr-trading-floor-closed-2022-06-24]; 125 on 4 Jan 2022 [^pse-cn-2022-0001-delay-market-opening:1]; 123 in PSE's public directory of 20 Jul 2026 (my count of "Nominee" entries) [^pse-active-tp-summary-2026-07-20:1-6]. Of these, 40 run their own front-end order management systems (FEOMS) and so must certify against the new engine [^pse-nte-broker-forum-2026-07-09:5]. Investor accounts: 1.62 million (2021) to 3.64 million (2025), 88.6% online [^pse-analyst-briefing-1h-2026:8]. Listed companies: 280 at 14 Aug 2026 [^pse-analyst-briefing-1h-2026:3].
 
 **Operational incidents that bear on engine-replacement risk** (all P): 4 Jan 2022 full-day cancellation (engine-to-front-end connection) [^pse-cn-2022-0002-cancellation-of-trading-2022-01-04:1]; 3 Jan 2024 halt 09:32-11:56 [^pse-cn-2024-0003-update-market-halt:1]; 9 Dec 2024 late open 09:55 [^pse-cn-2024-0061-adjusted-schedule-2024-12-09:1]; 24 Mar 2025 late open 11:10 [^pse-cn-2025-0015-adjusted-schedule-2025-03-24:1]; weather closures 26 Sep 2022 and 24 Jul 2024 [^pse-cn-2024-0038-trading-suspension-2024-07-24:1]. Three of four technical incidents involved the third-party front-end or connectivity layer rather than the matching engine (I).
 
 ### Inferences
-- The 1 Jul 2025 STT cut is the single largest discontinuity in transaction cost in the window: sell-side tax fell from 60 bp to 10 bp, so any cost model or backtest spanning that date must switch rates by trade date, not by calendar year (I, from R6.4 and R1.1).
+- The 1 Jul 2025 STT cut is the single largest discontinuity in transaction cost in the window: sell-side tax fell from 60 bp to 10 bp, so any cost model or backtest spanning that date must switch rates by trade date, not by calendar year (I, from R6.7 and R1.1).
 - "Close time" has three regimes: 15:30 (to 13 Mar 2020), 13:00 (Mar 2020 to Dec 2021), 15:00 (Dec 2021 to Feb 2024), 15:15 (from 1 Mar 2024); continuous trading ends at pre-close (15:15, then 12:45, then 14:45) so the last continuous print is not the official close (I, from the timetable table).
 - Circuit-breaker cut-off clock times in CN-2020-0044 were written against a 15:15 pre-close; no republished clock times for the 14:45 pre-close were found, so either the cut-offs scale with pre-close (14:25 / 14:10 / 13:40 by subtraction) or they stayed absolute. Not resolvable from documents reviewed (I).
 - PSE's web list of amendments to the Revised Trading Rules (not exhaustive: it omits the Aug 2025 halt amendments) shows no change to the lot/tick article after 2013, no circular in the 2017-2026 index announces one, and the Dec 2025 paper reproduces the same table as "existing"; so treating lot size and tick size as a pure function of price band for 2018 to Nov 2026 looks safe, but "unchanged since 2013" rests on absence of evidence (I) [^pse-web-reg-trading-participants][^pse-cn-2025-0046-board-lot-trading-at-last:4].
 - PSE targets have repeatedly slipped (short selling: SEC-approved Jun 2018, live Nov 2023; GPDR: Q1 2025 target, still at SEC in Oct 2026; derivatives: Q1 2026 target, no date now), so the 23 Nov 2026 NTE date should be treated as a target with execution risk until PSE confirms the final rehearsals (I; see Section 2).
+- Disclosure timing and the close have moved in opposite directions: the same-day EDGE release cut-off was 3:30 pm (1 Mar 2022 to 22 May 2026), only 15 minutes after the 15:15 close that applies since 1 Mar 2024, and is 4:00 pm since 25 May 2026, so company news can now be released 45 minutes after the close and still count as same-day; event strategies should treat 15:15-16:00 as an information window with no continuous market (I, from the cut-off, session and close rows).
+- SCCP's post-trade rule changes (collateral list, client-asset rule, allocation algorithm, early delivery by SD-1, CTGF refund conditions) were all approved by the SEC and took effect by memo, not through PSE trading-rule amendments; the posted SCCP rulebook is still the 13 Mar 2018 text, so reading the rulebook alone gives stale T+3 wording and stale allocation, collateral and refund rules (I, from the SCCP rows and the 2018 edition).
 
 ### Gaps
 - Exact publication dates (and therefore effective dates) for RA 11647, RA 11659, EO 175 and RA 11534 were not retrieved; EO 113's date is reported as 1 May (KPMG, from a 16 Apr publication) or 2 May 2026 (another report); CREATE's reported 11 Apr 2021 is secondary.
 - Consolidated, current text of the PSE Revised Trading Rules and Implementing Guidelines was not found; the archived versions are 2010-2013 vintages, so the static/dynamic threshold wording after 2020 rests on circulars (CN-2020-0028, CN-2020-0044, CN-2021-0055) and the PSE web page.
-- Outcome of the 2018 "trading without settlement" proposal and of the 2023 algorithmic-trading proposal not found.
-- SEC MC 13-2017 (earlier MPO rule) effective date and SEC MC 11-2026 publication date not retrieved.
+- Outcome of the 2018 "trading without settlement" proposal, the 2022 disclosure-halt proposals (CN-2022-0045), the 2023 algorithmic-trading proposal and the 2024 black-out and error-account proposals (CN-2024-0048) not found (pipeline P21).
+- Content of the CMIC SBL and short-selling guidelines beyond the cover memo, the text of BSP Circulars 1192 and 1212, and the 2022 and 2023 listing-rule memos known here only by their CLDR index titles (MEA-2022-0001 to -0003, CN-2024-0024) were not re-read.
+- SEC MC 13-2017 (the earlier MPO rule: 20% at IPO, maintained at all times) was issued 1 Dec 2017 [^pse-sr6-2-mpo-initial-backdoor-2020:3]; its effectivity date is not stated there, and the SEC MC 11-2026 publication date was not retrieved.
 - SCCP fee level for 2018 and any SCCP/PSE fee waivers or incentive schemes not verified.
 - Whether the 2024-2025 PCC or other regulator approvals were needed for the PDS purchase was not found (SEC exemptive relief of Dec 2023 is reported by Philstar only).
 - SEC (sec.gov.ph), BIR and Official Gazette pages could not be fetched (403/Cloudflare; Wayback had no capture), so SEC approvals or new circulars issued after the PSE's last relay (about 1 Oct 2026) would not appear here; SEC MC numbers are cited through PSE attachments only.
@@ -277,7 +329,8 @@ The gating item is the Nasdaq Eqlipse "New Trading Engine" (NTE), scheduled for 
 | P17 | SME Board and other listing rules | SME Board sponsor-model amendments (CN-2026-0041, 28 Aug 2026); sponsor model "Ongoing Review"; Green Equity Label rules consultation (CN-2026-0042) | Proposed | none stated | [^pse-analyst-briefing-1h-2026:16][^pse-web-announcements-archive] | P |
 | P18 | PDS integration and other infrastructure | Phase 1 consolidation of 13 systems; Phase 2 single post-trade system (clearing, settlement and depository), fixed-income assets as clearing collateral, wider Name-on-Central-Depository coverage; also listed as technology upgrades: new central depository system for PDTC, new surveillance system for CMIC, XBRL-based disclosure platform | In progress | Phase 2 target 2027 | [^pse-analyst-briefing-1h-2026:31][^pse-analyst-briefing-3m-2026:24] | P |
 | P19 | T+1 settlement; extended trading hours; fractional (sub-one-share) trading | none | No proposal found in the PSE decks (Mar, Jul, Aug 2026), the 2024-2026 president's reports, the 2025 annual report, or the PSE circular index to 6 Oct 2026; one-share lots (P2) are the lowest lot proposed | none | [^pse-analyst-briefing-3m-2026:14][^pse-analyst-briefing-1h-2026:9][^pse-annual-report-2025:38][^pse-asm-2024-presidents-report:25][^pse-asm-2025-presidents-report:30] | I (absence) |
-| P20 | MSCI / FTSE classification | Philippines stays Emerging (MSCI) and Secondary emerging (FTSE); MSCI 2026 market classification announcement named other markets but not the Philippines; MSCI's June 2026 accessibility review still lists foreign-ownership, FX and short-selling frictions | No change pending | MSCI/FTSE calendars not retrieved | [^ftse-geis-ground-rules-2026-09:45][^ladige-2026-06-msci-mcr][^msci-accessibility-review-2026:43] | P/S |
+| P20 | MSCI / FTSE classification | Philippines stays Emerging (MSCI) and Secondary emerging (FTSE); MSCI 2026 market classification announcement named other markets but not the Philippines; MSCI's June 2026 accessibility review still lists foreign-ownership, FX and short-selling frictions | No change known; FTSE outcome pending | FTSE annual announcement scheduled Tue 6 Oct 2026 (placeholder only when checked); next MSCI review date not retrieved | [^ftse-geis-ground-rules-2026-09:45][^ftse-country-classification-interim-2026-03:5][^ftse-equity-country-classification-page][^ladige-2026-06-msci-mcr][^msci-accessibility-review-2026:43] | P/S |
+| P21 | Rule consultations with no recorded outcome | PSE consultations whose adoption was not found: CN-2018-0023 trading without settlement (Apr 2018), CN-2022-0045 disclosure-halt changes (Nov 2022), CN-2023-0043 algorithmic trading (Sep 2023; the VWAP part was adopted), CN-2023-0041 MPO and voluntary-delisting amendments (Aug 2023; MPO levels restated in the Aug 2026 rule), CN-2024-0048 black-out and error-account changes (Sep 2024) | Proposed (outcome unknown) | none | [^pse-cn-2018-0023-trading-without-settlement-proposal:1][^pse-cn-2022-0045-consultation-2022-part-ii:1][^pse-cn-2023-0043:2][^pse-cn-2023-0041-mpo-delisting-consult:1-3][^pse-cn-2024-0048-consultation-blackout-rule:1] | P (proposals); outcomes unknown |
 
 #### 2B. NTE detail that execution code will need
 
@@ -315,16 +368,32 @@ The gating item is the Nasdaq Eqlipse "New Trading Engine" (NTE), scheduled for 
 - Market-halt rule: consulted May 2022, effective Aug 2025 [^pse-cn-2022-0020-market-halt-consultation:3][^pse-cn-2025-0037:1].
 - Counter-evidence: T+2 held its announced date (24 Aug 2023) once SEC approved on 10 Aug, and VWAP launched on the date announced (1 Mar 2024) [^pse-cn-2023-0040-t2-go-live:1][^pse-cn-2024-0012-vwap-go-live:1].
 
+#### 2D. Look-ahead calendar to February 2027 (dated items only; none of these changes a rule except where stated)
+
+| Date | Event | Why it matters to execution | Sources | Ev |
+|---|---|---|---|---|
+| Tue 2026-10-06 | FTSE Russell's 2026 annual country-classification announcement is scheduled; the Philippines is Secondary Emerging and the March 2026 watch list named only Egypt. FTSE's page still linked a two-page "Document to follow" placeholder when checked | Classification change risk (none signalled); FTSE normally gives at least six months' notice before changing a country's classification | [^ftse-country-classification-interim-2026-03:2][^ftse-country-classification-interim-2026-03:5][^ftse-geis-ground-rules-2026-09:9][^ftse-equity-country-classification-page] | P |
+| 2026-10-06 to 2026-10-12 | Mynt (GCASH) IPO offer period (price fixed 1 Oct; up to 8.03bn shares at up to PHP10.00; PSE gives tentative listing as 20 Oct, the 4 Jul ASM deck says 19 Oct; conflict C17) | Very large IPO (PHP92.31bn sized in the 4 Jul deck); retail subscriptions also through GStocks; supply and index-inclusion events follow | [^pse-press-mynt-ipo-approval][^pse-asm-2026-president-report:8] | P |
+| 2026-10-12 | Vitro REIT IPO (about PHP24.19bn) scheduled to list | First large REIT under the Jan 2026 SEC framework; REIT MPO 33.33% (R7.14) | [^pse-asm-2026-president-report:8] | P |
+| 2026-10-12 to 2026-10-22 | NTE pre-production testing; Saturday rehearsals 31 Oct, 7 Nov and 14 Nov | Last windows to certify FEOMS, FIX and ITCH changes | [^pse-nte-broker-forum-2026-07-09:9] | P |
+| 2026-10-14 | Comment deadline on the SEC's draft higher capital rules for broker-dealers (SRC Rules 28.1 and 33.1) | Counterparty-capital proposal (P14) | [^pse-memo-2026-10-01-sec-rfc-src-28-1-33-1-capital:1-2] | P |
+| 2026-11-16 to 2026-11-18 | Whether PSE trades during the ASEAN Summit days is unresolved: a circular saying "regular trading days" was followed the same day by one promising a final advisory | Calendar service must allow either outcome; clearing follows BSP business days | [^pse-trading-day-advisory-2026-11-16-18:1] | P |
+| Mon 2026-11-23 | NTE go-live (no parallel run; limit orders only on day 1; one-share lots and new tick table only if SEC approval has arrived) | Hard cutover; see Execution implications 1-3 | [^pse-nte-broker-forum-2026-07-09:9][^pse-nte-faq-2026-08:1] | P |
+| Nov 2026 | MSCI November index review (date not retrieved); FTSE December quarterly review follows | Index-implementation days are high-volume days (see the market-data and indices chapter) | [^msci-philippines-index-factsheet-2026-09:1] | I (dates unknown) |
+| about 2027-02-01 | First application of PSE's revised index policy (98% cumulative market-cap screen, MTAR and MADV tests, 15% float exception from PHP250bn) at the February rebalance; recent February effective dates were the first Monday of the month | Index-flow positioning; the announcement is usually 3 to 5 trading days earlier | [^pse-cn-2026-0033b:1][^pse-cn-2026-0033b:7-8] | P (policy); date I |
+
+Non-trading days for the rest of 2026 are covered in the calendar chapter.
+
 ### Inferences
 - The NTE go-live depends on three things PSE does not control: SEC approval of the lot/tick, trading-at-last and negotiated-trade rule changes; broker FEOMS readiness (many TPs had not started on 9 Jul); and vendor-layer connectivity. No deferral has been announced as of 6 Oct 2026, but given the readiness figures and the SEC dependencies the schedule risk is non-trivial (I).
 - If SEC does not approve One Lot One Share before 23 Nov, PSE would either keep the existing lot table on the new engine or delay the engine; PSE materials do not say which (I). Code should read lot size and tick size from the security master (PSE static-data files) rather than hard-coding either regime.
-- Two large listings are scheduled in October 2026 (Vitro REIT on 12 Oct and Globe Fintech/Mynt on 19 Oct; PNB Holdings by introduction on 25 Sep) and will be among the first under the new tiered MPO rule (REIT 33.33%; issuers above PHP50bn 15% with an offer of at least PHP10bn). PSE's deck gives amounts (PHP24.19bn and PHP92.31bn) without saying whether they are offer size or valuation, so any MPO or index-inclusion conclusion needs the prospectuses (I) [^pse-analyst-briefing-1h-2026:13][^philstar-2026-07-17-sec-accomplishments][^pse-memo-2026-08-11-mpo-rule-effectivity:2].
+- Two large listings are scheduled in October 2026 (Vitro REIT on 12 Oct and Globe Fintech/Mynt on 19 Oct; PNB Holdings by introduction on 25 Sep) and will be among the first under the new tiered MPO rule (REIT 33.33%; issuers above PHP50bn 15% with an offer of at least PHP10bn). PSE's deck gives amounts (PHP24.19bn and PHP92.31bn) without saying whether they are offer size or valuation, so any MPO or index-inclusion conclusion needs the prospectuses (I) [^pse-analyst-briefing-1h-2026:13][^philstar-2026-07-17-sec-accomplishments][^pse-amended-mpo-rule-2026-08:2].
 
 ### Gaps
 - No PSE notice after 25 Sep 2026 on the NTE; the 25 Sep "trading day advisory" for 16-18 Nov 2026 is a placeholder promising a final advisory [^pse-trading-day-advisory-2026-11-16-18:1]. Whether the 16-18 Nov operations interact with the 23 Nov cutover is unknown.
 - SEC approval status of the board-lot, trading-at-last and negotiated-trade rules after 17 Aug 2026 is unknown; PSE's circular index to 2 Oct shows no approval memo.
 - No statement on whether static/dynamic thresholds, circuit breakers, order types beyond limit, or session times change with the NTE.
-- FTSE and MSCI review calendars and any pending watch-list for the Philippines were not retrieved (only classification tables and the MSCI index factsheet).
+- FTSE's 2026 annual classification announcement was due on 6 Oct 2026 and had not been posted when checked (the March 2026 interim watch list named only Egypt); MSCI's November 2026 review date and any MSCI watch-list for the Philippines were not retrieved (only classification tables, the June 2026 accessibility review and the index factsheet).
 - The SEC Capital Market Master Plan document itself and any SEC statement on T+1, trading hours or short-selling reform were not found.
 
 ---
@@ -352,6 +421,11 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
 - **C15. Derivatives and GPDR targets.** Press quotes from Oct 2024 (GPDR Q1 2025; derivatives Q1 2026) conflict with the Aug 2026 position (GPDR pending SEC; derivatives undated) [^bworld-2024-10-23-gpdr-derivatives-targets][^pse-analyst-briefing-1h-2026:10].
 - **C16. MSLA guideline approval date.** PSE's memo of 22 May 2026 says the SEC approved the 2026 Revised MSLA Guidelines on 15 May 2026, effective immediately [^pse-cn-2026-0025:1]; the press report is dated 10 Jun 2026 [^philstar-2026-06-10-sec-msla]. Use 15 May 2026 (the PSE index lists the memo under 25 May).
 
+- **C17. Mynt (GCASH) listing date.** PSE's 18 Sep 2026 release gives a tentative listing date of 20 Oct 2026; the 4 Jul 2026 annual-meeting deck lists the IPO on 19 Oct 2026 [^pse-press-mynt-ipo-approval][^pse-asm-2026-president-report:8]. Use the later PSE release and re-check against the final prospectus calendar.
+- **C18. BIR acceptance of the GMSLA.** CN-2023-0048 and PSE's 2025 deck give 6 Sep 2023 (BIR letter); PSE's Oct 2023 retail webinar deck dates PSE's receipt of the confirmation to 25 Sep 2023 on one slide and repeats "6 September 2023" on another [^pse-cn-2023-0048:2][^pse-asm-2024-presidents-report:24][^pse-sbl-short-selling-webinar-2023:3]. Treat 6 Sep as the letter date and 25 Sep as when PSE says it received it.
+- **C19. PDTC as lending agent.** PSE's July 2024 report says "Approval of PDTC as a Lending Agent (SEC)" on 21 Jul 2023; the Oct 2023 webinar deck says "conditional approval" [^pse-asm-2024-presidents-report:24][^pse-sbl-short-selling-webinar-2023:3]. The conditions were not found.
+- **C20. Redlined SCCP memos lose their strikethrough in text extraction.** SCCP memo 02-0125 shows the old Rule 3.4 wording ("largest outstanding netted amounts first") and the new Annex 11 algorithm side by side; only the rendered page shows which is struck through. The new rule is price first, then lowest quantity, then pseudo-random [^sccp-memo-02-0125-sec-approval-rules-3-4-5-1-4-6-2-8-7-6:1]. Read amendment memos from the page image, not the text layer.
+
 ### Inferences
 - The knowledge base should cite PSE circulars by number and date, treat the PSE website FAQ as stale unless a circular confirms it, and tag every parameter with an "in force since" date (I).
 - The PSE site's retained old trading-hours table is the most likely source of wrong "15:30 close" assumptions in post-2021 data processing (I).
@@ -375,6 +449,8 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
 9. **Foreign-ownership and share-class rules.** Foreign-room checks stay issuer-specific; Class A/B shares are being merged (articles to be amended by 9 Aug 2026); the 13th negative list took effect about 1-2 May 2026. [^pse-cn-2025-0036-declassification-effectivity:1][^eo-113-2026-13th-finl:1-2]
 10. **Back-office feeds.** DTR file retired with the NTE; EOD files (ABC, CTF, Quote, Price.lis) via the new PSE Portal; Weekly Tax Report only from 3 Aug 2026. [^pse-nte-user-group-2026-01-15:19][^pse-nte-faq-2026-08:2]
 11. **Instruments that do not yet exist.** GPDRs, structured warrants, index futures, market-maker incentives and broader ETFs are not tradable; do not model them before PSE circulars and SEC approvals appear. [^pse-analyst-briefing-1h-2026:9-10]
+12. **News timing.** Issuers must disclose material information to PSE within 10 minutes and before the media, and may halt their own stock; EDGE releases same-day only if received by the cut-off, which has been 4:00 pm since 25 May 2026 (3:30 pm from 1 Mar 2022 to 22 May 2026), so filings between 15:15 and the cut-off can move prices after the close. PSE can also impose a short news halt itself (MRC, 19 Jan 2026). [^pse-listing-disclosure-rules:139][^pse-cn-2026-0024-edge-cutoff-4pm:1][^pse-cn-2022-0010-edge-cutoff-330pm:1][^pse-cn-2026-0004-2-emergency-disclosures-trading-halt:1-2]
+13. **Clearing rules that touch strategies.** SCCP collateral eligibility (PSEi, MidCap and Dividend Yield constituents at a 25% haircut, PSE shares 35%) is re-set after each index review (20 Feb 2023, 2 Feb 2026), which changes brokers' financing capacity for specific names; Rule 2.3.5 (23 Aug 2023) stops a clearing member using one client's shares to settle another's trade except under an SBL arrangement, so omnibus or prime-broker set-ups should be checked for it; the settlement batch may start before 12:00 once all obligations are in (5 Mar 2024). [^sccp-memo-02-0223-collateral-haircut-rates:1-2][^sccp-memo-01-0126-eligible-collateral-list:1][^sccp-memo-07-0823-sec-approved-amendments:2][^sccp-memo-01-0324-early-batch-run-effectivity:1]
 
 ---
 
@@ -408,6 +484,24 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2025-08-05"
   note: "Scanned. Archived by another researcher; original URL not recorded."
+- slug: bsp-fx-manual-morfxt-2025-05
+  title: "BSP Manual of Regulations on Foreign Exchange Transactions (MORFXT), updated May 2025 (amended through Circular 1212 of 11 Apr 2025)"
+  publisher: "Bangko Sentral ng Pilipinas"
+  type: pdf
+  canonical_url: "https://www.bsp.gov.ph/"
+  local_path: pdfs/bsp-fx-manual-morfxt-2025-05.pdf
+  edition: in-force
+  amended_through: "2025-05-31"
+  note: "Archived by another researcher; original URL not recorded (bsp.gov.ph blocks automated clients). Inward-investment sections 32-38 on PDF p42-48; Sec. 37 (registration through AABs) on p46."
+- slug: cmic-sbl-short-selling-guidelines
+  title: "CMIC Memorandum 2020-005 with the SEC-approved Implementing Guidelines on Securities Borrowing and Lending and Short Selling"
+  publisher: "Capital Markets Integrity Corporation (CMIC)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2021/01/SBL_02_RulesRegulations_CMIC_Guidelines-on-SBL-and-Short-Selling.pdf"
+  local_path: pdfs/cmic-sbl-short-selling-guidelines.pdf
+  edition: in-force
+  amended_through: "2020-02-10"
+  note: "Scanned; cover memo on p1 (effective 25 Feb 2020). Archived by another researcher."
 - slug: eo-113-2026-13th-finl
   title: "Executive Order No. 113 s. 2026, Thirteenth Regular Foreign Investment Negative List"
   publisher: "Office of the President"
@@ -426,6 +520,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: superseded
   amended_through: "2022-06-27"
   note: "Superseded by EO 113 (2026). Original download URL not recorded."
+- slug: ftse-country-classification-interim-2026-03
+  title: "FTSE Equity Country Classification: March 2026 Interim Announcement"
+  publisher: "FTSE Russell (LSEG)"
+  type: pdf
+  canonical_url: "https://www.lseg.com/content/dam/ftse-russell/en_us/documents/country-classification/ftse-interim-country-classification-review-2026.pdf"
+  local_path: pdfs/ftse-country-classification-interim-2026-03.pdf
+  edition: in-force
+  amended_through: "2026-04-07"
+  note: "Cover date 7 Apr 2026; p5 says the 2026 annual announcement will be published on Tuesday 6 October 2026. Archived by another researcher."
 - slug: ftse-geis-ground-rules-2026-09
   title: "FTSE Global Equity Index Series ground rules v14.4 (September 2026), Appendix E country classification"
   publisher: "FTSE Russell"
@@ -453,6 +556,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2026-09-30"
   note: "Archived by another researcher."
+- slug: pse-17c-2018-04-16-pds-deal-clarification
+  title: "SEC Form 17-C (16 Apr 2018): clarification of the news report 'Bourse backs out of PDS deal'"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/4/2021/02/17-C-16-April-2018-Clarification-of-news-article-on-PDS-deal.pdf"
+  local_path: pdfs/pse-17c-2018-04-16-pds-deal-clarification.pdf
+  edition: historical
+  amended_through: "2018-04-16"
+  note: "Archived by another researcher; quotes the Inquirer report (SPA timetable lapsed 31 Mar 2018) and PSE's denial."
 - slug: pse-active-tp-summary-2026-07-20
   title: "PSE Active Trading Participants public directory as of 20 Jul 2026"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -462,6 +574,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2026-07-20"
   note: "Count of 123 entries is this researcher's tally of 'Nominee' lines. Archived by another researcher; original URL not recorded."
+- slug: pse-amended-mpo-rule-2026-08
+  title: "Effectivity of the PSE Amended Rule on Minimum Public Ownership and Revised Guidelines in Determining the Public Ownership of Listed Companies"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2026/08/Memo-to-Public_Effectivity-of-the-Amended-MPO-Rule-Rvsd-PO-Guidelines-v2.pdf"
+  local_path: pdfs/pse-amended-mpo-rule-2026-08.pdf
+  edition: in-force
+  amended_through: "2026-08-11"
+  note: ""
 - slug: pse-analyst-briefing-1h-2026
   title: "PSE STAR briefing: 1H 2026 updates (17 Aug 2026)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -480,6 +601,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2026-03-18"
   note: ""
+- slug: pse-annual-report-2013
+  title: "PSE Annual Report 2013"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://www.pse.com.ph/"
+  local_path: pdfs/pse-annual-report-2013.pdf
+  edition: n/a
+  amended_through: "2013-12-31"
+  note: "Archived by another researcher; direct PDF URL not recorded. FMETF listing on p22 and p25."
 - slug: pse-annual-report-2015
   title: "PSE Annual Report 2015"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -552,6 +682,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2026-07-04"
   note: "Archived by another researcher; original URL not recorded."
+- slug: pse-cmic-rules
+  title: "Capital Markets Integrity Corporation Rules v1.2 (15 Dec 2011) with SEC approval letters"
+  publisher: "Capital Markets Integrity Corporation (CMIC) / PSE"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2021/04/Approved-CMIC-Rules-2.pdf"
+  local_path: pdfs/pse-cmic-rules.pdf
+  edition: in-force
+  amended_through: "2012-02-23"
+  note: "Image-only PDF; Art. XI-A (restriction, halt or suspension orders) on p112. Later amendments not located. Archived by another researcher."
 - slug: pse-cn-2017-0082-stt-increase-advisory
   title: "PSE Memorandum CN-No. 2017-0082: Increase in Stock Transaction Tax (STT)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -615,6 +754,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: superseded
   amended_through: "2018-06-22"
   note: "PSE announcement index lists this as 22 Jul 2018 (typo; the memo is dated 22 Jun 2018)."
+- slug: pse-cn-2018-0048-cmic-denial-of-access-meridian
+  title: "PSE Memorandum CN-No. 2018-0048: Implementation of CMIC action on Meridian Securities, Inc. (one-day denial of access)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2018-0048.pdf"
+  local_path: pdfs/pse-cn-2018-0048-cmic-denial-of-access-meridian.pdf
+  edition: historical
+  amended_through: "2018-10-05"
+  note: "Archived by another researcher."
 - slug: pse-cn-2019-0004-short-selling-guidelines-amendment
   title: "PSE Memorandum CN-No. 2019-0004: Amendments to the PSE Guidelines for Short Selling Transactions"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -624,6 +772,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: superseded
   amended_through: "2019-01-23"
   note: "Incorporated in the Oct 2023 text."
+- slug: pse-cn-2019-0031-trading-halt-fire-drill
+  title: "PSE Memorandum CN-No. 2019-0031: Trading halt due to fire drill (4 Jun 2019)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2019-0031.pdf"
+  local_path: pdfs/pse-cn-2019-0031-trading-halt-fire-drill.pdf
+  edition: historical
+  amended_through: "2019-06-04"
+  note: "Archived by another researcher."
 - slug: pse-cn-2019-0037-foreign-investment-etf
   title: "PSE Memorandum CN-No. 2019-0037: Foreign investment into Philippine Exchange-Traded Fund (BSP Circular 1030 s. 2019)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -633,6 +790,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: historical
   amended_through: "2019-07-08"
   note: ""
+- slug: pse-cn-2020-0002-trading-suspension-2020-01-13
+  title: "PSE Memorandum CN-No. 2020-0002: Trading suspension, 13 Jan 2020 (Taal volcano ash)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2020-0002.pdf"
+  local_path: pdfs/pse-cn-2020-0002-trading-suspension-2020-01-13.pdf
+  edition: historical
+  amended_through: "2020-01-13"
+  note: "Archived by another researcher."
 - slug: pse-cn-2020-0005-amended-reit-listing-rules
   title: "PSE Memorandum CN-No. 2020-0005: Effectivity of the Amended Listing Rules for REITs"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -723,15 +889,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2020-07-15"
   note: ""
-- slug: pse-cn-2020-0076-mpo-initial-backdoor-listing
-  title: "PSE Memorandum CN-No. 2020-0076: Guidelines on minimum public ownership for initial and backdoor listings"
+- slug: pse-cn-2021-0021-amended-listing-rules
+  title: "PSE Memorandum CN-No. 2021-0021: Amended Listing Rules (Main and SME Board listing rules; sponsor model; COVID relief)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
   type: pdf
-  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2020-0076.pdf"
-  local_path: pdfs/pse-cn-2020-0076-mpo-initial-backdoor-listing.pdf
-  edition: superseded
-  amended_through: "2020-08-03"
-  note: "Replaced by the Aug 2026 Amended MPO Rule."
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2021-0021.pdf"
+  local_path: pdfs/pse-cn-2021-0021-amended-listing-rules.pdf
+  edition: in-force
+  amended_through: "2021-03-24"
+  note: "Archived by another researcher; Annex A (24 pages) follows the 2-page memo."
 - slug: pse-cn-2021-0046-index-policy-revision-2021
   title: "PSE Memorandum CN-No. 2021-0046: Revised Policy on Index Management and results of index review (float 15% to 20%)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -759,6 +925,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: superseded
   amended_through: "2021-11-22"
   note: ""
+- slug: pse-cn-2021-0063-half-day-trading-2021-12
+  title: "PSE Memorandum CN-No. 2021-0063: Half-day trading on 24 and 31 December 2021"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2021-0063.pdf"
+  local_path: pdfs/pse-cn-2021-0063-half-day-trading-2021-12.pdf
+  edition: historical
+  amended_through: "2021-12-15"
+  note: "Archived by another researcher."
 - slug: pse-cn-2022-0001-delay-market-opening
   title: "PSE Memorandum CN-No. 2022-0001: Delay in market opening and trading (4 Jan 2022)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -795,6 +970,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: superseded
   amended_through: "2022-02-17"
   note: ""
+- slug: pse-cn-2022-0010-edge-cutoff-330pm
+  title: "PSE Memorandum CN-No. 2022-0010: Cut-off for posting disclosures on the PSE EDGE portal (3:30 pm)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2022-0010.pdf"
+  local_path: pdfs/pse-cn-2022-0010-edge-cutoff-330pm.pdf
+  edition: superseded
+  amended_through: "2022-02-24"
+  note: "Archived by another researcher; superseded by CN-2026-0024 (4:00 pm)."
 - slug: pse-cn-2022-0013-launch-midcap-divy-indices
   title: "PSE Memorandum CN-No. 2022-0013: Launch of the PSE Dividend Yield and PSE MidCap indices"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -822,6 +1006,24 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: historical
   amended_through: "2022-09-25"
   note: "Original URL assumed from PSE's standard pattern."
+- slug: pse-cn-2022-0045-consultation-2022-part-ii
+  title: "PSE Memorandum CN-No. 2022-0045: Request for comments: proposed amendments to the Consolidated Listing and Disclosure Rules and Revised Trading Rules (2022 amendments, Part II)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2022-0045.pdf"
+  local_path: pdfs/pse-cn-2022-0045-consultation-2022-part-ii.pdf
+  edition: historical
+  amended_through: "2022-11-16"
+  note: "Archived by another researcher; consultation only."
+- slug: pse-cn-2023-0022-stabilization-fund
+  title: "PSE Memorandum CN-No. 2023-0022: Amendments to Article III, Part A of the Consolidated Listing and Disclosure Rules (stabilisation fund)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2023-0022.pdf"
+  local_path: pdfs/pse-cn-2023-0022-stabilization-fund.pdf
+  edition: in-force
+  amended_through: "2023-05-12"
+  note: "Scanned; archived by another researcher."
 - slug: pse-cn-2023-0027-offshore-collateral-sbl
   title: "PSE Memorandum CN-No. 2023-0027: Acceptance of offshore collateral in SBL transactions involving at least one foreign party"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -885,6 +1087,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: historical
   amended_through: "2023-10-09"
   note: "Scanned; proposal not adopted."
+- slug: pse-cn-2023-0055
+  title: "PSE Memorandum CN-No. 2023-0055: Request for comments: proposed amendments to Part XXI of the Implementing Guidelines and Guidelines on Natural Disasters or Extraordinary Circumstances"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2023-0055.pdf"
+  local_path: pdfs/pse-cn-2023-0055.pdf
+  edition: superseded
+  amended_through: "2023-10-17"
+  note: "Archived by another researcher; consultation only (final form CN-2025-0037)."
 - slug: pse-cn-2023-0056
   title: "PSE Memorandum CN-No. 2023-0056: Short Selling Program go-live (6 Nov 2023)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -966,6 +1177,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: historical
   amended_through: "2024-09-26"
   note: "Consultation; rules still awaiting SEC approval (Aug 2026)."
+- slug: pse-cn-2024-0048-consultation-blackout-rule
+  title: "PSE Memorandum CN-No. 2024-0048: Request for comments: proposed amendments to the Listing and Disclosure Rules and Revised Trading Rules (black-out rule, error-account liquidation)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2024-0048.pdf"
+  local_path: pdfs/pse-cn-2024-0048-consultation-blackout-rule.pdf
+  edition: historical
+  amended_through: "2024-09-30"
+  note: "Archived by another researcher; consultation only."
 - slug: pse-cn-2024-0053-equitiworld-involuntary-suspension
   title: "PSE Memorandum CN-No. 2024-0053: Equitiworld Securities, Inc.: involuntary suspension and preservation order"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -984,6 +1204,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: historical
   amended_through: "2024-12-09"
   note: ""
+- slug: pse-cn-2024-0068-almf-effectivity
+  title: "PSE Memorandum CN-No. 2024-0068: Effectivity of the amended annual listing maintenance fee (ALMF) upper limit"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2024-0068.pdf"
+  local_path: pdfs/pse-cn-2024-0068-almf-effectivity.pdf
+  edition: in-force
+  amended_through: "2024-12-19"
+  note: "Archived by another researcher."
 - slug: pse-cn-2025-0015-adjusted-schedule-2025-03-24
   title: "PSE Memorandum CN-No. 2025-0015: Adjusted trading schedule (24 Mar 2025)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -1056,6 +1285,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2025-12-15"
   note: "Consultation paper; not yet adopted. Page 4 holds the current and proposed lot/tick tables."
+- slug: pse-cn-2025-0047-sector-reclassification
+  title: "PSE Memorandum CN-No. 2025-0047: Sector reclassification of 13 companies (effective 5 Jan 2026)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2025-0047.pdf"
+  local_path: pdfs/pse-cn-2025-0047-sector-reclassification.pdf
+  edition: in-force
+  amended_through: "2025-12-26"
+  note: "Archived by another researcher."
 - slug: pse-cn-2026-0004-2-emergency-disclosures-trading-halt
   title: "PSE Memorandum CN-No. 2026-0004: Emergency disclosures and trading halt (MRC Allied)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -1119,6 +1357,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2026-05-18"
   note: "Scanned; PDS Group memo on p2 dated 22 Apr 2026. Archived by another researcher."
+- slug: pse-cn-2026-0024-edge-cutoff-4pm
+  title: "PSE Memorandum CN-No. 2026-0024: cut-off for posting disclosures on the EDGE portal (4:00 pm, effective 25 May 2026)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2026/05/CN-No.-2026-0024.pdf"
+  local_path: pdfs/pse-cn-2026-0024-edge-cutoff-4pm.pdf
+  edition: in-force
+  amended_through: "2026-05-22"
+  note: "Archived by another researcher."
 - slug: pse-cn-2026-0025
   title: "PSE Memorandum CN-No. 2026-0025: 2026 Revised Guidelines for Master Securities Lending Agreement (MSLA) clearance (SEC-approved 15 May 2026)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -1236,6 +1483,24 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2026-10-05"
   note: "52 eligible securities plus previously eligible entries, all with zero short-sale volume and null short-interest ratio. Archived by another researcher; original URL not recorded."
+- slug: pse-etf-rules
+  title: "SEC Approved PSE ETF Rules (18 Mar 2013), incl. Part C ETF Market Making Rules"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE) / Securities and Exchange Commission"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2021/04/PSE-ETF-RULES-A-B-C-for-Website.pdf"
+  local_path: pdfs/pse-etf-rules.pdf
+  edition: in-force
+  amended_through: "2013-03-18"
+  note: "Archived by another researcher; market-maker obligations on p22-23; amendments proposed in 2026 (CN-2026-0029) are not in force."
+- slug: pse-implementing-guidelines-trading-rules
+  title: "Implementing Guidelines of the Revised Trading Rules (PSE memorandum 2010-0340 of 22 Jul 2010)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2021/04/Implementing-Guidelines-of-the-Revised-Trading-Rules.pdf"
+  local_path: pdfs/pse-implementing-guidelines-trading-rules.pdf
+  edition: superseded
+  amended_through: "2010-07-22"
+  note: "Archived by another researcher; effective with the new trading system on 26 Jul 2010 (p1); later amended (2011, 2013, 2020, 2024, 2025)."
 - slug: pse-index-policy-feb2018
   title: "PSE Policy on Index Management (February 2018)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -1245,15 +1510,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: superseded
   amended_through: "2018-02-12"
   note: "Cover says February 2018; date taken from the covering memo CN-2018-0013. Archived by another researcher; original URL not recorded."
-- slug: pse-memo-2026-08-11-mpo-rule-effectivity
-  title: "PSE Memorandum: effectivity of the PSE Amended Rule on Minimum Public Ownership and Revised Guidelines in Determining Public Ownership"
+- slug: pse-listing-disclosure-rules
+  title: "PSE Consolidated Listing and Disclosure Rules (published as of January 2025)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
   type: pdf
-  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2026/08/Memo-to-Public_Effectivity-of-the-Amended-MPO-Rule-Rvsd-PO-Guidelines-v2.pdf"
-  local_path: pdfs/pse-memo-2026-08-11-mpo-rule-effectivity.pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2025/01/Consolidated-Listing-and-Disclosure-Rules-Updated-011025.pdf"
+  local_path: pdfs/pse-listing-disclosure-rules.pdf
   edition: in-force
-  amended_through: "2026-08-11"
-  note: ""
+  amended_through: "2025-01-08"
+  note: "Archived by another researcher; the supplemental-rule index (PDF p13-15) lists each amendment memo with its date; later changes (MPO 11 Aug 2026, preferred shares 12 Aug 2026, EDGE cut-off) are separate memoranda."
 - slug: pse-memo-2026-10-01-sec-rfc-src-28-1-33-1-capital
   title: "PSE Memorandum: SEC request for comments on proposed amendments to SRC Rules 28.1 and 33.1 (broker-dealer paid-up capital and surety bond)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -1290,6 +1555,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: historical
   amended_through: "2013-10-16"
   note: "Archived by another researcher; original URL not recorded."
+- slug: pse-memo-sec-approved-dma-rules-2013-11-26
+  title: "PSE memorandum of 26 Nov 2013 with the SEC-approved Rules on Direct Market Access (DMA)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/AnnouncementOPSPDF/SEC-Approved%20Direct%20Market%20Access%20(DMA)%20Rules.pdf"
+  local_path: pdfs/pse-memo-sec-approved-dma-rules-2013-11-26.pdf
+  edition: in-force
+  amended_through: "2013-11-26"
+  note: "Archived by another researcher; scanned; effective on the first trading day of 2014 (p1); Sec. 9 restrictions on p8."
 - slug: pse-memo-tp-paid-up-capital-increase-2026-07
   title: "PSE consultation paper: proposed increase in minimum unimpaired paid-up capital of trading participants"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -1326,6 +1600,114 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2026-01-15"
   note: "Lot/tick tables p9-10; run-off examples p11-15. Archived by another researcher."
+- slug: pse-revised-trading-rules
+  title: "PSE Revised Trading Rules (SEC-approved 1 Jun 2010; scanned)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2021/04/Revised-Trading-Rules.pdf"
+  local_path: pdfs/pse-revised-trading-rules.pdf
+  edition: superseded
+  amended_through: "undated"
+  note: "Archived by another researcher; image-only 2010 base text (memo 2010-0275); amended piecemeal since (2011, 2013, 2020, 2024, 2025). Art. IV Sec. 7 (static threshold; warrants exempt) on p20."
+- slug: pse-sbl-short-selling-intro-presentation
+  title: "PSE presentation: An Introduction to the PSE SBL and Short Selling Programs (Nov 2018)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2021/01/Presentation_Introduction-to-the-PSE-SBL-and-Short-Selling-Programs.pdf"
+  local_path: pdfs/pse-sbl-short-selling-intro-presentation.pdf
+  edition: historical
+  amended_through: "2018-11"
+  note: "Archived by another researcher; milestone dates 2006-2018 on p2."
+- slug: pse-sbl-short-selling-webinar-2023
+  title: "PSE webinar deck: PSE's SBL and Short Selling Programs for retail investors (Oct 2023)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2023/10/SBL-and-Short-Selling-Webinar-for-Retail-Investors-jgg.pdf"
+  local_path: pdfs/pse-sbl-short-selling-webinar-2023.pdf
+  edition: historical
+  amended_through: "2023-10-06"
+  note: "Archived by another researcher; regulatory milestones on p3 and p22."
+- slug: pse-sccp-revised-rules
+  title: "SCCP Revised Clearinghouse Rules as amended effective 23 Jul 2012 (PSE-hosted copy)"
+  publisher: "Securities Clearing Corporation of the Philippines (SCCP)"
+  type: pdf
+  canonical_url: "https://www.sccp.com.ph/"
+  local_path: pdfs/pse-sccp-revised-rules.pdf
+  edition: superseded
+  amended_through: "2012-07-23"
+  note: "Archived by another researcher; Rule 5.2 on p35 still says there is no return of cash contributions."
+- slug: pse-sr3-2-reit-listing-amend-2023
+  title: "PSE Listing Rules for REITs (2023 amendments; CN-2023-0010 of 9 Mar 2023)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://www.pse.com.ph/regulation-listed-company/"
+  local_path: pdfs/pse-sr3-2-reit-listing-amend-2023.pdf
+  edition: in-force
+  amended_through: "2023-03-09"
+  note: "Archived by another researcher; 22 pages; Sec. 4 criteria on p2-3. Original URL not recorded."
+- slug: pse-sr6-2-mpo-initial-backdoor-2020
+  title: "PSE Memorandum CN-No. 2020-0076: Guidelines on minimum public ownership for initial and backdoor listings"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/CN-2020-0076.pdf"
+  local_path: pdfs/pse-sr6-2-mpo-initial-backdoor-2020.pdf
+  edition: superseded
+  amended_through: "2020-08-03"
+  note: "Replaced by the Aug 2026 Amended MPO Rule."
+- slug: pse-sr6-mpo-rule-2012
+  title: "PSE Amended Rule on Minimum Public Ownership (CN-2012-0003 of 3 Jan 2012; effective 1 Jan 2012)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE) / Securities and Exchange Commission"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2022/08/Supplemental-Rule-6-Amended-MPO-Rule.pdf"
+  local_path: pdfs/pse-sr6-mpo-rule-2012.pdf
+  edition: superseded
+  amended_through: "2012-01-03"
+  note: "Archived by another researcher; scanned; superseded for new listings by the Aug 2026 rule."
+- slug: pse-sr7-backdoor-listing-2022
+  title: "PSE CN-2022-0026 (22 Jun 2022): Revised Rules on Backdoor Listing"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://www.pse.com.ph/regulation-listed-company/"
+  local_path: pdfs/pse-sr7-backdoor-listing-2022.pdf
+  edition: in-force
+  amended_through: "2022-06-22"
+  note: "Archived by another researcher; original URL not recorded; Sec. 3 (trading suspension and halts) on p4."
+- slug: pse-sr8-1-voluntary-delisting-2020
+  title: "PSE CN-2020-0104 (21 Dec 2020): amendments to the Voluntary Delisting Rules (Supplemental Rule 8.1)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE) / Securities and Exchange Commission"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/wp-content/uploads/sites/15/2022/07/Supplemental-Rule-8.1-Amendments-to-the-Voluntary-Delisting-Rules.pdf"
+  local_path: pdfs/pse-sr8-1-voluntary-delisting-2020.pdf
+  edition: in-force
+  amended_through: "2020-12-21"
+  note: "Archived by another researcher; scanned. 2023 proposals to amend (CN-2023-0041) not confirmed adopted."
+- slug: pse-tpa-2025-0040-globalinks-involuntary-suspension
+  title: "PSE TPA-2025-0040: Globalinks Securities & Stocks, Inc. - involuntary suspension (CMIC memorandum 2025-022)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/TPA-2025-0040.pdf"
+  local_path: pdfs/pse-tpa-2025-0040-globalinks-involuntary-suspension.pdf
+  edition: historical
+  amended_through: "2025-07-09"
+  note: "Archived by this researcher (browser User-Agent; %PDF verified); suspension effective 9 Jul 2025 for RBCA capitalisation breaches."
+- slug: pse-tpa-2025-0050-mount-peak-involuntary-suspension
+  title: "PSE TPA-2025-0050: Mount Peak Securities, Inc. - involuntary suspension (CMIC memorandum 2025-024)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/TPA-2025-0050.pdf"
+  local_path: pdfs/pse-tpa-2025-0050-mount-peak-involuntary-suspension.pdf
+  edition: n/a
+  amended_through: "2025-08-13"
+  note: "Archived by another researcher."
+- slug: pse-tpa-2025-0061-globalinks-lifting-of-suspension
+  title: "PSE TPA-2025-0061: Globalinks Securities & Stocks, Inc. - lifting of involuntary suspension (CMIC memorandum 2025-032)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: pdf
+  canonical_url: "https://documents.pse.com.ph/CircularOPSPDF/TPA-2025-0061.pdf"
+  local_path: pdfs/pse-tpa-2025-0061-globalinks-lifting-of-suspension.pdf
+  edition: historical
+  amended_through: "2025-10-14"
+  note: "Archived by this researcher (browser User-Agent; %PDF verified); suspension lifted 14 Oct 2025."
 - slug: pse-tpa-2026-0002-dynamic-threshold-review
   title: "PSE TPA-2026-0002: Dynamic Threshold semi-annual review (effective 2 Feb 2026)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -1371,6 +1753,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: historical
   amended_through: "2017-12-19"
   note: "Scanned two-up pages; Sec. 39 (NIRC Sec. 127, 6/10 of 1%) on PDF p24; Sec. 87 effectivity on p54. Original download URL not recorded."
+- slug: ra-11494-bayanihan-ii
+  title: "Republic Act No. 11494, Bayanihan to Recover as One Act (Sec. 6 repeals the IPO tax)"
+  publisher: "Congress of the Philippines"
+  type: pdf
+  canonical_url: "https://lawphil.net/statutes/repacts/ra2020/pdf/ra_11494_2020.pdf"
+  local_path: pdfs/ra-11494-bayanihan-ii.pdf
+  edition: in-force
+  amended_through: "2020-09-11"
+  note: "Archived by another researcher; scanned two-up pages: Sec. 6 on PDF p20, Sec. 18 (effectivity on publication) and approval date on p25."
 - slug: ra-11534-create
   title: "Republic Act No. 11534, Corporate Recovery and Tax Incentives for Enterprises (CREATE) Act"
   publisher: "Congress of the Philippines"
@@ -1407,6 +1798,33 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2025-05-29"
   note: "Archived PDF is an official copy (original download URL not recorded by this researcher); its Sec. 29 reads effective 1 July 2025, unlike the lawphil HTML transcription. Sec. 17 (STT) on p16."
+- slug: ra-8424-nirc-1997
+  title: "Republic Act No. 8424, National Internal Revenue Code of 1997 (as originally enacted)"
+  publisher: "Congress of the Philippines"
+  type: pdf
+  canonical_url: "https://lawphil.net/statutes/repacts/ra1997/pdf/ra_8424_1997.pdf"
+  local_path: pdfs/ra-8424-nirc-1997.pdf
+  edition: historical
+  amended_through: "1997-12-11"
+  note: "Archived by another researcher. Original Sec. 127 (STT 1/2 of 1%; IPO tax 4/2/1%) on PDF p165-166."
+- slug: sccp-clearing-house-rules-2018
+  title: "Revised Clearinghouse Rules of the Securities Clearing Corporation of the Philippines (revised 13 Mar 2018)"
+  publisher: "Securities Clearing Corporation of the Philippines (SCCP)"
+  type: pdf
+  canonical_url: "https://www.sccp.com.ph/resources/files/rules/SCCP_Revised_Rules_-_Approved_by_the_SEC_031318.pdf"
+  local_path: pdfs/sccp-clearing-house-rules-2018.pdf
+  edition: superseded
+  amended_through: "2018-03-13"
+  note: "Archived by another researcher; still the version posted on sccp.com.ph (T+3 wording); superseded in part by SCCP memoranda (T+2, collateral, allocation)."
+- slug: sccp-memo-01-0126-eligible-collateral-list
+  title: "SCCP Memo 01-0126 (28 Jan 2026): list of securities eligible as collateral (effective 2 Feb 2026)"
+  publisher: "Securities Clearing Corporation of the Philippines (SCCP)"
+  type: pdf
+  canonical_url: "https://www.sccp.com.ph/"
+  local_path: pdfs/sccp-memo-01-0126-eligible-collateral-list.pdf
+  edition: in-force
+  amended_through: "2026-01-28"
+  note: "Archived by another researcher; original URL not recorded. A newer list memo 01-0726 (28 Jul 2026) was not archived."
 - slug: sccp-memo-01-0324-early-batch-run-effectivity
   title: "SCCP Memo 01-0324: effectivity of the amendment to the Operating Procedures on early commencement of the batch run (SEC approval 9 Jan 2024)"
   publisher: "Securities Clearing Corporation of the Philippines (SCCP)"
@@ -1443,6 +1861,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2023-02-10"
   note: "Archived by another researcher; original URL not recorded."
+- slug: sccp-memo-03-0324-clearing-member-suspension
+  title: "SCCP Memo 03-0324 (22 Mar 2024): suspension of clearing member EquitiWorld Securities"
+  publisher: "Securities Clearing Corporation of the Philippines (SCCP)"
+  type: pdf
+  canonical_url: "https://sccp.com.ph/resources/files/memos/2024/03-0324%20Announcement%20of%20EquitiWorld%20Suspension.pdf"
+  local_path: pdfs/sccp-memo-03-0324-clearing-member-suspension.pdf
+  edition: historical
+  amended_through: "2024-03-22"
+  note: "Archived by another researcher."
 - slug: sccp-memo-06-0823-sec-approval-t2-amendments
   title: "SCCP Memo 06-0823: SEC approval of T+2-related amendments to SCCP Rules and Operating Procedures"
   publisher: "Securities Clearing Corporation of the Philippines (SCCP)"
@@ -1461,6 +1888,24 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: in-force
   amended_through: "2023-08-23"
   note: "Archived by another researcher; original URL not recorded."
+- slug: sec-2015-src-irr
+  title: "2015 Implementing Rules and Regulations of the Securities Regulation Code"
+  publisher: "Securities and Exchange Commission"
+  type: pdf
+  canonical_url: "https://www.sec.gov.ph/"
+  local_path: pdfs/sec-2015-src-irr.pdf
+  edition: in-force
+  amended_through: "2015-11-09"
+  note: "Archived by another researcher; original URL not recorded (sec.gov.ph blocks automated clients). Rule 24.2-2.5 (uptick rule) on p71."
+- slug: sec-2015-src-irr-notice-of-effectivity
+  title: "SEC notice: effectivity of the 2015 SRC Rules on 9 November 2015"
+  publisher: "Securities and Exchange Commission"
+  type: pdf
+  canonical_url: "https://appointment.sec.gov.ph/wp-content/uploads/2019/11/2015-SRC-Rules-Notice-of-Effectivity-of-SRC-IRR-Nov-09-2015.pdf"
+  local_path: pdfs/sec-2015-src-irr-notice-of-effectivity.pdf
+  edition: in-force
+  amended_through: "2015-11-05"
+  note: "Archived by another researcher."
 - slug: sec-mc-1-2020-reit-irr
   title: "SEC Memorandum Circular No. 1 s. 2020: Revised IRR of RA 9856 (REIT Act of 2009)"
   publisher: "Securities and Exchange Commission"
@@ -1497,6 +1942,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: n/a
   amended_through: "2024-08-29"
   note: "Secondary; paywalled, headline and teaser only."
+- slug: ftse-equity-country-classification-page
+  title: "FTSE Russell web page 'Equity Country Classification'"
+  publisher: "FTSE Russell (LSEG)"
+  type: web
+  canonical_url: "https://www.lseg.com/en/ftse-russell/equity-country-classification"
+  local_path: null
+  edition: n/a
+  amended_through: "undated"
+  note: "Fetched 6 Oct 2026: the 'Annual Country Classification - Sep 2026' link led to a two-page PDF reading 'Document to follow' (not archived). A sibling note cites ftserussell.com/equity-country-classification for the same page."
 - slug: gma-2023-10-20-short-selling-nov-6
   title: "GMA News: PSE to launch short selling program on Nov. 6"
   publisher: "GMA News Online"
@@ -1578,6 +2032,15 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: n/a
   amended_through: "2026-07-17"
   note: "Secondary; source for the Capital Market Master Plan with ADB."
+- slug: pse-listed-company-directory-frame
+  title: "PSE Listed Company Directory (frames.pse.com.ph/listedCompany)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: web
+  canonical_url: "https://frames.pse.com.ph/listedCompany"
+  local_path: null
+  edition: n/a
+  amended_through: "2026-10-06"
+  note: "Retrieved 6 Oct 2026 by another researcher; security types, boards and listing dates."
 - slug: pse-pr-cmepa-day1-2025-07-01
   title: "PSE press release: PBBM leads PSE bell ringing to welcome Day 1 of CMEPA law"
   publisher: "The Philippine Stock Exchange, Inc. (PSE) corporate site"
@@ -1686,6 +2149,51 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: n/a
   amended_through: "2024-02-16"
   note: ""
+- slug: pse-press-agi-warrants
+  title: "PSE press release: Alliance Global Group, Inc. marks warrants listing (22 Dec 2025)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: web
+  canonical_url: "https://www.pse.com.ph/alliance-global-group-inc-marks-warrants-listing/"
+  local_path: null
+  edition: n/a
+  amended_through: "2025-12-22"
+  note: "AGIW listed Fri 19 Dec 2025; 2.2bn warrants; PHP12 exercise price; five-year exercise period; PHP1.1bn gross proceeds."
+- slug: pse-press-fy2024-results
+  title: "PSE press release: PSE posts P1.2B net income in 2024 (3 Mar 2025)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: web
+  canonical_url: "https://www.pse.com.ph/pse-posts-p1-2b-net-income-in-2024/"
+  local_path: null
+  edition: n/a
+  amended_through: "2025-03-03"
+  note: "PSE's PDS stake 78.33% as of 24 Feb 2025 (from 20.98%)."
+- slug: pse-press-mynt-ipo-approval
+  title: "PSE press release: PSE clears Mynt, Inc. for IPO (18 Sep 2026)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: web
+  canonical_url: "https://www.pse.com.ph/pse-clears-mynt-inc-for-ipo/"
+  local_path: null
+  edition: n/a
+  amended_through: "2026-09-18"
+  note: "Offer period 6-12 Oct 2026; price set 1 Oct; tentative listing 20 Oct 2026; symbol GCASH."
+- slug: pse-press-q1-2025-results
+  title: "PSE press release: PSE net earnings rise 5 percent in Q1 2025 (16 May 2025)"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: web
+  canonical_url: "https://www.pse.com.ph/pse-net-earnings-rise-5-percent-in-q1-2025/"
+  local_path: null
+  edition: n/a
+  amended_through: "2025-05-16"
+  note: "PSE's PDS stake 79.9% at end-Mar 2025 and 91.6% as of 15 May 2025."
+- slug: pse-sec-frames-snapshot
+  title: "PSE security information frames (frames.pse.com.ph/security/<symbol>), snapshot of 6 Oct 2026"
+  publisher: "The Philippine Stock Exchange, Inc. (PSE)"
+  type: dataset
+  canonical_url: "https://frames.pse.com.ph/security/FMETF"
+  local_path: null
+  edition: in-force
+  amended_through: "2026-10-06"
+  note: "Status, last price and board lot per security; fetched 6 Oct 2026 by another researcher."
 - slug: pse-web-announcements-archive
   title: "PSE web page 'News and Announcement Archive' (circulars index)"
   publisher: "The Philippine Stock Exchange, Inc. (PSE)"
@@ -1749,4 +2257,13 @@ PSE's own public website contradicts itself on trading hours, price bands, divid
   edition: n/a
   amended_through: "undated"
   note: "Fetched 6 Oct 2026; contains one stale eligibility FAQ."
+- slug: tribune-pse-eases-float-2025
+  title: "Daily Tribune: PSE eases public float level to 15% (19 Mar 2025)"
+  publisher: "Daily Tribune"
+  type: web
+  canonical_url: "https://tribune.net.ph/2025/03/19/pse-eases-public-float-level-to-15"
+  local_path: null
+  edition: n/a
+  amended_through: "2025-03-19"
+  note: "Secondary; quotes PSE's CEO on the SEC-approved temporary cut in the IPO public float from 20% to 15%; no PSE circular found."
 ```

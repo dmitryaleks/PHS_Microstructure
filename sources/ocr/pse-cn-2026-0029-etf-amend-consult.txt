@@ -1,0 +1,745 @@
+===== page 1 / 21 =====
+q) PSE
+MEMORANDUM
+THE PHILIPPINE STOCK EXCHANGE, INC.
+C]
+TO
+SUBJECT
+DATE
+Trading
+Disclosure
+Listing
+C] PUbIic Advisory
+Administrative/Technology Matters
+Others: Proposed Rule Amendments
+MARKET PARTICIPANTS
+PROPOSED AMENDMENTS TO PSE RULES ON EXCHANGE
+TRADED FUNDS
+June 16, 2026
+The Exchange is inviting all interested parties to submit their comments on the proposed
+amendments to PSE Rules on Exchange Traded Funds, as discussed in the attached
+Consultation Paper.
+Comments may be sent to the Office of the General Counsel at ogc_list@pse.com.ph until
+June 30, 2026.
+(original signed)
+Ramon S. Monzon
+President and CEO
+CMDD
+el. o.
+IRD
+MOD
+HRD RISK/ SU
+7
+-4
+CCD FMD AD
+-mat
+OGC
+dress: investin
+coo
+se.com. h
+===== page 2 / 21 =====
+PSE
+The Philippine Stock Exchange, Inc.
+Consultation Paper
+PROPOSED AMENDMENTS To
+PSE RULES ON EXCHANGE TRADED FUNDS
+Disclaimer: This Consultation Paper is disselllinated for the purpose of soliciting comments front tJ1e
+concerned stakeholders. The final version of the Rules may differ from the draft rules contained in this
+Consultation Paper.
+===== page 3 / 21 =====
+Proposed Antendlnents to
+PSE ETF Rules
+I. Consultation Process
+Page 2 of 3
+This Consultation Paper is circulated to give concerned stakeholders an opportunity to submit
+their comments, if any, on the proposed amendments to the PSE Rules on Exchange Traded Funds
+("PSE ETF Rules").
+Interested parties may submit their comments and requests for clarifications by e-mail to
+ogc list@pse.com.ph until June 30, 2026.
+IL Rationale for the Rule Review
+To encourage a wider range of issuers, the Exchange is proposing significant amendments to the
+current ETF Listing Rules. These revisions aim to lower the barriers to entry for potential issuers
+while providing greater operational flexibility in fund management and corporate structuring.
+The proposed amendments also align PSE's framework with the rules in other markets and SEC
+Memorandum Circular No. 14, s. 2026 ("SEC Rules on Umbrella Fund"), which permits the
+establishment of multi-portfolio investment companies with segregated sub-funds.
+III. Proposed Amendments
+The key amendments include the following:
+I. Umbrella Structure: The current rules only contemplate single-fund listings while the
+proposed rules allow "Umbrella ETFs" where multiple portfolios or sub-funds with
+different investment objectives and strategies can be offered and listed under one ETF
+issuer, dispensing with the need to incorporate and list a separate entity for each sub-
+fund.
+2. Expanded List of ETF Issuers: The proposed rules include Unit Investment Trust Funds
+(UITFs) and other collective investment schemes as eligible ETF issuers, moving beyond
+just open-end investment companies. Thus, under the proposed rules, the Exchange will
+accept the listing of different types of securities such as fund units, in addition to shares
+of an ETF Company.
+3. Active Management: The proposed rules explicitly allow actively-managed ETFs in
+addition to traditional passive index-tracking funds.
+4. Reduced Capitalization: The minimum paid-up capital requirement for ETF issuers is
+lowered from Php250 million to Php50 million.
+===== page 4 / 21 =====
+PSE
+Proposed Amendments to
+PSE ETF Rules
+Page 3 0/3
+5. Simplified Participation: The proposed rules likewise reduce the required number of
+Authorized Participants (i.e., broker dealers that handle the creation and redemption of
+ETF shares or units) to just one (1) Authorized Participant and remove the requirement
+for one of the Authorized Participants to be the Market Maker.
+6. Global Diversification: Lastly, the proposed rules allow ETFs to track underlying
+securities listed in foreign exchanges or regulated OTC markets.
+Stakeholders are invited to review the full proposal in Annex "A" and submit comments by the
+designated deadline.
+===== page 5 / 21 =====
+Proposed Amendments to the PSE ETF Rules
+Q PSE
+RULES ON EXCHANGE TRADED FUNDS
+General Provisions
+PART A -
+Section 1. Scope
+Introduction
+Section 2.
+Supplemental Rules
+Section 3.
+Section 4. ETF Participants
+Listing and Disclosure
+PART B -
+Section 5.Listing of ETF Securities
+Section 6. Inapplicable Provisions
+Section 7. General Criteria for Admission to Listing
+Section 8. Continuing Listing Requirements
+Section 9. Trading Halts and Suspensions
+Section 10. Delisting of an ETF
+Section 11. Penalties and Fines
+Section 12. Fees
+Section 13. Compliance with Laws Governing Investments
+ANNEX "A"
+===== page 6 / 21 =====
+Proposed Amendments to the PSE ETF Rules
+PART A
+GENERAL PROVISIONS
+Section 1. Scope - These Rules on Exchange Traded Funds ("Rules") are established to govern
+the listing and trading of Exchange Traded Funds ("ETF") in the Philippine Stock Exchange.
+Section 2. Introduction An Exchange Traded Fund or ETF is a collective investment scheme
+listed in an Exchange that continuously issues and redeems units of participation or shares of
+stock in Creation Unit in exchange for delivery of a basket of securities or assets representing an
+index whose performance the ETF endeavors to track or outperform; provided that, the terms
+and conditions relative to the issuance and redemption in creation unit shall be prescribed and
+disclosed in its Registration Statement.
+An ETF duly approved by the Commission to operate as a multi-portfolio investment company
+or umbrella ETF may apply for the listing of shares, units, or securities issued by the ETF with
+respect to one or more Portfolios, subject to these Rules, the SEC ETF Rules, and such
+requirements as the Exchange may prescribe. For purposes of these Rules, unless the context
+otherwise requires, references to "ETF shares or units" shall include shares, units, or securities
+issued by the ETF with respect to a specific Portfolio.
+A U'Portfolio" refers to a distinct sub-fund established within a multi-portfolio ETF or umbrella
+ETF approved by the Commission, with its own investment objective, benchmark, investment
+policy, assets, liabilities, financial records, NAV, NAVps or NAVpu, basket of securities or
+assets, creation and redemption arrangements, and listed securities.
+A "Multi-Portfolio ETF" or "Umbrella ETF" refers to an ETF approved by the Commission to
+establish two or more distinct Portfolios within a single corporate entity, each of which may
+have a distinct series of shares, units, or securities issued by the ETF and listed and traded on
+the Exchange in accordance with these Rules.
+Section 3. Supplemental Rules - These Rules shall be read in conjunction with the SEC ETF Rules,
+the Securities Regulation Code and its implementing rules and regulations, the Investment
+Company Act and other relevant laws, rules and regulations, as amended, all of which shall form
+part of these Rules. All rules of the Exchange not inconsistent with these Rules shall apply to
+ETFs.
+Section 4. ETF Participants — An ETF shall appoint the following ETF Participants:
+a. Fund Manager In addition to the requirements under Section 15 of the SEC ETF Rules,
+the Fund Manager must likewise have been in operation for at least two (2) years and have
+proven experience in managing funds.
+An ETF must seek the approval of ETF shareholders or unitholders representing at least
+A majority of the ETF's outstanding capital stock or units of participation for any change
+of the Fund Manager.
+Page 2
+===== page 7 / 21 =====
+b.
+c.
+Proposed Amendments to the PSE ETF Rules
+Authorized Participant - Registered broker-dealers and active trading participants of the
+Exchange who meet the following requirements can participate in the creation and
+redemption of shares or units of any ETF listed in the Exchange:
+a) Those_enumerated in Subsections 16.2, 16.3 and 16.4 of the SEC ETF Rules;
+b) paid-up capital of at least One Hundred Million Pesos (Php100,000,000.00);
+c) Such other qualifications that the Commission and the Exchange may impose or
+require from time to time.
+An ETF shall ensure that it has at least one (1) functioning Authorized Participant at
+all times.
+Market Maker - An ETF shall appoint at least one Market Maker. The Market Maker
+may, but need not, be an Authorized Participant; provided, that only an Authorized
+Participant may submit creation and redemption instructions to the ETF.
+The Market Maker shall be subject to the Exchange's Market Making Rules and any
+applicable rules and regulations that the Commission and/or the Exchange may issue
+from time to time.
+In the event that an ETF has only one (1) functioning Authorized Participant, such
+Authorized Participant shall, by operation of these Rules, be deemed designated as the
+ETF's Market Maker, subject to compliance with the requirements relating to notice of
+any change in Market Maker, the qualifications applicable to Market Makers, and such
+other provisions as may be prescribed under these Rules and any applicable rules,
+regulations, or issuances that may be adopted by the Commission or the Exchange from
+time to time.
+d. Custodian - An ETF's custodian must comply with the minimum requirements for the
+appointment of a Custodian under Section 17 of the SEC ETF Rules.
+e. Transfer Agent - In addition to the minimum requirements under Section 18 of the SEC
+ETF Rules, a Transfer Agent must have a paid-up capital of at least One Hundred Million
+Pesos (Php
+f. Auditor - The ETF shall engage an independent auditing firm duly accredited by the
+Commission and acceptable to the Exchange to perform an independent audit of the ETF's
+financial records.
+g. Index Provider - The ETF must engage an independent Index Provider which is compliant
+with the requirements set forth in Section 14 of the SEC ETF Rules.
+Page 3
+===== page 8 / 21 =====
+IPSE
+Proposed Amendments to the PSE ETF Rules
+PART B
+LISTING AND DISCLOSURE
+Section 5. Listing of ETF Securities - The shares, units, or securities issued by an ETF shall be
+listed on the Exchange's Main Board.
+For purposes of listing on the Exchange, only the shares, units, or securities issued by the ETF
+shall be listed and traded. The listing of such shares, units, or securities shall not be construed
+as the listing of the ETF itself, nor shall it confer upon the ETF the status of a listed corporation
+or trust under the Exchange's Listing Rules. The ETF shall, however, comply with the
+continuing listing, disclosure, and other obligations expressly applicable to ETFs under these
+Rules.
+In the case of a Multi-Portfolio ETF, each series of shares, units, or securities issued by the ETF
+with respect to a Portfolio approved for listing will likewise be listed and traded on the Main
+Board as a separate listed security and under its own ticker symbol, subject to such naming,
+trading, disclosure, and operational requirements as the Exchange may prescribe. The initial
+listing requirements under the Listing Rules are applicable to ETFs, unless otherwise provided
+herein or inconsistent with these Rules.
+Section 6. Inapplicable Provisions - For the avoidance of doubt, the following provisions of the
+Consolidated Listing Rules and Disclosure Rules as amended shall not be applicable to listing
+of ETF's shares, units, or securities:
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+Methods of Initial Listing;l
+Requirements for Main Board Listing;2
+Requirements for Small, Medium, and Engxgjng Board Listing;3
+Rules on Listing by Way of Introduction*
+Listing of Debt Securities*
+Rules on Additional Listing of Securities* and
+Fees for initial and additional listing of equity securities; substitutional listing,8 and
+listing of debt securities.9
+The Rule on Minimum Public Ownership. In particular, ETFs shall not be required
+to maintain a minimum public ownership.
+1 Currently, Article III, Part C of the Listing Rules.
+2 Currently, Article Ill, Part D of the Listing Rules.
+Currently, Article III, Part F Of the Listing Rules.
+Currently, Article Ill, Part H, as amended of the Listing Rules.
+3 Currently, Article IV of the Listing Rules.
+6 Currently, Article V of the Listing Rules.
+7 Currently, Article VI, Parts B and C of the Listing Rules.
+Currently, Article VI, Part D of the Listing Rules.
+9 Currently, Article VI, Part E of the Listing Rules.
+Page 4
+===== page 9 / 21 =====
+Proposed Amendments to the PSE ETF Rules
+Section 7. General Criteria for Admission to Listing
+a.
+b.
+c.
+d.
+Minimum Paid-up capital - An ETF applying to list its shares, units, or securities, on the
+Exchange shall have a paid-up capital of at least Fifty Million Pesos (Php 50,000,000.00).
+Offering Requirement - When the registration of the ETF's securities becomes effective
+and its listing application is approved by the Exchange, the ETF may, at its option,
+undertake an offering for its securities. Such offering will not be covered by the Rules on
+Distribution of Initial Public Offering (IPO) Shares through the Exchange under Article
+III, Part E of the Exchange's Listing Rules, including the provisions pertaining to the twenty
+percent (20%) mandatory allocation for Trading Participants and the ten percent (10%)
+mandatory allocation for Local Small Investors.
+In the event that an ETF undertakes an offering its securities, provisions of the
+Consolidated Listing and Disclosure Rules pertaining to a public offering, including but
+not limited to engagement of issue manager and/or underwriter, determination of offer
+price, submission of prospectus and other offering documents, and distribution of offer
+shares, shall be applicable.
+Shelf listing - The ETF may apply for listing the equivalent number of shares or units
+subject of the Registration Statement. In the case of a Multi-Portfolio ETF the listin
+application shall identify the number and series of shares, units, or securities
+attributable to each Portfolio proposed to be listed. The Exchange's approval of the listing
+of the ETF shares or units shall remain valid provided that the Registration and Licensing
+Order as well as the Permit to Sell Securities for Sale issued by the Commission covering
+the subject ETF shares or units are likewise valid and subsisting. The eligibility for trading
+of the ETF shares or units shall take effect only upon the Exchange's receipt of an official
+notice issued by an authorized officer of the ETF and confirmed in writing by the
+Custodian and Transfer Agent, that such number of ETF shares or units has been created
+and issued to or through the Authorized Participant. For a Multi-Portfolio ETF, such notice
+and confirmation shall specify the Portfolio to which the issuance relates.
+Should there be ETF shares or units which shall remain unissued upon the lapse of the
+shelf listing period, the said ETF shares shall automatically be removed from the
+Exchange's registry and may only be re-listed with the Exchange upon the submission by
+the ETF of the following:
+a) Copies of the documents submitted by the ETF to the Commission under
+Section of the SEC ETF Rules
+Underlying securities or assets — The underlying securities or assets comprising the index
+which the applicant ETF intends to track or benchmark must be listed and traded in a
+registered exchange or in a regulated over-the counter ("OTC") market and have
+sufficient liquidity. In the case of a Multi-Portf01io ETFr this requirement shall be applied
+separately to each Portfolio and to the index or benchmark applicable to such Portfolio The
+Page 5
+===== page 10 / 21 =====
+e.
+f.
+Proposed Amendments to the PSE ETF Rules
+ETF shall disclose the liquidity criteria and methodology in its Prospectus or, in the case of
+a Multi-Portfolio ETE in the Prospectus, Product Highlight Sheet, or supplemental
+disclosure applicable to each Portfolio. The components of the underlying index shall
+meet at least one of the following qualifications:
+a. Listed for trading on the PSE; or
+b. Listed and traded on a registered foreign securities exchange which is a
+member of the World Federation of Exchanges or over-the-counter market
+regulated by a competent authority in is home jurisdiction.
+Procedure for processing of listing applications - An application for listing shall only be
+accepted upon submission of the documentary requirements for listing of an ETF and
+payment of the applicable filing fee. The general procedures for the listing of equity
+securities as contained in Article III Part B of the Consolidated Listing and Disclosure
+Rules and any subsequent amendment and policies relevant thereto shall be adopted in
+processing listing applications for ETFs in accordance with the Exchange's initial listing
+rules.
+Contents of Listing Application - In addition to all minimum requirements set forth in the
+SEC ETF Rules (including, but not limited to, Sections 7, 7-A 11, 12/ 13 and 19 thereof), the
+listing application of an ETF must contain the following information:
+a) Complete information regarding the Fund Manager, Authorized Participant,
+Market Maker, Custodian, Auditor, Index Provider and Transfer Agent of the ETF;
+b) The financial track record of the Fund Manager and when applicable, the persons
+c)
+or parties engaged by the Fund Manager to carry out activities necessary for the
+operation of the ETF pursuant to Subsection 15.5 of the SEC ETF Rules. The
+required information shall include, among others, their related engagement
+history and work experience and details of all funds and ETFs managed or advised
+by them;
+In the case of a Multi-Portfolio ETF, the name, ticker symbol, investment
+objective, benchmark or underlying index, investment policy, creation unit size,
+basket of securities or assets, Authorized Participant, Market Maker, Custodian
+arrangements, Transfer Agent arrangements, and other operational
+arrangements applicable to each Portfolio in respect of which a series of shares,
+units, or securities is proposed to be listed;
+d) A description of the manner by which the assets, liabilities, books, records,
+NAV, NAVps or NAVpu, iNAV, creation and redemption process, and expenses
+of each Portfolio shall be segregated, computed, recorded, and disclosed;
+Page 6
+===== page 11 / 21 =====
+g.
+h.
+i.
+Proposed Amendments to the PSE ETF Rules
+e) A statement that the assets of each Portfolio shall belong exclusively to that
+Portfolio and shall not be used to discharge the liabilities of any other Portfolio,
+subject to applicable law and the terms approved by the Commission; and
+f) Any other information or document that may be required by the Exchange in
+connection with its evaluation of an ETF's listing application.
+Prospectus, Press Releases and Other Similar Documents - In addition to the
+requirements under Sections 19 and 20 of the SEC ETF Rules, all prospectuses, primers,
+subscription agreement forms, newspaper prints, advertisements, press releases and
+similar documents in connection with the issuance shall first be submitted to the Exchange
+for review and disclosure purposes and may not be printed en masse, distributed or
+published without the prior written approval of the Exchange.
+Suitability Rule — An ETF shall be in compliance with the Suitability Rule as contained in
+Article 1 Part B of the Consolidated Listing and Disclosure Rules.
+Multi-Portfolio ETFs —A Multi-Portfolio ETF may apply for the listing on the Exchange
+of one or more series of shares, units, or securities issued by the ETF with respect to one
+or more Portfolios, subject to the prior approval of the Commission and compliance with
+these Rules.
+Each such series of shares, units, or securities shall be treated as a separate listed security
+for purposes of trading, ticker symbol assignment, market making, iNAV disclosure,
+NAV/NAVps/NAVpu reporting, creation and redemption reporting, trading halt,
+sus ension delistin and such other re uirements as the Exchan e ma rescribe. For
+the avoidance of doubt, the ETF, and not the Portfolio, shall be the issuer of the shares,
+units, or securities relating to each Portfolio; provided, that such shares, units, or
+securities shall be issued, listed, traded, created, redeemed, and reported only with
+reference to the specific Portfolio to which they relate.
+The ETF shall ensure that each Portfolio maintains separate and segregated assets,
+liabilities, books, records, NAV, NAVps or NAVpu, basket of securities or assets, and
+creation and redemption arrangements.
+Unless otherwise approved by the Commission and the Exchange, cross-subscription,
+cross-redem tion or conversion of shares units or securities between or amon
+Portfolios shall not be allowed.
+Page 7
+===== page 12 / 21 =====
+QPSE
+Proposed Amendments to the PSE ETF Rules
+Section 8. Continuing Listing Requirements
+a. Without in any way limiting the applicability of the rules governing the continuing listing
+of securities already in effect and all the rules and regulations set forth by the Exchange,
+the following shall be observed at all times:
+a) The ETF shall maintain all applicable regulatory licenses and accreditation;
+b) The ETF must ensure that all necessary facilities and information are available to
+enable holders of its listed shares or units to exercise their rights.
+b. The ETF must have an Investor Relations Office which manages the investor relations
+program of the ETF. The said program must ensure that information affecting the issuer,
+the ETF, and each Portfolio, as applicable, are communicated effectively to investors. This
+program shall include, at the minimum, a corporate website that contains, among others,
+information about the issuer, the ETF, and each Portfolio, such as but not limited to the
+following:
+a) Company information— controlling stockholders, board of directors and management
+team
+b) Company News — analyst briefing report, latest news, press releases, newsletter (if
+c)
+d)
+e)
+f)
+g)
+h)
+any)
+Financial report — annual and quarterly report for the past 10 years or the period
+applicable to the ETF
+Disclosures - recent disclosures to PSE and SEC for the past 10 years or the period
+applicable to the ETF
+Investor FAQs - commonly asked questions of investors
+Investor Contacts — email for feedback/ comments, investor assistance and service
+Security_ Information — key figures, dividends, security information
+In the case of a Multi-Portfolio ETF, the ETF's website shall clearly identify each
+Portfolio and disclose, on a per Portfolio basis, the Portfolio's ticker symbol,
+investment objective, underlying index or benchmark, basket of securities or assets,
+NAV, NAVps or NAVpu, iNAVr issued and outstanding shares, units, or securities
+issued with respect to the Portfolio, premium/discount information, creation and
+redemption arrangements, Authorized Participants, Market Maker, and such other
+information required under the SEC ETF Rules and these Rules.
+Page 8
+===== page 13 / 21 =====
+Proposed Amendments to the PSE ETF Rules
+c. Periodic Reporting, Disclosure Policy, and Other Requirements — The general structured
+and unstructured reportorial requirements shall apply to ETFs under the Disclosure Rules
+of the Exchange, in addition to the reportorial requirements under Section 27 of the SEC
+ETF Rules.
+In addition, the ETF must likewise comply with the following:
+a. Periodic Reports
+a)
+b)
+The ETF must disclose the iNAV every one (1) minute or such other frequency
+as may be prescribed by the Commission or the Exchange in its rules approved
+by the Commission. In the case of a Multi-Portfolio ETF, the iNAV shall be
+computed and disclosed separately for each Portfolio.
+The iNAV, as defined in the SEC ETF Rules, is an approximation of the current
+value of the basket of securities on a per share or unit basis computed at a one
+(1) minute interval throughout the trading hours of the Exchange. For a Multi-
+Portfolio ETF the iNAV shall refer to the current value of the basket of
+securities or assets attributable to the relevant Portfolio on a per share or per
+unit basis.
+The iNAV calculation may be provided by the ETF or the ETF Fund Manager or
+a third party.
+An ETF must announce prior to the pre-open period of the ef esvzeFY next trading
+day, or on a frequency that the Exchange may from time to time prescribe, via
+the Exchange's Electronic Disclosure Generation ("EDGE") System (or any
+equivalent or replacement system) the following information for the ETF and,
+in the case of a Multi-Portfolio ETF, separately for each Portfolio:
+(1)
+(2)
+(3)
+(4)
+Net Asset Value (NAV) and NAV per share;
+Issued and outstanding shares of the ETF;
+Underlying or benchmark index, and
+Tracking Error as defined under Section 5 (21) of the SEC ETF Rules.
+b. Annual Report — In addition to the requirements under the Securities Regulation
+Code and the SEC ETF Rules, an ETF must submit an annual report which shall
+disclose the following information within one hundred five (105) days after the end
+of the fiscal year, or such other time as the Commission, by rule, shall prescribe. In
+the case of a Multi-Portfolio ETF the annual re ort shall resent the followin
+information separately for each Portfolio, where applicable, together with such
+Page 9
+===== page 14 / 21 =====
+Proposed Amendments to the PSE ETF Rules
+consolidated information for the ETF as may be required by the Commission or
+the Exchange:
+a)
+b)
+c)
+d)
+e)
+A list of all investments with a value greater than 5% of the ETFs gross assets,
+and at least the 10 largest investments stating their:
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+applicable comparative periodic figures, if any;
+brief description of the business;
+proportion of share capital owned;
+cost;
+valuation of other assets and investments, and in the case of listed
+investments, market value;
+dividends received during the year (indicating any interim dividends);
+dividend payout ratio;
+extraordinary items, if any; and
+net assets attributable to investments.
+An analysis of any provision for diminution in the value of investments, stating
+for each such investment:
+(1)
+cost;
+(2) book value; and
+(3) provision made.
+Breakdown of the income received:
+(1) dividends and interest; and
+(2) other income, if any.
+An analysis of realized and unrealized gain/ loss on investment(s)
+The name of the Fund Manager together with an indication of the terms and
+duration of its appointment and the basis for its remuneration;
+Page 10
+===== page 15 / 21 =====
+QPSE
+Proposed Amendments to the PSE ETF Rules
+f)
+g)
+h)
+i)
+j)
+The Securities Lending activities of the ETF
+The ETF as a direct lender shall include the latest two (2) bi-annual Summary
+Reports of its Securities Borrowing and Lending (SBL) transactions submitted to
+the Commission.
+Amount of related-party transactions for the period under review;
+The term "related parties" shall refer to "affiliates of the ETF, the Fund Manager,
+the Custodian, the Transfer Agent, or the Index Provider, accounted for by the
+equity method of accounting; trusts for the benefit of employees such as pension
+and profit sharing plans that are managed by or under the frusteeship of the
+management of the ETF; directors, major shareholders or principal owners of the
+ETF, the Fund Manager, the Custodian, the Transfer Agent, or the Index
+Provider; and their management; members of the immediate families of major
+shareholders, principal owners and management of the ETF and the ETF Fund
+Manager."
+The performance of the ETF or Portfolio in comparison to its underlying index,
+in a consistent format, covering the following periods of time: 3-month, 6-month,
+I-year, 3-year, 5-year, 10-year and since inception of the ETF.
+Expense ratios for the period under review and for the immediately preceding
+year, computed separately for each Portfolio, where applicable. It should be
+indicated that the expense ratio does not include brokerage and other
+transaction costs, performance fee, foreign exchange gains/ losses, and tax
+deducted at source or arising out of income received front or back end loads
+arising from the purchase or sale of other investments; and
+Turnover ratios for the period under review and for the immediately preceding
+year, computed separately for each Portfolio, where applicable.
+c. Quarterly Reports - In addition to the requirements under the Securities Regulation
+Code and the SEC ETF Rules, particularly Subsection 27.2, an ETF must submit
+Quarterly Reports which must disclose the following information within forty-five
+(45) days from the end of each quarter. In the case of a Multi-Portfolio ETF, the
+Quarterly Reports shall present the following information separately for each
+listed Portfolio* where applicable:
+a) Top 10 holdings at market value and as a percentage of NAV as at the end of the
+period under review and for the immediately preceding year;
+b) Expense ratios for the period under review and for the immediately preceding
+year. It should be indicated that the expense ratio does not include brokerage
+and other transaction costs, performance fee, foreign exchange gains/ losses, and
+Page 11
+===== page 16 / 21 =====
+Proposed Amendments to the PSE ETF Rules
+tax deducted at source or arising out of income received front or back end loads
+arising from the purchase or sale of other investments; and
+c) Turnover ratios for the period under review and for the immediately preceding
+year.
+d. Monthly Issuance and Redemption Report of ETF Creation Units to be submitted not
+later than five (5) trading days from the last day of the preceding month, which report
+shall identify the number of Creation Units created and redeemed, the resulting
+issued and outstanding shares, units, or Portfolio securities, and, in the case of a
+Multi-Portf01io ETF, the specific Portfolio to which each creation or redemption
+relates;
+e. Ifthe ETFis also listed on another stock exchange, the ETF shall make an arrangement
+for simultaneous disclosure of any material information required to be filed or
+disclosed to the Exchange and to another stock exchange. The disclosure to the
+Exchange shall be in English.
+f. The ETF must also comply with the following reportorial requirements:
+a)
+b)
+c)
+The ETF must notify the Exchange at the end of each dividend distribution
+period the following as soon as they are computed by the Fund Manager for the
+ETF and, in the case of a Multi-Portfolio ETF, for each Portfolio declaring a
+dividend distribution:
+(1) The net amount per share;
+(2) The date of the recording of the list of shareholders; and
+The Fund Manager must state clearly, in all disclosures issued in respect of the
+sale of shares of the ETF, the terms upon which it undertakes to repurchase ETF
+shares. If there is no undertaking, it must state that fact; and
+The ETF must notify the Exchange of the following within ten (10) minutes from
+their occurrence, specifying the affected Portfolio, where applicable:
+(1) Any creation and redemption and the resulting issued and outstanding
+ETF shares or units;
+(2) Breach of tracking error threshold by the ETF or any Portfolio;
+(3) Failure and/ or inability to disclose the iNAV at the prescribed frequency;
+(4) Any changes in the control of the Fund Manager;
+Page 12
+===== page 17 / 21 =====
+Proposed Amendments to the PSE ETF Rules
+(5) Any proposed change in the general character, nature or investment
+objective of the ETF or any Portfolio and/ or fund management;
+(6) Any resolution or decision to renew, vary or terminate the management
+agreement;
+(7) The fact of inability of the Market Maker to perform its functions or the
+absence of the Market Maker and the reasons therefor;
+(8) The name and qualifications of the Authorized Participant and Market
+Maker;
+(9) The decision to terminate the ETF's agreement with any of the following
+participants and the reasons therefor:
+(a) Market Maker;
+(b) Authorized Participant;
+(c) Fund Manager;
+(d) Custodian;
+(e) Index Provider; and
+(f) Transfer Agent.
+Provided, however, that within thirty (30) days prior to the effectivity of
+the termination, the ETF must notify the Exchange in writing of the fact
+of termination.
+Further, the ETF must engage a new Market Maker/ Authorized
+Participant/ Fund Manager/ Custodian/ Index Provider or Transfer
+Agent no later than ten (10) trading days prior to the effectivity date of
+the termination of services of the previous Market Maker/ Authorized
+Participant/ Fund Manager/ Custodian/ Index Provider or Transfer
+Agent. Notice to the Exchange that the ETF has engaged a new Market
+Maker/ Authorized Participant/ Fund Manager/ Custodian/ Index
+Provider or Transfer Agent must be filed within the same period.
+Upon failure to engage the replacement within the prescribed period, the
+Exchange shall suspend trading of securities of the ETF which shall be
+lifted upon receipt of notice of the engagement of a new Market
+Maker/ Authorized Participant/ Fund Manager/ Custodian/ Index
+Provider or Transfer Agent.
+(10) Detailed information including the qualifications of the new Authorized
+Participant(s) which will assume the functions and obligations of the
+ETF's Authorized Participants;
+Page 13
+===== page 18 / 21 =====
+Proposed Amendments to the PSE ETF Rules
+(11) Any trading halt or suspension imposed by another exchange on the ETF
+shares or units and the reasons therefor, if the ETF is simultaneously listed
+in another stock exchange;
+(12) Any trading halt or suspension of the underlying securities or assets and
+subsequent lifting thereof, including the percentage of the said underlying
+securities or assets in relation to the applicable current index value and,
+in the case of underlying securities listed in another exchange, the reason
+for the halt or suspension;
+(13) Any material facts related to the listed ETF or any Portfolio, or the
+operation, business or assets of the ETF which may
+significantly affect the investment decisions of investors.
+(14) Any event that may materially affect the segregation of assets, liabilities,
+books, records, N AV, NAVps or NAVpu, iNAV, creation and
+redemption process, or rights of holders of Portfolio Securities of any
+Portfolio.
+d) Other reports and records as may be required by the Commission or the Exchange
+from time to time.
+Section 9. Trading Halts and Suspensions
+For a Multi-Portf01io ETF, trading halts and suspensions may be imposed on the listed security
+issued with respect to the affected Portfolio only, unless the Exchange determines that the
+event affects the ETF as a whole or two or more Portfolios in a manner that requires a broader
+halt or suspension for the protection of investors and the maintenance of a fair and orderly
+market.
+a. Trading of the ETF shares shall be suspended under the following circumstances:
+a) If the underlying securities or assets accounting for 20% or more of the applicable
+Portfolio NAV or current index value, as applicable, have been suspended;
+b) Absence of a Market Maker for a period of one (1) month;
+c) When the Commission issues an order of suspension or revocation of the registration
+of the ETF shares or units• or
+d) Other applicable grounds provided under the Consolidated Listing and Disclosure
+Rules and Revised Trading Rules of the Exchange
+Page 14
+===== page 19 / 21 =====
+QPSE
+Proposed Amendments to the PSE ETF Rules
+b, Trading of the ETF shares shall be halted for an hour, or for any appropriate period as may
+be deemed necessary by the Exchange, on the first day of occurrence of the following
+circumstances:
+a) Breach of tracking error threshold;
+b) Any of the underlying securities has been delisted;
+c) Trading has been halted for one or more underlying securities accounting for 20% or
+more of the applicable Portfolio NAV or current index value, as applicable;
+d) If the iNAV is not timely published within the frequency prescribed in these Rules; or
+e) Other applicable grounds provided under the Consolidated Listing and Disclosure
+Rules and Revised Trading Rules of the Exchange.
+a. In the case of ETF shares simultaneously listed in another exchange, the Exchange may halt
+or suspend the trading of the ETF shares if the trading thereof is halted or suspended in
+the other exchange.
+Section 10, Delisting of an ETF
+a. In addition to the grounds for involuntary delisting under the Delisting Rules, the following
+shall be grounds for the involuntary delisting of the shares, units, or securities issued by
+an ETF, or the shares, units, or securities issued with respect to a specific Portfolio of a
+Multi-Portf01i0 ETF:
+a) Failure by the ETF or any Portfolio to comply with its continuing listing obligations,
+including the failure to pay the applicable fees;
+b) Continued breach of the tracking error threshold set by the ETF or Portfolio for a
+period of at least one year. Tracking error as defined in the SEC ETF Rules Section
+5.21 is the standard deviation of the difference in relative returns between the ETF or
+Portfolio and its underlying index or benchmark;
+c) Revocation of the registration of the ETF and/or its shares, units, Portfolio securities,
+or any Portfolio;
+d) Such other grounds as may be determined by the Exchange, where delisting of the
+ETF or any Portfolio may be appropriate in the public interest or for the protection
+of investors.
+b. Tender Offer/ Redemption Requirement — Jn all instances, an ETF that undergoes delisting,
+must purchase or redeem, either by itself, a stockholder, or through a proponent, more
+than ninety percent (90%) of the issued and outstanding shares of the ETF,
+Page 15
+===== page 20 / 21 =====
+Proposed Amendments to the PSE ETF Rules
+The required redemption may be made:
+a) By delivering the corresponding basket of securities to the concerned shareholder
+after the surrender of the ETF shares or units in accordance with Section 11.1 of the
+SEC ETF Rules; and/or
+b) In exchange for cash in accordance with Section 13 of the SEC ETF Rules.
+The ETF shall demonstrate that following the redemption of the shares or units the ETF,
+the stockholder or the proponent, has obtained more than ninety percent (90%) of the issued
+and outstanding shares or units of the ETF, or such level or percentage as may be prescribed
+by the Exchange.
+The purchase or redemption price or valuation shall be duly supported by a fairness opinion
+prepared by an independent and reputable firm, and in accordance with the Guidelines for
+Fairness Opinions and Valuation Reports of the Exchange.
+Section 11. Penalties and Fines
+a. In the absence of a Fund Manager, Custodian, Index Provider, Authorized Participant,
+Transfer Agent, the Exchange shall suspend the trading of securities of the ETF which shall
+be lifted upon receipt of notice of the engagement of a new Fund Manager, Custodian, Index
+Provider, Authorized Participant, or Transfer Agent.
+b, For any violation of these Rules not stated herein, the penalties under the PSE Disclosure
+Rules shall apply.
+Section 12. Fees
+An ETF shall be required to pay the following fees:
+a. Filing Fee — Upon filing of its listing application, the ETF shall pay a non-refundable
+filing fee of One Hundred Fifty Thousand Pesos (Php 150,000.00) plus other incidental
+expenses.
+b. Listing Fee — The ETF shall pay a flat rate of One Hundred Thousand Pesos
+(Php100,OOO.OO).
+c. Annual Listing Maintenance Fee — The ETF shall pay, on-or before January 15 of each
+ear with an allowable ace eriod of one 1 week an Annual Listing Maintenance
+Fee determined in accordance with the following schedule:
+Page 16
+===== page 21 / 21 =====
+PSE
+Proposed Amendments to the PSE ETF Rules
+End of the Previous
+Year's Market
+Capitalization
+MCAP Per ETF
+U to Ph 1 Billion
+More than Phpl
+billion up to Php10
+Billion
+More than Php10
+billion
+Annual Listing Maintenance Fee
+Ph 50,000.00
+Php50,000.00 + 0.25 basis points in excess of Phpl billion of
+MCAP
+Php275,000 + 0.10 basis points of in excess of Php10 Billion
+of MCAP
+The ETF shall be assessed a fine of One Thousand Pesos (Php 1,000.00) for every calendar day
+of delay. If the ETF fails to remit the maintenance fee by 15 February of that same year, the
+Exchange shall discontinue assessing the ETF the fine but it shall automatically suspend the
+ETF from trading for two (2) months or until 15 April. If the ETF still fails to pay the required
+fee after 15 A ril the ETF shall be considered for delistin in accordance with the Delistin
+Rules of the Exchange.
+Section 13. Compliance with Laws Governing Investments
+The ETF must ensure compliance with the provisions of existing laws, rules and regulations and
+issuances including, but not limited to, the Anti-Money Laundering Act of the Philippines, the
+Investment Company Act, and any other applicable law or regulations.
+Page 17

@@ -1,0 +1,1033 @@
+===== page 1 / 22 =====
+PSE
+MEMORANDUM
+CN - No. 2026-0 18
+THE PHILIPPINE STOCK EXCHANGE, INC.
+C] Trading
+Cl Disclosure
+Cl Listing
+C] PUblic Advisory
+C] Administrative/Technology Matters
+Others:
+TO
+SUBJECT
+DATE
+THE INVESTING PUBLIC AND MARKET PARTICIPANTS
+REQUEST FOR COMMENTS ON SEC's PROPOSED
+REGULATIONS FOR STRUCTURED WARRANTS
+April 30, 2026
+The Exchange is inviting all market participants, the investing public, and other
+interested parties to submit their views, comments, and inputs on the Proposed Rules
+and Regulations Governing the Registration and Trading of Structured Warrants released
+by the Securities and Exchange Commission ("SEC").
+Structured Warrants are financial products issued by a third-party financial institution
+that give the holders the right, but not the obligation, to either buy or sell the underlying
+financial instrument at a predetermined price on or before a certain date in the future.
+Comments may be sent directly to the SEC at ipsd msrd@sec.gov.ph until May 13, 2026
+with the subject "COMMENTS ON THE PROPOSED RULES AND REGULATIONS
+GOVERNING THE REGISTRATION AND TRADING OF STRUCTURED
+WARRANTS."
+Please refer to the attached document for your information and guidance.
+Ramon S. Mo on
+President and CEO
+CMDO
+7
+iRD
+MOD
+HRO 1 RISK / SU
+CCD / FMD / AD
+-mail
+OGC
+ddress.• investin
+coo
+se.com. h
+===== page 2 / 22 =====
+Securities and
+Exchange
+Commission
+Subject:
+NOTICE
+PROPOSED RULES AND REGULATIONS GOVERNING THE
+REGISTRATION AND TRADING OF STRUCTURED WARRANTS
+The public is advised that the Commission En Banc, in its meeting held on 28 April 2026 resolved to
+expose the draft Memorandum Circular on the PROPOSED RULES AND REGULATIONS GOVERNING
+THE REGISTRATION AND TRADING OF STRUCTURED WARRANTS.
+The Commission hereby requests for comments, suggestions and/or inputs from all concerned on the
+proposed draft Memorandum Circular by submitting written comments on or before 13 May 2026
+through email at ipsd msrd@sec.gov.ph with our proposed subject of "COMMENTS ON THE PROPOSED
+PROPOSED RULES AND REGULATIONS GOVERNING THE REGISTRATION AND TRADING OF
+STRUCTURED WARRANTS."
+Issued on 29 April 2026 in Makati City, Philippines.
+D The SEC Headquarters, 7907 Makati Avenue
+Salcedo Village, Bei-air, Makati City
+o (+63 2) 5322 7696
+www.sec.gov.ph I imessagemo@sec.gov.ph
+https://linktr.ee/secphilippines
+INVESTORS
+IN PEOPLE
+We invest in people
+ISO 9001
+===== page 3 / 22 =====
+Securities and
+Exchange
+Commission
+SEC MEMORANDUM CIRCULAR NO.
+Series of 2026
+TO
+SUBJECT
+DATE
+ALL CONCERNED
+RULES AND REGULATIONS GOVERNING THE REGISTRATION
+AND TRADING OF STRUCTURED WARRANTS
+2026
+WHEREAS, in view of Section 2 of the Securities Regulation Code (SRC) declaration of
+state policy to promote the development of the capital market, the Commission deems it
+necessary to establish a regulatory framework for the introduction of Structured Warrants as a
+new investment derivative in the Philippine capital market;
+WHEREAS, under Rule 12.1.3.1.9 of the 2015 Implementing Rules and Regulations (IRR)
+of the SRC (2015 SRC Rules), the Commission is authorized to issue special rules governing the
+registration and trading of Structured Warrants;
+WHEREAS, the issuance and trading of Structured Warrants are expected to broaden the
+range of investible securities, deepen market liquidity, and align local market practices with
+international standards, while providing investors with additional opportunities for portfolio
+diversification and risk management;
+WHEREAS, to safeguard market integrity and uphold investor protection, there is a need
+to adopt clear, consistent, and comprehensive rules governing the registration and trading of
+Structured Warrants;
+WHEREAS, these Rules and Regulations shall be read in conjunction with any
+subsequent amendments or updates which the Commission may issue from time to time;
+NOW, THEREFORE, the Commission hereby issues the following Rules and Regulations
+Governing the Registration and Trading of Structured Warrants.
+Section 1. INTERPRETATION OF RULES
+1.1. Any doubt in the interpretation of these Rules shall be resolved in a manner which would
+establish a socially conscious free market that regulates itself, encourage the widest participation
+of ownership in the enterprises, enhance the democratization of wealth, promote the
+development of the capital market, protect investors and ensure full and timely disclosure of
+material information.
+1.2. The requirements under these Rules shall be in addition to those provided under the
+following: (1) SRC and other related laws and their IRRs insofar as their provisions are applicable;
+(2) internal policies, procedures, conventions of brokers or dealers, and (3) rules, procedures and
+conventions of the Exchange and SRO that shall regulate and supervise the brokers, dealers,
+salesmen or associated persons of broker or dealer, to the extent that such policies, rules,
+procedures and conventions do not contravene the SRC, its IRR and these Rules.
+The SEC Headquarters, 7907 Makati Avenue
+Salcedo Village, Bei-air, Makati City
+(+63 2) 5322 7696
+www.sec.gov.ph I imessagemo@sec.gov.ph
+https://linktr.ee/secphilippines
+INVESTORS
+IN PEOPLE
+We invest in pooplo
+ISO 9001
+===== page 4 / 22 =====
+Page 2 of 20
+Section 2. DEFINITION OF TERMS USED IN THE RULES AND REGULATIONS
+When used herein, unless the context otherwise requires:
+(A) American Style refers to an exercise style wherein the structured warrant may be
+exercised at any time up to and including its expiry date.
+(B) Base Prospectus refers to the document containing general information on the
+issuer, the guarantor (if applicable), and the general terms of the structured
+warrants, which is supplemented by a term sheet for each issuance, as provided
+under Section 4.6 of these Rules.
+(C) Commission refers to the Securities and Exchange Commission (SEC) Philippines.
+(D) Exchange is an organized marketplace or facility that brings together buyers and
+sellers and executes trades of securities and/or commodities.
+(E) Exercise Price means the pre-specified price or level of the underlying financial
+instrument at which the holder of a structured warrant may exercise the right
+under such warrant.
+(F) European Style refers to an exercise style wherein the structured warrant may
+only be exercised on the expiry date.
+(G) Fully Collateralized Call Structured Warrants shall refer to call warrants where
+the issuer owns all the underlying financial instruments to which the structured
+warrants relate and grants a charge over such financial instruments in favor of a
+custodian, which acts for the benefit of the holders of the structured warrants for
+the entire term of the issue.
+(H) Further Issue refers to an issuance of additional Structured Warrants forming part
+of an existing series, with terms and conditions identical to those of the existing
+issuance, except with respect to issue size and, where applicable, tenure.
+(I) Guaranteed Issue shall refer to an issuance of structured warrants where the
+obligations of the issuer are unconditionally and irrevocably guaranteed by a
+guarantor, as contemplated under Section 4.4 of these Rules.
+(J) Issuer refers to a third-party financial institution that issues structured warrants
+listed or proposed to be listed on the Exchange.
+(K) Market Making means the act of entering bid and offer prices in the automated
+trading system of an exchange to ensure two-way quotes, provide liquidity, and
+maintain a fair and orderly trading market therein.
+(L) Non-collateralized Structured Warrants means structured warrants where the
+underlying financial instrument is not held in deposit by a custodian for the entire
+term of the structured warrants issued.
+(M) SRC refers to the Securities Regulation Code or Republic Act No. 8799.
+(N) Structured Warrant is a financial product issued by a third-party financial
+institution that gives the holder the right, but not the obligation, to either buy or
+sell an underlying financial instrument at a predetermined price on or before a
+certain date in the future.
+(O) Term Sheet refers to the document containing the specific terms and conditions of
+a particular series of structured warrants, to be issued by the issuer from time to
+time, which shall form an integral part of, and must be read together with, the
+prospectus.
+===== page 5 / 22 =====
+Page 3 of 20
+(P) Underlying Financial Instruments refer to any assets, securities, any
+combination of securities, or indices that serve as the basis for determining the
+value, settlement, or payoff of a particular series of Structured Warrants. (See
+Section 3.2.5 for Eligible Underlying Financial Instruments under these Rules.)
+(Q) Underlying Corporation refers to the company(ies) that has/have issued the
+underlying financial instrument, where such instrument is a security or, in the case
+ofa securities index, the index provider or any company forming part of such index.
+Where applicable, the underlying corporation shall meet the requirements set forth
+by the Exchange.
+Section 3. ELIGIBLE ISSUERS OF STRUCTURED WARRANTS
+3.1. The following entities duly incorporated in the Philippines or foreign corporations duly
+licensed to transact business in the Philippines may qualify to issue structured warrants, subject
+to compliance with the requirements prescribed under these Rules:
+(A) Licensed Broker-Dealers; and
+(B) Licensed Investment Houses
+3.1.1. Issuers of Non-Collateralized Structured Warrants
+The issuer shall have a credit rating of at least investment grade from a credit rating
+agency recognized and accredited by the Commission, or where it fails to possess the required
+credit rating, the Commission may accept an arrangement whereby the issuer's obligations
+arising from the structured warrants are unconditionally and irrevocably guaranteed or
+otherwise secured to the satisfaction of the Commission by:
+(a) its holding company having a credit rating and minimum unimpaired paid up
+capital required from that of the issuer; or
+(b) a financial institution with a credit rating and minimum unimpaired paid up
+capital required from that of the issuer.
+3.1.2. Issuers of Fully Collateralized Call Structured Warrants
+3.1.2.1. The issuer shall appoint a qualified custodian which shall take custody and
+control of the underlying assets.
+3.1.2.2. The issuer shall ensure that before it enters into an agreement with a custodian,
+it shall have determined that said custodian meets the following requirements:
+(A) It is either a registered universal or commercial bank with trust license, or a non-
+bank entity with a trust license, or a registered securities depository; and
+(B) It has adequate resources, including competent staff, and appropriate systems,
+procedures and processes to ensure that the underlying assets are held in the
+following manner:
+Clearly identified and properly labeled as underlying financial
+instruments of the structured warrants; and
+(ii) Underlying financial instruments are properly segregated physically
+and on the records of the custodian;
+3.1.2.3. Satisfy the Commission that the proposed security arrangements are for the
+benefit of and adequately protect the interests of holders of the structured warrants.
+Deposit such securities or assets with the custodian in order to secure performance by
+the issuer of such obligations and authorize the custodian to deliver the underlying
+assets to holders of the structured warrant upon valid exercise of the collateralized
+structured warrant in the event that the issuer is unable to discharge its obligations; and
+===== page 6 / 22 =====
+Page 4 of 20
+3.1.2.4. Provide a warranty to the custodian for the benefit of holders of the structured
+warrant that the underlying securities are unencumbered, that the securities or assets
+are being held by the custodian for the benefit of holders of the structured product and
+that the issuer will, upon a valid exercise, be able to convey to holders of the structured
+warrant good title to the underlying assets free from all claims, charges, encumbrances,
+liens, equities and other third party rights whatsoever.
+3.2. Issuers of structured warrants shall further comply with the following requirements:
+3.2.1. Capitalization requirement
+An issuer shall have and maintain, at all times while any structured warrants
+remain outstanding, a minimum unimpaired paid-up capital of Four Hundred Million
+Pesos (PhP 400,000,000.00). In the event that its unimpaired paid-up capital falls below
+the required minimum, the issuer shall immediately notify the Commission and the
+Exchange.
+3.2.2. Risk management practices
+3.2.2.1. In undertaking structured warrants issuance activities, an issuer shall practice
+the basic principles of prudence and ensure that it has the following:
+(i) Adequate infrastructure for risk management;
+(ii) Adequate risk management processes that integrate sound measurement and
+valuation procedures, prudent risk limits, continuous risk monitoring and
+regular management reporting;
+(iii) Comprehensive internal controls and audit procedures; and
+3.2.2.2. The board of directors and/or senior management of the issuer must ensure that
+they have effective oversight of the risk management practices of the issuer.
+3.2.2.3. The board of directors and/or senior management of the issuer must ensure that
+prior to any issuance of structured warrants, the issuer must already have in place
+personnel with the necessary skills and knowledge to perform the risk management
+function.
+3.2.2.4. The board and/or senior management of the issuer shall approve written policies
+and procedures which describe the overall framework for managing product risks. These
+policies shall cover the following aspects:
+(ii)
+(iii)
+(v)
+(vii)
+Investment objectives/purpose of issuing structured warrants;
+Definition of the parameters for the authorization ofthe issuance of structured
+warrants;
+Identification, measurement and management of risks including the credit,
+market, liquidity, legal, operational, regulatory, and extraordinary risks
+associated with the product;
+Risk measurements and reporting methodologies that are commensurate with
+the issuer's business strategies, size and complexity of operations, and the risk
+profile of the product, on an ongoing basis;
+Clear delineation of lines of responsibility for managing product-related risks;
+Provision of sufficient resources, which include competent staff and
+information technology systems and infrastructure to support the risk
+management and daily operations of the new and existing derivatives
+products;
+Regular reviews of product's risk exposures to ensure all material risks are
+identified and monitored when market condition changes;
+===== page 7 / 22 =====
+(viii)
+(ix)
+Page 5 of20
+Review of stress scenarios that measure the impact of market conditions that
+may cause volatility swings or reduced liquidity; and
+Comprehensive and regular reports to the board and/or senior management
+that include the degree of compliance with policies and procedures for
+managing product risks, current assessment of product risks and any change
+in the direction of risks.
+3.2.2.5. The board and/or senior management of the issuer shall ensure comprehensive
+internal controls and audit function which includes the following:
+(A) A review of the adequacy and effectiveness of the overall risk management
+system, including compliance with policies, procedures and risk limits;
+(B) A check for adequacy of the various operational controls, including segregation
+of duties and staffs compliance with the established policies and procedures;
+and
+(C) The board and/or senior management of the issuer shall also ensure that all
+policies and procedures are in place and are effective in monitoring the product
+risks on an ongoing basis.
+3.2.2.6. The issuer shall conduct an internal and external risk assessment at least
+annually and upon significant changes in market conditions, and submit a summary of
+such assessment to the Commission upon request.
+3.2.2.7. The issuer shall ensure that its risk management framework incorporates
+appropriate measures to address risks to financial consumers, consistent with the SEC
+Rules and Regulations of the Financial Products and Services Consumer Protection Act
+of 2022 FCPA IRR").
+3.2.3. Sales and marketing practices
+3.2.3.1. Issuers may, after the issuance of Permit to Sell and Order of Registration by the
+Commission and subject to compliance with all relevant laws, rules and regulations,
+release publicity materials in relation to such structured warrants.
+3.2.3.2. Issuers shall establish and maintain policies and procedures governing the
+marketing and sale of structured warrants, including measures to ensure that customers
+are provided with appropriate disclosures on the key features and risks of the product.
+3.2.3.3. Issuers shall put in place a system for handling customer complaints.
+3.2.3.4. Issuers shall have in place continuous educational programs, which may include
+seminars, workshops, media briefings, interviews, and similar activities, to promote
+investor awareness of structured warrants. Such programs and materials shall clearly
+explain the characteristics, inherent risks, and key mechanisms of structured warrants,
+including a clear explanation on the mechanics of market making in structured warrants.
+3.2.3.5. Issuers shall maintain a dedicated webpage or website on structured warrants
+which shall include, at a minimum:
+(a) educational documents/materials;
+(b) the latest prospectus;
+(c) the term sheets;
+(d) an explanation of the issuer's role and obligation as a market maker (if
+applicable); and
+(e) the daily prices of structured warrants.
+The webpage or website shall be updated from time to time to reflect any new
+developments or current market practice.
+===== page 8 / 22 =====
+Page 6 of 20
+3.2.3.6. All marketing, promotional, and educational materials relating to structured
+warrants shall be clear, fair, and not misleading, and shall be presented in plain and
+understandable language. Provided, That such materials shall not omit any material
+information or present information in a manner that would mislead investors as to the
+nature, features, or risks of the structured warrants.
+3.2.3.7. The issuer shall ensure that its marketing and market conduct practices,
+including disclosures and handling of customer complaints, are conducted in accordance
+with the SEC FCPA IRR.
+3.2.3.8. The Commission may, at any time, review all educational, marketing, and
+promotional materials intended for public distribution to ensure consistency with the
+registered prospectus and applicable regulatory standards.
+3.2.4. Conflict of interest
+3.2.4.1. An issuer shall put in place supervisory and internal control procedures and
+systems to ensure that: —
+(i) any potential conflict of interest is addressed including those arising from
+related party transactions (trading and issuing of structured warrants);
+(ii) there are adequate and effective Chinese walls between the various divisions of
+the issuer's business; and
+(iii) non-public information is not shared with unauthorized persons.
+3.2.4.2. The issuer shall disclose potential conflict of interest in its prospectus including
+the above supervisory and internal control procedures and systems that will address or
+mitigate such potential conflict of interest.
+3.2.4.3. Where the issuer reasonably believes that there is a conflict of interest, it shall
+take all reasonable steps to resolve or adequately mitigate the conflict.
+3.2.4.4. The issuer shall make full disclosure to the Commission of the nature of the
+conflict of interest and the steps undertaken to address such conflict using SEC Form 17-
+c.
+3.2.4.5. The issuer shall also disclose any conflict of interest to its clients.
+3.2.5. Eligible Underlying Financial Instruments
+3.2.5.1. An eligible issuer shall only issue structured warrants over the following underlying
+financial instruments:
+(a) Single equities listed on a Philippine or foreign stock exchange;
+(b) Securities indices, whether local and foreign, as reference values;
+(c) Exchange-Traded Funds (ETFs), whether local and foreign;
+(d) Debt securities listed on a Philippine or foreign exchange;
+(e) Baskets of listed equities or listed debt securities, whether local or foreign; or
+(f) Such other assets or reference values as may be prescribed or approved by the
+Commission.
+3.2.5.2. All underlying financial instruments shall be listed on an exchange in good standing
+and shall comply with the requirements relating to liquidity, market capitalization, trading
+volume, and such other criteria as may be prescribed by the Exchange.
+3.2.5.3. Foreign underlying financial instruments shall be listed and traded on an exchange
+that is a member of the World Federation of Exchanges.
+===== page 9 / 22 =====
+Page 7 of20
+3.2.5.4. Structured warrants shall entitle warrant holders, upon exercise, the right, but not
+the obligation, to purchase from the issuer, in the case of call warrants, or sell to the issuer,
+in the case of put warrants, the underlying financial instruments at a predetermined exercise
+price through physical or asset settlement, or to receive a cash payment determined by
+reference to the price or value of the underlying financial instrument through cash
+settlement. The mode of settlement shall be specified at issuance and shall not be subject to
+election or change at the option of the issuer.
+3.2.5.5. Structured warrants shall be exercisable either in American style, where exercise is
+permitted at any time up to and including the expiry or maturity date, or in European style,
+where exercise is permitted only on the expiry or maturity date.
+3.2.5.6. Structured warrants shall be issued as either fully collateralized or non-
+collateralized, subject to compliance with Sections 3.1.1 and 3.1.2 of these Rules. Where the
+mode of settlement is physical or asset delivery, the structured warrants shall be fully
+collateralized.
+3.2.5.7. Structured warrants shall be restricted to cash settlement in the following
+circumstances:
+(a) Where the underlying financial instrument is a securities index;
+(b) Where the underlying financial instruments are listed or traded on a foreign
+exchange;
+(c) Where the structured warrants are non-collateralized and linked to a basket of
+securities; or
+(d) Where physical or asset settlement would result in a breach of applicable laws or
+regulations, including foreign ownership or nationality restrictions.
+3.2.5,8, An issuer shall be prohibited from offering structured warrants linked to the
+securities of an underlying corporation where the issuer, or any of its holding companies,
+subsidiaries, affiliates, or related companies, is engaged in any of the activities listed under
+Section 7 of Presidential Decree No. 129 or the Investment Houses Law, or has undertaken
+underwriting or similar commitments in relation to a transaction involving such underlying
+corporation.
+32.6. Maximum and minimum issue size
+3.2.6.1. Where the issue of structured warrants is based on underlying financial
+instrument(s) listed or quoted on the Exchange in the Philippines, the total number of
+structured warrants to be issued, together with all structured warrants already issued
+and outstanding, shall not exceed fifty percent (50%) of the total number of issued shares
+of the underlying corporation, excluding treasury shares. In computing the fifty percent
+(50%) limit, company warrants issued by the underlying corporation itself shall not be
+included.
+3.2.6.2. Where structured warrants over the same local underlying financial
+instrument(s) may be issued by more than one issuer, each issuer shall:
+(i) prior to the registration of structured warrants with the Commission, obtain
+from the Exchange a certification that the proposed issuance, when aggregated
+with all outstanding structured warrants over the same local underlying
+financial instrument, does not exceed the limit prescribed under Section 3.2.5.1;
+(ii) ensure that its issuance, when aggregated with all outstanding structured
+warrants over the same underlying financial instrument(s), does not result in a
+breach of the prescribed limit;
+===== page 10 / 22 =====
+Page 8 of 20
+(iii) promptly report to the Exchange on which the structured warrants are to be
+listed, in such form and frequency as may be prescribed, any issuance, exercise,
+expiry, cancellation, or other change affecting the number of structured
+warrants outstanding; and
+(iv) maintain records of the number of structured warrants issued and outstanding
+in respect of each underlying financial instrument, and make such records
+available to the Commission upon request.
+The Commission and the Exchange may monitor compliance with the aggregate limit and
+may require such additional disclosures or reports as may be necessary.
+3.2.6.3. The minimum issue size must be: —
+(A) PhP 20 million; or
+(B) PhP 10 million, if there is a designated Market-Maker for the structured
+warrants.
+3.2.6.4. The Commission reserves the right to revise the maximum and minimum issue
+size requirements based on observed liquidity, investor demand, and market conduct.
+32.7. Eligible Warrant Holders of Structured Warrants
+3.2.7.1. The offering of structured warrants shall be offered to investors based on the conduct
+of Client Suitability Assessment ("CSA") in accordance with SRC Rule 30.2.4 Suitability Rule
+and the SEC FCPA IRR.
+3.2.7.2. To ensure that investors understand the risks associated with structured warrants,
+investors shall be required to sign a Pre-Acceptance and General Risk Disclosure Statement
+(PGRDS) with their brokers prior to commencing trading in structured warrants.
+Section 4. REGISTRATION OF STRUCTURED WARRANTS UNDER THE SRC
+4.1. No person shall sell, offer for sale, or distribute structured warrants unless such
+securities have been duly registered in accordance with the requirements of the SRC and these
+Rules.
+4.2. Relative to the foregoing requirement, an eligible issuer shall file a Registration
+Statement ("RS") using SEC Form 12-1 duly signed by its principal executive officer, principal
+operating officer, principal financial officer, controller, principal accounting officer, corporate
+secretary, or persons performing similar functions. The eligible issuer shall file the SEC Form 12-
+I together with the prescribed filing fee.
+4.3. The issuer shall disclose in its Registration Statement the terms and conditions of the
+structured warrant plan, including the computational data and methodologies relevant thereto.
+4.4. The issuer shall provide a prospectus containing the information required under SRC
+Rule 12 and these Rules. Such prospectus shall be clear, complete, and not misleading, and shall
+contain all information necessary to enable investors to make an informed investment decision,
+in a manner consistent with the disclosure and transparency standards under the SEC FCPA IRR.
+4.4.1. Front Page of the Registration Statement, Prospectus, and Term Sheet(s), as
+applicable - The outside cover page(s) of the Registration Statement, the prospectus,
+and the term sheet(s), as applicable, shall contain the following information and
+statements:
+4.4.1.1. Particulars of the issuer including full name, place of incorporation,
+statute under which it was incorporated, and registration number. For foreign
+incorporated issuers, it should state that it has been registered as a foreign
+company in the Philippines under the Revised Corporation Code of the Philippines
+===== page 11 / 22 =====
+Page 9 of 20
+and the Foreign Investments Act of 1991, together with its registration number.
+It shall also disclose, where applicable, the regulatory authority or authorities
+supervising the issuer in its home jurisdiction, and, in the case of a guaranteed
+issue, the regulatory authority supervising the guarantor;
+4.4.1.2. Details of the structured warrants, including the issue size; whether the
+issue is fully collateralized or non-collateralized; the type of warrant (e.g., call or
+put); the exercise style (e.g., American or European); the underlying financial
+instrument(s); the settlement method (cash or physical); and the exchange on
+which listing is sought.
+4.4.1.3. If the offering is made by way ofa base prospectus supported by term
+sheet(s), the following statement must be included: "This Base Prospectus is
+published to provide information on the Issuer, the Guarantor (if applicable), and
+the Structured Warrants. The specific terms relating to each series of the
+Structured Warrants will be set out in the term sheet(s) to be issued for the
+relevant Structured Warrants, which will be supplemental to, and should be read
+in conjunction with this Base Prospectus. "
+4.4.1.4. "Investors are warned that the price of the underlying financial
+instruments and the structured warrants may fall in value as rapidly as it may rise
+and holders may sustain a total loss of their investment. Prospective investors
+should therefore make sure they understand the terms and conditions of the
+structured warrants offered, the risks involved, and where necessary, seek
+professional advice before investing. "
+4.4.1.5. In the case ofa guaranteed issue, a statement that the obligations of the
+issuer are unconditionally and irrevocably guaranteed by the guarantor.
+4.4.1.6. In the case of non-collateralized structured warrants, a disclosure that
+the structured warrants constitute direct, unsecured, and unsubordinated
+contractual obligations of the issuer and/or guarantor (where applicable) and
+of no other person. Thus, investors are relying on the creditworthiness of the
+issuer and/or guarantor and have no recourse against the underlying
+corporation.
+4.4.1.7. "The Philippine Securities and Exchange Commission is not liable for any
+non-disclosure on the part of the issuer and takes no responsibility for the contents
+of this prospectus and makes no representation as to its accuracy or completeness,
+and expressly disclaims any liability whatsoever for any loss arising from or in
+reliance upon the whole or part of the contents of this prospectus. Investors should
+rely on their own evaluation to assess the merits and risks of the investment. "
+4.4.1.8. The following statement in bold:
+"YOU ARE ADVISED TO READ AND UNDERSTAND THE CONTENTS OF
+THIS PROSPECTUS/TERM SHEET(S). IF IN DOUBT, PLEASE CONSULT
+A PROFESSIONAL ADVISER. THERE ARE CERTAIN RISK FACTORS
+WHICH YOU SHOULD CONSIDER. TURN TO PAGE [XX] OF THIS BASE
+PROSPECTUS FOR "RISK FACTORS".
+4.4.1.9. The date of the prospectus.
+4.4.1.10. The following statement in bold face 12-point type, prominently
+displayed:
+"THE SECURITIES AND EXCHANGE COMMISSION HAS NOT
+APPROVED THESE SECURITIES OR DETERMINED IF THIS
+PROSPECTUS IS ACCURATE OR COMPLETE. ANY REPRESENTATION
+TO THE CONTRARY IS A CRIMINAL OFFENSE AND SHOULD BE
+===== page 12 / 22 =====
+Page 10 of 20
+REPORTED IMMEDIATELY TO THE SECURITIES AND EXCHANGE
+COMMISSION."
+4.4.2. The inside front cover and the first two (2) or more pages of the prospectus and
+the term sheet(s), as applicable, shall contain the following:
+4.4.2.1. "The directors of the issuer and the guarantor (where applicable) have
+seen and approved this prospectus. The directors of the issuer and the guarantor
+(where applicable) collectively and individually accept full responsibility for the
+accuracy of the information contained in this prospectus and confirm, having
+made all reasonable inquiries, that to the best of their knowledge and belief, there
+are no false or misleading statements or other facts the omission of which would
+make any statement in this prospectus false or misleading. "
+4.4.2.2. If applicable, "[Name of principal adviser], being the adviser,
+acknowledges that based on all available information and to the best of its
+knowledge and belief, this prospectus constitutes a full and true disclosure of all
+material facts concerning the offen"
+4.4.2.3. "A copy of this prospectus has been registered with the Philippine
+Securities and Exchange Commission. However, its registration should not be
+taken to indicate that the Commission recommends the structured warrants
+offering or assumes responsibility for the correctness of any statement or opinion
+or report expressed or disclosed in this prospectus. "
+4.4.2.4. A statement in bold letters to the effect that:
+"THIS PROSPECTUS MAY BE VIEWED OR DOWNLOADED FROM THE
+WEBSITE OF THE SECURITIES AND EXCHANGE COMMISSION
+(www.sec.gov.ph) AND FROM THE ISSUER'S WEBSITE AT
+Provided, That where the offering is made by way of a base prospectus
+supplemented by term sheet(s), each term sheet shall instead contain the
+following statement:
+"BEFORE YOU INVEST, YOU MAY WANT TO REVIEW THE BASE
+PROSPECTUS, WHICH CONTAINS MORE INFORMATION ABOUT THE
+STRUCTURED WARRANTS AND THE RISKS INVOLVED. YOU CAN FIND THE
+BASE PROSPECTUS AND OTHER INFORMATION ABOUT THE STRUCTURED
+WARRANTS ONLINE AT YOU CAN ALSO OBTAIN THIS
+INFORMATION AT NO COST BY CALLING OR BY SENDING AN
+EMAIL REQUEST TO
+4.4.2.5. Table of Contents.
+4.4.2.6. A glossary defining all technical terms and abbreviations used in the
+prospectus.
+4.4.2.7. A directory of all parties involved in the issuance and listing of the
+structured warrants, including, but not limited to, as applicable, the issuer, its
+directors and audit committee, the rating agency, custodian, guarantor, market
+maker, principal adviser, warrant registrar, auditors, and the Exchange on which
+the structured warrants are listed or are to be listed. The directory shall include
+the full names, nationalities, principal office addresses, telephone numbers, and
+official website addresses of such parties.
+4.4.2.8. A prospectus summary, which shall include appropriate cross-
+references to the relevant sections of the prospectus where full details of the
+matters discussed are set out.
+===== page 13 / 22 =====
+Page 11 of 20
+4.4.2.9. Indicative timetable, including the opening and closing dates of the
+offering, the price determination date, the date of allotment of the structured
+warrants, and the listing date. Provided, That the prospectus shall disclose the
+period during which the offering of structured warrants shall remain open after
+the publication of the prospectus, which period shall be inclusive of the date of
+issue of the prospectus and shall be for a reasonable duration; shall state
+whether the board of directors of the issuer reserves the right to amend the
+timetable; and shall disclose thc manner by which the public will be informed of
+any changes to the timetable.
+4.4.3. The prospectus shall include the following information, in addition to those
+required under the SRC, with respect to the issuer:
+4.4.3.1. The issuer's history and business overview.
+4.4.3.2. Where applicable, a description on its experience in the issuance and
+management of any structured warrants and other equity derivatives.
+4.4.3.3. Where the issuer is part of a group, disclosure of the group's
+organizational structure, together with explanatory notes. In the case of a
+guaranteed issue, the relationship between the issuer and the guarantor shall be
+disclosed. If the issuer or guarantor is not the ultimate holding company of the
+group, a statement of such fact must be provided, togeth er with notes describing
+the structure.
+4.4.3.4. Where applicable, a description of the guarantor, including its history
+and business, its directors and senior management, and its experience in the
+issuance and management of structured warrants and other equity derivatives.
+4.4.3.5. The name and designation of the issuer's directors and key senior
+management.
+4.4.3.6. The required financial statements, including the accompanying notes
+thereto and the auditor's report thereon, in accordance with these Rules and the SRC:
+(ii)
+(iii)
+in the case of a non-collateralized structured warrants issue,
+the audited annual financial statements of the issuer for the
+past three (3) fiscal years;
+in the case of a guaranteed structured warrants issue, the
+audited annual financial statements of the guarantor for the
+past three (3) fiscal years; and
+in the case of a fully-collateralized structured warrants issue,
+the audited annual financial statements of the issuer for the
+most recent fiscal year.
+4.4.3.7. In the case of a non-collateralized structured warrants issue, the credit
+rating of the issuer and/or guarantor (where applicable), including the name of
+the rating agency that assigned the rating, the credit rating assigned, the date on
+which the credit rating was assigned or last reaffirmed, and a brief explanation
+of the rating scale and the definitions of the credit ratings used by such credit
+rating agency.
+4.4.3.8. In the case of a non-collateralized structured warrants issue, a
+description of the internal risk management and hedging strategies of the issuer,
+including the roles of the management and relevant departments with respect
+to its risk management. In the case of fully-collateralized structured warrants,
+details of the security arrangements and the identity of the custodian of the
+underlying financial instrument.
+===== page 14 / 22 =====
+Page 12 of 20
+4.4.3.9. The regulatory authority or authorities supervising the issuer and the
+guarantor, where applicable.
+4.4.3.10. A statement that the issuer and the guarantor (where applicable) shall
+promptly disclose any material adverse change affecting their financial
+condition, credit standing, or legal status between the date of registration and
+the completion of the offer period.
+4.4.3.11. A statement as to whether there has been any material adverse change
+in the financial or trading position of the issuer and, where applicable, the
+guarantor, since the end of the period covered by the latest audited financial
+statements, or a negative statement to that effect where no such change has
+occurred.
+4.4.3.12. Particulars of any litigation, arbitration, claims, or proceedings of
+material importance pending or threatened against the issuer or any member of
+its group, and, where applicable, the guarantor, which may materially affect the
+ability of the issuer to meet its obligations under the structured warrants. Where
+the issuer is a Licensed Broker-Dealer or Licensed Investment House, only such
+matters that are outside the ordinary course of business and meet the
+materiality threshold herein shall be disclosed. Where there are no such
+matters, a negative statement to that effect shall be included.
+4.4.3.13.A statement that the issuer and, where applicable, the guarantor
+undertakes to publish their audited annual financial statements and any interim
+or quarterly financial statements on their website and the website of the
+Exchange for so long as the structured warrants remain listed.
+4.4.3.14.Where the issuance is non-collateralized and the issuer does not
+possess an investment grade credit rating, disclosure of the salient terms of the
+guarantee arrangement.
+4.4.4. The prospectus shall disclose the risks involved in purchasing the structured
+warrants, which shall be presented in a manner such that risks with the highest
+potential impact are clearly and prominently disclosed at the beginning of each relevant
+section. The disclosure shall include, at a minimum, the following:
+4.4.4.1. Risks relating to the issuer;
+4.4.4.2. Risks relating to the structured warrants, including general investment
+risks, volatility risk, liquidity risk (including circumstances where no market
+making is undertaken), leverage risk, currency risk, credit risk, and other
+material risks that may affect an investor's ability to make an informed
+investment decision, as well as the factors affecting the price of the structured
+warrants;
+4.4.4.3. Risks relating to the underlying financial instrument(s);
+4.4.4.4. Risks associated with market disruption and settlement disruption
+events in relation to the underlying financial instrument(s);
+4.4.4.5. Risks associated with events affecting the structured warrants,
+including but not limited to adjustments arising from rights issues or bonus
+issues of the underlying financial instrument (where applicable), and
+insolvency, litigation, or merger events affecting the underlying corporation;
+4.4.4.6. Risks associated with any termination of the structured warrants by the
+issuer;
+===== page 15 / 22 =====
+Page 13 0f20
+4.4.4.7. Potential tax implications for prospective investors, including, where
+applicable, any duties or taxes payable upon exercise, expiry, or maturity of the
+structured warrants;
+4.4.4.8. In the case of a non-collateralized structured warrants issue, a
+statement that investors are exposed to the credit risk of the issuer, together
+with disclosure of the issuer's credit rating, if any; and
+4.4.4.9. In the case ofa guaranteed structured warrants issue, a statement that
+investors are exposed to the credit risk of the guarantor, together with
+disclosure of the guarantor's credit rating, if any.
+4.4.5. The prospectus shall set out in detail the terms and conditions of the structured
+warrants, including, but not limited to, the following:
+4.4.5.1. The issue size, issue price, and the nature and title of the structured
+warrants;
+4.4.5.2. A full description of the structured warrants, including whether such
+warrants are based on a single underlying financial instrument or a basket of
+underlying financial instruments, the exercise style (American or European), the
+underlying financial instruments, the settlement method, and, where applicable,
+the weighting of each underlying financial instrument in a basket;
+4.4.5.3. Whether the structured warrants will be physically settled or cash
+settled. If cash settled, the method or formula for calculating the cash settlement
+amount.
+4.4.5.4. A summary of the key terms of the structured warrants, including the
+type (call or put), issue price, exercise price, exercise period, expiry date, implied
+volatility, gearing, effective gearing, and premium.
+4.4.5.5. The purpose of the offer of the structured warrants.
+4.4.5.6. The exercise expenses or the applicable fees and charges for the
+exercise of the structured warrants.
+4.4.5.7. A description of all applicable exercise rights, including:
+(ii)
+(iii)
+(v)
+Automatic exercise at the expiry of the exercise period of the
+structured warrants.
+For cash-settled structured warrants, a clear statement on whether
+automatic exercise applies upon expiry or maturity, the method for
+calculating the settlement amount, and the period within which the
+issuer shall deliver the cash settlement amount.
+For physical settlement, the delivery of an exercise notice and
+payment of the exercise price, and the period in which the issuer
+may deliver the underlying asset to the holder following a valid
+exercise.
+The maximum number of underlying financial instruments which
+the issuer is obliged to transfer upon exercise of the structured
+warrants.
+The period during which the structured warrants may be exercised
+and the date on which the structured warrants expire.
+In the case of automatic exercise upon expiry of the structured
+warrants, a statement that an issuer shall not be required to publish
+===== page 16 / 22 =====
+(vii)
+Page 14 of 20
+a notice in respect of structured warrants expiring or maturing on
+their normal expiry or maturity date if the terms and conditions of
+such structured warrants provide for net cash settlement on an
+automatic basis (i.e., without the holder serving an exercise notice);
+and
+In the event of settlement failure or default by the issuer, a
+desu ipti011 of the available investor remedies, including regulatory
+recourse, escalation procedures, and any reserve or recovery
+mechanisms in place.
+4.4.5.8. Where a market maker is appointed, the prospectus shall disclose:
+(iii)
+(iv)
+the identity of the market maker;
+the nature of the relationship between the issuer and the market
+maker, including whether the market maker acts as agent of the
+issuer;
+a statement that liquidity will be provided on a continuous basis
+throughout the trading day, in accordance with the market making
+rules of the Exchange;
+the circumstances under which liquidity may not be provided, in
+accordance with the market making rules of the Exchange;
+such other information relating to market making as may be
+required under these Rules and the applicable rules of the
+Exchange.
+4.4.5.9. The rights of holders of structured warrants in the event ofa take-over,
+liquidation, merger, dissolution, or winding-up of the issuer, or a scheme of
+arrangement involving the shareholders of the issuer, and the ranking of the
+investors vis-å-vis other creditors in the event of an issuer default.
+4.4.5.IO.The terms of the issue shall provide for adjustments to the exercise
+price and/or entitlements in the event of any declaration by the underlying
+corporation(s) of any potential adjustment event, such as a capitalization issue,
+rights issue, distribution, or the like relating to the underlying financial
+instrument.
+4.4.5.11.AII arrangements, agreements, or understandings (direct or indirect) in
+place at the date of issue between the issuer, any member of the issuer's group,
+and any substantial shareholder of the company whose assets underlie the
+structured warrants; and
+4.4.5.12eAn illustration of the best- and worst-case scenarios with respect to an
+investment in structured warrants. The scenario analysis shall include the
+potential gains or losses arising from such investment.
+4.4.6. The prospectus shall include the following information in respect of each
+underlying corporation:
+4.4.6.1. An indication of where investors may obtain information on the
+underlying corporation(s), including its published audited consolidated
+financial statements and interim financial statements.
+4.4.6.2. The date of, and arrangements for, adjusting the amount payable upon
+exercise of the structured warrants or the entitlement due upon exercise (where
+applicable), to take account of any rights issue, bonus issue, consolidation, or
+other alteration to the share capital of the underlying corporation or any of the
+===== page 17 / 22 =====
+Page 15 0f20
+underlying corporations comprising a basket of underlying financial
+instruments.
+4.4.6.3. The rights, if any, of holders of structured warrants to participate in any
+distribution and/or offers of further securities made by the underlying
+corporation or any of the underlying corporations comprising a basket of
+underlying financial instruments.
+4.4.6.4. The rights, if any, of holders of structured warrants in the event of a
+take-over, liquidation, merger, or winding up of the underlying corporation or
+any of the underlying corporations comprising a basket of underlying financial
+instruments.
+4.4.6.5. In relation to structured warrants that provide for physical settlement
+of the underlying financial instrument, a statement of the period within which
+the issuer shall deliver, or cause to be delivered, the underlying securities to the
+warrant holder, including by crediting such securities to the holder's securities
+account, following a valid exercise or upon expiry or maturity, in accordance
+with the applicable rules of the Exchange and the relevant depository.
+4.4.6.6. Where the underlying financial instrument is quoted on an exchange
+outside the Philippines, an indication of the foreign exchange on which such
+underlying financial instrument is listed and quoted, and where market prices
+and other relevant information on such underlying financial instrument may be
+obtained.
+4.4.6.7. Where the underlying financial instrument is an index, provide the
+following information:
+(iii)
+(iv)
+(v)
+(vii)
+a description of the index;
+a description of the constituent stocks (if applicable);
+the identity of the index provider
+a description of the method of calculation;
+the arrangements for calculation if the index is not published by
+the normal party;
+the historic highs or lows for the last five years; and
+the closing spot level at the latest most practicable date.
+4.4.6.8. Where the underlying financial instrument is a basket, the prospectus
+must disclose the relevant weightings of each underlying instrument in the
+basket.
+4.4.6.9. Any other information necessary to enable an investor to make an
+informed assessment of the value of the structured warrants.
+4.5. The information disclosed in the prospectus shall be as of the latest practicable date prior
+to its issuance.
+4.5.1. The issuer shall ensure that the prospectus remains accurate and complete in all
+material respects and shall disclose any material change arising after the issuance of the
+prospectus that would:
+(i) materially affect the rights or obligations of warrant holders; or
+(ii) materially affect an investor's ability to make an informed investment
+decision.
+4.5.2. Such disclosure shall be made by way ofa supplementary prospectus where the
+change is material to the terms of the structured warrants or the information contained
+===== page 18 / 22 =====
+Page 16 of20
+in the prospectus, or by way of an issuer announcement, where appropriate, Provided,
+That such announcement is made promptly and in accordance with the applicable
+disclosure requirements of the Commission and the Exchange on which the structured
+warrants are to be listed.
+4.5.3. Where disclosure is initially made byway of an issuer announcement, the issuer
+shall issue a supplementary prospectus, where required, to ensure that the prospectus
+remains accurate and complete.
+4.6. A prospectus in relation to the issuance of structured warrants may be issued:
+(A) in a single document, wherein such document shall contain all information
+required under the SRC and these Rules; or
+(B) by way ofa base prospectus supported by term sheet (s), wherein—
+(ii)
+(iii)
+(iv)
+(v)
+the base prospectus shall contain information relating to the issuer and the
+general features and risks of the structured warrants, including those
+required under Sections 4.4.3, 4.4.4, and relevant provisions of Section
+4.4.5.;
+the term sheet(s) shall contain information relating to the specific issuance,
+including those required under Sections 4.4.5.1 and 4.4.6, as well as a
+summary of the final terms, pricing, exercise and settlement details, the
+underlying financial instrument(s), and other relevant disclosures;
+the allocation of disclosures between the base prospectus and the term
+sheet(s) shall not result in the omission of any information required under
+the SRC and these Rules, and the issuer shall ensure that the disclosure,
+taken as a whole, is complete and not misleading;
+where the issuer elects this option, the filing of succeeding term sheets with
+the Commission may be signed by an officer duly authorized by the Board of
+Directors;
+each term sheet shall be submitted to the Commission not later than five (5)
+business days prior to the intended offering date, unless otherwise allowed
+by the Commission, and shall include, at a minimum, the information
+required under these Rules.
+4.7. The issuer shall ensure that the following documents are made available on its website
+and, where applicable, the website of the Exchange, for so long as the structured warrants
+remain listed:
+(i) The latest prospectus and any supplementary prospectus or term sheet(s);
+(ii) the latest audited and interim financial statements; and
+(iii)
+any expert reports referred to in the prospectus.
+4.8. Nothing herein shall preclude the Commission from requiring such other information
+as it may deem necessary in the public interest or for the protection of investors.
+Section 5. LISTING OF THE STRUCTURED WARRANTS ON AN EXCHANGE
+5.1. The listing and trading of structured warrants on an Exchange shall comply with these
+Rules and, in addition thereto, be subject to the listing and trading rules of such Exchange, as
+approved by the Commission.
+5.2. No Exchange shall accept or approve the listing of structured warrants unless such
+securities have been duly registered in accordance with the SRC and these Rules.
+===== page 19 / 22 =====
+Page 17 0f20
+Section 6. PRICING FOR STRUCTURED WARRANTS
+6.1. The minimum issue price of a structured warrant shall be in accordance with the rules
+prescribed by the Exchange, as approved by the Commission.
+6.2. The issuer shall specify in the prospectus the maximum spread between bid and offer
+prices, in accordance with the rules of the Exchange, as approved by the Commission.
+Section 7. MARKET MAKING OF THE STRUCTURED WARRANTS
+7.1. An issuer shall comply with the following requirements and disclose such in the
+prospectus:
+7.1.1. Disclose whether it intends to comply with the spread requirement upon initial
+listing or to provide liquidity through market making, or both;
+7.1.2. Where the issuer appoints a market maker for its issue of structured warrants,
+it shall disclose the identity of the appointed market maker and explain the relationship
+between the issuer and the market maker;
+7.1.3. Where the issuer intends to provide liquidity through market making, it shall
+appoint only one (1) market maker;
+7.1.4. Where the market maker ceases to perform its obligations, the issuer shall
+appoint a replacement market maker and announce such appointment at least two (2)
+weeks prior to the cessation of the existing market maker's obligations;
+7.1.5. Where the issuer provides liquidity through market making, disclose the
+circumstances under which the market maker may not be able to, and shall not be obliged
+to, provide liquidity;
+7.1.6. Disclose the minimum quantity of structured warrants for which liquidity will
+be provided;
+7.1.7. Disclose the maximum spread between the bid and offer prices when liquidity
+is provided;
+7.1.8. Disclose the daily market presence of the market maker;
+7.1.9. Disclose whether the issuer has any intention to undertake a further issue of the
+structured warrants;
+7.1.10. The market-making parameters referred to in this Section shall be in accordance
+with the requirements prescribed by the Exchange, as approved by the Commission.
+7.2. An issuer may undertake a further issue of structured warrants for the purpose of
+facilitating market making, subject to the rules of the Exchange, and to the following conditions:
+7.2,1. The terms and conditions of the further issue shall be identical to those of the
+existing issue, except with respect to issue size and tenure; and
+7,2.2. The issuer and its appointed market maker, as applicable, shall not hold, in
+aggregate, more than fifty percent (50%) of the existing issue as at the date of launch of
+the further issue.
+7.3. The issuer shall ensure that its appointed market maker complies at all times with the
+market-making obligations prescribed by the Exchange and these Rules, including in relation to
+any further issue undertaken pursuant to Section 7.2.
+===== page 20 / 22 =====
+Page 18 of 20
+Section 8. INVESTOR EDUCATION AND MARKET CONDUCT OBLIGATIONS
+8.1. In addition to the obligations of the issuer under Section 3.2.3 of these Rules on investor
+education, trading participants dealing in, or executing transactions in structured warrants for the
+account of their customers, shall undertake investor education on structured warrants, in accordance
+with the SEC FCPA IRR.
+8.2. Trading participants shall establish and maintain continuous educational programs for
+investors and prospective warrant holders.
+8.3. Such programs and materials shall clearly and adequately explain:
+(a) the nature and characteristics of structured warrants;
+(b) the inherent risks associated with investing in structured warrants;
+(c) the key features and mechanisms of structured warrants; and
+(d) the mechanics of market making in structured warrants, including how liquidity is
+provided and the limitations thereof.
+8.4. Educational materials shall be presented in a clear, balanced, and non-misleading manner,
+shall use plain language, and shall not emphasize potential returns without a corresponding
+disclosure of risks.
+Section 9. EXPIRATION OF THE STRUCTURED WARRANTS
+9.1. The expiry date ofa structured warrant shall not exceed three (3) years from the date of
+issue, or such longer period as may be allowed by the Commission.
+9.2. An issuer shall, not less than ten (IO) business days prior to the expiry date or expected
+delisting date, notify the Commission in writing and publish, through its website and that of the
+Exchange, a notice containing the following information:
+9.2.1.
+the expiry date, last trading date, and the date of withdrawal from
+listing of the structured warrants;
+9.2.2.
+9.2.3.
+the exercise price;
+the expected date of payment or delivery for those expiring in-the-
+money, subject to the prescribed settlement timeline of the Exchange;
+9.2.4.
+9.2.5.
+9.2.6.
+9.2.7.
+the calculation method of the cash payment, if applicable;
+the most recent closing price of the underlying financial instrument;
+treatment of the structured warrants which are not exercised; and
+such other information as the Commission may require.
+9.3. An issuer shall not be required to publish a notice in respect of its structured warrants
+expiring on its normal expiry date if the terms and conditions in respect of that structured
+warrant provide for net cash settlement on an automatic basis.
+Section 10. WITHDRAWAL OF LISTING OF THE STRUCTURED WARRANTS IN AN
+EXCHANGE
+10.1.An issuer may apply to withdraw the listing of structured warrants prior to their expiry
+or maturity; Provided, That such structured warrants are held entirely by the issuer or its
+appointed market maker, and no warrants are held by the public at the time of the application.
+===== page 21 / 22 =====
+Page 19 of 20
+10.2. Where structured warrants have been fully exercised prior to expiry or maturity, the
+issuer shall notify the Commission and the Exchange as soon as practicable to facilitate the
+delisting Of such structured warrants.
+Section 11. TRADING HALT OR SUSPENSION OF TRADING OF THE STRUCTURED
+WARRANTS
+11.1. Where the underlying financial instruments of the structured warrants listed on the
+Exchange are halted or suspended from trading for whatever reason on the market on which they
+are listed or dealt in, trading on the Exchange of the structured warrants relating to such financial
+instruments shall also be automatically halted or suspended.
+11.2. Baskets which have one or more of their underlying financial instruments suspended
+from trading in the market or exchanges on which such suspended financial instruments are
+listed and the value or aggregate value of such suspended financial instrument(s) represents
+thirty percent (30%) or more of the total value of all financial instruments comprised in the
+basket, or such other percentage as announced by the Commission from time to time shall also
+be automatically suspended from trading on the Exchange. The value of the suspended financial
+instrument(s) shall be determined by reference to the price of such financial instrument(s)
+immediately prior to their suspension on the market or exchanges in which they are listed.
+11.3. Where the underlying corporation or the underlying financial instrument is listed on a
+securities exchange outside the Philippines, the issuer shall immediately request for a
+suspension, resumption in trading or withdrawal of listing, as the case may be if:
+(a) the underlying corporation or issuer of the underlying financial instrument
+announces that it has requested a suspension, resumption in trading or
+withdrawal of listing on the exchange; or
+(b) the suspension, resumption in trading or withdrawal is imposed by the relevant
+exchange.
+11.4. The Commission may, upon evaluation, allow resumption of trading in structured
+warrants linked to baskets where the suspended financial instrument represents less than ten
+percent (10%) of the total basket value, provided adequate disclosures and risk mitigation
+measures are in place.
+Section 12. APPOINTMENT OF WARRANT REGISTRAR
+Where the structured warrants are issued in registered form and represented by
+certificates or other documents of title, the issuer shall appoint a warrant registrar, which may
+be its authorized transfer agent, to maintain an accurate register of holders of the structured
+warrants and to record all transfers thereof.
+Section 13. REPORTING AND COMPLIANCE OBLIGATIONS OF THE ISSUER
+13.1. The issuer shall file with the Commission the following:
+(i) Periodic and current reports and records required under the SRC;
+(ii) A quarterly compliance report summarizing market-making activities,
+structured warrant positions, and compliance with the risk management and
+disclosure obligations prescribed under these Rules, to be submitted within
+forty-five (45) calendar days after the end of the quarter; and
+(iii) Such other reports and records as may be required by the Commission from time
+to time.
+13.2. The board of directors and/or senior management of the issuer shall ensure the
+accuracy, completeness, and timely submission of all required reports.
+===== page 22 / 22 =====
+Page 20 0f20
+13.3. The issuer shall notify the Commission in writing within five (5) business days from the
+occurrence of any event resulting in its failure to meet the eligibility criteria and requirements
+prescribed under these Rules.
+13.4. The Commission reserves the authority to conduct a formal review or investigation of
+the issuer at any time to ensure compliance with these Rules and other applicable laws, rules, and
+regulations.
+13.5. In the event of any breach or non-compliance with the eligibility criteria or requirements
+under these Rules, the suspension or cessation of an issuer's eligibility shall not relieve the issuer
+of any obligations arising from structured warrants previously issued and remaining outstanding.
+13.6. The issuer shall maintain and make available for inspection by the Commission's
+representatives all relevant documents and registry books, either physical or electronic, for a
+period of at least five (5) years from the date of the Issuer's submission of final documents.
+13.7. The issuer shall retain the records that relate to an on-going investigation beyond this
+period until the Commission declares the case closed and terminated. The Commission may
+require the Issuer to furnish it with copies of records mentioned in the preceding sections or to
+file reports based on the same records.
+Section 14. ADMINISTRATIVE SANCTIONS
+If the Commission finds that there is a violation of any provision of this Rule or any
+applicable rules under the SRC, or that any person, in a registration statement or its supporting
+papers and the prospectus, as well as in the periodic reports required to be filed with the
+Commission has made any untrue statement of a material fact or omitted to state any material
+fact required to be stated therein or necessary to make the statements therein not misleading or
+refuses to permit any lawful examination into its corporate affairs, the Commission shall, in its
+discretion impose additional sanctions provided by law aside from those established by existing
+regulations.
+Section 15. EFFECTIVITY
+These rules shall take effect fifteen (15) days after the date of last publication in two (2)
+newspapers of general circulation in the Philippines.
+Done this
+in Makati City, Philippines.
+For the Commission:
+FRANCISCO ED. LIM
+Chairperson

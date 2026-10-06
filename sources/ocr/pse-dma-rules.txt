@@ -1,0 +1,434 @@
+===== page 1 / 13 =====
+4
+Republic of the Philippines
+Department of Finance
+ECURITIES AND EXCHANGE COMMISSION
+SEC Bldg. EDSÅ, Greenhills, Mandaluyong City
+Markets and Securities Regulation Department
+October 29, 2013
+PHILIPPINE STOCK EXCHANGE, INC.
+PSE Plaza
+Ayala Avenue
+Makati City
+Fax: 891-9004
+Attention:
+Gentlemen:
+Mr. Hans B. Sicat, President & CEO
+Atty. Roel A. Refran, COO
+Attached are two (2) copies of PSE RULES ON DIRECT MARKET ACCESS
+(DMA) bearing the signatures of two (2) officials of the Exchange and SEC-MSRD
+Director on each page.
+Very truly yours,
+VICENTE GRAC
+FE ÄENIO, JR.
+Director
+===== page 2 / 13 =====
+PSE RULES ON DIRECT MARKET ACCESS (DMA)
+Section 1. Short Title
+These Rules may be cited as the "DMA Rules".
+Section 2. Definition of Terms
+As used in these Rules and unless the context otherwise requires:
+"Algorithmic Trading" shall mean the use of electronic trading platforms for entering orders to the
+Exchange, with an algorithm deciding on aspects such as timing, price, or quantity of the order, or in many
+cases initiating the order without human intervention.
+"CMIC" shall refer to the Capital Markets Integrity Corporation.
+"Direct Market Access" or "DMA" shall mean an arrangement whereby a Trading Participant's client is
+permitted to enter orders to buy or sell securities including any modifications and cancellations directly into
+the PSE trade matching system for automatic execution without any intervention by the Trading Padicipant.
+"DMA Client" shall refer to the Trading Participant's client availing of the DMA Service.
+"DMA Facility" shall refer to any infrastructure (i.e., technical systems and/or connecting systems) that may
+be used by Trading Participants for the provision of DMA Services or DMA Clients for the availment of DMA
+Services.
+"DMA Orders" shall refer to orders to buy or sell securities placed through the DMA Facility.
+"DMA Service" shall refer to services as described in Section 3 of these Rules.
+"DMA Trading Participant" shall refer to a PSE Trading Participant that has been allowed by the
+Exchange to offer DMA Services upon the PSE Trading Participant's compliance with the requirements
+under Section 4 of these Rules.
+"Exchange" or "PSE" shall mean The Philippine Stock Exchange, Inc.
+"High-Frequency Trading" shall refer to a type of algorithmic trading in which a computer-driven process
+of entering or cancelling orders is carried out over sub-second intervals.
+"PSEtrade" shall refer to the Exchange's electronic trading system.
+"Qualified Institutional Buyer" or "QIB" shall refer to the following qualified buyers: banks; registered
+investment house; insurance company; pension fund or retirement plan maintained by the government of
+the Philippines or any political subdivision thereof or managed by a bank or other persons authorized by the
+Bangko Sentra/ to engage in trust functions; investment company; entities which are registered as qualified
+institutional buyers in accordance with SEC Memorandum Circular No. 3 S. 2008 and 6 S. 2007; or such
+other person as the Commission may, by rule, determine as qualified buyers, on the basis of such factors as
+===== page 3 / 13 =====
+PSE RULES ON DIRECT MARKET ACCESS (DMA)
+financial sophistication, net worth, knowledge, and experience in financial and business matters, or amount
+of assets under management.
+"SCCP" shall refer to Securities Clearing Corporation of the Philippines.
+"Security" or "Securities" shall mean shares, and any other investment products, including derivatives,
+that are listed and traded in the Exchange.
+"Wash Sale" shall refer to transactions in which there is no genuine change in beneficial ownership of a
+security.
+Section 3: DMA Services
+DMA Services shall mean sennces that allow the bona fide clients of a DMA Trading Participant to place buy or
+sell orders for securities without trading participant intervention. DMA Services can be any of the following:
+a.
+b.
+Automatic Order Routing (AOR)
+AOR is a type of DMA Service where a trading participant permits its DMA Clients to send orders
+electronically to the DMA Trading Participant's infrastructure, which in turn automatically sends the order
+to the PSEtrade. The two (2) types of AOR are the following:
+(i) Internet Trading - if client is using the web-based trading application provided by the trading
+participant; or
+(ii) Straight-Through Processing (STP) - if client uses an order execution system, whether provided by
+the trading participant or a third party service provider, that is directly connected to the trading
+participant's infrastructure.
+Sponsored Access
+Sponsored Access is a type of DMA Service where a trading participant permits a QIB client to transmit
+orders for execution directly to the PSEtrade without passing through the trading participant's
+infrastructure.
+Section 4. Requirements for Providing DMA Services
+Any trading participant intending to provide DMA Services shall file an application with the Exchange and comply
+with the following requirements prior to commencement:
+a.
+b.
+c.
+DMA Facility has been certified by the PSE pursuant to Section 5 of these Rules;
+DMA Trading Participant shall execute an agreement with PSE governing the privilege granted to the DMA
+Trading Participant to connect to the PSEtrade;
+DMA Trading Participant shall provide such information and documents as the PSE may require including,
+but not limited to, the following:
+===== page 4 / 13 =====
+PSE RULES ON DIRECT MARKET ACCESS (DMA)
+(i) Template of the agreement to be executed between the DMA Trading Participant and its DMA Client,
+which, at the minimum, shall state:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8,
+9.
+10.
+11.
+The duties, obligations and rights of the DMA Trading Participant and the DMA Client in relation to
+the provision of the DMA Services;
+DMA Client's obligation to execute orders in compliance with the Securities Regulation Code,
+Exchange rules and other pertinent laws, rules and regulations;
+The risk parameters that the DMA Trading Participant shall set;
+Situations in which DMA Client's orders may not be executed or cancelled;
+Process of DMA Order posting and execution;
+Service level commitment which shall include guaranteed processing time of order instructions and
+the maximum order capacity of the DMA Facility;
+Alternative means of order posting, modification or cancellation;
+DMA Client's consent to the submission of any electronic recording of online transactions to the
+concerned regulatory body;
+DMA Trading Participant's right to act (i.e., modify or cancel) on a DMA Order to ensure fair and
+orderly trading;
+Instances when DMA Services may be cancelled or terminated by the DMA Trading Pafticipant or
+the PSE;
+Possibility of discrepancy in the data displayed, technical glitches, delayed execution and other
+risks associated with DMA transactions;
+12. DMA Client shall explicitly agree to be bound by the Philippine securities laws, rules of the
+Exchange, CMIC and clearing agency and other pertinent laws, rules and regulations and shall be
+held liable for any breach of such laws, rules and regulations; and
+13. Statement that the PSE, its directors, officers and employees shall not be liable to the DMA Client
+for all damages directly or indirectly suffered as a result of the use or availment of the DMA
+Services.
+(ii) Certification from the DMA Trading Participant signed by the Nominee that it has written policies and
+procedures covering, at the minimum, the following:
+===== page 5 / 13 =====
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+PSE RULES ON DIRECT MARKET ACCESS (DMA)
+Risk management and supervisory procedures;
+Monitoring and managing of DMA Orders;
+Handling of DMA Orders breaching the trading thresholds and other circumstances which may
+require confirmation;
+Handling of errors and/ or exceptions including, but not limited to:
+(a) recommended solutions; or
+(b) escalation procedures;
+Business continuity and disaster recovery;
+Validation of identity of the person accessing the DMA Service;
+Hiring and training of qualified technical personnel supporting the DMA Service of the DMA Trading
+Participant; and
+Training of DMA Clients, whether online, in-person or through such other appropriate means,
+covering relevant rules, regulations and policies and the use of the DMA Facility.
+d.
+e.
+f.
+g.
+h.
+DMA Trading Participant shall have a designated and an alternate personnel for monitoring and managing
+DMA Clients and DMA Orders. The designated and the alternate personnel must be SEC-licensed
+Salesmen/Traders who shall be proficient in the use of the facility for managing DMA Orders. The names of
+the DMA Trading Participant's designated and alternate personnel must be submitted to the Exchange and
+CMIC;
+Audit trail facility that shows details of each instruction executed through the DMA Facility including, but not
+limited to, the items stated in Section 12 hereof;
+Automated risk management system for controlling exposure to DMA Clients before the order is sent to the
+PSEtrade. The Trading Participant shall define the minimum risk filters as stated in Section 11 hereof;
+DMA Trading Participants shall inform PSE in writing of the commencement of DMA Services at least five
+(5) trading days ahead of the scheduled date of commencement;
+For Sponsored Access:
+(i) The DMA Trading Participant shall submit a certification that its DMA Client is a QIB; and
+(ii) The DMA Trading Participant shall maintain a record of the names of its DMA Clients and their duly
+authorized employees, their position/designation and user details including user IDs, which record shall
+be made available to PSE, CMIC, and regulatory bodies as may be required. Only duly authorized
+employees of a DMA Client may access its DMA account.
+===== page 6 / 13 =====
+PSE RULES ON DIRECT MARKET ACCESS (DMA)
+Section 5, System Certification
+a.
+b.
+c.
+The Trading Participant's DMA Facility is required to pass the system certification process and comply with
+the minimum functional requirements set by the Exchange before the commencement of DMA Services.
+DMA Trading Participant shall provide to the Exchange the following information, in addition to the
+requirements indicated in Section 4:
+(i) Measures to ensure the operational integrity, security, reliability;
+(ii) Server size and capacity; and
+(iii) Mechanisms to prevent the execution of unintended duplicate orders;
+Executable copy of the certified version of the DMA Facility software shall be provided by the DMA Trading
+Participant to PSE.
+Section 6. System Re-Certification
+The DMA Trading Participant shall notify the Exchange in writing of any enhancements or modifications to the
+previously-certified DMA Facility, with a complete description of the enhancements or modifications.
+If the intended enhancements or modifications are determined by the Exchange to be significant in nature:
+a. The Exchange shall conduct a re-certification of the DMA Facility prior to conducting live trading;
+b. The DMA Trading Participant shall pay re-certification fee; and
+c. The DMA Trading Participant shall provide the Exchange a copy of the executable file of the modified
+version of the DMA Facility software.
+Section 7. Schedule of Fees
+The DMA Trading Participant shall be subject to the following fees:
+Fees VAT exclusive
+Installation Fee/Setu Char e
+Certification/Re-certification Fee
+Monthl Subscri tion Fee
+Develo ment Testin Fee
+Section 8. Security System
+Amount in PhP
+10,000.00
+2,500.00
+10,000.00
+5,000.00
+a. The DMA Trading Participant shall ensure that the following minimum security measures are built into the
+DMA Facility:
+1. Authentication process (i.e., use of user ID and password);
+JAM? )flv
+===== page 7 / 13 =====
+2.
+3.
+4.
+5,
+PSE RULES ON DIRECT MARKET ACCESS (DMA)
+Automatic expiry of passwords for a maximum of ninety (90) days;
+System to ensure that the authentication process shall not be by-passed;
+Automatic log-out or session time-out if there is no activity for a period of at least ten (10) minutes; and
+A firewall configured for the provision of DMA Services.
+b.
+c.
+The DMA Trading Participant shall ensure that the following minimum measures are observed in operating
+the DMA facility:
+1. The access to and from the location of the DMA facility is controlled, recorded and monitored; and
+2. The DMA facility is regularly maintained and the procedures for maintenance are accessible to the
+authorized personnel;
+The DMA Trading Participant shall have a facility and procedure to disconnect any user of its DMA Service
+in the event of a security breach, and to reconnect the user upon resolution of said breach. The DMA
+Trading Participant shall notify its DMA Client in writing of the security breach, the disconnection, and the
+resolution made. The DMA Trading Participant shall furnish the Securities and Exchange Commission
+(SEC) a copy of such notice within five (5) days from resolution.
+Section 9. Restrictions on the Use of DMA Facility
+The DMA Trading Participant shall observe the following restrictions:
+a.
+b.
+c.
+d.
+e.
+The DMA Trading Participant shall limit access to the DMA Facility to its clients and authorized employees
+The DMA Trading Participant shall provide DMA Services only to clients who possess sufficient financial
+resources to fulfill its trade obligations and sufficient understanding of relevant provisions of the Securities
+Regulation Code, Exchange rules and other pertinent laws, rules and regulations;
+For Automatic Order Routing, simultaneous multiple log-in using the same user account shall not be
+allowed. For Sponsored Access, simultaneous multiple log-in using the same user ID shall not be allowed;
+For Sponsored Access, the DMA Trading Participant shall offer Sponsored Access service only to QIBs; and
+The DMA Facility shall not be used for High-Frequency and/or Algorithmic trading.
+In case the DMA Trading Participant fails to strictly adhere to these requirements, the Exchange may take any of
+the actions enumerated in Sections 13 and 14 of these Rules as the Exchange may deem necessary, without
+prejudice to any action that the CMIC may take pursuant to its rules.
+===== page 8 / 13 =====
+PSE RULES ON DIRECT MARKET ACCESS (DMA)
+Section 10, Responsibilities of DMA Trading Participant
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+j.
+k.
+The DMA Trading Panicipant warrants that it shall be ultimately responsible for all DMA Orders entered by
+its clients, whether such DMA Orders were entered with or without DMA Trading Participant's knowledge.
+The DMA Trading Participant warrants that it shall undertake the necessary measures that will ensure that
+the DMA Clients are knowledgeable of the PSE trading rules, and other pertinent laws, rules and regulations
+and proper use of the DMA Facility. The DMA Trading Participant shall maintain a record showing the
+participation or attendance by its DMA Clients in its training program, whether online, in-person or other
+appropriate means, which record shall be made available to PSE, CMIC, and regulatory bodies as may be
+required.
+The DMA Trading Participant warrants that it shall undertake the necessary measures that will ensure that
+all revisions and updates to laws and rules are communicated promptly to the DMA Clients.
+The DMA Trading Participant warrants that it shall update its DMA Service, if necessary, in order to comply
+with changes under pertinent laws, rules and regulations.
+The DMA Trading Participant shall notify the Exchange of any change in the designated and the alternate
+personnel five (5) trading days prior to effectivity date.
+The DMA Trading Participant shall furnish the Exchange a copy of the template of the DMA Agreement
+between the DMA Trading Participant and its DMA Client in the event of any revisions,
+The DMA Trading Participant shall perform daily reconciliation of DMA Client accounts (between DMA
+Facility and back office system) to ensure accuracy of information.
+The DMA Trading Participant warrants that it shall ensure that the DMA Facility has built-in measures to
+prevent Wash Sale.
+The DMA Trading Participant shall make available the executed agreement between the Trading Participant
+and the DMA Client to the Exchange, CMIC and regulatory bodies upon request.
+The DMA Trading Participant shall, upon the directive of the Exchange, CMIC or SEC, make such
+enhancements or modifications to the DMA Facility as may be necessary to comply with these Rules and
+regulatory requirements that may be issued subsequent hereto. If the enhancements or modifications are
+significant in nature, the Exchange shall require system re-certification.
+The DMA Trading Participant shall conduct a disaster recovery test at least once a year. The results of the
+test shall be made available to PSE, CMIC, and regulatory bodies as may be required.
+The DMA Trading Participant shall engage a third party to conduct a capacity stress test and
+penetration/vulnerability test at least once a year. The results of the tests shall be made available to PSE,
+CMIC, and regulatory bodies as may be required.
+===== page 9 / 13 =====
+PSE RULES ON DIRECT MARKET ACCESS (DMA)
+m. The DMA Trading Participant shall maintain a client complaint log, which record shall be made available to
+PSE, CMIC, and regulatory bodies as may be required.
+Section 11. Risk Management Protocols
+a.
+b.
+c.
+d.
+The DMA Trading Participant shall define the automated pre-trade risk filters before a DMA Client is allowed
+access to the DMA Facility, for the purpose of ensuring that the DMA Order is within the capacity of the
+DMA client to execute and settle. For this purpose, the DMA Trading Participant shall put in place a system
+for assessing the risk profile of its DMA Clients.
+The DMA Trading Padicipant shall, at the minimum, put in place the following types of risk filters according
+to the risks that are being managed:
+(i) Trade exposure - parameter for identifying the exposure in which a DMA Client can trade. The
+parameter shall be based on:
+1. Gross buying/selling transactions; or
+2. Net buying/selling transactions,
+(ii) Order size — parameter for identifying the maximum of each DMA Order which a DMA Client can enter.
+The parameter shall be based on:
+1. value in Peso (PhP); or
+2. volume (number of shares); or
+3. a combination of any of the above.
+(iii) Price limit - parameter for identifying the maximum price of the DMA Order which a DMA Client can
+enter. The parameter shall be based on:
+1.
+2.
+3.
+4.
+5.
+percentage (%) away from the last traded price; or
+percentage (%) away from the last adjusted closing price; or
+ticks (bid/offer) away from the last traded price; or
+ticks (bid/offer) away from the last adjusted closing price; or
+a combination of any of the above.
+The DMA Trading Participant shall have internal policies and procedures in place for setting the risk
+parameters, review the same on a daily basis, and adjust the risk parameter values as it may deem
+necessary, and ensure that all changes to the values are immediately updated and logged. The DMA
+Trading Participant shall ensure that the risk parameters are set up only by persons authorized by the DMA
+Trading Participant.
+In respect of margin accounts, the DMA Trading Participant shall comply with the pertinent rules and
+regulations on margin trading.
+===== page 10 / 13 =====
+PSE RULES ON DIRECT MARKET ACCESS (DMA)
+Section 12. System Log
+a. The DMA Trading Participant shall maintain a system log which includes, without limitation, the following
+details:
+(i) Trading Account, user ID and IP address of the DMA Client responsible for the DMA Order;
+(ii) Unique code to identify DMA Orders and trades;
+(iii) Date and time-stamp of all system logs including confirmations/acknowledgments of PSEtrade;
+(iv) DMA Client log-in and log-out and how the DMA Client was logged out of the system (i.e., manual or
+automated);
+(v) Result of risk parameter check (i.e., accept or reject and risk parameters that triggered rejection); and
+(vi) All instructions related to the DMA Order made by the DMA Client (i.e., order posting, modification, and
+cancellation).
+b. The DMA Trading Participant shall maintain a copy of all system logs for at least five (5) years and make the
+same available for inspection by the Exchange and/or CMIC upon demand.
+Section 13. Termination of DMA Services
+a.
+b.
+The DMA Trading Participant shall notify the Exchange of the termination of DMA Services no less than
+thirty (30) days prior to the effective date of the end of service.
+The DMA Trading Participant shall notify its DMA Clients in writing, no less than thirty (30) days before the
+effective date of end of service, of the termination of its provision of DMA Services. The notification shall
+include the following:
+(i) Contact information of the Trading Participant; and
+(ii) The DMA Service end date.
+Section 14. Suspension or Revocation of DMA Services
+a. The Exchange may, without prior notice, take any of the actions enumerated below:
+(i) Immediately disconnect the DMA Facility if such facility or any component thereof causes any problem
+to the PSEtrade;
+(ii) Upon the recommendation of the SCCP, CMIC or SEC, suspend or revoke the authorization of a DMA
+Trading Participant to offer DMA Services; or
+===== page 11 / 13 =====
+b.
+c.
+PSE RULES ON DIRECT MARKET ACCESS (DMA)
+(iii) Upon the recommendation of SEC, direct a DMA Trading Participant to suspend or terminate the
+provision of DMA Services to any one or more of its DMA Clients.
+The Exchange shall not be liable to the DMA Trading Participant, its DMA Clients, or any other party in the
+event of disconnection.
+The DMA Trading Participant may, upon its own determination or upon the recommendation of the SEC or
+the CMIC, suspend or terminate the provision of DMA Services to one or more clients in the event of any
+violation of the Securities Regulation Code, its implementing rules and regulations, and other pertinent rules
+and regulations of the SEC and the Exchange.
+Section 15. Suspension or Revocation for Breach
+The Exchange shall suspend or revoke the authorization of a DMA Trading Participant to offer DMA Services
+where there is breach of any of the rules of the Exchange, or upon the instructions of CMIC or SCCP, or the
+order of the SEC.
+Section 16. Reinstatement or Lifting of Suspension of DMA Services
+The Exchange shall lift the suspension imposed pursuant to the preceding section and reinstate the DMA
+Services if the reason or cause of the suspension has been resolved to the satisfaction of the Exchange, or upon
+the instruction of CMIC or SCCP, or the order of the SEC, as may be applicable.
+Section 17. Limitation of Liability
+The Exchange, its Board of Directors, officers and employees shall not be liable for damages arising from the use of
+DMA Services.
+Section 18. Non-Waiver
+No failure or delay by the Exchange in enforcing any of the provisions of these Rules shall prejudice and/or
+restrict the rights of the Exchange to require compliance with said provision and it shall not operate as a waiver
+for any subsequent breach.
+Section 19. Applicability of the Revised Trading Rules
+The PSE Revised Trading Rules, including the classification of violations and penal sanctions, shall apply to the
+buying and selling of Securities via the DMA Facility insofar as they are not inconsistent with these Rules.
+Section 20. Precedence of DMA Rules
+These Rules shall take precedence over Article XXII of the Implementing Guidelines of the Revised Trading
+Rules ("Common Customer Gateway Guidelines").
+===== page 12 / 13 =====
+PSE RULES ON DIRECT MARKET ACCESS (DMA)
+Section 21. Applicability of the Securities Regulation Code
+The applicable provisions of the Securities Regulation Code, its implementing rules and regulations and other
+laws, rules and regulations shall continue to be in full force and effect and the DMA Trading Participant shall
+continue to be bound by the same. If any provision of these Rules shall be held to be contrary to any provision of
+the securities laws or any law, the remaining provisions shall continue to be in force and effect.
+Section 22. Transitory Provision
+PSE Trading Participants that have an existing DMA facility and that presently offer DMA Services shall be
+required to comply with, and shall henceforth be bound by, these Rules. Such PSE Trading Participants shall
+have a period of six (6) months upon effectivity of these Rules within which to comply with the requirements
+under Section 4, failing which they shall be disallowed from offering DMA Services.
+===== page 13 / 13 =====
+THE PHILIPPINE STOCK EXCHANGE, INC.
+HANS B. SICAT
+President and Chief Executive Officer
+ROEL A. REFRAN
+Chief Operating Officer
+SECURITIES AND EXCHANGE COMMISSION
+VICENTE GRAC
+FELZM NIO,J
+Director
+Market Regulation Department
