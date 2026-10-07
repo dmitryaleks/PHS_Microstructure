@@ -383,8 +383,11 @@ def main() -> int:
         chapters = load_chapters()
         if not chapters:
             raise BuildError("no chapters found in content/")
+        # Smart quotes only. The "replacements" typographer rule is deliberately off: it
+        # rewrites "(c)" to "©" and "(r)" to "®", which mangles legal citations such as
+        # "s.10(c)" or "Rule 7(r)" -- and this corpus is full of them.
         md = MarkdownIt("commonmark", {"html": True, "typographer": True}).enable(
-            ["table", "strikethrough", "replacements", "smartquotes"]
+            ["table", "strikethrough", "smartquotes"]
         )
     except BuildError as exc:
         print(f"BUILD FAILED: {exc}", file=sys.stderr)

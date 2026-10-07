@@ -1,0 +1,4062 @@
+===== page 1 / 80 =====
+Remarks
+CR03757-2021
+Pursuant to the relevant provisions of the Memorandum of Understanding (MOU) By and Between
+O
+the Philippine Stock Exchange, Inc. (PSE) and the Securities and Exchange Commission (SEC) on
+the Listing of the PSE Shares on the PSE Trading Board, the Commission has caused the immediate
+posting of the foregoing disclosure/s in the PSE Electronic Disclosure Generation Technology System
+(PSE EDGE). This directive is being issued primarily for the purpose of ensuring the timely disclosure
+of information relating to PSE as a listed company and should not be construed as an approval by the
+Commission of the item/s being disclosed nor of any of the acts done by the PSE or it intends to do in
+relation to this disclosure. The PSE shall remain responsible for complying with the other
+requirements as mandated in the Securities Regulation Code (SRC) and other relevant laws and their
+respective rules and regulations. This approval is for the purpose of ensuring the immediate posting
+of the disclosure. Nothing herein precludes the Commission as the statutory regulator of the PSE as
+a registered exchange, as Self-Regulatory Organization and as an issuer of registered securities, to
+seek further clarification and/or information and to take appropriate action on the matter, including the
+imposition of penalty in case of violation of the SRC and its Implementing Rules and Regulations.
+Finally, the Commission, acting as the Exchange under the MOU, may also impose penalty in case of
+violation of the relevant PSE Rules.
+SECURITIES AND EXCHANGE COMMISSION
+SEC FORM 17-A, AS AMENDED
+ANNUAL REPORT PURSUANT TO SECTION 17
+OF THE SECURITIES REGULATION CODE AND SECTION 141
+OF THE CORPORATION CODE OF THE PHILIPPINES
+1. For the fiscal year ended
+Dec 31, 2020
+2. SEC Identification Number
+AN092002557
+3. BIR Tax Identification No.
+002-333-130
+4. Exact name of issuer as specified in its charter
+THE PHILIPPINE STOCK EXCHANGE, INC.
+5. Province, country or other jurisdiction of incorporation or organization
+Philippines
+6. Industry Classification Code(SEC Use Only)
+7. Address of principal office
+6th to 10th Floors, PSE Tower, 5th Avenue corner 28th Street, Bonifacio Global City,
+Taguig City
+Postal Code
+1634
+8. Issuer's telephone number, including area code
+(02) 8876-4888
+===== page 2 / 80 =====
+9. Former name or former address, and former fiscal year, if changed since last report
+Not Applicable
+10. Securities registered pursuant to Sections 8 and 12 of the SRC or Sections 4 and 8 of the RSA
+Title of Each Class
+Common Stock
+Number of Shares of Common Stock Outstanding and Amount of Debt Outstanding
+81
+1 1 . Are any or all of registrant's securities listed on a Stock Exchange?
+a
+Yes
+No
+If yes, state the name of such stock exchange and the classes of securities listed therein:
+The Philippine Stock Exchange, lnc
+12. Check whether the issuer:
+(a) has filed all reports required to be filed by Section 17 of the SRC and SRC Rule 17.1
+thereunder or Section 11 of the RSA and RSA Rule 11 (a)-l thereunder, and Sections 26 and 141
+of The Corporation Code of the Philippines during the preceding twelve (12) months (or for such
+shorter period that the registrant was required to file such reports)
+Yes
+No
+(b) has been subject to such filing requirements for the past ninety (90) days
+a
+Yes
+No
+13. State the aggregate market value of the voting stock held by non-affiliates of the registrant. The
+aggregate market value shall be computed by reference to the price at which the stock was sold, or
+the average bid and asked prices of such stock, as of a specified date within sixty (60) days prior to
+the date of filing. If a determination as to whether a particular person or entity is an affiliate cannot be
+made without involving unreasonable effort and expense, the aggregate market value of the common
+stock held by non-affiliates may be calculated on the basis of assumptions reasonable under the
+circumstances, provided the assumptions are set forth in this Form
+N/A
+APPLICABLE ONLY TO ISSUERS INVOLVED IN
+INSOLVENCY SUSPENSION OF PAYMENTS PROCEEDINGS
+DURING THE PRECEDING FIVE YEARS
+14. Check whether the issuer has filed all documents and reports required to be filed by Section 17 of
+the Code subsequent to the distribution of securities under a plan confirmed by a court or the
+Commission.
+Yes
+No
+a
+DOCUMENTS INCORPORATED BY REFERENCE
+15. If any of the following documents are incorporated by reference, briefly describe them and identify
+the part of SEC Form 17-A into which the document is incorporated:
+(a) Any annual report to security holders
+===== page 3 / 80 =====
+None
+(b) Any information statement filed pursuant to SRC Rule 20
+None
+(c) Any prospectus filed pursuant to SRC Rule 8.1
+None
+The Exchange does not warrant and ho/ds no responsibi/ity for the veracity of the facts and representations contained in a// corporate
+disc/osures, inc/uding financia/ reports. A// data contained herein are prepared and submitted by the disc/osing patty to the Exchange,
+and are disseminated so/e/y for purposes of information. Any questions on the data contained herein shou/d be addressed direct/y to
+the Corporate /nformation Officer of the disc/osing patty.
+Q PSE
+The Philippine Stock Exchange, Inc
+PSE
+PSE Disclosure Form 17-1 - Annual Report
+References: SRC Rule 17 and
+Section 17.2 and 17.8 of the Revised Disclosure Rules
+For the fiscal year
+Dec 31, 2020
+ended
+Philippine Peso
+Currency
+Balance Sheet
+Current Assets
+Total Assets
+Current Liabilities
+Total Liabilities
+Retained
+Earnings/(Deficit)
+Stockholders' Equity
+Stockholders' Equity - Parent
+Book Value Per Share
+Income Statement
+Year Ending
+Dec 31, 2020
+4,146,557,827
+642,892,238
+1 ,341
+2,135,932,312
+5,464,757,325
+67.05
+Previous Year Ending
+Dec 31, 2019
+3,632,768,060
+6,289,386,888
+1,476,117,923
+4,644,515,761
+58.88
+===== page 4 / 80 =====
+Gross Revenue
+Gross Expense
+Non-Operating Income
+Non-Operating Expense
+Income/(Loss) Before Tax
+Income Tax Expense
+Net Income/(Loss) After Tax
+Net Income/(Loss) Attributable to Parent
+Equity Holder
+Earnings/(Loss) Per Share (Basic)
+Earnings/(Loss) Per Share (Diluted)
+Year Ending
+Dec 31, 2020
+661 , 105,322
+865,975,834
+209, 163,409
+656,812,425
+659,814,389
+8.1
+8.1
+Previous Year Ending
+Dec 31, 2019
+1 ,601
+876,719,289
+197,428,154
+679,291,135
+681,125,163
+Financial Ratios
+Liquidity Analysis Ratios:
+; ; Current Ratio or
+Working Capital Ratio
+, ; Quick Ratio
+; ; Solvency Ratio
+Financial Leverage Ratios
+; Debt Ratio
+; Debt-to-Equity Ratio
+• ; Interest Coverage
+; ; Asset to Equity Ratio
+Profitability Ratios
+; ; Gross Profit Margin
+; Net Profit Margin
+• Return on Assets
+, ; Return on Equity
+Price/Earnings Ratio
+Other Relevant Information
+Formula
+Current Assets I Current
+Liabilities
+(Current Assets - Inventory -
+Prepayments) I Current
+Liabilities
+Total Assets I Total Liabilities
+Total Debt/TotaI Assets
+Total Debt/Total
+Stockholders' Equity
+Earnings Before Interest and
+Taxes (EBIT) 1 Interest
+Charges
+Total Assets I Total
+Stockholders' Equity
+Sales - Cost of Goods Sold or
+Cost of Service I Sales
+Net Profit I Sales
+Net Income I Total Assets
+Net Income I Total
+Stockholders' Equity
+Price Per Share I Earnings
+Per Common Share
+8.33
+8.31
+Fiscal Year Ended
+Dec 31, 2020
+6.45
+6.41
+5.07
+0.2
+0.25
+1.25
+79
+50
+10
+12
+18.89
+Previous Fiscal Year
+Dec 31, 2019
+5.67
+5.64
+4.27
+0.23
+0.31
+1.31
+78
+53
+11
+14
+21.01
+Corrections in date of fiscal report
+Filed on behalf by:
+===== page 5 / 80 =====
+Name
+Designation
+Aissa Encarnacion
+Corporate Information Officer
+===== page 6 / 80 =====
+Remarks
+CR03228-2021
+Pursuant to the relevant provisions of the Memorandum of Understanding (MOU) By and Between
+O
+the Philippine Stock Exchange, Inc. (PSE) and the Securities and Exchange Commission (SEC) on
+the Listing of the PSE Shares on the PSE Trading Board, the Commission has caused the immediate
+posting of the foregoing disclosure/s in the PSE Electronic Disclosure Generation Technology System
+(PSE EDGE). This directive is being issued primarily for the purpose of ensuring the timely disclosure
+of information relating to PSE as a listed company and should not be construed as an approval by the
+Commission of the item/s being disclosed nor of any of the acts done by the PSE or it intends to do in
+relation to this disclosure. The PSE shall remain responsible for complying with the other
+requirements as mandated in the Securities Regulation Code (SRC) and other relevant laws and their
+respective rules and regulations. This approval is for the purpose of ensuring the immediate posting
+of the disclosure. Nothing herein precludes the Commission as the statutory regulator of the PSE as
+a registered exchange, as Self-Regulatory Organization and as an issuer of registered securities, to
+seek further clarification and/or information and to take appropriate action on the matter, including the
+imposition of penalty in case of violation of the SRC and its Implementing Rules and Regulations.
+Finally, the Commission, acting as the Exchange under the MOU, may also impose penalty in case of
+violation of the relevant PSE Rules.
+SECURITIES AND EXCHANGE COMMISSION
+SEC FORM 17-A, AS AMENDED
+ANNUAL REPORT PURSUANT TO SECTION 17
+OF THE SECURITIES REGULATION CODE AND SECTION 141
+OF THE CORPORATION CODE OF THE PHILIPPINES
+1. For the fiscal year ended
+Dec 31, 2021
+2. SEC Identification Number
+AN092002557
+3. BIR Tax Identification No.
+002-333-130
+4. Exact name of issuer as specified in its charter
+THE PHILIPPINE STOCK EXCHANGE, INC.
+5. Province, country or other jurisdiction of incorporation or organization
+Philippines
+6. Industry Classification Code(SEC Use Only)
+7. Address of principal office
+6th to 10th Floors, PSE Tower, 5th Avenue corner 28th Street, Bonifacio Global City,
+Taguig City
+Postal Code
+1634
+8. Issuer's telephone number, including area code
+(02) 8876-4888
+===== page 7 / 80 =====
+9. Former name or former address, and former fiscal year, if changed since last report
+Not Applicable
+10. Securities registered pursuant to Sections 8 and 12 of the SRC or Sections 4 and 8 of the RSA
+Title of Each Class
+Common Stock
+Number of Shares of Common Stock Outstanding and Amount of Debt Outstanding
+81
+1 1 . Are any or all of registrant's securities listed on a Stock Exchange?
+Yes
+No
+If yes, state the name of such stock exchange and the classes of securities listed therein:
+The Philippine Stock Exchange, lnc
+12. Check whether the issuer:
+(a) has filed all reports required to be filed by Section 17 of the SRC and SRC Rule 17.1
+thereunder or Section 11 of the RSA and RSA Rule 11 (a)-l thereunder, and Sections 26 and 141
+of The Corporation Code of the Philippines during the preceding twelve (12) months (or for such
+shorter period that the registrant was required to file such reports)
+Yes
+No
+(b) has been subject to such filing requirements for the past ninety (90) days
+Yes
+No
+13. State the aggregate market value of the voting stock held by non-affiliates of the registrant. The
+aggregate market value shall be computed by reference to the price at which the stock was sold, or
+the average bid and asked prices of such stock, as of a specified date within sixty (60) days prior to
+the date of filing. If a determination as to whether a particular person or entity is an affiliate cannot be
+made without involving unreasonable effort and expense, the aggregate market value of the common
+stock held by non-affiliates may be calculated on the basis of assumptions reasonable under the
+circumstances, provided the assumptions are set forth in this Form
+N/A
+APPLICABLE ONLY TO ISSUERS INVOLVED IN
+INSOLVENCY SUSPENSION OF PAYMENTS PROCEEDINGS
+DURING THE PRECEDING FIVE YEARS
+14. Check whether the issuer has filed all documents and reports required to be filed by Section 17 of
+the Code subsequent to the distribution of securities under a plan confirmed by a court or the
+Commission.
+Yes
+a No
+DOCUMENTS INCORPORATED BY REFERENCE
+15. If any of the following documents are incorporated by reference, briefly describe them and identify
+the part of SEC Form 17-A into which the document is incorporated:
+(a) Any annual report to security holders
+===== page 8 / 80 =====
+None
+(b) Any information statement filed pursuant to SRC Rule 20
+None
+(c) Any prospectus filed pursuant to SRC Rule 8.1
+None
+The Exchange does not warrant and ho/ds no responsibi/ity for the veracity of the facts and representations contained in a// corporate
+disc/osures, inc/uding financia/ reports. A// data contained herein are prepared and submitted by the disc/osing patty to the Exchange,
+and are disseminated so/e/y for purposes of information. Any questions on the data contained herein shou/d be addressed direct/y to
+the Corporate /nformation Officer of the disc/osing patty.
+Q PSE
+The Philippine Stock Exchange, Inc
+PSE
+PSE Disclosure Form 17-1 - Annual Report
+References: SRC Rule 17 and
+Section 17.2 and 17.8 of the Revised Disclosure Rules
+For the fiscal year
+Dec 31, 2020
+ended
+Philippine Peso
+Currency
+Balance Sheet
+Current Assets
+Total Assets
+Current Liabilities
+Total Liabilities
+Retained
+Earnings/(Deficit)
+Stockholders' Equity
+Stockholders' Equity - Parent
+Book Value Per Share
+Income Statement
+Year Ending
+Dec 31, 2020
+4,146,557,827
+642,892,238
+1 ,341
+2,135,932,312
+5,464,757,325
+67.05
+Previous Year Ending
+Dec 31, 2019
+3,632,768,060
+6,289,386,888
+1,476,117,923
+4,644,515,761
+58.88
+===== page 9 / 80 =====
+Gross Revenue
+Gross Expense
+Non-Operating Income
+Non-Operating Expense
+Income/(Loss) Before Tax
+Income Tax Expense
+Net Income/(Loss) After Tax
+Net Income/(Loss) Attributable to Parent
+Equity Holder
+Earnings/(Loss) Per Share (Basic)
+Earnings/(Loss) Per Share (Diluted)
+Year Ending
+Dec 31, 2020
+661 , 105,322
+865,975,834
+209, 163,409
+656,812,425
+659,814,389
+8.1
+8.1
+Previous Year Ending
+Dec 31, 2019
+1 ,601
+876,719,289
+197,428,154
+679,291,135
+681,125,163
+Financial Ratios
+Liquidity Analysis Ratios:
+; ; Current Ratio or
+Working Capital Ratio
+, ; Quick Ratio
+; ; Solvency Ratio
+Financial Leverage Ratios
+; Debt Ratio
+; Debt-to-Equity Ratio
+• ; Interest Coverage
+; ; Asset to Equity Ratio
+Profitability Ratios
+; ; Gross Profit Margin
+; Net Profit Margin
+• Return on Assets
+, ; Return on Equity
+Price/Earnings Ratio
+Other Relevant Information
+Filed on behalf by:
+Formula
+Current Assets I Current
+Liabilities
+(Current Assets - Inventory -
+Prepayments) I Current
+Liabilities
+Total Assets I Total Liabilities
+Total Debt/TotaI Assets
+Total Debt/Total
+Stockholders' Equity
+Earnings Before Interest and
+Taxes (EBIT) 1 Interest
+Charges
+Total Assets I Total
+Stockholders' Equity
+Sales - Cost of Goods Sold or
+Cost of Service I Sales
+Net Profit I Sales
+Net Income I Total Assets
+Net Income I Total
+Stockholders' Equity
+Price Per Share I Earnings
+Per Common Share
+8.33
+8.31
+Fiscal Year Ended
+Dec 31, 2020
+6.45
+6.41
+5.07
+0.2
+0.25
+1.25
+79
+50
+10
+12
+18.89
+Previous Fiscal Year
+Dec 31, 2019
+5.67
+5.64
+4.27
+0.23
+0.31
+1.31
+78
+53
+11
+14
+21.01
+Attached the correct Annex C — Audited Parent Financial Statement
+===== page 10 / 80 =====
+Name
+Designation
+Aissa Encarnacion
+Corporate Information Officer
+===== page 11 / 80 =====
+Remarks
+CR03175-2021
+Pursuant to the relevant provisions of the Memorandum of Understanding (MOU) By and Between
+O
+the Philippine Stock Exchange, Inc. (PSE) and the Securities and Exchange Commission (SEC) on
+the Listing of the PSE Shares on the PSE Trading Board, the Commission has caused the immediate
+posting of the foregoing disclosure/s in the PSE Electronic Disclosure Generation Technology System
+(PSE EDGE). This directive is being issued primarily for the purpose of ensuring the timely disclosure
+of information relating to PSE as a listed company and should not be construed as an approval by the
+Commission of the item/s being disclosed nor of any of the acts done by the PSE or it intends to do in
+relation to this disclosure. The PSE shall remain responsible for complying with the other
+requirements as mandated in the Securities Regulation Code (SRC) and other relevant laws and their
+respective rules and regulations. This approval is for the purpose of ensuring the immediate posting
+of the disclosure. Nothing herein precludes the Commission as the statutory regulator of the PSE as
+a registered exchange, as Self-Regulatory Organization and as an issuer of registered securities, to
+seek further clarification and/or information and to take appropriate action on the matter, including the
+imposition of penalty in case of violation of the SRC and its Implementing Rules and Regulations.
+Finally, the Commission, acting as the Exchange under the MOU, may also impose penalty in case of
+violation of the relevant PSE Rules.
+SECURITIES AND EXCHANGE COMMISSION
+SEC FORM 17-A, AS AMENDED
+ANNUAL REPORT PURSUANT TO SECTION 17
+OF THE SECURITIES REGULATION CODE AND SECTION 141
+OF THE CORPORATION CODE OF THE PHILIPPINES
+1. For the fiscal year ended
+Dec 31, 2021
+2. SEC Identification Number
+AN092002557
+3. BIR Tax Identification No.
+002-333-130
+4. Exact name of issuer as specified in its charter
+THE PHILIPPINE STOCK EXCHANGE, INC.
+5. Province, country or other jurisdiction of incorporation or organization
+Philippines
+6. Industry Classification Code(SEC Use Only)
+7. Address of principal office
+6th to 10th Floors, PSE Tower, 5th Avenue corner 28th Street, Bonifacio Global City,
+Taguig City
+Postal Code
+1634
+8. Issuer's telephone number, including area code
+(02) 8876-4888
+===== page 12 / 80 =====
+9. Former name or former address, and former fiscal year, if changed since last report
+Not Applicable
+10. Securities registered pursuant to Sections 8 and 12 of the SRC or Sections 4 and 8 of the RSA
+Title of Each Class
+Common Stock
+Number of Shares of Common Stock Outstanding and Amount of Debt Outstanding
+81
+1 1 . Are any or all of registrant's securities listed on a Stock Exchange?
+Yes
+No
+If yes, state the name of such stock exchange and the classes of securities listed therein:
+The Philippine Stock Exchange, lnc
+12. Check whether the issuer:
+(a) has filed all reports required to be filed by Section 17 of the SRC and SRC Rule 17.1
+thereunder or Section 11 of the RSA and RSA Rule 11 (a)-l thereunder, and Sections 26 and 141
+of The Corporation Code of the Philippines during the preceding twelve (12) months (or for such
+shorter period that the registrant was required to file such reports)
+Yes
+No
+(b) has been subject to such filing requirements for the past ninety (90) days
+Yes
+No
+13. State the aggregate market value of the voting stock held by non-affiliates of the registrant. The
+aggregate market value shall be computed by reference to the price at which the stock was sold, or
+the average bid and asked prices of such stock, as of a specified date within sixty (60) days prior to
+the date of filing. If a determination as to whether a particular person or entity is an affiliate cannot be
+made without involving unreasonable effort and expense, the aggregate market value of the common
+stock held by non-affiliates may be calculated on the basis of assumptions reasonable under the
+circumstances, provided the assumptions are set forth in this Form
+N/A
+APPLICABLE ONLY TO ISSUERS INVOLVED IN
+INSOLVENCY SUSPENSION OF PAYMENTS PROCEEDINGS
+DURING THE PRECEDING FIVE YEARS
+14. Check whether the issuer has filed all documents and reports required to be filed by Section 17 of
+the Code subsequent to the distribution of securities under a plan confirmed by a court or the
+Commission.
+Yes
+a No
+DOCUMENTS INCORPORATED BY REFERENCE
+15. If any of the following documents are incorporated by reference, briefly describe them and identify
+the part of SEC Form 17-A into which the document is incorporated:
+(a) Any annual report to security holders
+===== page 13 / 80 =====
+None
+(b) Any information statement filed pursuant to SRC Rule 20
+None
+(c) Any prospectus filed pursuant to SRC Rule 8.1
+None
+The Exchange does not warrant and ho/ds no responsibi/ity for the veracity of the facts and representations contained in a// corporate
+disc/osures, inc/uding financia/ reports. A// data contained herein are prepared and submitted by the disc/osing patty to the Exchange,
+and are disseminated so/e/y for purposes of information. Any questions on the data contained herein shou/d be addressed direct/y to
+the Corporate /nformation Officer of the disc/osing patty.
+Q PSE
+The Philippine Stock Exchange, Inc
+PSE
+PSE Disclosure Form 17-1 - Annual Report
+References: SRC Rule 17 and
+Section 17.2 and 17.8 of the Revised Disclosure Rules
+For the fiscal year
+Dec 31, 2020
+ended
+Philippine Peso
+Currency
+Balance Sheet
+Current Assets
+Total Assets
+Current Liabilities
+Total Liabilities
+Retained
+Earnings/(Deficit)
+Stockholders' Equity
+Stockholders' Equity - Parent
+Book Value Per Share
+Income Statement
+Year Ending
+Dec 31, 2020
+4,146,557,827
+642,892,238
+1 ,341
+2,135,932,312
+5,464,757,325
+67.05
+Previous Year Ending
+Dec 31, 2019
+3,632,768,060
+6,289,386,888
+1,476,117,923
+4,644,515,761
+58.88
+===== page 14 / 80 =====
+Gross Revenue
+Gross Expense
+Non-Operating Income
+Non-Operating Expense
+Income/(Loss) Before Tax
+Income Tax Expense
+Net Income/(Loss) After Tax
+Net Income/(Loss) Attributable to Parent
+Equity Holder
+Earnings/(Loss) Per Share (Basic)
+Earnings/(Loss) Per Share (Diluted)
+Year Ending
+Dec 31, 2020
+661 , 105,322
+865,975,834
+209, 163,409
+656,812,425
+659,814,389
+8.1
+8.1
+Previous Year Ending
+Dec 31, 2019
+1 ,601
+876,719,289
+197,428,154
+679,291,135
+681,125,163
+Financial Ratios
+Liquidity Analysis Ratios:
+; ; Current Ratio or
+Working Capital Ratio
+, ; Quick Ratio
+; ; Solvency Ratio
+Financial Leverage Ratios
+; Debt Ratio
+; Debt-to-Equity Ratio
+• ; Interest Coverage
+; ; Asset to Equity Ratio
+Profitability Ratios
+; ; Gross Profit Margin
+; Net Profit Margin
+• Return on Assets
+, ; Return on Equity
+Price/Earnings Ratio
+Other Relevant Information
+None.
+Filed on behalf by:
+Formula
+Current Assets I Current
+Liabilities
+(Current Assets - Inventory -
+Prepayments) I Current
+Liabilities
+Total Assets I Total Liabilities
+Total Debt/TotaI Assets
+Total Debt/Total
+Stockholders' Equity
+Earnings Before Interest and
+Taxes (EBIT) 1 Interest
+Charges
+Total Assets I Total
+Stockholders' Equity
+Sales - Cost of Goods Sold or
+Cost of Service I Sales
+Net Profit I Sales
+Net Income I Total Assets
+Net Income I Total
+Stockholders' Equity
+Price Per Share I Earnings
+Per Common Share
+8.33
+8.31
+Fiscal Year Ended
+Dec 31, 2020
+6.45
+6.41
+5.07
+0.2
+0.25
+1.25
+79
+50
+10
+12
+18.89
+Previous Fiscal Year
+Dec 31, 2019
+5.67
+5.64
+4.27
+0.23
+0.31
+1.31
+78
+53
+11
+14
+21.01
+===== page 15 / 80 =====
+Name
+Designation
+Aissa Encarnacion
+Corporate Information Officer
+===== page 16 / 80 =====
+s
+E
+1
+6
+5
+B
+XCHA
+T
+A
+ONI F
+COVER SHEET
+S.E.C. Regisfration Number
+(Company's Full Name)
+NGE
+0 1 OT
+V E IsilJE
+A CIO
+G C IT
+H
+c
+FLOORS
+ORNE
+OBA L
+c
+2
+1
+8
+T
+P
+T
+Y
+s
+H
+E
+s
+T
+o
+E
+E
+R,
+T,
+(Business Address: No. Steet/ City/ Town/ Province)
+AISSA V. ENCARNACION
+Corporate Secretary
+632) 8876-4888
+Month
+Day
+Contact Person
+Day
+ANNUAL REPORT
+SEC FORM 17-A
+FORM TYPE
+Secondary License Type, if Applicable
+Domestic
+Company Telephone Number
+Month
+Amended Articles Number/Section
+Total Amount of Borrowin s
+Foreign
+Dept. Requiring this Doc.
+Total No. of Stockholders
+File Number
+Document I.D.
+STAMPS
+To be accomplished by SEC Personnel concerned
+LCU
+Cashier
+===== page 17 / 80 =====
+1.
+2.
+4.
+5.
+7.
+8.
+9.
+SECURITIES AND EXCHANGE COMMISSION
+SEC FORM 17-A
+ANNUAL REPORT PURSUANT TO SECTION 17
+OF THE SECURITIES REGULATION CODE AND SECTION 141
+OF THE CORPORATION CODE OF THE PHILIPPINES
+For the fiscal year ended December 31 2020
+SEC Identification Number AN092002557
+3. BIR Tax Identification No. 002-333<30
+Exact name of issuer as specified in its charter THE PHILIPPINE STOCK EXCHANGE INC.
+6. (SEC Use Only)
+Philippines
+Province, Country or other
+Industry Classification Code:
+jurisdiction of incorporation or
+organization
+6th to 10th Floors, PSE Tower, 5th Avenue corner
+28th Street, Bonifacio Global City, Taguig City
+Address of principal office
+(02) 8876-4888
+Issuer's telephone number, including area code
+1634
+Postal Code
+Former name, former address, and former fiscal year, if changed since last report.
+10. Securities registered pursuant to Sections 8 and 12 of the SRC, or Sec. 4 and 8 of the RSA
+Title of Each Class
+Common Stock
+Preferred Stock
+Number of Shares of Stock
+Outstanding and Amount of Debt
+Outstanding
+81 892 297
+0
+11. Are any or all of these securities listed on a Stock Exchange.
+Yes [X] No [ ]
+If yes, state the name of such stock exchange and the classes of securities listed therein:
+1
+===== page 18 / 80 =====
+The Philippine Stock Exchange, Inc.
+12. Check whether the issuer:
+Common
+(a) has filed all reports required to be filed by Section 17 of the SRC and SRC Rule 17.1
+thereunder or Section 11 of the RSA and RSA Rule 11 (a)-l thereunder, and Sections 26 and
+141 of The Corporation Code of the Philippines during the preceding twelve (12) months (or for
+such shorter period that the registrant was required to file such reports);
+Yes
+No ]
+(b) has been subject to such filing requirements for the past ninety (90) days.
+Yes [X]
+No [ ]
+13* Aggregate value of the voting stock held by non-affiliates: N/A
+2
+===== page 19 / 80 =====
+TABLE OF CONTENTS
+PART I - BUSINESS AND GENERAL INFORMATION
+Item 1. Business
+Item 2, Properties
+Item 3, Legal Proceedings
+PART II - OPERATIONAL AND FINANCIAL INFORMATION
+Item 5. Market for Issuer's Common Equity and
+Stockholder Matters
+Item 6, Management's Discussion and Analysis or
+Operation
+Item 7, Financial Statements
+Related
+Plan
+of
+on
+Item 8. Changes in and Disagreements with Accountants
+Accounting and Financial Discfosure / Independent Public Accountant
+PART Ill - CONTROL AND COMPENSATION INFORMATION
+Item 9. Directors and Executive Officers of the Issuer
+Item 10. Executive Compensation
+Item 11. Security Ownership of Certain Beneficial Owners and
+Management
+Item 12 Certain Relationships and Related Transactions
+PART - CORPORATE GOVERNANCE
+Item 13. Corporate Governance Initiatives
+PART V - EXHIBITS AND SCHEDULES
+Item 14. Exhibits and Reports on SEC Form 17-C
+Attendance of Directors
+3
+Page No.
+5
+5
+6
+6
+10
+10
+15
+32
+32
+33
+33
+44
+50
+53
+53
+53
+56
+56
+59
+===== page 20 / 80 =====
+PART VI - SUSTAINABILITY REPORT
+SIGNATURES
+INDEX TO FINANCIAL STATEMENTS AND SUPPLEMENTARY
+SCHEDULES
+STATEMENT OF MANAGEMENT'S RESPONSIBILITY FOR FINANCIAL
+STATEMENTS
+AUDITED CONSOLIDATED FINANCIAL STATEMENTS
+AUDITED PARENT FINANCIAL STATEMENTS
+Espp
+COMPLIANCE WITH MANUAL ON CORPORATE GOVERNANCE
+SUSTAINABILITY REPORT
+4
+62
+63
+Annex
+Annex
+"B"
+Annex
+Annex
+Annex "E"
+Annex
+===== page 21 / 80 =====
+l. BUSINESS AND GENERAL INFORMATION
+Item 1. Business
+Description of Registrant
+The Philippine Stock Exchange, Inc. was incorporated on July 14, 1992 as a non-stock
+corporation and later became a stock corporation on August 3, 2001. On December 15, 2003,
+pursuant to the demutualization mandate of Republic Act No. 8799, or the Securities Regulation
+Code (SRC), the Company's outstanding capital stock was listed by way of introduction. On
+February 18, 2004, the Company sold 6,077,505 shares from its unissued stock to five strategic
+investors by way of private placement that was approved by the Securities and Exchange
+Commission (SEC), The strategic investors were the PLDT Beneficial Trust Fund, SMC
+Retirement Fund} Government Service Insurance System, Kim Eng Investment, Ltd., and KE
+Strategic Pte. Ltd.
+The Company's revenues are primarily derived from listing-related and trading-related
+fees. The Company charges listing fees for initial public offerings and additional listings, and for
+annual listing maintenance. Meanwhile, trading revenues are primarily comprised of transaction
+fees, subscription fees, and service fees related to clearing and settlement. Other sources of
+revenue are membership, data feed, and miscellaneous fees.
+Description of Subsidiaries and Affiliates
+The Securities Clearing Corporation of the Philippines (SCCP) is a wholly-owned
+subsidiary organized primarily as a clearing and settlement agency for SCCP-eligible trades
+executed through the facilities of the Company. SCCP is responsible for: (a) synchronizing the
+settlement of funds for transactions of clearing members and the transfer of securities through
+Delivery versus Payment (DVP) clearing; (b) the administration of the Clearing and Trade
+Guaranty Fund (CTGF) and guaranteeing the settlement of trades through the implementation
+of its Fails Management System in the event of a Trading Participant's default; and (c)
+performance of Risk Management and Monitoring to ensure final and irrevocable settlement.
+The Capital Markets Integrity Corporation (CMIC) is also a wholly-owned subsidiary. It
+functions as the independent auditi surveillance and compliance unit of the Company, having
+taken over the functions of the former Market Regulation Division of the Company. CMIC
+operates to ensure the integrity of the capital market and has jurisdiction to investigate all
+violations of the SRC and CMIC Rules by Trading Participants, and investigate trading-related
+irregularities and unusual trading activities committed by Issuers. The SEC granted CMIC its
+authority to operate as the independent audit, surveillance and compliance unit of the Company
+with provisional selfcgulatory organization (SRO) status on February 2, 2012.
+The Company is also a shareholder of the Philippine Dealing System Holdings
+Corporation (PDSHC), the holding company of the Philippine Dealing & Exchange Corporation
+(PDEX), otherwise known as the Fixed Income Exchange (FIE), the Philippine Depository &
+Trust Corp. (PDTC) and the Philippines Securities Settlement Corporation (PSSC). As of
+February 29, 2016, the Company is a stockholder of record of 1,311 ,439 shares, or 20.98%, of
+all of the issued and outstanding shares.
+5
+===== page 22 / 80 =====
+In April 2019, the PSE incorporated Premier Software Enterprise, Inc. (Premier), a separate IT
+subsidiary, to enable the Company to meet the growing demand for technology services related
+to its various initiatives. Premier offers software development services focused on building
+innovative trading solutions and servicing the technology needs of the Exchange and its
+stakeholders. The Company owns an 80% stake in Premier.
+Item 2, Properties
+The Company is the registered owner of the office at the PSE Plaza along Ayala Avenue,
+Makati City.
+On May 19, 2015, the Company and Fort Bonifacio Development Corporation signed a
+Contract to Sell for the purchase by the Company of office units in Bonifacio Global City to
+house the Company's new headquarters and offices.
+Item 3. Legal Proceedings
+None of the directors or senior officers are involved in any material pending legal
+proceedings in any court or administrative agency.
+During the past five (5) years and until the present, the Company, its directors and
+executive officers in their official capacities have not been involved in any other legal
+proceedings in their capacity that will have a material adverse effect on its operations or
+financial condition except the following:
+The Philippine Stock Exchange, Inc. vs. Antonio
+K. Litonjua and Aurelio Ku Litonjua, Jr.
+[Filed with the Supreme Court as GR No. 204014)
+This is a Petition for Review on Certiorari filed by the Company with the Supreme Court
+to annul the Decision dated May 24, 2012 and Resolution dated October 17, 2012 of the Court
+of Appeals in CA-G.R. No. CV-95300, which affirmed the February 22, 2010 Decision of RTC
+Pasigl Branch 154 in Civil case No. 70985.
+Said civil case involved a Complaint for Collection of Sum of Money filed against the
+Exchange, praying that the Exchange be directed to refund and/or reimburse the payment made
+by the Litonjuas for the acquisition of the membership/seat of Trendline Securities, plus interest
+and moral and exemplary damages.
+On February 22, 2010, RTC Pasig, Branch 154 rendered a decision directing the PSE to
+pay the plaintiffs the amount of (i) Phpl plus 12% interest per annum from July 26,
+2006; (ii) Phpl as exemplary damages; (iji) Php100,000.00 as attorneys fees; and
+(iv) cost of suit.
+The Court of Appeals affirmed the decision of RTC Pasig, Branch 154 in its Decision
+dated May 24, 2012. The Company's Motion for Reconsideration was likewise denied by the
+Court of Appeals in a Resolution issued on October 17, 2012, In a Decision dated December 5,
+2016, the Supreme Court denied the Company's Petition for Certiorari and upheld the Decision
+6
+===== page 23 / 80 =====
+of the Court of Appeals. The Supreme Court ordered the Company to pay to the Litonjua Group
+the following amounts: (i) Php19 million with interest of 6% per annum from the date of demand
+on 30 July 2006; (ii) exemplary damages in the amount of Phpl million; (iii) attorney's fees in
+the amount of Php100,000.00; and (iv) cost of suit. The Company filed a Motion for
+Reconsideration on January 25, 2017. In a Resolution dated December 13, 2017, the Supreme
+Court denied the Company's Motion for Reconsideration with finality.
+The Philippine Stock Exchange, Inc., Bankers
+Association of the Philippines, Philippine
+Association of Brokers and Dealers, Inc., Fund
+Managers Association of the Philippines, Trust
+Officers Association of the Philippines and
+Marmon Holdings, Inc. vs. Secretary of Finance,
+Commissioner of
+Internal Revenue and
+Chairperson of the Securities and Exchange
+Commission
+[Filed with the Supreme Court as G.R. No. 213860]
+This is a Petition for Certiorari and Prohibition with Application for Issuance of TRO
+and/or Writ of Preliminary Injunction to enjoin the Secretary of Finance, Commissioner of
+Internal Revenue and Chairperson of the Securities and Exchange Commission from further
+enforcing and implementing Revenue Regulations No, 01-2014 and Revenue Memorandum
+Circular No. 05-14 insofar as they prohibit the naming of the PCD Nominee as the payee for
+dividend payments made by listed companies and SEC Memorandum Circular No. 10-2014 in
+its entirety (collectively, the "subject regulations").
+In a Resolution dated September 9, 2014, the Court issued a temporary restraining order
+enjoining the respondents from further enforcing the subject regulations. The TRO is effective
+until further orders from the Court.
+Philippine Association of Securities Brokers and
+Dealers, Inc. (PASBDI), Mas Vivian Yuchengco,
+Ismael G. Cruz, Nestor Se Aguila and Marita A.
+Limlingan vs. PSE, PSE NOMELEC and SEC
+[Filed with RTC-159, Pasig City as Civil Case No. 10-
+1391
+This case pertains to a petition for injunctive relief filed against the Securities and
+Exchange Commission (SEC), the Company and the Company's NOMELEC to allow trading
+participants to fully vote their shares in the Company. This was filed in response to the SEC's
+directive to limit the voting rights of trading participants to 20% pursuant to Section 33.2(c) of the
+Securities Regulation Code.
+The trial court issued an order dated April 28, 2010 and the corresponding writ of
+preliminary injunction dated April 29, 2010 which allowed all trading participants to vote their
+entire shareholdings in the Company in the May 1, 2010 elections for the Company's Board of
+Directors.
+On May 5, 2011, the trial court issued an order and writ of preliminary injunction
+7
+===== page 24 / 80 =====
+enjoining the SEC and the Company's NOMELEC from imposing the 20% ownership limitation
+until such time that the vital issues in the petition are resolved and, in effect, allowing all
+shareholders to vote their entire shareholdings during the May 14, 2011 elections for the
+Company's Board of Directors. On February 8, 2012, the trial court denied the motion for
+reconsideration filed by the SEC.
+In a decision dated April 23, 2014, the trial court granted the petition, enjoined SEC, PSE
+and PSE Nomelec from imposing any limitation or restriction on the right of PASBDI and the
+individual petitioners to vote their entire shareholdings and declared permanent the writs of
+preliminary injunction. The SEC filed a Motion for Reconsideration which the trial court also
+denied on August 1, 2014. SEC filed an appeal with the Court of Appeals, as discussed below.
+Philippine Association of Securities Brokers and
+Dealers, Inc. (PASBDI), Mar Vivian Yuchengco,
+Ismael G. Cruz, Nestor Sn Aguila and Marita A
+Limiingan vs. PSE, PSE NOMELEC and SEC
+[Filed with the Court of Appeals as CA G.R. SP No.
+103548. This case stemmed from the decision dated
+April 23, 2014 of RTC-159, Pasig City in Civil case
+No. 10-139, which granted PASBDI, et al.'s petition
+and declared permanent the writs of preliminary
+injunction as well as the order dated August 1, 2014
+which denied SEC's motion for reconsideration of the
+April 23, 2014 decision]
+This case pertains to the appeal filed by the SEC assailing the decision dated April 23,
+2014 and order dated August 1, 2014 of RTC-159, Pasig City which granted PASBDI, et al.'s
+petition in Civil Case No. 10-139 and denied SEC's motion for reconsideration of the April 23,
+2014 decision, respectively.
+In an order dated September 19, 2014, the Court of Appeals gave due course to the
+Notice of Appeal filed by SEC. Consequently, the parties filed their respective appellee's and
+appellants' briefs. On January 27, 2016, the PSE and PSE Nomelec filed their Rejoinder to
+SEC's Consolidated Reply Brief. On January 24, 2019} the Court of Appeals denied the appeal
+and affirmed the decision of RTC-159, Pasig City which granted PASBDl's petition for injunction,
+SEC vs. Hon, Bonifacio, Philippine Association of
+Securities Brokers and Dealers, Inc. (PASBDI),
+Mar Vivian Yuchengco, Ismael G. Cruz, Nestor S.
+Aguila and Marita A. Limlingan,
+PSE, PSE
+NOMELEC.
+[Filed with the Supreme Court as G.R No. 198425.
+This case stemmed from the decision of the Court of
+Appeals in CA-G.RSP No. 114413 concerning the
+Order dated April 28, 2010 and Writ of Preliminary
+Injunction dated April 29, 2010 issued by RTCu159,
+Pasig City in Civil Case No. 10-139 entitled
+"Philippine Association of Securities Brokers and
+Dealers, Inc. (PASBD/), Ma Vivian Yuchengco,
+8
+===== page 25 / 80 =====
+Ismael G. Cruz, Nestor S. Aguila and Marita A.
+Lim/ingan vs. PSE, PSE NOMELEC and SEC et. al."l
+This case stemmed from a petition for certiorari and prohibition filed by the SEC in the
+Court of Appeals seeking the reversal and nullification of the order dated April 28, 2010 and the
+corresponding writ of preliminary Injunction dated April 29, 2010 issued by Judge Bonifacio in
+Civil Case No. 10-139. The SEC prayed for an order restraining the proceedings in the trial
+court for lack of jurisdiction and ordering the nullification of the May 1, 2010 elections for the
+Company's Board of Directors.
+On April 11, 2011, the Court of Appeals rendered a decision dismissing the petition and
+affirming the writ of preliminary injunction issued by Judge Bonifacio in Civil Case No. 10-139.
+The motion for reconsideration filed by SEC was also denied by the Court of Appeals.
+Thereafter, the SEC appealed the decision to the Supreme Court.
+Pursuant to the Resolution dated December 5, 2011 issued by the Supreme Court, the
+Company filed its comment on May 6, 2012. No temporary restraining order has been issued in
+the case.
+The case has been consolidated with G.R. No, 201174 as discussed below. On March
+17, 2015, PSE filed its Consolidated Memorandum, The petition remains pending.
+SEC vs. Hon. Bonifacio, Philippine Association of
+Securities Brokers and Dealers, Inc. (PASBDI),
+Mat Vivian Yuchengco, Ismael G. Cruz, Nestor S.
+Aguila and Marita A. Limlingan, PSE, PSE
+NOMELEC.
+[Filed with the Supreme Coutt as G.R No. 201174,
+This case stemmed from the Orders dated May 5,
+2011 and February 8, 2012 issued by RTC-159,
+Pasig City in Civil Case No, 10-139 entitled
+"Philippine Association of Securities Brokers and
+Dealers, Inc. (PASBDI), Ma. Vivian Yuchengco,
+Ismael G. Cruz, Nestor S. Aguila and Marita A
+Lim/ingan vs. PSE, PSE NOMELEC and SEC et. al.
+This case pertains to a petition for certiorari (with application for TRO and/or writ of
+preliminary injunction) filed by the SEC directly with the Supreme Court, seeking the reversal
+and nullification of the orders dated May 5, 2011 and February 8, 2012 issued by Judge
+Bonifacio in Civil Case No. 10-139. The SEC also prayed for an order dismissing PASBDl's and
+the individual petitioners' petition for injunction in the trial court for lack of jurisdiction.
+Pursuant to the Resolution dated June 18, 2012 issued by the Supreme Court, the
+Company filed its comment on October 81 2012. No temporary restraining order has been
+issued in the case.
+The case has been consolidated with G.R. No. 198425. On March 17, 2015, PSE filed
+its Consolidated Memorandum. The petition remains pending.
+9
+===== page 26 / 80 =====
+DW Capital, Inc„ vs. The Philippine Stock
+Exchange, Inc.
+[Filed with the Court of Appeals as CA-G.R. No.
+153973]
+This is a Petition for Review filed by DW Capital, Inc. ("DWCI"), seeking to reverse and
+set aside the December 5, 2017 Order of the Securities and Exchange Commission ("SEC")
+which directed the Company to take over the operations of DWCI ("Take-over Order"). The
+Court of Appeals denied the Petition and affirmed the Take-over Order issued by the SEC.
+DWCI filed a Motion for Reconsideration, which was likewise denied by the Court of
+Appeals in a Resolution dated February 22, 2019.
+Other than the aforementioned cases, the Company is not aware of any case concerning
+directors and officers which involves:
+-any bankruptcy petition filed by or against any business of which any of its incumbent
+directors or executive officers was a general partner or an executive officer either at the
+time of bankruptcy or within two years prior to that time;
+- any conviction by final judgment in a criminal proceeding, domestic or foreign, or any
+criminal proceeding, domestic or foreign, pending against any of the incumbent directors
+or executive officers;
+any order, judgment or decree, not subsequently reversed, suspended or vacated, of
+any court or competent jurisdiction, domestic or foreign, permanently or temporarily
+enjoining, barring, suspending or otherwise limiting the involvement of any of the
+incumbent directors or executive officers in any type of business, securities,
+commodities, or banking activities; and
+any finding by a domestic or foreign court of competent jurisdiction (in civil action), the
+SEC or comparable foreign body, or a domestic or foreign exchange or electronic
+marketplace or self-regulatory organization, that any of the incumbent directors or
+executive officers has violated a securities or commodities law, and the judgment has not
+been reversed, suspended or vacated.
+II. OPERATIONAL AND FINANCIAL INFORMATION
+Item 5. Market for Issuer's Common Equity and Related Stockholder Matters
+1) Principal market where the registrant's common equity is traded:
+The common stock of the Company is fisted in The Philippine Stock Exchange, Inc.
+Stock Prices
+The high and low prices of the Company's shares in the stock exchange for each quarter
+of fiscal years 2018, 2019, and 2020, are as follows:
+10
+===== page 27 / 80 =====
+2018
+QI
+2019
+QI
+2020
+QI
+Hi h
+P259.80
+P237.80
+P205R20
+P190.30
+Hi h
+P200.OO
+Pl 99.60
+P195.OO
+P179„60
+Hi h
+p179.50
+75.00
+Pl 70.00
+p-177.00
+Low
+P237.13
+Pl 90.00
+p 185.00
+p169.00
+Low
+77.60
+P174.OO
+p 176.00
+Pl 72.00
+Low
+P156.70
+P153.OO
+P153i50
+In 2020, the highest and lowest prices of the Company's shares were P179.50
+and P132,OO, respectively. The stock price of the Company closed at P152.OO on 27 April
+2021M
+The number of shareholders of record as of 31 March 2021 is 311. The total number of
+shares outstanding as of 31 March 2021 is 81 ,892297 with a par value of Pl .00.
+The top twenty (20) holders as of 31 March 2021 are as follows:
+Stockholder
+PCD Nominee Corp.
+1
+Nationalit
+Filipino
+The First
+Resources
+Manageme
+nt
+and
+Securities
+Corp.
+Banco de
+Oro Trust
+Banking
+Group
+Lucky
+Securities,
+Inc.
+11
+No. of
+Shares
+7,877,761
+7, 173,200
+Amount
+7, 173,200.00
+Percentage
+73.22%
+9,620/0
+8.76%
+8.82%
+===== page 28 / 80 =====
+Governmen
+t Service
+Insurance
+System
+BDO
+Securities
+Corporation
+Venture
+Securities
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+San Miguel
+Corporation
+Retirement Plan
+PCD Nominee Corp.
+Freeman Trading
+Limited
+BA Securities, Inc.
+FAO No. 06-324
+Raymond M. Moreno
+Raymond John L.
+Moreno
+The First Resources
+Management and
+Securities Corp.
+Ansaldo Godinez &
+Company, Inc.
+Chan, Vicky L.
+Chia Kim Teck
+Christfund Securities
+(Phils.), Inc.
+DBS Vickers
+Securities (Phils.),
+Inc.
+Five Karats Property
+Holdings, Inc.
+Filipino
+Other Alien
+Hong Kong
+Chinese
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Singaporea
+n
+Filipino
+Filipino
+Filipino
+12
+4,597,843
+4514, 009
+813,660
+500,000
+500,000
+321,360
+240,000
+240,000
+240,000
+240,000
+240,000
+240,000
+813,660.00
+500,000.00
+500,000.00
+3215360.00
+240,000.00
+240,000.00
+240,000.00
+240,000.00
+240,000.00
+240,000.00
+8.15%
+5.610/0
+5.51%
+9.23%
+4.560/0
+1.22%
+0.99%
+0.61%
+0.61%
+0.39%
+0.29%
+0.29%
+0.29%
+0.29%
+0.29%
+0.29%
+===== page 29 / 80 =====
+Go, Genevieve W. J.
+15
+Highland Securities
+16
+Phils. Inc.
+JSG Securities, Ince
+17
+Marian Securities,
+18
+Inc.
+Mark Securities
+19
+Corporation
+May Blanche Cheng
+20
+Chong
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+240,000
+240,000
+240,000
+240,000
+240,000
+240,000
+240,000.00
+240,000.00
+240,000.00
+240,000.00
+240,000.00
+240,000.00
+0.29%
+0290/0
+0.29%
+0.29%
+0.29%
+0.29%
+As of 31 December 2020, the Company's public float level is at 6599%.
+2) Dividends
+Dividends per Share:
+P7,OO in 2012
+P9sOO in 2013
+P9EOO in 2014
+P9.OO in 2015,
+PZOO in 20161 broken down as P4.29 regular dividend and P2.71 special cash
+dividend to stockholders of record as of 30 March 2016 payable on 25 April 2016,
+PZOO in 2017, broken down as P4.78 regular cash dividend and P2.22 special
+cash dividend to stockholders of records as of 31 March 2017 payable ona 27 April
+2017,
+P9.00 in 2018, broken down as P5.24 regular cash dividend and P3.76 special
+cash dividend to stockholders of record as of 8 February 2018 payable on 6
+March 2018,
+P8.80 in 2019, broken down as P4.45 regular cash dividend and P4.35 special
+cash dividend to stockholders of record as of 12 April 2019 payable on 10 May
+2019.
+Dividend Policy
+The Company adopts a policy for the declaration of regular cash dividend out of the
+unrestricted retained earnings equivalent to fifty percent (50%) of the Company's audited net
+income. However, the Company can also declare speciat dividends, which it has done so for the
+past few years, in addition to the regular dividend policy. The declaration of regular and special
+dividends •is dependent on the cash flow, business plan and financial condition of the Company.
+13
+===== page 30 / 80 =====
+3) Recent Sale of Unregistered/Exempt Securities
+The common shares granted to eligible employees pursuant to the Employee Stock
+Purchase Plan ("ESPP") is an exempt transaction under Section 10.2 of the Securities
+Regulation Code, as stated under Resolution No. 179 Series of 2008 of the Securities and
+Exchange Commission.
+At the annual meeting of the stockholders of the Company held on 2 November 2020,
+the Stockholders approved, by a vote representing at least 2/3 of the outstanding capital stock,
+the Employee Stock Purchase Plan for 2021-2023, pursuant to Resolution No. 56, Series of
+2020 of the Board of Directors, with the following terms and conditions:
+Number of Shares
+Term
+Offer schedule
+Administration
+Purpose
+Eligible participants
+price
+Vesting
+Payment
+Holding Period
+Voting
+rights
+dividends
+Issuance of
+certificates
+and
+stock
+Payment of taxes and
+administration costs
+300,000 common shares
+Three years from January 1, 2021 to December
+2023
+100,000 shares annually
+ESPP Committee
+Encourage employees to become part owners
+of the PSE and align their interests with those of
+stockholders
+Enhance employees' loyalty and performance
+Employee retention
+Investment opportunity
+Employees of PSE and SCCP with at least 1 year of
+continuous service and in good standing (not under
+any disciplinary action or no infractions within the
+last 12 months)
+20% discount to 30-day WVAP
+33.3% in year 1, 66.7% in year 2, and 100% in year
+Salary deduction for 3 years
+2 years, subject to full payment of the subscription
+price
+Participants are entitled
+becoming
+upon
+stockholders of record
+Upon full payment of shares
+Shouldered by PSE
+14
+===== page 31 / 80 =====
+Subscription limit
+Separation
+Termination for Cause
+Such number of shares as shall be covered by the
+lower of:
+50% of annual net pay, or
+20% of annual gross salary
+An employee who separates from PSE and SCCP
+and:
+is in good standing;
+2.
+has completed at least 12 months of
+installment payments; and
+3.
+is resigning after 6 months of the current
+vesting period
+has the option to buy the remaining shares of the
+current period in full within 30 days. The holding
+period remains applicable.
+In case of termination for cause, Participant shall
+lose the privilege to purchase the ESPP shares that
+are not yet fully vested as of the date of termination
+and any outstanding subscription shall become nutl
+and void.
+Item 6. Management's Discussion and Analysis or Plan of Operation
+2020 vs. 2019
+For the year ended December 31, 2020, operating revenues amounted to Pl.31 billion, 1.81%
+or P23.41 million higher than the 2019 level.
+Listing-related fees, which comprised 45.23% of operating revenues, contributed an
+increase of P9.75 million or 1.67% in 2020 primarily due to 4.74% or P 15.68 million
+higher listing fees. Effective January 1, 2019} the Exchange adopted the requirements
+of PFRS 15 on revenue from listing fees, under the modified retrospective approach.
+Under this method, PFRS 15 can be applied either to all contracts at the date of initial
+application or only to contract that are not completed at this date. The Exchange elected
+to apply the method only to those contracts that are not completed as at January 1 ,
+2019. The Exchange recognized its revenue from listing fees over time using
+percentage of hours spent on the relevant activities of the departments performing the
+listing service over the listed companies' average listing life of fifteen (15) years. Before
+the adoption of PFRS 15, revenues from listing fees were recognized upon listing
+Revenue from trading-related fees, which made up 25.89% of operating revenues, went
+up by P 13.18 million or 4.03%. This was brought about by P9.43 million or 8.02%
+increase in data feed income and P3.92 million or 12.15% higher subscription fees.
+Total expenses (cost of services and administrative expenses) of the Company declined by a
+total of P63.90 million from P725 million in 2019 to P661.10 million in 2020 or a decrease of
+8.81%. The following were the significant changes in expense items:
+15
+===== page 32 / 80 =====
+0
+Compensation and other related staff costs, 32.94% of total expenses, went down by
+8.63% or P20.57 million mainly due to the unfilled positions in 2020;
+depreciation expenses, 23.80% of total expenses, went down by 12.65% or by P22.78
+million due to assets that reached its full depreciation within the year 2020.
+repairs and maintenance, 17.31% of total expenses, went up by P9.03 million or 8.57%
+mainly due to additional maintenance costs of storage area network and software;
+professional fees, 10.58% of total expenses, went down by P6.14 million or 8.07% due
+to lower number of board and committee meetings;
+occupancy costsy 6.90% of total expenses, was lower by 10.61% or by P5.41 million
+because of lower consumption of utilities and reduced number of security and
+housekeeping personnel;
+taxes and licenses, 1.92% of total expenses, decreased by P 10.20 million or 44.56%
+because 2019 included the realty tax expense for the PSE Building in Taguig City;
+market development expenses went down by 48.36% or by Pl .64 million mainly due to
+the cancellation of certain activities in view of the ECQ;
+insurance went up by 12.39% or PO.24 million due to higher insurance premium cost for
+directors' and officers' liability insurance;
+donations and contributions increased by P2.72 million due to donations of relief goods
+to indigent families of Taguig City;
+trading participants' development expenses went down by 55.03% or P2.87 million as a
+result to cancellation of certain activities due to ECQ;
+meetings and conferences declined by 59.90% or PO. 73 million due to lower number of
+board meetings and also because virtual instead of face-to-face meetings were
+conducted from the start of the quarantine period up to end of 2020;
+travel and transportation expenses decreased by 53.15% or Pl , 12 million mainly due the
+combined effect of lower gasoline and limited travels (domestic and foreign) in view of
+the pandemic;
+public relations went down by PO.60 million or by 10.23% due to lower costs incurred for
+representation and investor relation activities; and
+Other expenses went down by 3291% or P3.82 million mainly because 2019 included
+the cost of filing fees paid to the Securities and Exchange Commission and Philippine
+Competition Commission in relation to the incorporation of PSE Realty Company.
+Other income of P212.72 million went down by 31.55% or by P98.06 million from last
+year's P310.78 million mainly due to P84.85 million lower interest income in view of lower
+interest rates in 2020 compared with 2019 and P30.92 million mark-to-market loss on equity
+funds.
+The above net changes have resulted to a net income after tax amounting to P656e81
+million, down by 3.31% or P22.48 million from previous year's net income of P679.29 million.
+Total assets as of December 31, 2020 amounted to P6.81 billion, higher by 3.22% or by
+P516.71 million from its level last year. The analyses of its components are as follows:
+Cash and cash equivalents amounted to P676.12 million} 9,930/0 of total assets, were
+lower by or by P2.45 billion than the 2019 level due to the investment of the proceeds
+of matured time deposits in government securities.
+16
+===== page 33 / 80 =====
+Receivables went up by 18.75% or by P 15.29 million manly due to higher accrual of
+data feed fees.
+Financial assets at fair value through profit or loss of P289.94 million, 426% of total
+assets and 6.91% of total investments, pertained mainly to the equity funds managed by Banco
+de Oro and Metro Bank under a purely discretionary mandate. The said mandate, which is
+covered by an Investment Management Agreement, started in April 2011.
+Other current assets went up by P27.65 million or 50.72% mainly due to higher
+prepayments of sun servers and security maintenance in 2020.
+Short-term financial assets at FVOCI as at December 31, 2020 amounted to P3.00
+billion, 44.10% of total assets and 71.53% of total investments, pertained to government
+securities and corporate bonds with interest rates ranging from 1.038% to 6.5% and 4.16% to
+5.100/0} respectively.
+Long-term financial assets at FVOCI of P617.59 million, 9.07% of total assets and
+1472% of total investments, consisted of investments in retail treasury bonds, fixed income
+treasury notes, and corporate bonds which will mature starting 2022 until 2032 with interest
+rates ranging from 3.25% to 6.25%.
+Property and equipment, 18.40% of total assets, was higher by @250.82 million or
+0.48%.
+Right-of-use assets of P52.22 million pertained to the unamortized portion of the present
+values of the lease contracts for the data recovery sites of the Parent Company and office
+space of Premier Software Enterprise, Inc. in compliance with PFRS 16 on Leases.
+Investment property of P287.17 million pertained to land rights, building and building
+improvements of Exchange Plaza which was reclassified to this account from Property and
+equipment due to the change in use of the property as evidenced by the end of the owner-
+occupation. The account is higher by 8.40% or P 11.78 million due to the cost of on-going
+construction, which started in 2020.
+Investment in an associate, 4.22% of total assets and 6.84% of total investments,
+pertained to the 20.98% equity of PSE in PDS Holdings Corporation (PDSHC). The account
+increased by P 19.24 million or 7.18% from P267.94 million to P287.17 million due to the
+recognition of PSE's share in PDSHC}s net income for 2020 reduced by the amount of cash
+dividend received from the latter during the year.
+Pension asset amounting to P2.29 million, as at December 31, 2020, pertain to the fair
+value of the assets of the Parent Company's retirement plan, net of the present value of
+retirement obligation and asset ceiling under Amended PAS 19(R). The assets are being held
+by a trustee bank pursuant to a trust agreement dated August IO, 2011. The Parent Company
+has a funded noncontributory defined benefit retirement plan while SCCP has an unfunded
+noncontributory defined benefit retirement plan covering all regular employees. The benefits are
+accumulated based on years of service and compensation per year of credited service, CMIC,
+on the other hand, does not have an established retirement fund and only conforms to the
+minimum regulatory benefit under the Retirement Pay Law (Republic Act No. 7641) which is of
+the defined benefit type and provides a retirement benefit equal to 22.5 days' Pay for every year
+17
+===== page 34 / 80 =====
+of credited service. The pension liability amounted to P25.99 million and P20.71 million in 2020
+and 2019, respectively, or an increase of 25149% or P5.28 million.
+Deferred tax assets of @271.07 million pertained primarily to the retrospective
+adjustment in 2019 of the beginning balance of retained earnings and the corresponding
+recognition of contract liability for deferred listing fees in compliance with PFRS 15, which was
+implemented in 2019.
+Current liabilities, which accounted for 11.76% of total liabilities and stockholders'
+equity, went up by P2.34 million or by 0.37% from P640.55 million to P642.89 million. Of the
+latter amount, 50.77% or P326.42 million represented trade and other payables while 38.91%
+or @250.15 million represented the current portion of contract and lease liabilities.
+Noncurrent liabilities went down by 16% or by RI 33.06 million because of the
+recognition of the amortized portions and the reclassification of the current portions of contract
+and lease liabilities.
+The Exchange remained liquid with a working capital of P3.50 billion or a current ratio of
+Total retained earnings amounted to P214 billion. This included the net income of
+P656.81 million, donated capital of P211.60 million and appropriated retained earnings of P 121
+million.
+Capital Expenditures
+On May 19, 2015, a contract to sell was entered into between the Parent Company and
+FBDC for the purchase by the Parent Company of certain office units in the West Super Block
+building.
+As at December 31, 2020, the Building included in the property and equipment account
+of Pl .06 billion pertained to the cost of BGC office units and corresponding fit-out works.
+Liquidity
+The Company has been paying its trade payables within the stated trade terms. As of
+December 31, 2020, the Exchange had no note, loan, or other indebtedness or financing
+arrangement requiring the Company to make payments.
+On August 13, 2014, the Exchange's BOD authorized the offer to purchase the
+shareholdings of Banker's Association of the Philippines (BAP) in PDSHC at a total value of
+P2.25 billion.
+On October 7, 2014 the Exchange and BAP agreed on the indicative terms and
+conditions for the proposed acquisition by the Exchange of BAP's 28.90% stake in PDSHC.
+On May 2, 2015, the Exchange's stockholders approved the increase in the Exchange's
+shareholdings in PDSHC to at least two-thirds (2/3) of the total issued and outstanding shares
+of PDSHC using a PDS equity value of P2u25 billion.
+18
+===== page 35 / 80 =====
+On May 27, 2015, the Exchange's BOD authorized the obtainment of a clean term loan
+in the total amount of Pl .15 billion from several banks for the purpose of financing the purchase
+of shares of stock from stockholders of PDSHC. The loan includes a 5-year term, with interest
+rate based on 5-year PDST R-2 on drawdown and can be released on a staggered basis as the
+need arises,
+On July 22, October 27, November 12 and November 16 of 2015, the Exchange has
+signed Share Purchase Agreements (SPA) with the BAPS Finex Research and Development
+Foundat)on, Inc. ("FINEX"), Whistler Technology Services, Inc. ("WTSI") and Insular Investment
+Corp. for the proposed purchase by the Exchange of 1,807,094 shares or 28.91%, 192776
+shares or 3.08%, 500,000 shares or 8.00% and 193,776 shares or 3.0844%, respectively.
+On January 26, 2016, the Exchange submitted regulatory requirements to SEC.
+On March 28, 2016, the Exchange received SEC En Banc Resolution No. 230, series of
+2016, denying the application for exemptive relief by the PSE that was required for the
+acquisition to be completed.
+On June 15, July 6, August 25, September 26, 2017 and November 8} 2017, the
+Exchange has signed SPAS with the shareholders of PDSHCf such as BAP, VVTSI, Investment
+House of Association of the Philippines ("IHAP") and Philippine American Life and General
+Insurarice Co. ("Philam'}) and FINEX} for the newly proposed purchase by the Exchange of
+1,466,800 common shares or 23.47%, 500,000 common shares or 8.00%, 36,446 common
+shares or 0.58%, 250,000 common shares or 4.00%, and 192,776 common shares or 3.08%,
+respectively.
+On September 13, 2017, the Exchange's BOD authorized the obtainment of a one-year
+loan in the amount of 1.15 billion from several banks for the purpose of financing the purchase
+of shares of stock from stockholders of PDSHC. As at December 31, 2017, there are no new
+loans availed by the Exchange,
+On September 28, 2017, BOD of PDSHC declared cash dividends in the amount of 56
+per share in favor of all shareholders on record as of June 30, 2017 payable on or before
+October 15, 2017.
+On October 5, 2017, the Exchange entered into a loan agreement with Bank of
+Commerce amounting to 1,000.00 million. As at February 28, 2018, the Exchange has not yet
+made any drawdown to the loan.
+On November 30, 2017, the proposed acquisition is deemed approved by the Philippine
+Competition Commission.
+On January 12 and 15, 2018, the Exchange has signed SPAs with San Miguel
+Corporation ("SMC") and Tata Consulting Services Asia-Pacific Pte. Ltd. ("TCS'I) for the
+proposed purchase by the Exchange of 250,000 common shares or 4.00% and 500,000
+common shares or 8.00%, respectively.
+19
+===== page 36 / 80 =====
+On March 31, 2018, the SPAs with BAP, WTSI, IHAP, Philam, FINEX and SMC were
+automatically terminated due to the non-satisfaction of closing conditions on the target Closing
+Date. The SPA with TCS automatically lapsed on July 2, 2018.
+2019 2018
+For the year ended December 31} 2019, operating revenues amounted to Pl .29 billion, 19.12%
+or P305.26 million lower than the 2018 level.
+Listing-related fees, which comprised 45.30% of operating revenues, went down by
+P253.52 million or 30.24% in 2018 primarily due to 42,250/0 or P242.04 million lower
+listing fees. Effective January 1, 2019} the Exchange adopted the requirements of PFRS
+15 on revenue from listing fees, under the modified retrospective approach. Under this
+method, PFRS 15 can be applied either to all contracts at the date of initial application or
+only to contract that are not completed at this date. The Exchange elected to apply the
+method only to those contracts that are not completed as at January 1, 2019. The
+Exchange recognized its revenue from listing fees over time using percentage of hours
+spent on the relevant activities of the departments performing the listing service over the
+listed companies' average listing life of fifteen (15) years. Before the adoption of PFRS
+15, revenue from listing fees was recognized upon listing.
+Please see Note 2 to the Consolidated Financial Statements for the effects of adopting
+PFRS 15 on revenue from listing fees as at January 1, 2019 as well as the impact on
+each financial line item as at and for the year ended December 311 2019. Note 2 also
+discusses the approval by the Securities and Exchange Commission of the deferral of
+the application of PFRS 15 on revenue from listing fees from January 1 | 2018 to January
+1, 2019.
+Revenue from trading-related fees, which made up 25.34% of operating revenues, went
+down by P70.22 million or 17.67%. This was brought about by P72,66 million or 69.25%
+decline in subscription fees, P 1.13 million or 0.95% lower data feed income partially
+reduced by P3.58 million or 2.06% higher transaction fees in view of a simitar
+percentage increase in total value turnover to Pl .77 trillion from Pl .74 trillion in 2018.
+Consequently, service fees likewise increased by 206% from P310.15 million to
+P316.53 miltion.
+Total expenses (cost of services and administrative expenses) of the Company declined
+by 4.86% or P37.03 million from P76203 million in 2018 to P725 million in 2019. The following
+were the significant changes in expense items:
+depreciation expenses, 24.84% of total expenses, went up by 19.63% or by P29.55
+million primarily due to the impact of depreciation of the right-of-use (ROU) assets of
+P16.93 million for the period in compliance with PFRS 16 on Leases as well as the
+.depreciation of land rights, newly acquired office furniture and fixture and office
+equipment and trading system equipment.
+professional fees, 10.49% of total expenses, went up by P6.26 million or 8.96% due to
+*higher consultancy fees and special time billings of external counsel;
+taxes and licenses, 3.16% of total expenses} increased by P 13.10 million or 133.99%
+primarily due to documentary stamp related to the acquisition of BGC office;
+20
+===== page 37 / 80 =====
+market development expenses went up by 240.79% or by P2.39 million mainly due to
+higher costs incurred for strategic marketing initiatives;
+insurance went up by 14.75% or PO.24 million due to lower premium of directors' and
+officers' liability insurance;
+donations and contributions increased by P2.5 million due to donations to accrued
+donation to the BGC walkway project in 2019; and
+Other expenses went up 4209% or P3.44 million mainly due to the cost of filing fees
+paid in 2019 to the Securities and Exchange Commission and Philippine Competition
+Commission in relation to the incorporation of PSE Realty Company.
+The above increases were significantly offset by the reductions in the following accounts:
+occupancy costs, 7.04% of total expenses, was lower by 51.09% or by P53.33 million
+mainly due to the termination of rental of the Tektite office and the adoption of PFRS on
+Leases. Please see Note 26 of the Consolidated Financial Statements;
+there was no similar provision for streamlining program for 2019 as the P20 million in
+2018 since the program was completed as at the end of 2019;
+repairs and maintenance, 14.54% of total expenses, went down by P 17.74 million or
+14.41% mainly due to the termination of the license agreement of the former front-end
+of the online trading system starting November 2018;
+trading participants' development expenses went down by 13.31% or PO.80 million due
+to lower costs incurred for lounge supplies and annual stockholders meeting;
+amortization of computer software decreased by Pl .68 million or by 100% since the
+software was fully amortized as of April 2018;
+meetings and conferences declined by 5.87% or PO.07 million due to lower number of
+board meetings;
+travel and transportation expenses decreased by 57.25% or P2.82 million mainly due to
+lower costs incurred for transportation allowances compared with 2018 figures which
+included expenses related to the implementation of trading system project. In addition,
+foreign travel expenses was lower by PO.80 million for the current period.
+public relations went down by Pl .96 million or by 24.90% due to lower expenses for ads
+and sponsorships, ASEAN CEO meeting, PSE anniversary and representation
+expenses; and
+office supplies went down by P3.14 million or by 52.28% due to lower costs incurred for
+printing services;
+Other income of P310.78 million went up by or by P 162.44 million from last
+year's P 148.34 million mainly due to P77.64 million higher interest income, P48.24 million
+higher mark-to-market gain on financial assets at FVTPL and P4561 million higher equity in net
+income of an associate.
+Net income after tax amounted to P679.29 million, down by 6.58% or P47.81 million from
+previous year's net income of P727.11 million.
+Total assets as of December 31, 2019 amounted to P6.29 billion, lower by 5.04% or by
+P334.11 million from its level last year. The analyses of its components follow:
+Cash and cash equivalents amounting to P3*13 billion, which was 49.70% of total
+assets.
+21
+===== page 38 / 80 =====
+Financial assets at fair value through profit or loss of P290.95 million, 4.63% of total
+assets, 24.49% of total investments, pertained mainly to the equity funds managed by Banco de
+Oro and Metro Bank under a purely discretionary mandate. The said mandate which was
+covered by an Investment Management Agreement started in April 2011.
+Receivables and other current assets for 2019 amounted to P81.55 million and P54e51
+million, respectively.
+Short-term financial assets at FVOCI of P79.72 million, as of December 31, 2019,
+pertained to corporate bonds with interest rates of 4.16% to 5.00% and 5.63% to 6.00% which
+will mature in 2020 and 2019, respectively.
+Long-term financial assets at FVOCI of P549.35 million, 8.73% of total assets, 46.24%
+of total investments, consisted of investments in retail treasury bonds, fixed income treasury
+notes, and corporate bonds which will mature starting 2021 to 2032.
+Property and equipment of Pl .25 billion, 18.40% of total assets, was up by P6.03 million
+or 0.48%.
+Right-of-use assets of P71.06 million pertained to the lease of data recovery sites and
+office space of Premier Software Enterprise, Inc. in compliance with PFRS 16 on Leases.
+Please see Notes 2 and 26 to the Consolidated Financial Statements for more details.
+Investment property of P 140.31 million is the result of reclassification of land rights,
+building and building improvements of Exchange Plaza from 'Property and equipment" account
+for the change in use of the property as evidenced by the end of the owner-occupation. In
+2019, as a result of the revised purpose of the Exchange Plaza to be leased out to third parties,
+management revisited the nature of the unamortized land rights.
+Investment in an associate, 4.26% of total assets and 22.55% of total investments,
+pertained to the 20.98% equity of PSE in PDS Holdings Corporation.
+Pension asset amounting to P34.53 million} as at December 31, 2019, pertained to the
+fair value of the assets of the Parent Company's retirement plan, net of the present value of
+retirement obligation and asset ceiling under Amended PAS 19(R). The assets are being held
+by a trustee bank pursuant to a trust agreement dated August 10, 2011. The Parent Company
+has a funded noncontributory defined benefit retirement plan while SCCP has an unfunded
+noncontributory defined benefit retirement plan covering all regular employees. The benefits are
+accumulated based on years of service and compensation per year of credited service. CMIC,
+on the other hand, does not have an established retirement fund and only conforms to the
+minimum regulatory benefit under the Retirement Pay Law (Republic Act No. 7641) which is of
+the defined benefit type and provides a retirement benefit equal to 22.5 days' Pay for every year
+of credited service. The pension liability amounted to P20.71 million and Pl 1.73 million in 2019
+and 2018, respectively.
+Deferred tax assets of P286.82 million pertained to the retrospective adjustment of the
+beginning balance of retained earnings and the corresponding recognition of contract liability for
+deferred listing fees in compliance with PFRS 15. Please refer to Notes 2 and 27 to the
+Consolidated Financial Statements.
+22
+===== page 39 / 80 =====
+Provision of P20 million pertained to the termination benefits payable to employees
+identified under the Parent Company*s organizational streamlining program, the timing of
+settlement of which was not yet certain as at December 31, 2018. In 2019, the provision was
+reclassified to accrued expenses as a result of the finalization of the streamlining program.
+Current liabilities of P640.55 million accounted for 10.18% of total liabilities and
+stockholders' equity,
+The Exchange remained liquid with working capital of P2.99 billion or a current ratio of
+5.67:1.
+Total retained earnings amounted to Pl billion, This included the net income of
+P679.29 million, donated capital of P211.60 million and appropriated retained earnings of P 121
+million.
+Capital Expenditures
+On May 19, 2015, a contract to sell was entered into between the Parent Company and
+FBDC for the purchase by the Parent Company of certain office units in the West Super Block
+building.
+As at December 31, 2018, the Building included in the property and equipment account
+of P96.21 million pertained to the cost of BGC office units and corresponding fit-out works.
+As at December 31, 2019, the Building included in the property and equipment account
+of Pl .06 billion pertained to the cost of BGC office units and corresponding fit-out works.
+Liquidity
+The Company had been paying its trade payables within the stated trade terms. As of
+December 31} 2019, the Exchange had no note, loan, or other indebtedness or financing
+arrangement requiring the Company to make payments.
+On August 13, 2014, the Exchange's BOD authorized the offer to purchase the
+shareholdings of Banker's Association of the Philippines (BAP) in PDSHC at a total value of
+P2.25 billion.
+On October 7, 2014, the Exchange and BAP agreed on the indicative terms and
+conditions for the proposed acquisition by the Exchange of BAPs 28.90% stake in PDSHC.
+On May 2, 2015, the Exchange's stockholders approved the increase in the Exchange's
+shareholdings in PDSHC to at least two-thirds (2/3) of the total issued and outstanding shares
+of PDSHC using a PDS equity value of P2.25 billion.
+On May 27, 2015, the Exchange's BOD authorized the obtainment of a clean term loan
+jn the total amount of Pl .15 billion from several banks for the purpose of financing the purchase
+of shares of stock from stockholders of PDSHC. The loan includes a 5-year term, with interest
+rate based on 5-year PDST R-2 on drawdown and can be released on a staggered basis as the
+need arises.
+23
+===== page 40 / 80 =====
+On July 22, October 27, November 12 and November 16 of 2015, the Exchange has
+signed Share Purchase Agreements (SPA) with the BAP, Finex Research and Development
+Foundation, Inc. ("FINEX"), Whistler Technology Services, Inc. ("WTSI") and Insular Investment
+Corp. for the proposed purchase by the Exchange of 1,807,094 shares or 28.91%, 192,776
+shares or 3.08%, 500,000 shares or 8.00% and 193,776 shares or 3.0844%, respectively,
+On January 26, 2016, the Exchange submitted regulatory requirements to SEC.
+On March 28, 2016, the Exchange received SEC En Banc Resolution No. 230, series of
+2016, denying the application for exemptive relief by the PSE that was required for the
+acquisition to be completed.
+On June 15, July 6, August 25, September 26, 2017 and November 8, 2017, the
+Exchange has signed SPAs with the shareholders of PDSHC, such as BAP, WTSI, Investment
+House of Association of the Philippines ("IHAP") and Philippine American Life and General
+Insurance Co. ("Philam") and FINEX, for the newly proposed purchase by the Exchange of
+1,466,800 common shares or 23.47%, 500,000 common shares or 8.00%, 36,446 common
+shares or 0.58%, 250,000 common shares or 4.00%, and 192,776 common shares or 3.08%,
+respectively.
+On September 13, 2017, the Exchange's BOD authorized the obtainment of a one-year
+loan in the amount of 1.15 billion from several banks for the purpose of financing the purchase
+of shares of stock from stockholders of PDSHC. As at December 31, 2017, there are no new
+loans availed by the Exchange.
+On September 28, 2017, BOD of PDSHC declared cash dividends in the amount of 56
+per share in favor of all shareholders on record as of June 30, 2017 payable on or before
+October 15, 2017.
+On October 5, 2017, the Exchange entered into a loan agreement with Bank of
+Commerce amounting to 1,000.00 million. As at February 28, 2018, the Exchange has not yet
+made any drawdown to the loan.
+On November 30, 2017, the proposed acquisition is deemed approved by the Philippine
+Competition Commission.
+On January 12 and 15, 2018, the Exchange has signed SPAS with San Miguel
+Corporation ("SMC") and Tata Consulting Services Asia-Pacific Pte. Ltd. ("TCS") for the
+proposed purchase by the Exchange of 250*000 common shares or 4.00% and 500,000
+common shares or 8,000/0, respectively.
+On March 31, 2018, the SPAs with BAP, IHAP, Philam, FINEX and SMC were
+automatically terminated due to the non-satisfaction of closing conditions on the target Closing
+Date. The SPA with TCS automatically lapsed on July 2, 2018.
+Financial Statements
+The Audited Consolidated Financial Statements of the Company as of December 31,
+2020* 2019 and 2018, Audted Parent Financial Statement, and the Statement of Management's
+24
+===== page 41 / 80 =====
+Responsibility for Financial Statements are attached hereto and made integral parts hereof as
+Annexes "B," and "C," respectively.
+Key Performance Indicators
+Financial Performance
+% Change
+Revenues
+Cost of Services
+Administrative
+Expenses
+Other Income
+Net Income
+2020
+282,143,101
+212,718,184
+2019
+444} 159,283
+679,291 , 135
+8133
+8.31
+2018
+304,314046
+457,719,388
+727,105,904
+8.86
+2020
+vs.
+2019
+1.81
+0.46
+-14.68
+-31.55
+*3.31
+2019 vs.
+2018
+-19.12
+-7.71
+-2.96
+109.50
+-6.58
+Basic Earnings Per
+8.08
+Share
+Diluted Earnings
+8.08
+per Share
+For the year ended December 31, 2020, operating revenues amounted to Pl .31 billion.
+The Company's operating revenues, sourced mainly from listing-related, trading-related and
+service fees increased by 1.81% or P23,41 million from the 2019 level. Listing-related fees,
+which comprised 4523% of operating revenues, included listing fees} annual listing
+maintenance fees and processing fees. This revenue source went up by P9.75 million or
+1.67%. Trading-related fees, which comprised 25.89% of operating revenues, increased by
+4.03% or P 13.18 million. This included subscription and data feed fees which 'tikewise
+increased by 12.15% or P3,92 million and 8.02% or P9.43 million, respectively. Transaction
+fees from regular and block sales and SCCP fees, which both went down by 0.09%, decreased
+by PO. 17 million and PO.30 million, respectively.
+25
+===== page 42 / 80 =====
+Cost of services of P282.14 million, expenses which were directly related to the core
+operations of the PSE Group, included compensation and other related staff costs,
+depreciation, office expenses} communications, repairs and maintenance and amortization of
+computer software, This account was higher by 0.46% or Pl .30 million from previous year's
+P280.84 million. Administrative expenses for 2020 of P378,96 million went down by P65.20
+million or 14.68% compared to last year's P 444.16 million. Total expenses (cost of services
+and administrative) of P 661.10 million posted a decline of 8.81% from last year's P 725 million.
+Compensation and other related staff expenses represented 32.94% of the total. On the other
+hand, depreciation, repairs and maintenance, professional fees and occupancy costs made up
+23.80%} 17.31%, 10.58% and 6.90% of total expenses, respectively.
+Other income of P212.72 million was lower by 31.55% or by P98.06 million from last
+years P310.78 million due to P8485 million lower interest income and P30.92 million markuto-
+market toss on financial assets at FVTPL.
+For the year ended December 31, 2019} operating revenues amounted to Pl .29 billion.
+The Company's operating revenues, sourced mainly from listing-related, trading-related and
+service fees, declined by 19.12% or P305.26 million from the 2018 level. Listing-related fees,
+which comprised 45.30% of operating revenues, included listing fees, annual listing
+maintenance fees and processing fees. This revenue source went down by P253.52 million or
+30.24%. Trading-related fees, which comprised 25.34% of operating revenues, decreased by
+17.67% or P 7022 million. This included subscription and data feed fees which were lower by
+6925% or P72.66 million and 0.95% or Pl .13 million, respectively, and transaction fees, which
+went up by 2.06% or P3.58 million due to a similar percentage increase in trading volume.
+SCCP service fees, which contributed 24.52% to operating revenues, likewise increased by
+206% or P6.38 million.
+Cost of services of P28C84 million, expenses which were directly related to the core
+operations of the Company, included compensation and other related staff costs, depreciation,
+office expenses, communications, repairs and maintenance and amortization of computer
+software. This account was lower by 7.71% from previous yeads P304.31 million.
+Administrative expenses for 2019 of P444.16 million went down by P 13.56 million or 2.96%
+compared to last year's P 457.72 million. Total expenses (cost of services and administrative)
+of P 725.00 million posted a decline of 486% from last year's P 762.03 million. Compensation
+and other related staff expenses represented 32.88% of the total. On the other hand,
+depreciation, professional fees and occupancy costs made up 24.84%, 10.49% and 7.04% of
+total expenses, respectivelyu
+Other income of P310.78 million was higher by 109.50% or by P 162.44 million from last
+years P148.34 million due to P77.64 million higher interest income, P48.24 million higher mark-
+to-market gain on financial assets at FVTPL and P45.61 million higher equity in net income of
+an associate.
+The net income for 2019 amounted to P679.29 million which was 6.58% lower than the
+net income for 2018 of P727.10 million.
+*For the year ended December 31, 2018, operating revenues amounted to Pl .60 billion.
+The Company's operating revenues, sourced mainly from listing-related, trading-related and
+service fees, went up by 30.25% or P370.69 million from the 2017 level. Listing-related fees,
+26
+===== page 43 / 80 =====
+which comprised 52.52% of operating revenues, included listing fees, annual listing
+maintenance fees and processing fees. This revenue source went up by P343.35 million or
+69.370/0. On the other hand, trading-related fees, which comprised 24.90% of operating
+revenues, increased by 18.50% or P 62.04 million. This included subscription and data feed
+fees which grew by 109.25% or P54.78 million and 32.91% or P29A1 million, respectively, and
+transaction fees, which went down by 11.31% or P22.15 million due to a similar percentage
+decline in trading volume. SCCP service fees, which contributed 19.43% to operating revenues,
+likewise decreased by 11.31 % or P39.56 million.
+Cost of services of P304.31 million, expenses which were directly related to the core
+operations of the Company, included compensation and other related staff costs, depreciation,
+office expenses, communications, repairs and maintenance and amortization of computer
+software. This account increased by 23.45% from previous year's P246.51 million.
+Administrative expenses for 2018 of P457.72 million went up by P 111.37 million or 3216%
+compared to last year's P 346.35 million. Total expenses (cost of services and administrative)
+of P 762.03 million posted an increase of 28.54% from last year's P 592.86 million,
+Compensation and other related staff expenses represented 30.32% of the total. On the other
+hand, depreciation, occupancy costs and professional fees made up 1976%, 13.70% and
+9.16% of total expenses, respectively.
+Other income of P148.34 million was lower by 63.46% or by P257.59 million from last
+year's P405.93 million mainly due to P252.52 million gain realized from the sale of Tektite
+Office in 2017.
+The net income for 2018 amounted to P727.10 million which was 12.19% lower than the
+net income for 2017 of P828.08 million.
+Basic and Diluted Earnings Per Share are computed as follows:
+Net income (a)
+(b)Adjusted weighted average
+shares
+(c)Adjusted weighted average
+shares - diluted
+EPS:
+Basic (a/b)
+Diluted (a/c)
+2020
+p656,812,425
+P8.08
+8.08
+27
+2019
+R679,291 , 135
+81
+81
+33
+8.31
+2018
+82}0201286
+P8.86
+8.84
+===== page 44 / 80 =====
+Development of New Products and Services
+Real Estate Investment Trust (REIT)
+The Department of Finance (DOF), SEC, Bureau of Internal Revenue (BIR), and the
+Company launched the final amendments to the regulations governing REITs in a joint
+signing ceremony on January 20, 2020. This favorable development came as a result of the
+Company's and market regulators} conscious efforts in the past few years to clear the
+hurdles which have long deterred issuers from listing a REIT. Subsequent to the approval of
+the Amended Listing Rules for REITs, the Company published its Guidelines for Broker
+Eligibility to Trade REIT Securities on July 15, 2020. Similar to dollar denominated securities,
+trading of REIT securities requires trading participants to attend a REIT training session
+conducted by the Company and must issue a sworn certification to the Company attesting to
+its operational readiness. The TP shall also comply with the applicable requirements under
+the Name on Central Depository facility of the Philippine Depository Trust Corp, As of date,
+there are 121 eligible TPs to trade REIT securities.
+On August 131 2020, the Company welcomed the Ayala Land-sponsored REIT
+company, AREIT, Inc., as the first listed REIT in the Philippine stock market. AREIT raised a
+total of P 13.57 billion, of which Pl .29 billion were from its primary shares white P 12.28 billion
+came from secondary shares. On March 24, 2021, DoubfeDragon's DDMP REIT, Inc. also
+conducted its initial public offering and raised P14.71 billion from the issuance of its
+secondary shares. With the success of the first two issuances, several other property
+companies expressed their interest to conduct REIT listings in the medium term.
+New PSE Website
+Taking off from the website reskinning project in 2018, the Exchange worked on the
+revamp of its website. The new PSE website features a modern, intuitive and user-friendly
+interface and is optimized to be responsive on any browser and mobile device. To further
+enhance the overall experience of users, the navigation of the new website was streamlined
+and the content was reorganized to make them more purpose-centric.
+Among the key content and features of the new website are: (1) convenient access to
+listing-related resources for potential listing applicants; (2) a new and improved charting toot;
+(3) enhanced display of broker information; (4) expanded market data products; and (5)
+centralized reguiatory information.
+The beta version of the new PSE website was made available to the public in
+February 2021.
+Shari'ah-CompIiant Listed Companies
+The Company amended its Guidelines on the Screening of Securities for Shari'ah
+Compliance ("PSE Shari'ah Guidelines") effective April 20, 2020. This further aligned the
+PSE Shari'ah Guidelines with the recent change in the guidelines of its screening provider,
+tdealRatings Inc., to its Accounting and Auditing Organization for Islamic Financial
+Institutions ("AAOIFI") Shari'ah Rulebook. The change followed the amendment to AAOIFI
+Standard No. 59 pertaining to the exclusion of the cash and liquid assets ratio from their
+financial screening requirements.
+28
+===== page 45 / 80 =====
+Compliance
+Prevention and control of COVID-19 in the workplace
+Consistent with the Inter-Agency Task Force on Emerging Infectious Diseases' (IATF)
+guidelines and other statutory issuances, the Company implemented measures for the
+prevention and control of COVID-19 in the workplace. These measures include the adoption of
+minimum health standards such as the mandatory wearing of masks and face shields, hygiene
+and disinfection protocols, temperature checks, physical distancing, and installation of acrylic
+sneeze guards for the workstations of all employees who report on-site. The Company
+implements a one-trader per booth policy on the trading floor to ensure physical distancing and
+minimize contact rate. The Company also adopted various working arrangements such as work-
+from-home and rotational work shift arrangements to reduce building density and ensure physical
+distancing, and requires its employees who report on-site, traders, and guests to accurately
+accomplish the Daily Health and Safety Questionnaire for monitoring purposes. The Company
+likewise provided support through several health bulletins focusing on personal health
+management to prevent or mitigate the risk of acquiring COVID-19.
+SEC Rules on the Number of Independent Directors and Sectoral Representatives of
+Exchanqes and other Orqanized Markets
+Pursuant to the Rules on the Number of Independent Directors and Sectoral
+Representatives of Exchanges and other Organized Markets issued by the Securities and
+Exchange Commission on August 11, 2020, the Company amended the Rules of the
+Nominations and Elections Committee to increase the required number of independent directors
+from at least three (3) members to at least five (5) members or one-third (1/3) of the members of
+the Board of Directors. The following independent directors were elected for the ensuing year:
+Jose T. Pardo, Consuelo D. Garcia, Former Chief Justice Teresita J. Leonardo-De Castro, Atty.
+Roberto Cecilio O. Lim and Vicente L, Panlilio.
+Compliance with Data Privacv Act of 2012
+The Company assessed the effectivity of the policies and procedures it put in place to
+comply with the requirements of the Data Privacy Act of 2012 and its Implementing Rules and
+Regulations. Utilizing the results of this assessment process, the Company identified several
+action items with which it can improve its data protection measures. Further} the Company's
+Data Protection Officer reviewed its initial privacy impact assessment template and came up with
+a user-friendly but comprehensive template for this year's annual privacy impact assessment
+exercise.
+Other Initiatives
+Measures to Address Impact of COVID-19
+The Company implemented various measures to address risks and volatilities posed
+by COVID-19. The Exchange decided to shorten trading hours in consideration of curfews
+imposed in various parts of Luzon during the community quarantine period. The move was
+also in alignment with the operational schedules of other market infrastructure providers
+including the Bangko Sentral ng Pilipinas and the Philippine Dealing and Exchange Corp.
+The shortened trading hours was implemented on March 19, 2020 and currently runs from
+9:30 AM to 1:00 PM daily. To ensure that social distancing protocols are observed, the
+Company also temporarily closed the trading floor from March 19, 2020 until it was reopened
+for trading participants on June 1, 2020, The Company strictly observes the health and
+29
+===== page 46 / 80 =====
+safety guidelines prescribed by the Inter-Agency Task Force.
+In its effort to address the market volatility triggered by the uncertainties surrounding
+COVID-19, the Company likewise amended its trading regulations. The rules on static
+threshold was amended to reduce the lower static threshold of individual stock prices from
+50 percent to 30 percent of its previous closing price. Meanwhile} the upper static threshold
+of securities remained at 50 percent. The said changes took effect and were implemented on
+March 24, 2020. The Company also introduced a new three-level circuit breaker that would
+implement a 15-minute, 30-minute and one-hour trading halt when the PSEi falls by 10
+percent, 15 percent and 20 percent, respectively. Each circuit breaker level can only be
+activated once per trading day. The multi-level circuit breaker became effective on May 4,
+2020.
+Amendments to Listing and Disclosure Rules
+With the continuous changes in market practices and regulatory environment, the
+Company rationalized several requirements to attract more companies to list, strengthen
+investor protection, and increase market depth. The initiatives include: (1) guidelines on
+minimum public ownership requirement for initial and backdoor listings; (2) revisions to the
+mandatory lock-up rule for SME Board listing; (3) amendments to the voluntary delisting
+rules; and (4) amendments to rules on the criteria for listing on the Main Board and SME
+Board,
+The Company also adopted the Sponsor program for SME listings to allow
+companies that are unable to satisfy the SME Board requirements to apply for listing.
+Through this program, the PSE-accredited listing sponsor will evaluate the applicant's
+suitability and shall endorse the listing application to the Company. The sponsor will be
+responsible for hand-holding the company from its IPO preparation phase to three years
+after listing to ensure that the company complies with the initial and continuing listing rules
+for all publicly listed companies.
+In consideration of the business impact brought by COVID-19, the Company will
+likewise provide temporary relief to companies applying for listing in 2021 and 2022. The
+temporary relief shall include: a) time bound relief, where the Company may consider the
+profitability of the applicant company for any two fiscal years in the three most recent fiscal
+years, excluding the year of COVID-19 impact; b) minimum disclosure requirements, where
+the applicant company must fully disclose in the prospectus, among others, the adverse
+impact of the pandemic in its operations, expected duration of its effects in the company's
+business, recovery measures and business prospects in the next five years; and c) due
+consideration for COVID-19 impact in PSE evaluation.
+Market Education
+The Company strengthened its financial literacy campaign as it took advantage of the
+growth in digital technology amid the ongoing pandemic. During the year, the Company
+expanded its digital presence by increasing the frequency of its stock market webinars in lieu
+of physical seminars. The Company conducted fifteen webinars covering a broad range of
+topics including, among others, the basics of stock market investing, technical and
+fundamental analyses, investment opportunities, and new PSE product offerings. The
+webinars featured different resource speakers from various brokerage firms and financial
+institutions for each webinar session, The webinars reached a total of 442,400 people across
+76 countries in 2020, with each webinar averaging at least 400 live viewers and 9,000 post-
+webinar viewers from Facebook and YouTube. The Company also collaborated with both
+30
+===== page 47 / 80 =====
+government and private institutions to promote financial inclusion and stock market investing
+by educating their officers, employees, members and students.
+In support of the International Organization of Securities Commissions and the SEC,
+the Company participated in the celebration of World Investor Week held from October 5 to
+9}2020. During the week, the Exchange published educational materials and produced short
+videos about the basics of stock market investing through the PSE's official social media
+accounts.
+During the year, the Company also worked on the design of the new PSE Academy
+website, the official market education website of the Exchange. The PSE Academy will have
+a fully-automated self-paced e-learning platform featuring an online course composed of
+eight modules which are categorized under three levels: beginner, intermediate, and
+advance. The target launch for the new website is in the third quarter of 2021.
+Upqrade of Clearing & Settlement System
+In December 2019, the SCCP entered into a software license and maintenance
+agreement and a consultancy services agreement with Millennium IT Software (Private)
+Limited (Millennium IT), a subsidiary of the London Stock Exchange Group. The agreement
+will cover the customization, use and maintenance of the Millennium Post Trade solutions
+and Millennium Risk products, which will replace SCCP's current clearing and settlement,
+risk and collateral management systems. The installation of this new clearing and settlement
+system will enable SCCP to improve and enhance the services it provides to the market* The
+new clearing and settlement system is expected to go live in the first quarter of 2022.
+Ongoing Plans and Programs for 2021
+The Company's strategic plan, which covers the years 2020 to 2022, is anchored by
+three key themes — creating sources of sustainable liquidity; leveraging on technology; and
+embedding ESG best practices in its operations. The Company remains relentless in its
+pursuit of creating and sustaining a robust market through the introduction of new products
+and services as well as the expansion of both the listed company and investor bases.
+Technology continues to be at the core of the Company's ability to meet these objectives,
+with the domestic market and its various stakeholders being the ultimate beneficiaries of the
+digital journey that will underpin the Company's transformation into a stronger and more
+efficient stock exchange. Lastly, in line with the global thrust towards ESG investing, the
+Company steadfastly aims to become a champion of ESG in both its capacity as a market
+regulator and a listed company.
+Key Activities
+Following the success of the launch of the PSEi Total Return Index or T RI, the
+Company aims to develop new indices that would encourage more investors in the stock
+market and entice the creation of new ETFs and other index.linked funds. In 2021, the
+Company will work on developing indices that track the performance of mid-cap companies
+and high dividend issuers. Additionally, the implementation of a globally-benchmarked sector
+classification structure complements this initiative as indices may be developed based on the
+new sectors.
+To facilitate more listings in the market, the Company will revitalize its marketing
+structure and adopt a more proactive approach in encouraging companies to list. The
+31
+===== page 48 / 80 =====
+Company's new comprehensive listing assistance program will be aligned with the
+amendments to the listing requirements for Main and SME (small and medium-sized
+enterprises) Board. The Company will work with underwriters and provide handholding
+programs to help prospective companies, particularly SMEs, prepare for their [PO. The
+Company also plans to amend existing rules for ETFs and Public Private Partnerships, with
+the aim of encouraging more transactions utilizing these regulations.
+Significant changes on the technology side are also planned in the coming months,
+led by the transition to a new clearing and settlement system for the SCCP that would
+support multi-asset and multi-currency settlement and incorporate international best
+practices in risk management and other clearing and settlement services. The Company will
+also undertake several initiatives geared towards improving a stakeholder's end-to-end
+digital experience, particularly the implementation of PSE EASY Phase 2 which will integrate
+an online payment system for IPO subscriptions and extend the service to other forms of
+public offerings; an e-KYC platform which will enable the conduct of KYC process through an
+app in lieu of a face-to-face interaction with the broker; and a data analytics platform that will
+empower investors to learn and analyze data on their own. Enhancements to existing
+systems and automation of internal processes and services are also seen to further boost
+efficiency and productivity.
+As a market regulator, the Company aims to strengthen its ESG commitment by
+providing solutions that would minimize its environmental footprint and encourage listed
+companies to adopt sustainable business practices. Forming part of the Company's
+sustainability initiatives is the incorporation of regular sustainability reports in its compliance
+plans; the development of an ESG index; and the alignment of its disclosure regulations with
+the SEC's Sustainability Reporting Framework.
+Item 7. Financial Statements
+The Statement of Management's Responsibility for Financial Statements, the Audited
+Consolidated Financial Statements and the Audited Parent Financial Statements of the
+Company as of December 31, 2020, 2019 and 2018 are attached hereto as Annexes "A,"
+"B," and "C," respectively.
+Item 8. Changes in and Disagreements with Accountants on Accounting and Financial
+Disclosurellndependent Public Accountant
+The external auditors of the Company is the accounting firm of SGV & Co. The
+engagement of SGV & Co. as external auditors was approved during the Annual
+Stockholders' Meeting in November 2020. Ms. Mariecris N. Barbaso is currently the
+Engagement Partner. The appointment of the external auditor is consistent with SRC Rule
+68. The engagement partner or signing partner is rotated after every five (5) years of
+engagement. A two-year cooling-off period is observed in the re-engagement of the same
+signing partner.
+The Company has not had any disagreements on accounting and financial
+disclosures with SGV & Co. during their engagement in 2020.
+As regards the previous year, the Company did not have any disagreements on
+adcounting and financial disclosures with SGV & Co during their engagement.
+32
+===== page 49 / 80 =====
+Representatives of SGV & Cos will be present during the annual meeting and will be
+given the opportunity to make a statement if so needed. They are also expected to respond
+to appropriate questions if needed,
+The Board of Directors, upon the recommendation of the Audit Committee, composed
+of Vicente L. Panlilio (Chairman), Anabelle L. Chua, Ferdinand K. Constantino* Consuelo D.
+Garcia and Roberto Cecilio O. Lim, will recommend to stockholders the appointment of SGV
+& Co. as the Company's external auditor, with She;win V. Yason as the engagement partner
+at a fee of Php850,000.00 including audit of its subsidiaries,
+Ill. CONTROL AND COMPENSATION INFORMATION
+Item 9. Directors and Executive Officers of the Issuer
+The Company amended its By-Laws on 17 May 2008 to incorporate the provisions of
+Rute 38 on Independent Directors of the Securities Regulation Code, as amended.
+Directors
+Name
+Jose T. Pardo
+Ramon S.
+Monzon
+Diosdado M.
+Arroyo
+Emmanuel OR
+Bautista
+Anabelle L.
+Chua
+Francis C. Chua
+Age
+81
+70
+46
+60
+60
+72
+Citizenship
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+33
+Position/Committee Membership
+Chairman of the Board
+Independent Director
+Corporate Governance Committee
+— Chairman
+Nominations
+and
+Elections
+Committee
+President
+Chief Executive Officer
+Capital Markets Development
+Committee — Chairman
+Capital Markets Development
+Committee
+Investments Committee
+Investments Committee
+Risk Management Committee
+Capital Markets Development
+Committee
+Capital Markets Development
+Committee
+Audit Committee
+===== page 50 / 80 =====
+Ferdinand K.
+Constantino
+Teresita J.
+Leonardo-De
+Castro
+Consuelo D.
+Garcia
+Eddie T. Gobing
+Amor C.
+Iliscupidez
+Edgardo G.
+Lacson
+Roberto Cecilio
+O. Lim
+Rolando Jose L.
+Macasaet
+Vicente B.
+Panlilio
+Wilson L. Sy
+Eusebio H.
+Tanco
+Alejandro T. Yu
+Ma. Vivian
+Yuchengco
+69
+72
+66
+65
+69
+77
+62
+59
+72
+66
+70
+61
+67
+Audit Committee
+Risk Management Committee
+Investments Committee
+Independent Director
+Nominations
+and
+Elections
+Comminttee — Chairman
+Corporate Governance Commitee
+Independent Director
+Risk Management Committee -
+Chairman
+Audit Committee
+Capital Markets Development
+Committee
+Risk Management Committee
+Corporate Governance Committee
+Investments Committee
+Risk Management Committee
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+34
+Audit Committee
+Nominations
+and
+Committee
+Independent Director
+Audit Committee
+Elections
+Risk Management Committee
+Investments Committee
+Corporate Governance Committee
+Independent Director
+Audit Committee — Chairman
+Risk Management Committee
+Corporate Governance Committee
+I nvestments
+Committee
+Chairman
+Capital Markets Development
+Committee
+Capital Markets Development
+Committee
+investments Committee
+Investments Committee
+Risk Management Committee
+Audit Committee
+Corporate Governance Committee
+Capital Markets Devebpment
+Committee
+===== page 51 / 80 =====
+Kev Officers
+Name
+Ramon S. Monzon
+Omelita J. Tiangco
+Aissa V, Encarnacion
+Roel A. Refran
+Rachelle C. Blanch
+Veronica Vicedo-Del
+Rosario
+Philip A. Driz
+Roberto Jose R.
+Jimenez
+Mark Frederick V.
+Visda
+Age
+70
+66
+55
+47
+44
+39
+52
+55
+38
+Citizenship
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Position
+President
+Chief Executive Officer
+Treasurer
+Corporate Secretary
+Chief Operating Officer
+Vice President and Head, Market
+Operations Division
+Vice President and General
+Counsel
+Vice President and Head,
+Technology Division
+Assistant Vice President and
+Head, Finance Division
+Assistant Vice President and
+Division Head, Capital Markets
+Development Division
+A brief profile of each of the Company's Directors and Officers follow:
+BOARD OF DIRECTORS
+Jose T. Pardo
+Chairman
+81. Mr. Pardo became an Independent Director of the PSE on January 26) 2011, and has
+been its Chairman since May 2011. He is the Chairman of the Corporate Governance
+Committee of the Exchange. He is also the Chairman of the Securities Clearing Corporation
+of the Philippines, a subsidiary of the PSE, He is an Independent Director and the Chairman
+of the Board of the Philippine Savings Bank, Philippine Seven Corporation} and Independent
+Director of JG Summit Holdings, Inc. and Del Monte Philippines. He is likewise a Director of
+Bank of Commerce, National Grid Corporation of the Philippines, Synergy Grid and
+Development Philippines, Inc., Monte Oro Grid Resources Corporation, League One
+Finance and Leasing Corporation and Araneta Hotels, Inc. Mr. Pardo held various positions
+in government including Secretary of the Department of Finance and Secretary of the
+Department Of Trade and Industry, Mr. Pardo is Chairman of the Council of Business
+Leaders of the Employers Confederation of the Philippines, Philippine Chamber of
+Commerce, Inc., and Director of ZNN Radio Veritas Foundation. Mr. Pardo obtained his
+Bachelor of Science in Commerce and his Master's Degree in Business Administration at the
+De La Salle University in Manila. In February 2018, he was conferred an Honorary
+Doctorate in Finance by the De La Salle University.
+*publicly listed company
+35
+===== page 52 / 80 =====
+Ramon S. Monzon
+President and CEO
+70. Mr. Monzon is the President and Chief Executive Officer of The Philippine Stock
+Exchange, Inc. since May 2017 and the Company's Chairman of Capital Markets
+Development Committee. He is the concurrent President and Chief Executive Officer and
+Director of the Securities Clearing Corporation of the Philippines. He is a Trustee of the
+Securities Investors Protection Fund, Inc. He was an independent Director of the Exchange
+from 2015 to 2017. Mr. Monzon is also the President and CEO of Philippine Dealing System
+Holdings Corporation (PDSHC) and Director and Member of the Executive, Risk Oversight,
+Audit, Nomination and Remuneration and IT Steering Committees of PDSHC, Philippine
+Dealing & Exchange Corporation, Philippine Depository & Trust Corporation (PDTC) and
+Philippine Securities Settlement Corporation (PSSC). He is currently a Director of PCD
+Nominee Corporation. Mr. Monzon was the Vice Chairman of PDSHC from September 2017
+to April 2018 and Acting Chairman of PDEx, PDTC and PSSC from August 2018 to April
+2019.Mr. Monzon is the Chairman and President of PH GSA, Inc., Xpert Air Services, Inc.,
+Karilagan Int'l Travel & Tours Corp., and Carousel Productions, Inc. From October 1995 to
+March 2012, he was the Vice Chairman and Chief Operating Officer of Citadel Holdings, Inc.
+and served as President and CEO of Citadel's subsidiaries which included companies in
+aviation services, airline passenger and cargo general sales agency. He was the President
+and CEO of Pacific Rim Export & Holdings Corp. from 1988 to 1995 and was the EVP and
+Chief Operating Officer of Radio Philippines Network, Intercontinental Broadcasting Corp,
+Banahaw Broadcasting Corp and Sining Makulay, Inc. from 1984 to 1986. He was also a
+Partner at SyCip Gorres Velayo & Company from 1982 to 1984. Mr. Monzon holds a Master
+of Business Administration degree from the Chicago Booth School of Business, a Bachelor
+of Arts degree major in Political Science from the Ateneo de Manila University, and a
+Bachelor of Science degree major in Accounting from the Manuel L. Quezon University. He
+is a Certified Public Accountant and a Fellow of the Institute of Corporate Directors.
+Diosdado Macapagal Arroyo
+46. Mr. Arroyo was elected a broker-director of the Company in 2020. He is a member of the
+Committees on Investments and Capital Markets Development, and also serves on the
+Board of the Securities Clearing Corporation of the Philippines. Mr. Arroyo is the President of
+Securities Specialists, Inc., an Exchange-accredited stockbrokerage firm that has been
+around since the 1970s. He is also currently on the Board of various companies and
+foundations, such as Lourdes T. de Arroyo Holdings, Creekside Healthcare Services, PayNet
+International Technology, Link2Progress Microfinance, LTA Foundation, and the Amigo
+Foundation. Mr. Arroyo was also a member of Congress, serving in the Lower House as a
+representative of Camarines Sur for the three consecutive 3-year terms. He is a proud
+alumnus of the Ateneo de Naga University, where he graduated with a degree in Business
+Administration, minor in Legal Management
+Anabelle L. Chua
+60. Ms. Chua first became a Director of the PSE in 2004 and served as a non-broker director
+until May 2010. She was elected in May 2011 and has served as a non-broker director since
+then. She is a member of the Exchange's Audit and Capital Markets Development
+Committees. She has been the Chief Financial Officer of the PLDT, Inc.* Group since May
+2015, and the Chief Risk Management Officer since August 2018, and is concurrently the
+Chief Financial Officer of Smart Communications, Inc. from January 2021 .She is currently a
+director of Manila Electric Company* and Chairman of its Finance Committee and a member
+of its Audit Committee, Risk Committee and Nomination and Governance Committee. Her
+36
+===== page 53 / 80 =====
+prior professional experience includes holding various positions at Citibank NA. and the
+Solid Pacific Finance Ltd. in Hong Kong. Ms. Chua graduated Magna Cum Laude from the
+University of the Philippines with a degree in Business Administration and Accountancy and
+was a consistent University Scholar for ten semesters. She topped the Certified Public
+Accountant Licensure Examination in October 1982.
+*publicly-listed company
+Ferdinand K. Constantino
+69. Mr. Constantino was elected to the PSE Board in 2020. He is a member of the
+Exchangers Audit, Investments and Risk Management Committees and sits on the Board of
+PSE's wholly-owned subsidiary, the Securities Clearing Corporation of the Philippines. A 46-
+year veteran in San Miguel Corporation (SMC)*, Mr. Constantino has been the company's
+Group Chief Finance Officer and Treasurer since 2001. He also sits on the Board of several
+SMC subsidiaries and units. Mr. Constantino serves as Chairman of San Miguel Foundation,
+Inc., SMCGP Philippines Power Foundation, Inc., SMC Stock Transfer Service Corporation
+and San Miguel Integrated Logistics Services, Inc. and Vice-Chairman of SMC Global Power
+Holdings Corp. A recipient of numerous accolades, he was named The Asset's Triple A
+Awards 2019 CFO of the Year Philippines and the ING-FINE-X 2018 CFO of the Year. Mr.
+Constantino obtained his degree in Economics from the University of the Philippines and
+attended IMD
+Switzerland
+for
+a Finance and Control
+course
+*publicly-listed company
+Hon. Chief Justice Teresita J. Leonardo- De Castro (ret.)
+Independent Director
+72. Chief Justice Teresita J. Leonardo-De Castro (ret.) was elected as an Independent
+Director of the PSE in 2020. She is the Chairman of the Exchange's Nominations and
+Elections Committee and a member of the Corporate Governance Committee. She also sits
+on the Board of the Securities Clearing Corporation of the Philippines, Top Frontier
+Investment Holdings, Inc.* and San Miguel Corporation* as Independent Director and serves
+as Consultant of the Supreme Court Committee on Family Courts and Juvenile Concerns.
+Chief Justice De Castro's career in public service, which spanned over four decades, was
+spent with the judiciary and executive branches of government. She started at the Supreme
+Court as a law clerk. She was transferred to the Department of Justice, where her 19-year
+stint culminated with her appointment as Assistant Chief State Counsel. Chief Justice De
+Castro rejoined the judiciary in 1997 when she was appointed to the Sandiganbayan as
+Associate Justice and eventually promoted to Presiding Justice, A decade later, her career
+came full circle with her return to the Supreme Court as Associate Justice. Her illustrious
+career was capped with her appointment as Chief Justice of the Supreme Court in 2018.
+Chief Justice De Castro was Vice-President, President-elect and President consecutively of
+the International Association of Women Judges (}AWJ) from 2010 to 2016, with each elected
+position having a two-year tenure. She was a member of the IAWJ Executive Council from
+2016 to 2018. She was also elected President of the Philippine Women Judges Association
+from 2009 to 2018. She was designated Chairperson of the Special Committee for the 2015
+Bar Examinations. Chief Justice De Castro was awarded the Presidential Medal of Merit in
+1998 by then Philippine President Fidel V. Ramos and the Chief Justice Hilario G. Davide
+Judicial Reform Award in 2005. Chief Justice De Castro graduated from the University of the
+Philippines with a Bachelor of Arts, cum laude, and Bachelor of Law on the top four of her
+class. She was elected to lifetime membership in the Phi Kappa Phi International Honor
+Society and the Pi Gamma Mu International Honor Society in the Social Sciences for
+37
+===== page 54 / 80 =====
+outstanding academic accomplishments in her Bachelor of Arts and Bachelor of Laws
+courses. She attended law courses in the International Law Institute in Washington D.C. and
+Harvard Law School's Program of Instruction for Lawyers in Massachusetts, USA.
+*publicly-listed company
+Consuelo D. Garcia
+Independent Director
+66. Ms. Garcia, a prominent and veteran banker, was elected to the PSE Board in 2020 as
+an Independent Director. She is the Chairman of the Exchangers Risk Management
+Committee and a member of its Audit and Capital Markets Development Committees. Ms.
+Garcia also sits as an Independent Director of AC Energy Corporation*, Sun Life
+Management and Trust Corporation and FEU Alabang, Inc. She is a director and minority
+shareholder of two family owned corporations: Murrayhill Realty Development Corporation
+and Saje Wellness Corporation. She is a Board Member of the Financial Executives Institute
+of the Philippines (FINEX), Trustee of FINEX Academy of the Philippines, Trustee/
+Independent Director of ING Foundation Philippines, lnc, a member of the Filipina CEO
+Circle and a Fellow of the Institute of Corporate Directors. She also serves as Senior
+Consultant of ING Bank on the roil-out of an ail-digital retail banking platform in the
+Philippines. Ms. Garcia started her ING Bank N.V. Manila career in 1991 as Head of
+Financial Markets and eventually served as its Country Manager and Head of Clients from
+September 2008 to November 15, 2017. Prior to joining ING, she worked with SGV and
+Bank of Boston, Philippine branch. A Certified Public Accountant, Ms. Garcia graduated
+Magna Cum Laude from the University of the East with a degree in Business Administration,
+major in Accounting.
+*publicly-listed company
+Eddie TB Gobing
+65. Mr. Gobing has been a PSE Director since 2001 and has held various positions •in the
+Exchange since 1998. He is a member of the Exchange's Risk Management Committee. He
+has also been a Director of the Securities Clearing Corporation of the Philippines since
+2008. Mr. Gobing is a Trustee of the PSE Foundation. He is the Treasurer of the Manila
+Stock Exchange Foundation. Mr. Gobing is the President of Lucky Securities, Inc., and E.G.
+& Sons Insurance Agency Inc.; Chairman of Jacqui Foods Corp., G.G. Food Chain Corp.,
+and J.G. Food Corp.; and President of Teishoku Dining Concepts, Inc. He also serves as
+Director; Treasurer and Finance Committee Chairman of Wack Wack Golf & Country Club.
+Mr. Gobing graduated with a Bachelor of Science degree in Management from the University
+of Santo Tomas.
+Rolando Macasaet
+59. Mr. Macasaet became a PSE Director in July 2019. He is a member of the Exchange's
+Investments and Corporate Governance Committees. He is currently the President and
+General Manager and concurrent Vice Chairman of the Board of the state-pension fund
+Government Service Insurance System (GSIS). Mr. Macasaet has extensive experience in
+the fields of banking, financial services and corporate governance — both in the Philippines
+and abroad, Prior to his stint in GSIS, he served as Director of the Asian Infrastructure and
+Investment Bank (AIIB) in Beijing, China. He was also Vice President and General Manager
+of the Philippine National Bank (PNB) in Los Angeles, California and eventually appointed as
+the Regional Vice President of PNB for the entire ASEAN region. In the field of corporate
+38
+===== page 55 / 80 =====
+governance, Mr. Macasaet served as Chairman and/or Board Director, President and CEO
+of various corporations in the Philippines - both in the public and private sectors. He served
+as Board Director in San Miguel Food and Beverage Corporation, Bank of Commerce,
+Philippine Commercial international Bank (PCl Bank) and the Private Infrastructure and
+Development Corporation (PIDC)R He also headed a number of Government-Owned and
+Controlled Corporations (GOCCs) in the country, such as the Philippine National
+Construction Corporation (PNCC), Skyway Corporation and the Philippine Postal Savings
+Bank (now Overseas Filipino Bank) as its President and Vice Chairman. Mr. Macasaet holds
+a degree in Business Economics (cum laude) and a Masters degree in Business
+Administration (Honors program) from the University of the Philippines (UP), He likewise
+completed the Executive Program on Finance of Columbia University in New York and the
+diploma program on Management Development of the Harvard Business School in Boston,
+He completed his elementary and high school education at the Ateneo de Zamboanga,
+graduating with top honors as class valedictorian.
+Edgardo G. Lacson
+77. Mr. Lacson first served as PSE Director from 2011 to April 2018. He was re-elected to
+the PSE Board in 2019. He has been a member of the Exchange's Nominations and
+Elections Committee since 2018 and also sits on the Board of the Securities Clearing
+Corporation of the Philippines. Mr. Lacson was Chairman of the PSE Bell Awards for
+Corporate Governance for five years. Mr. Lacson is the Chairman of the Employers
+Confederation of the Philippine, an Honorary Chairman of the Philippine Chamber of
+Commerce and Industry, where he spearheaded the committee on capital market, and a
+member of the Philippine Nippon Kyokai Technical. Mr. Lacson is an Independent Director of
+Puregold Price Club, Inc.* and Global Ferronickel Holdings, Inc.* He is the President of MIS
+Maritime Corporation, Safe Seas Shipping Agency and Marine Industrial Supply Corporation.
+He is also the Chairman of Metrostore Corporation, Mr. Lacson is a Trustee of the Philippine
+Interisland Shipping Association, Philippine Petroleum Sea Transport Association, and the
+Management Association of the Philippines. He was a former Trustee of the Home
+Development Mutual Fund and the De La Saile University. He finished his Bachelor of
+Science in Commerce degree major in Accounting from De La Salle College.
+Roberto Cecilio O. Lim
+Independent Director
+62. Atty. Lim has been an Independent Director of PSE since 2019, He is a member of the
+E*change's Audit Committee and the Risk Management Committee. He is an independent
+director of Asian Terminals, Inc. and Atlas Consolidated Mining and Development
+Corporation. He is Chairman of inteliConsult Corporation, Vice Chairman and Executive
+Director of Air Carriers Association of the Philippines, and Of Counsel of Creencia Carillo
+Velasco Law, He served as Undersecretary of the Department of Transportation for Aviation
+and Airport from 2016 to 2017. He initially practiced law in ACCRA Law and practiced law in
+London and Sydney. He was Vice President, General Counsel and Corporate Compliance
+Officer of Philippine Airlines Inc. until 2008. Subsequently, Atty. Lim was the Country Head of
+the International Air Transport Association (IATA) Philippines. He also taught Transportation
+Law, Administrative Law and Corporate Governance at the joint MBA/Law degree of the De
+La Salle University and Far Eastern University. He currently lectures in the Lyceum of the
+Philippines University College of Law. Atty. Lim was educated in Xavier School and
+graduated from the De La Salle University with a Bachelor of Arts degree in History and
+Bachelor of Science degree in Commerce. He obtained his law degree from the University of
+the Philippines College of Law and his Master of Laws (LL.M) from Kings' College, University
+of Londone He is a graduate of the Australian Institute of Corporate Directors (GAICD) and
+39
+===== page 56 / 80 =====
+member of the Institute of Corporate Directors in the Philippines.
+Vicente Panlilio
+Independent Director
+72. Mr. Panlilio has been an Independent Director of PSE since 2017. He is the Chairman of
+the Audit Committee and a member of the Corporate Governance and Risk Management
+Committees. He also served as PSE Independent Director partially in 2009. Mr. Panlilio was
+formerly the Chief Operating Officer and a member of the Advisory Board of Far East Bank
+and Trust Company, and a Board Director at the Philippine National Bank, Equitable-PCl
+Bank and Bank of Commerce. He also served as a Director of Manila Electric Company* and
+is an incumbent Director of San Fernando Electric Light and Power Company and Balibago
+Water Systems, Mr. Panlilio graduated from the University of the Philippines and also
+attended the Asian Institute of Management for the Advanced Bank Management Program.
+Wilson L. sy
+66. Mr. Sy has been a broker director since 2016. He is a stock market veteran with over
+four decades of professional experience. He is the Chairman of Wealth Securities Inc. Mr.
+Sy served as the Chairman of the Manila Stock Exchange from 1994 to 1999 and the
+Philippine Stock Exchange from 1996 to 1998. He was re-elected as PSE Director in 2016.
+He is a member of the Exchange's Capital Markets Development Committee and
+Investments Committee. He is currently the Chairman of the Manila Stock Exchange
+Foundation. Mr. Sy is also the fund manager of Philequity Fund, one of the most successful
+and longest running mutual funds in the country. At present, Mr. Sy is a director for various
+companies such as Philequity Management, Vantage Equities, Vantage Financial Corp. yand
+East West Bank. He is also member of Ateneo De Manila University Board of Trustees . Mr.
+Sy is a columnist for the business section of The Philippine Star and is the author of the
+book "Opportunity of a Lifetime."
+Eusebio H. Tanco
+70, Mr. Tanco has been a Director of the PSE since 2007 and is also a member of the
+Company's Investments and Capital Markets Development aCommittees. He is the
+Chairman of STI Education Systems Holdings Inc.*, Delos Santos-STI College, Inc., Mactan
+Electric Company, Philippines First Insurance Co., GROW Vite, Eximious Holdings, inc
+(formerly Capital Managers and Advisors, Inc.), Venture Securities, Inc., Prime Power
+Holdings, Inc., and iACADEMY. He is Chairman and President of Prudent Resources, Inc.,
+the Vice Chairman and President of port operator Asian Terminals Inc.*, Director of Leisure
+& Resorts World Corporation* and Philippine Racing Club* as well as President of of Bloom
+with Looms Logistics, Inc., Total Consolidated Asset Management Inc., Tantivy Holdings,
+Inc. (formerly Insurance Builders, Inc.), Biolim Holdings and Management Corp., EujoPhits.,
+Inc., First Optima Realty Corporation and a member the board of, PhilhealthCare, Inc.,
+Maestro Holdings, Inc., Philippine Life Financial Assurance Corporation, Philplans First, Inc.,
+United Coconut Chemicals, Inc., STI-West Negros University, and Philhealth Educators,
+Inc. He is also the Executive Committee Chairman of STI Education Services Group, Inc.
+and Founding President of Global Resource for Outsourced Workers. His extensive
+corporate experience covers financial services, manufacturing, transportation and logistics,
+energy, property development, ICT-enabIed education and services. His professional
+associations include the Philippines-UAE Business Council} Thailand-Philippines Business
+Council, Inc., and Philippine Chamber of Commerce and Industry. Mr. Tanco holds a Master
+of Science degree in Economics from the London School of Economics and Political
+Science. He finished his undergraduate studies at the Ateneo de Manila University.
+40
+===== page 57 / 80 =====
+*publicly-listed company
+Ma. Vivian Yuchengco
+67. Ms. Yuchengco has been a Director of the PSE since 2004. Previously, she was a
+Director during these periods: 1993-1994, 1996, 1998, and 2000-2001. She is a member of
+the Corporate Governance,Capital Markets Development, and Membership Committees of
+the PSE. She served as PSE Chairman from 2002 to 2003. In 1989, Ms. Yuchengco
+became the first woman to be elected as President of the Makati Stock Exchange. In 2000,
+serving as one of the Board of Trustees of the Securities Investors Protection Fund, she co-
+chaired the committee that worked towards the demutualization of the PSE- She is currently
+the Chairperson of The Philippine Association of Securities Brokers and Dealers, Inc. Ms.
+Yuchengco studied Economics in Newton College of Sacred Heart in Boston,
+Massachusetts. She has her own brokerage firm} The First Resources Management and
+Securities Corporation, which she manages and has been in operation for 41 years now.
+Omelita J. Tiangco
+Treasurer
+66. Ms. Tiangco has been the Treasurer of the Exchange since May 2010. She was a
+Director of the Company from August 2006 to March 2010 and from May 2010 to April 2011 ,
+and was a member of the Exchange's Corporate Governance and Audit Committees. She
+has likewise been the Treasurer of Securities Clearing Corporation of the Philippines and
+Capital Markets Integrity Corporation since June 2010 and June 2013, respectively, and
+Director and Treasurer of Premier Software Enterprise, Inc. since March 2019. She served
+as Executive Vice-President & Chief Finance Officer of the Government Service Insurance
+System (GSIS) from September 2004 to February 2010. Prior to that, she held various
+positions in GSIS such as Senior Vice President-Fund Management Groups Senior Vice-
+President-Internal Audit Group and Vice-President & Controller. She likewise served as
+President of the GSIS Mutual Fund, Inc., Director and Treasurer of GSIS Family Bank and
+Controller of GSIS Properties, Inc. Ms. Tiangco holds a Master's degree in Business
+Administration from the De La Salle University and a Bachelor of Science in Commerce
+degree from Arellano University. She is a Certified Public Accountant and is a fellow of the
+Institute of Corporate Directors.
+Aissa V. Encarnacion
+Corporate Secretary
+55. Atty. Encarnacion has been the Corporate Secretary of the Exchange and SCCP since
+February 2004 and a non-voting member of the Nominations and Elections Committee. She
+is a Partner of Zamora and Poblador Law Offices. She is a professorial lecturer at the
+University of the Philippines College of Law and Cesar Virata School of Business. Before
+she assumed her present PSE post, she was the Assistant Corporate Secretary of the
+Exchange from 2000 to 2003 and Acting Corporate Secretary from 2003 to February 2004.
+She is a member of the Board of Directors of various private companies, a Trustee of
+Empowering Brilliant Minds Foundation, Inc. and acts as Corporate Secretary for various
+companies. Prior to joining her present law firm, she was a Senior Associate of the Bengzon
+Narciso Cudala Jimenez & Liwanag Law Offices. She received her Bachelor of Laws and
+Bachelor of Science in Business Administration degrees from the University of the
+Philippines.
+PSE MANAGEMENT COMMITTEE
+41
+===== page 58 / 80 =====
+Roel A. Refran
+Senior Vice President and Chief Operating Officer
+47. Atty. Refran is the Senior Vice President and Chief Operating Officer of the Exchange
+since 2012. He is a certified public accountant and a lawyer. He started as General Counsel
+of the Exchange in 2005 and was the concurrent head of the Issuer Regulation Division in
+2010. He was an associate at SyCip Salazar Hernandez & Gatmaitan Law Offices from 1999
+to 2001. Prior to joining the Exchange in 2004, he was an associate at Angara Abello
+Concepcion Regala & Cruz Law Offices. He was chief of staff of Senator Ralph G. Recto
+from 2001 to 2004. He is the Chairman and President of Philippine Fulbright Scholars
+Association. Atty. Refran earned his degree in Bachelor of Science in Business
+Administration and Accountancy (BSBAA), Magna Cum Laude, from the University of the
+Philippines and obtained his Juris Doctor (JD) degree, Second Honors, from Ateneo de
+Manila University School of Law, He placed in the top 20 of the May 1995 CPA board
+examinations. Atty. Refran is also a bar topnotcher having placed fourth highest in the 1999
+bar examinations. He obtained his MBA degree, with specialization in capital markets and
+finance, from Emory University (USA) as a Fulbright Scholar. While at Emory University, he
+worked as an associate in the Emory Center for Alternative Investments and dealt with
+private equity, venture capital, hedge funds and other alternative investments. Atty. Refran
+has been inducted lifetime member of the Beta Gamma Sigma (international honor society in
+business)} and Pi Gamma Mu (international honor society in social sciences). He was
+recognized as the 2014 Distinguished Alumni Awardee by the University of the Philippines
+Virata School of Business. Atty. Refran is a member of the Commercial Law Department of
+the Philippine Judicial Academy.
+Rachelle C. Blanch
+Vice President and Head of Market Operations Division
+44. Ms. Blanch is Vice President and Head of the Market Operations Division of the
+Company since July 2008. She was promoted to the rank of Assistant Vice President in 2008
+and to Vice President in April 2011. She was the Head of the Applications Development
+Department of the former Information Technology Division before the Market Operations
+Division was created in 2008. She has been with the Exchange for 22 years. Prior to joining
+PSE, Blanch was Project Implementor at the Computer Information System. She earned
+her ITIL 2011 Foundation Certificate in IT Service Management in 2015; ITIL Intermediate
+Certificate in IT Operational Support and Analysis in 2017, and IT Service Offerings and
+Agreements in 2018; and Prince2@ Foundation Certificate in Project Management in 2017.
+In 2019, she attended the Project Management Institute Agile Certified Practitioner (PMI-
+ACP) Training. Ms. Blanch finished her Master's degree in Business Administration at the
+Graduate School of Business, De La Salle University. She graduated from the University of
+the Philippines with a Bachelor of Science Degree in Mathematics.
+Veronica V. Del Rosario
+Vice President and General Counsel
+39. Atty. Del Rosario was promoted to Vice President from Assistant Vice President in June
+2019. She has been PSE's General Counsel since May 2016. Atty. Del Rosario joined the
+Exchange in September 2010 as Legal Officer and later on appointed as the OIC of the
+Office of the General Counsel in 2015. Prior to joining the PSE, she was the Head of the
+Legal Department and the Division Manager of the Administrative & General Services
+Department at the Aurora Special Economic Zone Authority. She served as Associate at
+Jones & Associates, New York. She also held positions such as Associate Lawyer at
+42
+===== page 59 / 80 =====
+Mendoza Orozco & Bueno Law Offices in Olongapo City and as Junior Associate Lawyer at
+Ocampo & Manalo Law Firm in Makati City. She is a lecturer in the Certified Securities
+Specialist Course of PSE in partnership with De La Salle College of Saint Benilde. Atty. Del
+Rosario earned her Bachelor of Laws and Bachelor of Science in Business Economics
+degrees at the University of the Philippines. She is a member of the Philippine Bar and New
+York Bar.
+Philip A Driz
+Vice President and Head of Technology Division
+52. Mr. Driz has been Vice President since June 2019. He was Assistant Vice President
+when he joined PSE in October 2015 to head Technology Division. He has more than two
+decades of experience in project management, application development, infrastructure
+management, information security, IT risk management, IT helpdesk, data center operation
+and vendor management. Before joining PSE in October 2015, Mr. Driz was a Delivery Lead
+at Accenture where he held various positions including Technology Service Delivery Head for
+Asia Pacific. He also served as Assistant Vice President of the Information Management
+Division at RCBC Savings Bank. He held various executive positions such as Chief
+Information Technology Officer at Fiji National Provident Fund, and Senior Assistant Vice
+President Infrastructure Management Group at Philippine National Bank, among others. He
+graduated from the Manuel L. Quezon University with a Bachelor of Science Degree in
+Computer Science.
+Roberto Jose R. Jimenez
+Assistant Vice President and Head, Controllership & Treasury Division
+55. Mr. Jimenez joined the PSE in February 2019. He has been in the field of finance for
+close to two decades. He was the Director of Engineering Fleet Management Commercial
+and Finance of Cebu Air, Inc. from August 2010 to January 2019. From 2002 to 2010, he
+served as Finance and Administration Head of various Citadel Holdings subsidiaries
+including Textron Corporation, Citadel Shipping Services, Inc., and Rapid, Inc., where he
+concurrently served as the Group Comptroller for Citadel Holdings port area group of
+companies. Prior to handling the Finance Departments of the subsidiaries, he was a
+Business Development Manager for Citadel Holdings, Inc. He obtained his Master}s in
+Business Management degree from the Asian Institute of Management. He graduated with a
+Bachelor of Science in Industrial Engineering degree from the University of the Philippines.
+Mark Frederick V. Visda
+Assistant Vice President and Head, Capital Markets Development Division
+38. Mr. Visda was appointed Head of the Capital Markets Development Division in January
+2020. He served as Head of the Corporate Planning and Research Department (CPRD)
+from 2011 to February 2018, and OIC Division Head of CPRD and the Business
+Development and Market Data Business Departments from March 2018 to December 2019
+Prior to this appointment, he was a Research Analyst of the Exchange from 2006 to 2010. In
+between his work at the PSE, he had a stint as Senior Research Analyst for Global Business
+Development at Baker & McKenzie Global Services. He was also a Management Trainee at
+Entertainment Gateway Group Corp. Mark obtained his Economics degree from the Ateneo
+De Manila University. He completed his coursework for MA in Economics from the same
+university.
+43
+===== page 60 / 80 =====
+Item 10. Executive Compensation
+(a) Compensation of Directors and Executive Officers
+The Chairman receives a per diem of P310,000.00 a month from January to
+November 2020 and P370,OOO.00 for December 2020. The other directors receive a per
+diem of P50,000.00 for each board meeting attended from January to November 2020 and P
+75,000 for December 2020. The Corporate Secretary receives a per diem of P 12,500.00 for
+each meeting attended.
+The Chairman of the Board and the Corporate Secretary are not entitled to receive
+any salary or other annual compensation from the Company. The President, being a full-time
+officer, receives a fixed monthly compensation.
+In 2020 the directors as a group received total aggregate per diem of Phpl
+In 2019, the directors as a group received total aggregate per diem of
+Phpl
+The Corporate Governance Committee studies, sets and reviews the compensation
+structure of the entire organization of the Company including the Board of Directors. Its
+members for the period January 2020 to October 2020 were Jose T. Pardo (Chairman),
+Amor C. Iliscupidez, Edgardo G. Lacson, Vicente Panlilio} Wilson Sy, Eusebio Tanco, and
+Mar Vivian Yuchengco. During the Organizational Meeting on November 2, 2020, the
+following were elected as members of the Committee: Jose T. Pardo (Chairman), Teresita
+Leonardo-De Castro, Vicente Panlilio, Rolando L. Macasaet, and Ma. Vivian Yuchengco.
+(b) Summary Compensation Table
+The following table summarizes the actual aggregate compensation of the directors
+and officers of PSE in 2019 and 2020, and an estimate for 2021.
+44
+===== page 61 / 80 =====
+SUMMARY OF ANNUAL COMPENSATION (in Pesos)
+NAME AND
+POSITION
+Directors
+CEO and 4 most
+highly
+compensated
+officers
+Monzon, Ramon
+s.
+President and
+Chief Executive
+Officer
+(May 6, 2018-
+present)
+Refran, Roel A.
+Senior Vice
+President
+(Promoted eff:
+June 1, 2012)
+Blanch, Rachelle
+c.
+Vice President
+(Promoted eff:
+April 1, 2011
+Driz, Philip A.
+Assistant Vice
+President (Hired
+eff: October 1,
+2015)
+Rosario,
+Dei
+Veronica V.
+Assistant Vice
+President
+(Promote
+d eff: May 11,
+2016))
+YEAR
+2019
+(Actual)
+SALARY
+Php
+BONUS
+Php
+45
+OTHER
+COMPENSATION
+(Per Diem)
+Php
+Php 0.00
+TOTAL
+Php
+Php 52,720,439.64
+===== page 62 / 80 =====
+All other
+officers
+and
+directors as a
+group unnamed
+Total
+Note:
+NAME AND
+POSITION
+Directors
+CEO and 4 most
+highly compensated
+officers
+Monzon, Ramon S.
+President and Chief
+Executive Officer
+(May 6, 2018
+present)
+Refran, Roel A.
+Senior Vice President
+(Promoted eff: June 1,
+2012)
+Blanch, Rachelle C.
+Vice President
+(Promoted eff: April 1,
+7,739,156
+.46
+Php
+43,379,096.10
+2,288,333.
+33
+Php
+19,368,833.33
+Php
+SUMMARY OF ANNUAL COMPENSATION (in Pesos)
+YEAR
+2020
+(Actual)
+SALA
+Php
+Php
+36,148,924.60
+BONUS
+OTHER
+COMPENSATION
+(Per Diem)
+Php
+Php 0.00
+.79
+Php
+TOTAL
+Php
+Php 54,981 ,442.64
+2011)
+Driz, Philip A.
+Assistant
+Vice
+President (Hired eff:
+October 1, 2015)
+Del Rosario, Veronica
+Assistant
+President
+Vice
+(Promoted eff:
+May 11, 2016)
+46
+===== page 63 / 80 =====
+All
+other
+officers and directors
+as a group unnamed
+Total
+Note:
+NAME AND
+POSITION
+5,917,
+992.35
+Php
+42,066,916.95
+7
+Php
+Php
+SUMMARY OF ANNUAL COMPENSATION (in Pesos)
+YEAR
+2021
+(Estimate)
+Directors
+CEO and 4 most
+highly
+compensated
+officers
+Monzon, Ramon S.
+President and Chief
+Executive Officer
+(May 6, 2018
+present)
+Refran, Roel A.
+SALARY
+Php 37,513,347
+BONUS
+Php 6,279,484
+47
+OTHER
+COMPENSATION
+(Per Diem)
+Php
+Php O
+2
+Php
+75,989,129.66
+TOTAL
+Php
+Php 43,792,831
+Senior
+President
+Vice
+(Promoted eff: June
+1, 2012)
+Blanch, Rachelle C.
+Vice President
+(Promoted eff: April
+1, 2011)
+Driz, Philip A.
+Assistant
+Vice
+President (Hired eff:
+October 1, 2015)
+Del Rosario,
+Veronica V.
+Assistant
+President
+Vice
+(Promoted eff: May
+11, 2016)
+===== page 64 / 80 =====
+All
+officers
+other
+and
+directors as a group
+unnamed
+Total
+Note:
+Php 44,656,147
+Php 7,537,884
+Php
+8,401 ,200
+Php
+(c) Employment Contracts and Termination of Employment and Change in Control
+Arranqement
+The Company has no special arrangements, special employment contracts, or
+change in control arrangements with its directors or officers. The stockholders elected all its
+directors and the board of directors appointed its current senior officers.
+(d) Option Warrants and Options
+The Company has no outstanding warrants or option agreements with its directors.
+The Company has no outstanding warrants with its officers.
+Title of
+Class
+Common
+Name,
+Address of
+Record
+Owner and
+Relationship
+with Issuer
+*pCD
+Nominee
+Corporation
+- 37th Floor,
+Tower 1, The
+Enterprise
+Center, 6766
+Ayala
+Avenue,
+Makati City
+(no
+relationship)
+Depository
+Participan
+ts
+Name of
+Beneficial
+Owner and
+Relationshi
+p with
+Record
+Owner
+48
+Citizenship
+Filipino
+No. of
+Shares
+Total No. of
+Held
+Percent
+Shares
+73.22%
+59,960,991
+===== page 65 / 80 =====
+The First
+Resource
+S
+Managem
+ent &
+Securities
+Corp.
+Capital
+Venture
+Corp.
+(no
+relationship)
+Various
+Other
+Clients
+Banco de
+Oro —
+Trust
+Banking
+Group
+PLDT
+Retirement
+Fund
+(no
+relationship)
+Venture
+Securities
+Inc.
+Lucky
+Securities
+, Inc.
+Governme
+nt Service
+Insurance
+System
+Various
+Clients
+Various
+Clients
+GSIS
+Members
+(no
+relationship)
+49
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+7,877,761
+6,673,204
+(8.16%)
+(1.47%)
+7,173,200
+(8.16%)
+7,225,518
+6,673,201
+9.62%
+8.76%
+5.51%
+8.82%
+8.15%
+===== page 66 / 80 =====
+BDO
+Securities
+Corporati
+on
+*pcD
+Nominee
+Corporation
+- 37th Floor,
+Tower 1, The
+Enterprise
+Center, 6766
+Ayala
+Makati City
+(no
+relationship)
+San Miguel
+Corporation
+Retirement
+Plan
+Common - San Miguel
+Avenue,
+Ortigas, Pasig
+City
+(no
+relationship)
+Various
+Clients
+San Miguel
+Corporation
+Employees
+Filipino
+Foreign
+Filipino
+, 843
+3,734,011
+5.61%
+4.560/0
+9.23%
+An Employee Stock Purchase Plan was approved by the stockholders in the annual
+meeting held last 2 November 2020. The Secretary's Certificate showing the lists of officers
+and employees who exercised their rights in 2020 under the ESPP and subscribed to 64,326
+common shares for the 2019 offering, 69,024 common shares for the 2019 2nd offering,
+and 84,363 common shares for the 2020 offering, is attached hereto as Annex "D."
+Item 11. Security Ownership of Certain Beneficial Owners and Management
+Security Ownership of Certain Record and Beneficial Owners (of more
+than 5%) as of 31 march 2021.
+There are no record and beneficial owners of more than 5% of the Company's
+securities as of 31 March 2021 except the following:
+*PCD Nominee Corporation (PCNC) is a wholly owned subsidiary of Philippine
+Depository and Trust, Inc. (PDTC) and is the registered owner of the shares in the books of
+the Company's transfer agent. PDTC participants deposit eligible securities in PCD through
+a process called lodgment, where legal title to the securities is transferred and held in trust
+by PCNC and trading participants.
+** We have no knowledge of the beneficial owners of these participants. As of date
+hereof, information on beneficial owners are still being obtained. Once obtained, the
+50
+===== page 67 / 80 =====
+Company can provide detailed information upon request.
+There are no other individuals or corporations who are the beneficial owners of more
+than 5% of the Company's securities.
+The Company has no knowledge of the specific persons who will be designated as
+the representatives of the foregoing during the annual stockholders' meeting.
+(b)
+Security Ownership of Management as of 31 March 2021.
+As of 31 March 2021, the following represent the security ownership of certain
+members of the Company's Board of Directors and Management:
+51
+===== page 68 / 80 =====
+Tit:e oi
+Class
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+Common
+n.a.
+Common
+Common
+Common
+Common
+n.a.
+Common
+Common
+Name of Beneficial
+Owner
+Diosdado M. Arroyo
+Emmanuel O. Bautista
+Anabelle L. Chua
+Francis C. Chua
+Ferdinand K. Constantino
+Consuelo D. Garcia
+Eddie T. Gobing
+Amor C. Iliscupidez
+Edgardo G. Lacson
+Teresita J. Leonardo-De
+Castro
+Roberto Cecilio O. Lim
+Rolando Jose L. Macasaet
+Ramon S. Monzon
+Vicente L. Panlilio
+Jose T. Pardo
+Wilson L. Sy
+Eusebio H. Tanco
+Alejandro T. Yu
+Ma. Vivian Yuchengco
+Aissa V. Encarnacion
+Omelita J. Tiangco
+Roel A. Refran
+Rachelle C. Blanch
+Veronica Vicedo-Del
+Rosario
+Philip A. Driz
+Roberto Jose R. Jimenez
+Mark Frederick V. Visda
+Aggregate Amount
+Amount of
+Beneficial
+Ownership
+1
+2
+4
+4
+1
+1
+2
+2
+1
+1
+1
+1
+156,909
+1
+1
+100
+48
+4
+2,400
+50
+95,536
+12,357
+1 ,006
+4280
+15,410
+3,947
+291 ,064
+1 ,006
+52
+Nature
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+Direct
+n.a.
+Direct
+Direct
+Direct
+Indirect
+Direct
+n.a.
+Direct
+Direct
+Direct
+Indirect
+Citizenship
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+Filipino
+FilipinO
+Filipino
+Filipino
+Percent of
+Class
+n.a.
+===== page 69 / 80 =====
+Note:
+"d" — direct ownership
+i - indirect ownership
+— less than 1%
+(c) Voting Trust Holders of 5% or more
+As of 31 march 2021, no person holds more than five percent (5%) of the Company's
+outstanding capital stock under a voting trust.
+(d) Changes in Control
+There are no arrangements that may result in change in control of the Company.
+There is no provision in the Company's Articles of Incorporation and By-Laws that
+may cause delay or deferment of, or in any manner, prevent a change in control of the
+Company.
+No change in control of the Company has occurred since the beginning of the fiscal
+year.
+Security Ownership of Foreigners
+As of 31 March 2021, 3,990,024 shares, which is equivalent to 4.87% of the total
+outstanding stock, are owned by foreigners.
+Item 12. Certain Relationships and Related Transactions
+The Company has not had any transaction in which any director, executive officer or
+stockholder or a member of the immediate family of the foregoing persons had a direct or
+indirect interest during the last two years except the transaction fees and other fees collected
+from trading participants-stockholders. A detailed explanation of these transaction fees is
+discussed in Note 29 of the Audited Financial Statements.
+IV. CORPORATE GOVERNANCE
+Item 13. Corporate Governance Initiatives
+Corporate Governance and Sustainability Initiatives
+In support of its advocacy and market-wide efforts to raise corporate governance
+standards in the Philippines, the Company conducted a number of initiatives in 2020. It also
+continued to pursue activities that are intended to strengthen its own corporate governance
+as a publicly listed company.
+53
+===== page 70 / 80 =====
+Board Assessment
+The Company's Board Assessment Guidelines was approved on 22 March 2017 and
+the Board of Directors has annually conducted its individual and group assessment since
+then.
+The Board Assessment is intended to evaluate the mix of skills, experience and other
+relevant qualities our Directors bring to the Board, and takes into account the individual
+director's ability to exercise independent judgment at all times and to contribute to the
+effective functioning of the Board. The Individual Assessment process also examines the
+ability of each Board member or Committee member to give material input at meetings and
+to demonstrate a high level of professionalism and integrity in the decision-making process.
+The Board's effectiveness is assessed in the areas of composition, administration,
+accountability and responsibility, conduct, and performance.
+3rd Bell Rinqinq for Gender Equality
+On March 11, the Company commemorated the International Women's Month. The
+keynote speaker of the bell ringing event is the Ambassador of Austria to the Philippines and
+European Union's Gender Champion, Bita Rasoulian. The Bell Ringing for Gender Equality
+was also attended by representatives of IJN Women and IJN Global Compact.
+Further, as a sign of its commitment in promoting inclusive and diverse workplace,
+the Company became the first ASEAN stock exchange signatory of IJN Women's Women
+Empowerment Principles.
+7th SEC — PSE Corporate Governance Forum
+The 7th SEC — PSE Corporate Governance Forum was held virtually on November
+19 via Zoom platform. Over 900 representatives of publicly listed companies and accredited
+training institutions attended the said event.
+NEDA Secretary Karl Chua delivered the keynote speech discussing the "Impact of
+COVID-19 to the Economy". The forum included two panel discussions: (1) Corporate
+Governance in the New Normal and (2) Social Opportunities and Resilience in Challenging
+Times. Also, Commissioner Kelvin Lester Lee discussed SEC regulatory updates and policy
+changes due to the pandemic.
+Roundtable Discussion for Sustainability
+The PSE hosted three virtual round table sessions on different sustainability topics
+for the publicly listed companies. In each session, the PSE invited two (2) resource person
+who can share their experiences and best practice regarding the topic:
+54
+===== page 71 / 80 =====
+Date
+October 21
+November 18
+December 9
+Topic
+Gender Inclusive
+Workforce
+COVID-19 Response:
+Best Practices in the New
+Normal
+Achieving Climate
+Neutrality
+Resource Person
+Ms. Paola Marguerite Verayo
+HR Business Partner for
+Customer Retail
+Manila Electric Company
+Ms. Ma. Rosalyn Mesina
+Country Program Manager —
+WE Empower Asia
+UN Women Philippines
+Ms. Ma. Victoria Tan
+Head, Group Risk
+Management and
+Sustainability Unit
+Ayala Corporation
+Mr. Dave Jesus Devilles
+Vice President —
+Sustainability, CSR and
+Employee Relations
+Engr. Edgar Sabidong
+Chief Sustainability Officer
+Arthaland Corp.
+Ms. Agnes De Jesus
+Chief Sustainability Officer
+First Philippine
+Holdings Corp.
+The event was attended by representatives of publicly listed companies. To
+encourage an open discussion among representatives, we limited the number of attendees
+to the minimum. We plan to host more roundtable discussions with publicly listed companies
+to openly discuss sustainability issues and topics. This is to raise the awareness of the
+publicly listed companies regarding sustainability.
+Sustainability Report
+The Company submitted its 2019 Sustainability Report in compliance to the SEC
+Memorandum No. 4, Series of 2019 on Sustainability Reporting Guidelines on June 30: The
+report provides a comprehensive set of sustainability data and management response in
+continuously improving the company's ESG (environment, social and governance)
+performance.
+Aligned with previous sustainability reports, the Company still maintains a fully GRI
+compliant Sustainability Report housed internally.
+55
+===== page 72 / 80 =====
+Corporate Governance Traininq for Directors
+Majority of the directors of the Company attended the 7th SEC-PSE Corporate
+Governance Forum. The director/s who was not able to attend the forum, attended a
+separate training that is accredited by the Securities and Exchange Commission.
+ASEAN Corporate Governance Scorecard
+The Company received recognition from the Institute of Corporate Directors with its
+2019 ACGS submission in 2020. Last February 19, 2021, the ICD, along with the SEC,
+awarded the company two Golden Arrows for its 2019 submission.
+Internal Sustainability Initiatives and Promotinq Good Governance Practices in the
+Workplace
+Throughout the year, the Company ensured that the practice of good governance is
+implemented within the Company's operations. Further, the Company implemented different
+initiatives, such as employee shuttle and vitamins allowance, to ensure that the employees are
+protected during the pandemic.
+Compliance with Manual on Corporate Governance
+The Company substantially adopted the provisions of its Manual on Corporate
+Governance for the calendar year ending 31 December 2020. A copy of the Certification of the
+Compliance with the Manual on Corporate Governance is attached hereto as Annex "E."
+V. EXHIBITS AND SCHEDULES
+Item 14. Exhibits and Reports on SEC Form 17-C
+Various disclosures were reported using SEC Form 17-C from January to
+December 2020:
+56
+===== page 73 / 80 =====
+Date
+8 January 2020
+15 January 2020
+15 January 2020
+23 January 2020
+26 February
+2020
+26 February
+2020
+26 February
+2020 (amended)
+6 March 2020
+6 March 2020
+29 April 2020
+29 April 2020
+10 June 2020
+24 June 2020
+29 July 2020
+(Amendment 11
+December 2019)
+Particulars
+Certification on the Corporate Governance Trainings attended by the Officers
+and Directors of the Company in 2019.
+Application of the proceeds, for the year ended 31 December 2019, of the
+stock rights offering ("SRO") of the Company equivalent to 11.50 million
+common shares listed last 22 March 2018
+Application of the proceeds, for the fourth quarter ending 31 December 2019,
+of the stock rights offering ("SRO") of the Company equivalent to 11.50 million
+common shares listed last 22 March 2018
+The Company bought 240,000 PSE shares from Regis Partners, Inc. at P 181
+per share, with total purchase price of as part of the
+continuing efforts of the Company to reduce broker ownership to 20%.
+Approval of the Company's Audited Financial Statements as of 31
+December 2019, as audited by the accounting firm of SGV & Company.
+Appointment of Mr. Rolando L. Macasaet, a director of the Company, as
+member of the Investment Committee effective immediately.
+Approval of the Company's Audited Financial Statements as of 31
+December 2019, as audited by the accounting firm of SGV & Company.
+Announcement of the Company's analystS briefing on March 16, 2020 to
+discuss the Company's 2019 financial results.
+Change in the issued and outstanding shares of the Company due to an
+additional Sixty Four Thousand Three Hundred Twenty Six (64,326) shares
+obtained through the Employee Stock Purchase Plan (ESPP).
+Resetting of the Company's annual stockholders' meeting from 6 June 2020
+to 4 July 2020.
+Amendment of the Bylaws to include a provision that allows meetings of the
+board and stockholders through remote communication, such as video
+conferencing, teleconferencing, or other alternative modes of communication
+in accordance with prevailing rules, regulations and guidelines.
+Application of the proceeds of the stock rights offering of the Company,
+equivalent to 11.50 million common shares listed last 22 March 2018.
+Postponement of the annual stockholders 'meeting set on 4 July 2020.
+The annual stockholders' meeting of The Philippine Stock Exchange, Inc.
+(PSE) will be on 12 September 2020, Saturday, 8:00 a.m.
+57
+===== page 74 / 80 =====
+19 August 2020
+(Amendment 11
+March 2020)
+28 August 2020
+16 September
+2020
+(Amendment 11
+December 2019)
+30 September
+2020
+(Amendment 11
+December 2019)
+1 October 2020
+15 October 2020
+2 November
+2020
+25 November
+2020
+10 December
+2020
+Postponement of the annual stockholders' meeting of the Company until after
+the approval of the Nomelec Rules by the SEC.
+The Capital Markets Integrity Corporation, a wholly-owned subsidiary of the
+Company, declared cash dividend in the amount of Php25 million which the
+Company received today.
+The annual stockholders' meeting of The Philippine Stock Exchange, Inc.
+(PSE) will be on 14 November 2020, Saturday, 8:00 a.m.
+The annual stockholders' meeting of The Philippine Stock Exchange, Inc.
+(PSE) will be on 2 November 2020, Saturday, 8:00 a.m.
+Renewal of the Employee Stock Purchase Plan which will have a duration of
+three (3) years from 2021 to 2023 ("Proposed ESPP").
+Application of the proceeds for the third quarter ending 31 December 2020 of
+the stock rights offering ("SRO") of the Company equivalent to 11.50 million
+common shares listed last 22 March 2018.
+The Stockholders approved the appointment of Sycip Gorres Velayo & Co.
+(SGV) as the external auditor of the Company.
+Election of Directors, Officers, and Committee Members of the Company for
+the year 2020 to 2021.
+The Stockholders approved the renewal of the Employee Stock Purchase
+Plan ("ESPP").
+The Securities Clearing Corporation of the Philippines (SCCP), a wholly
+owned subsidiary of the PSE declared cash dividend in the amount of P150
+million to its stockholders of record as of 25 November 2020, payable on 21
+December 2020.
+An additional Sixty-Nine Thousand Twenty-Four (64,024) shares were issued
+to employees pursuant to the Employee Stock Purchase Plan (ESPP) and the
+three (3) additional qualifying shares were issued to new directors.
+58
+===== page 75 / 80 =====
+Attendance of Directors
+The following is the attendance of the board of directors of the Corporation in
+meetings from 22 January 2020 to 21 October 2020:
+Name of Director
+Jose T. Pardo - Chairman
+Ramon S. Monzon - President & CEO
+Emmanuel O. Bautista
+Anabelle L. Chua
+Francis Chua
+Eddie Gobing
+Amor C. Iliscupidez
+Edgardo G. Lacson
+Roberto Cecilio O. Lim
+Rolando L. Macasaet
+Vicente L. Panlilio
+Wilson L. Sy
+Eusebio H. Tanco
+Alejandro T. Yu
+Ma. Vivian Yuchengco
+Total
+Meetings
+11
+11
+11
+11
+11
+11
+11
+11
+11
+11
+11
+11
+11
+11
+11
+Total
+Absent
+0
+1
+0
+0
+0
+0
+1
+Total
+Present
+11
+11
+11
+10
+11
+11
+11
+11
+11
+11
+10
+11
+11
+11
+11
+The following is the attendance of the board of directors of the Corporation
+elected on 2 November 2020 in meetings from 2 November 2020 to 16 December
+2020:
+59
+===== page 76 / 80 =====
+Name of Director
+Jose T. Pardo - Chairman
+Ramon S. Monzon - President & CEO
+Diosdado M. Arroyo
+Anabelle L. Chua
+Teresita Leonardo-de Castro
+Ferdinand K. Constantino
+Consuelo D. Garcia
+Eddie T. Gobing
+Edgardo G. Lacson
+Roberto Cecilio O. Lim
+Rolando L. Macasaet
+Vicente L. Panlilio
+Wilson L. Sy
+Eusebio H. Tanco
+Ma. Vivian Yuchengco
+Total
+Meetings
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+Total
+Absent
+0
+0
+0
+0
+0
+Total
+Present
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+The following tables show the attendance of directors in committee meetings for the
+year 2020.
+AUDIT COMMITTEE:
+DIRECTOR
+Roberto Cecilio O. Lim — Chairman
+Anabelle L. Chua
+Amor C. Iliscupidez
+Eusebio H. Tanco
+Alejandro Yu
+TOTAL
+PRESENT
+4
+3
+4
+3
+4
+TOTAL
+ABSENT
+1
+1
+Total
+Meetings
+4
+4
+4
+4
+4
+60
+===== page 77 / 80 =====
+2 November 2020 onwards
+DIRECTOR
+Vicente Panlilio — Chairman
+Anabelle L. Chua
+Ferdinand Constantino
+Consuelo Garcia
+Robert Cecilio Lim
+CORPORATE GOVERNANCE COMMITTEE
+DIRECTOR
+Jose T. Pardo
+Amor C. Iliscupidez
+Vicente L. Panlilio
+Eusebio Tanco
+Wilson L. Sy
+Ma. Vivian Yuchengco
+Edgardo G. Lacson
+TOTAL
+PRESENT
+3
+3
+3
+3
+3
+TOTAL
+PRESENT
+1
+1
+1
+1
+1
+1
+1
+NOMINATIONS AND ELECTIONS COMMITTEE
+DIRECTOR
+Vicente L. Panlilio**
+William Ang
+Edgardo Lacson
+Remy Tigulo
+Aissa u Encarnacion
+Veronica V. Vicendo-Del Rosario
+TOTAL
+PRESENT
+5
+6
+6
+4
+6
+6
+61
+TOTAL
+ABSENT
+0
+TOTAL
+ABSENT
+TOTAL
+ABSENT
+2
+Total
+Meetings
+3
+3
+3
+3
+3
+Total
+Meetings
+1
+1
+1
+1
+1
+1
+1
+Total
+Meetings
+5
+6
+6
+6
+6
+6
+===== page 78 / 80 =====
+2 November 2020 onwards
+DIRECTOR
+Teresita J. Leonardo-De Castro
+Jose T. Pardo
+William Ang
+Edgardo Lacson
+Remy Tigulo
+Aissa V. Encarnacion
+Veronica u Vicendo-Del Rosario
+TOTAL
+PRESENT
+1
+1
+2
+2
+1
+2
+2
+TOTAL
+ABSENT
+0
+1
+Total
+Meetings
+1
+1
+2
+2
+2
+2
+2
+VI. SUSTAINABILITY REPORT
+A copy of the Company's Sustainability Report is attached as Annex "F."
+62
+===== page 79 / 80 =====
+SIGNATURES
+Pursuant to the requirements of Section 17 of the Code and Section 141 of the
+Corporation Code, this report is signed on behalf of the issuer by the undersigned,
+thereunto duly authorized, in Taguig City on
+By:
+RAMON S. MONZON
+President and Chief Executive Officer
+R BERTOJ
+Head
+NEZ
+Fina ce
+A
+OMELIT J. TIANGCO
+Treasurer
+AV. ENCARNACION
+rporate Secretary
+MAY 1 0
+affiants
+SUBSRIBED AND SWORN to before me this
+exhibiting to me their Government Issued IDs as follows:
+NAMES
+RAMON S. MONZON
+OMELITAJ. TIANGCO
+ROBERTO JOSE R. JIMENEZ
+AISSA V. ENCARNACION
+Doc. No.
+Page NO•ZÄ-
+Book NO• -----..-Z---
+Series of 2021.
+GOVERNMENT
+ISSUED ID
+eas'prå No.
+Pascpor4 t.)o.
+qto A
+Driver' License
+Rou
+43
+No. 730,v/
+(00
+DATE OF
+ISSUANCE/EXPIRY
+MAR
+A uel
+DEC
+aug
+2022
+PRANA
+PLACE OF
+ISSUANCE
+PFA Manilq
+race sov+h
+Manilq
+• Pu blic
+ITTf:ii ."1,
+I:'vféfided 30, per B. N No.
+No. 12-15-20m: City
+Admi:ind to the Bar in 2:31')
+'ntarial Commission No. hf-GÆ4
+5F Monfep;no Bidg., 138 Anunrsolo St.,
+Legaspi Makati Ciåy
+===== page 80 / 80 =====
+THE PHILIPPINE STOCK EXCHANGE, INC.
+INDEX TO FINANCIAL STATEMENTS AND SUPPLEMENTARY SCHEDULES
+FORM 17-A, Item 7
+Statement of Management's Responsibility for Financial Statements
+Audited Consolidated Financial Statements
+Independent Auditors' Report
+Consolidated Statements of Financial Position as of December 31,
+2020 and 2019
+Consolidated Statements of Comprehensive Income for the Years
+Ended December 31, 2020, 2019, and 2018
+Consolidated Statements of Changes in Equity for the Years Ended
+December 31, 2020, 2019, and 2018
+Consolidated Statements of Cash Flows for the Years Ended
+December 31, 2020, 2019, and 2018
+Notes to Consolidated Financial Statements
+Audited Parent Financial Statements
+Independent Auditors' Report
+Parent Company Statements of Financial Position as of December 31 ,
+2020 and 2019
+Parent Company Statements of Comprehensive Income for the Years
+Ended December 31, 2020 and 2019
+Parent Company Statements of Changes in Equity for the Years Ended
+December 31, 2020 and 2019
+Parent Company Statements of Cash Flows for the Years Ended
+December 31, 2020 and 2019
+Notes to Parent Company Financial Statements
+64
+Annex "A"
+Annex "B"
+Annex "C"

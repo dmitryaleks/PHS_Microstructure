@@ -1,0 +1,140 @@
+===== page 1 / 3 =====
+b.
+c.
+d.
+e.
+g.
+h.
+15
+Trading Participants shall ensure compfiance with the System Order Ticket Rule
+and Best Execution Rule when aggregating an Order of a client with an Order for
+another client;
+Salesmen/Traders shall not aggregate the Order of a client with their proprietary
+account;
+A foreign aggregated Order can be unbundled into a foreign, local and/or error
+account;
+A local aggregated Order can only be distributed to local clients and/or error
+account;
+In cases where client Orders have been aggregated but the matched trade
+transaction does not fully satisfy the total Orders, the matched Orders shall be
+allocated by the Trading Participant among the different underlying Orders in a
+fair and reasonable manner, consistent with the best interest of alf their clients.
+Clients whose Orders are aggregated shall be made aware of the allocation
+procedures;
+Distribution of matched aggregated Orders shall be done during the period
+prescribed by the Exchange;
+The Trading Participant warrants to the Exchange and Clearing Agency that all
+aggregated Orders are duty authorized and approved by their clients.
+SECTION 5. Short Selling
+5.1 General Provisions
+These Rules set out the requirements for the conduct of Short Selling in the
+Exchange.
+a.
+b.
+c.
+Only Eligible Securities may be short-sold by the Trading Participants,
+whether for principal or client account transactions.
+The Exchange shall regularly publish the list of Eligible Securities for the
+information and guidance of the investing public.
+If a Short Sale transaction will be settled by the delivery of borrowed
+Securities. then the securities borrowing and lending transaction should
+comply with the applicable rules of the Exchange and the SEC.
+5.2 Trading
+b.
+The applicable rules of the Exchange shall apply to Short Sale transactions in
+the same manner as they apply to normal safe transactions.
+Up Tick Rule. Pursuant to the provisions of SRC Rufe 24.2-21 paragraph 3 on
+"Execution of Short Sale", no Trading Participant shall use the facility of the
+===== page 2 / 3 =====
+c,
+d.
+e.
+f.
+16
+Exchange to effect a Short Safe of any Eligible Security unless the
+transaction is:
+i. at a price higher than the last sale price; or
+ii. at the price of the last sale, only if that price is above the next preceding
+different sale price on such day.
+A Short Selling Order is valid only for one (1) Trading Dayu Short Selling
+transactions are not allowed during the Pre-Open and Pre-Ciose Periods.
+Naked Short Selling. A Trading Participant shall not place a Short Sale Order
+for Eligible Securities, whether it is a principal or client Order, without:
+borrowing the Eligible Securities before the Short Sale' or entering into a prior
+securities borrowing and lending agreement to ensure that the Eligible
+Securities are available for delivery on settlement date, or having an
+exercisable and unconditional right to vest the Eligible Securities on the
+purchaser on settlement date.
+The Trading Participant, upon receiving an Order to Short Sell or when Short
+Selling for its own account, must identify its Order as a Short Selling
+transaction in the automated Trading System of the Exchange upon Order
+entry.
+Trading Participants shall comply with their obligations under SRC Rule 24.2-
+2 on "Short Sates", paragraph 5 on "Mandatory Close-Out".
+5.3 Prohibitions and Penalties
+a.
+b.
+c.
+No director, officer or principal stockholder of a corporation shall make a
+Short Sale in Securities of the corporation in which he is a director, officer or
+principal stockholder.
+The Exchange may restrict or prohibit Short Selling indefinitely or for such
+period as it may deem necessary or advisable for the protection of investors
+and to maintain and ensure a fair and orderly market, with due notice to the
+Commission.
+The Exchange reserves the right, at its discretion, and as it may deem
+necessary in the public interest or advisable for the protection of investors, to
+perform any or all of the following:
+i.
+iii»
+to suspend the Short Selling of a particular Eligible Security, provided that
+the participants are duly notified thereof;
+to remove a particular Security from the list of Eligible Securities;
+to impose limits on the number of shares of Eligible Securities which may
+be sold short;
+===== page 3 / 3 =====
+iv.
+v.
+vi.
+vii.
+17
+to require a Short Selling Trading Participant to cease Short Selling,
+whether temporarily or permanently, and either generally or in relation to
+Eligible Securities, provided that the participants are duly notified thereof;
+to require a Short Selling Trading Participant to liquidate open sold short
+positions held on his or its own account or for the account of his or its
+clients either generally or in relation to Efigibte Securities;
+to require a Trading Participant to disclose to the Exchange and the SEC
+the number of shares of Eligible Securities in which the Trading
+Participant holds an open sold short position, or the value of borrowed
+Securities sold short, either on his or its own account or for the account of
+his or its clients; and
+to impose other limitations as may be required by the PSE for the
+maintenance of a fair and orderly market and for the protection of the
+investing public.
+SECTION 6. Reference Price
+The Reference price be:
+a. the previous Trading Day's Closing Price;
+b* the Adjusted Closing Price (ACP) in the event of corporate actions that would
+result to an adjustment of the Closing Price; or
+c. the Last Traded Price or the last ACP in cases where there is no trading
+activity for the Security in the immediately preceding Trading Day.
+SECTION 7. Trading Threshold
+a.
+b.
+c.
+d,
+e.
+The price for an Order shall be within the Trading Threshold for the Trading Day.
+Under these Rules, the Trading Threshold refers to the Static and Dynamic
+Thresholds.
+The upper Static Threshold shall be fifty percent (50%) above the Reference
+Price while the lower Static Threshold shall be fifty percent (50%) below the
+Reference Price.
+The above provision shall not apply to warrants.
+Dynamic Threshold shall be determined according to the price range and
+historical performance of the Security.
+The Exchange has the authority to adjust the Trading Threshold for a Security,
+provided the Order that breached the Trading Threshold falls within the allowable
+price percentage difference as provided under the Implementing Guidelines of
+these Rules.

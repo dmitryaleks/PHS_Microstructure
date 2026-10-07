@@ -1,0 +1,54 @@
+===== page 1 / 2 =====
+CiC
+To
+Subject
+Date
+TPA - No. 2012-0099
+MEMO FOR BROKERS - 2012-06
+All Trading Participants
+Reminder on compliance with CMIC Rules Article XI-B, Section 8
+(Responsibilities of Trading Participants in Executing Orders to
+Avoid Market Manipulation)
+20 June 2012
+Trading Participants ("TPs") are reminded to comply with Article XI-B, Section 8 of the CMIC
+Rules, which explains the responsibilities of TPs in executing orders to avoid possible market
+manipulation. The said provision states as follows:
+"Section 8. Responsibilities by Trading Participants in Executing Orders to Avoid
+Market Manipulation. It shall be unlawful for any Trading Participant, associated person or
+salesman of a Trading Participant (hereinafter collectively referred to as "Registered Person")
+to make a bid or offer for, or deal in securities, for the account of the Registered Person or
+any other person where the Registered Person intends to create or taking into account the
+circumstances of the order, the Registered Person reasonably suspects that a person has
+placed the order with the intention of creating a false or misleading appearance of active
+trading in any security or with respect to the market for, or the price of, any security.
+If the Trading-Participant reasonably suspects a violation of the preceding
+paragraph, the trading participant shall inform CMIC in writing of such possible violation within
+twenty (24) hours. Failure to notify CMIC shall raise the presumption that the Trading
+Participant is engaged in manipulative activity.
+In considering whether an order violates Section 24 of the Securities Regulation
+Code, a Trading Participant shall consider:
+(a) Whether the order, or execution of the order, would , materially alter the
+market for, and/or the price of, the securities;
+(b) The time the order is entered or any instructions concerning the time of entry
+of the order;
+CMIC OFFICE: Philippine Stock Exchange Plaza, Ayala Triangle, Ayala Avenue Makati City 1200 Tel no: 4030131 Tele fax: 6596001
+===== page 2 / 2 =====
+(c) Whether the person on whose behalf the order is placed, or another person who the
+Trading Participant knows to be a related party of that person, may have an interest in
+creating
+(d) Whether the order is accompanied by settlement, delivery or security arrangements
+which are unusual;
+(e) Whether the order appears to be part of a series of orders, whether when put together
+with orders which appear to make up the series, the order or the series is unusual having
+regard to the matters referred to in this paragraph 3; and
+(f) Whether there appears to be a legitimate commercial reason for that person placing the
+order, unrelated to an intention to create a false or misleading appearance of active
+trading in or with respect to the market for, or price of, any security.
+Failure to consider these factors shall raise a presumption that a transaction/s is
+manipulative.
+Obligations imposed on Registered Persons under this Rule apply in respect of all orders,
+irrespective of the trading system used."
+Please note that this provision was adopted verbatim by the CMIC Rules from Article X-B,
+Section 8 of the Amended Market Regulation Rules.
+President and Chief Ex utive Officer
+CMIC OFFICE: Philippine Stock Exchange Plaza, Ayala Triangle, Ayala Avenue Makati City 1200 Tel no: 4030131 Tele fax: 6596001

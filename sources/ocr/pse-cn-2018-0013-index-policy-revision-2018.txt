@@ -1,0 +1,477 @@
+===== page 1 / 15 =====
+O.
+MEMORANDUM
+THE PHILIPPINE STOCK EXCHANGE, INC.
+Trading
+Disclosure
+Listing
+Ü PUblic Advisory
+Ü Administrative/Technology Matters
+Others: Revised Policy on Index Management
+TO
+DATE
+SUBJECT
+INVESTING PUBLIC AND ALL TRADING PARTICIPANTS
+FEBRUARY 12, 2018
+REVISED POLICY ON INDEX MANAGEMENT
+The Philippine Stock Exchange is implementing revisions to its policy on managing the PSE
+Index Series. The changes are part of the Exchange's initiatives to ensure that the PSE's
+indices remain at par with global standards and responsive to the changing needs of the market.
+Highlights of the amendments to the index management policy are as follows:
+1.
+Increase in free float level to 15% from the current 12% to qualify for PSEi inclusion;
+2. The 15% public float requirement will also apply for membership in the sector indices;
+3. Financial criteria may be used for screening new PSEi members and qualified companies
+for sector index membership; and
+4. Adjustments to the schedule for index recomposition, which shall be moved earlier to
+February and August yearly from the previous March and September schedules.
+The said policy takes effect in the index recomposition scheduled in February 2018.
+For the information and guidance of the investing public and market participants, please refer to
+the attached revised Policy on Index Management.
+RAMON S. MONZON
+President and CEO
+CTO : FRAO
+•e; No 633-7±61 • aes-75E2
+h10D : TO
+No :
+IRD
+ess.7s1c
+CMOD ; CPIRD
+Nc E.ss-7S3C •
+/L4L
+coo
+OCC CGO
+No .
+===== page 2 / 15 =====
+February 2018
+PSE
+[POLICY ON INDEX
+MANAGEMENT]
+===== page 3 / 15 =====
+www.pse.com.ph
+POLICY ON INDEX MANAGEMENT
+SECTION 1 - Introduction
+1.1.
+1.2.
+General Policies
+I.I.I. This document sets out the policy of the Philippine Stock Exchange, Inc. (PSE or
+Exchange) for the management of the PSE Index Series.
+111.2. The PSE Index Series was created to provide investors and market participants a
+set of benchmarks that measures the performance of Philippine stock market and
+its specific industry segments.
+1.1.3. Any change or revision in the policies contained herein shall be duly announced
+to the public for the information and guidance of all concerned.
+The PSE Index Series
+1.2.1. The PSE index series consists of the PSEi, six sector indices and the All Shares
+Index. With the exception of the All Shares Index, all these indices are free float-
+adjusted.
+PSEi. The PSEi is the main index of the Exchange. It is composed of a fixed
+basket of 30 companies, whose selection is based on a specific set of criteria.
+The PSEi measures the relative changes in the free float-adjusted market
+capitalization of the 30 largest and most active common stocks listed at the PSE.
+By gauging changes in the stock prices of select listed companies, the PSEi
+provides a snapshot of the market's overall condition. The base level of the PSEi
+was pegged at 1,022.045 points. This was reckoned according to the close of the
+index on February 28, 1990, which is the PSEi's base date.
+The name PSEi was adopted by the Exchange in April 2006. In the past, various
+labels were used to refer to the Exchange's main index, such as the Phisix and
+the PSE Composite Index.
+Sector Indices. To track the performance of specific sectors of the market, the
+PSE also maintains six sector indices representing each major sector under the
+industry classification of the Exchange. These indices are the (1) Financials
+Index; (2) Industrial Index; (3) Holding Firms Index; (4) Property Index; (5)
+Services Index; and (6) Mining & Oil Index. Below is a summary of the base date
+and base value of each index:
+Philippine Stock Exchange I
+===== page 4 / 15 =====
+POLICY ON INDEX MANAGEMENT
+www.pse.com.ph
+Table 1. Base date and values of PSE Sector Indices
+Indices
+Financials
+Industrial*
+Holdin Firms
+Services
+Minin & Oil*'
+Notes:
+Base date
+Base value
+14-Nov-96
+28-Feb-90
+29-Dec-05
+30-Se -94
+29-Dec-05
+28-Feb-90
+1 000.00
+1 422.20
+1,000.00
+1 000.00
+1,000.00
+4 752.45
+1.3.
+*Base date shown is the date when the market
+capitalization method was first used to compute the
+indices. Base value refers to the average index level
+quoted at that time by PSE's two precursors, the MSE and
+MKSE.
+**Originally 100.00 but the index was realigned to the
+1,000.00 level starting November 15, 1996 (all prior values
+x 10).
+***Previously separate, the Mining and Oil sectors, along
+with their respective indices, were folded together on
+January 2, 2006, with the combined index continuing the
+level of the Mining index.
+All Shares Index. The All Shares Index is a complementary index to the PSEi.
+It is considered a broader barometer of the index, because it includes all the
+common stocks of companies listed at the Exchange. The base value of the All
+Shares Index was set on November 14, 1996, at 1,000.00 points. The full
+market capitalization method is used in computing the All Shares Index. The All
+Shares index excludes those listed in the Small, Medium and Emerging (SME)
+Board.
+Index Calculation Mode
+103.1. The PSE index series are calculated and broadcasted through the PSEtrade XTS.
+1.3.2. The index levels calculated are displayed on all the computer terminals linked to
+the PSEtrade XTS and are broadcasted to members and data vendors. In
+addition, the indices may be monitored through radio, television, the PSE website
+and other websites that provide reports on the performance of the stock market.
+Philippine Stock Exchange I
+===== page 5 / 15 =====
+wwvv.pse.com.ph
+POLICY ON INDEX MANAGEMENT
+The final results of trading are published in the PSE Daily Quotations Report, as
+well as in major newspapers.
+1.303. The PSE Index Series is calculated in Philippine Pesos (Php) and is broadcasted
+on a continuous mode where index levels are broadcasted periodically at a
+frequency that can be configured for each index. (Please see 5.2. Calculation
+Frequency for details)
+Philippine Stock Exchange I
+===== page 6 / 15 =====
+www.pse.com.ph
+POLICY ON INDEX MANAGEMENT
+SECTION 2 - Index Construction
+2.1.
+2.2.
+Eligible Securities
+2.1.1. Only companies with common stocks listed in the main board of the PSE for at
+least 12 months during the review period are eligible for inclusion in the PSEi and
+sector indices, subject to complying with the requirements for free float and
+liquidity.
+2.1-2. Foreign companies whose shares are simultaneously listed at the PSE and in
+other exchanges overseas are not eligible for the PSEi but may be included in the
+sector indices.
+2.1.3. Convertible preferred shares are excluded until converted.
+2.1.4. Exchange Traded Funds or other forms of investment funds which prices are
+derived from underlying holdings of other listed issues at the PSE are not eligible
+for inclusion in the PSE indices.
+2.115. Dollar Denominated Securities shall not be eligible for inclusion in the PSE
+indices.
+2.1.6. Companies shall be considered ineligible for inclusion in the index due to
+conditions that may cause their stocks to be unavailable for trading for a
+significant period of time for the next six months from the scheduled review of
+the indices. Such conditions include, among others, the commencement of
+delisting proceedings against the company, or when it is suspended from being
+traded in the PSE.
+Free Float
+2.2.1. Only the free float shares of a company are factored in when computing the
+indices. Free float, also known as public float, refers to the portion of the
+outstanding shares that are freely available and tradable in the market, or those
+shareholdings which are non-strategic in nature.
+2.2.2. A company's free float shares must be 15% of its outstanding shares at the end
+of the 12-month period in review. The Exchange, if it deems necessary, may
+impose a higher free float level requirement.
+Philippine Stock Exchange I
+===== page 7 / 15 =====
+www.pse.com.ph
+POLICY ON INDEX MANAGEMENT
+The public float requirement shall also apply for membership in the sector
+indices.
+2,2.3. In determining a company's free float, its outstanding shares shall be adjusted to
+exclude shares classified as being held strategically. The following are viewed as
+strategic in nature and are deducted from the outstanding shares:
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+h)
+Shares held by founders, directors and officers, and their families. For this
+purpose, directors shall refer to anyone owning at least one share capital of
+the corporation of which he is elected as a director and also refers to
+independent directors defined under Rule 38 of the IRR of the Securities
+Regulation Code (SRC). Officers shall refer to the president, secretary and
+treasurer, as specified under the Corporation Code, and other officers elected
+by the board of directors of a corporation, as may be provided for in the
+corporation's by-laws;
+Shares held by pension funds and government-run social security funds SSS
+and GSIS are generally considered free float. However, if these shares are
+considered strategic shares with the acquisition made out of the intention of
+exercising control over the company, the shares shall be treated as non-free
+float;
+Restricted shares or shares under lock-up;
+Treasury shares;
+Shares held by employees under stock ownership plans;
+Shares held by affiliates. For this purpose, an affiliate shall refer to a person
+who directly or indirectly, through one or more intermediaries, controls or is
+controlled by, or is under common control with the person specified, through
+the ownership of voting shares or other means, such as contractual
+agreements, as defined under the PSE Revised Listing Rules;
+Shares held by principal shareholders or those who individually or collectively
+control 10% or more of the outstanding shares; and
+Shares held by controlling shareholders or those who are individually or
+collectively under a common control or bound by a voting trust agreement
+that exerts control over the company. For this purpose, a voting trust
+agreement shall refer to an agreement or a contract executed among
+shareholders giving them control of the company.
+202.4. Shares lodged under the PCD Nominee Corp. account of the Philippine
+Depository and Trust Corporation (PDTC) are classified as free float except the
+shareholdings of an entity whose shares lodged at the PDTC comprise 10% or
+more of the outstanding shares of a company or are defined as shares held
+strategically based on Section 2.2.3.
+Philippine Stock Exchange I
+===== page 8 / 15 =====
+www.pse.com.ph
+POLICY ON INDEX MANAGEMENT
+2.3.
+22.5. The underlying shares of Philippine Deposit Receipts (PDRs) are considered as
+free float except when the shares that underlie the PDR-holding of an entity
+constitute 10% or more of the company's outstanding shares or are defined as
+shares held strategically based on Section 2.2.3.
+2.26. The underlying shares of depositary receipts issued in overseas exchanges are
+also considered as free float except when the shares that underlie the depositary
+holding of an entity constitute 10% or more of the company's outstanding shares
+or are defined as shares held strategically based on Section 2.2.3.
+2.2.7. In computing the free float shares of dual-listed companies or those companies
+which shares are likewise listed in other exchanges, only the number of shares
+that are deemed traded in the PSE or those shares held by locally domiciled
+investors shall be treated as free float.
+202.8. Data on free float shares are based on the Public Ownership Reports (PORs) that
+the listed companies submit to the Exchange every quarter or at other periodic
+intervals as may be required by the Exchange.
+Liquidity
+2.3.1. Each company will be tested for liquidity by computing its median daily trading
+value for each month of the twelve-month period in review. The median is
+computed by ranking each daily trading value in the regular board of a
+company's stock and selecting the middle value. Daily totals with zero trades are
+included in the ranking.
+2.302. To be eligible for the PSEi, the stocks of the company must rank among the top
+25% in terms of median daily trade per month in nine out of the Wvelve month
+period in review.
+If market conditions cause that less than 30 companies qualify in the PSEi, the
+PSE Management Committee may increase the threshold in increments of 50/0,
+i.e. 30%, 35%, and so on, in order to avoid a large number of constituents being
+removed from the PSE indices.
+23.3. To be eligible for the sector indices, the stocks of the company must rank among
+the top 50% in terms of median daily trade per month in eight out of the twelve
+month period in review.
+Philippine Stock Exchange I
+===== page 9 / 15 =====
+www.pse.com.ph
+POLICY ON INDEX MANAGEMENT
+2.4.
+Final Selection
+2.401. Companies that pass the public float and liquidity eligibility requirement are
+ranked from highest to lowest according to their full market capitalization. The
+full market capitalization is computed using the volume-weighted average price
+(VWAP) of the company's stock price during the 12-month period in review.
+If a company has common stocks that are classified (e.g., Class "A" and Class
+"B") or has an underlying PDR issue, the activity of all share classes or types are
+taken together.
+24.2. The 30 largest companies based on full market capitalization are to be included
+in the PSEi.
+2.4.3. The PSE may also take into consideration relevant financial criteria to ensure that
+index constituents are closely representative of the market or a particular sector.
+These financial criteria will be applied to the following:
+a) New entrants to the PSEi; and
+b) Qualified companies for sector index membership.
+Philippine Stock Exchange I
+===== page 10 / 15 =====
+POLICY ON INDEX MANAGEMENT
+SECTION 3 — Regular Review of Index Constituents
+3.1.
+3.2.
+Review Dates
+3.1.1. The Exchange conducts a semi-annual review of the PSE indices and the results
+become the basis also for a re-composition of the PSEi and the sector indices.
+3.1.2n The data used for the review encompasses a one-year period. The first review or
+examination, which covers the period January to December for the immediately
+preceding year, becomes the basis for the PSEi recomposition every mid-
+February of the year that follows the period under examination. The second
+review, which covers the period July of the immediately preceding year up to
+June of the current year, becomes the basis for the PSEi recomposition every
+mid-August.
+3.1.3. Announcements regarding the outcome of the review and changes in the
+composition of the indices will be made, as much as practicable, five trading days
+prior to their implementation. The notice shall be made by way of press release
+and the publication of a memorandum in the PSE website.
+Rules for Insertions and Removals
+302.1. The rules for additions and removals during the semi-annual review are designed
+to provide stability in the selection of constituents of the PSE indices and at the
+same time to ensure that the indices are representative of the market by
+including and/or excluding those companies which have risen or fallen
+significantly.
+3.2.2. A company shall be inserted in the PSEi if it rises above the 25th position by full
+market capitalization. It shall replace the company that ranks the lowest in terms
+of full market capitalization.
+3.2.3. A company shall be deleted in the PSEi if it falls below the 35th position by full
+market capitalization. It shall be replaced by the company with the highest
+market capitalization from the list of companies that passed the public float and
+liquidity eligibility requirements.
+Philippine Stock Exchange I
+===== page 11 / 15 =====
+www.pse.com.ph
+POLICY ON INDEX MANAGEMENT
+SECTION 4 — Changes to Constituent Companies
+4.1.
+4.2.
+4.3.
+Removal and Replacement
+4.1.1. A company shall be removed from the list of constituents if any of the following
+events occur:
+a) the constituent is delisted;
+b) a corporate action causes a significant change in the constituent's ability to
+satisfy the requirements stated in this policy;
+c) the constituent ceases to have a reliable price or in the opinion of the PSE
+Management Committee has ceased to be a viable index constituent.
+4.1.2. The vacancy created following the removal of the company from the indices shall
+be replaced by the company which eligibility is determined using the same
+methodology for PSEi inclusion stated in this policy. The Exchange shall base its
+computation on the latest available data during the 12-month period preceding
+the removal.
+401.3. The removal and replacement are effected simultaneously, no later than five
+trading days from the announcement.
+Takeovers, Mergers and Acquisitions
+4.2.1. When two index companies merge, the surviving entity will remain a member of
+the index. The slot vacated by the merged company shall be filled by another
+company based on the process provided in Section 4.1.
+Suspension
+4.301. When an index constituent is suspended, it may remain in the index for up to 10
+business days and the last traded price of the suspended constituent shall be
+used in the index computation.
+413.2. When the suspension lasts for more than 10 trading days, the PSE Management
+Committee shall decide on whether the company shall be removed from the
+index or not on the basis of whether trading is likely to resume.
+Philippine Stock Exchange I
+10
+===== page 12 / 15 =====
+www.pse.com.ph
+POLICY ON INDEX MANAGEMENT
+4.4.
+4.5.
+4.303. Replacement of constituents shall be done in accordance to Section 4.1 of this
+document.
+4.3.4. A suspended constituent that has been removed from the indices and has
+subsequently resumed its trading shall wait for the next regular semi-annual
+review to be included in the indices.
+Rebalancing or Changes to Constituent Weightings
+4.4.1. Adjustments in the free float level of index constituents arising from corporate
+actions shall be made accordingly on a quarterly basis.
+4.4.2. As part of the semi-annual index recomposition, a full review shall be made
+based on the end-December and end-June POR submissions. Adjustments to free
+float levels are applied regardless of the amount of change in the free float level
+for each company.
+4.4.3. A rebalancing of the free float levels of index constituents shall also be conducted
+based on POR submissions as of end-March and end-September, effective every
+May and November. The free float level for each index constituent is amended
+only when it changes by at least five percent (5%) on a cumulative basis, to
+prevent a large number of insignificant weighting changes. The rebalancing of
+float levels does not affect the composition of the PSE Indices.
+4.4.4. For primary and secondary offerings, the shares shall be updated after the
+receipt by the PSE of an updated POR or other relevant reports from the
+company that reflect the changes arising from the public offering.
+4.4.5. The Exchange may adjust the free float level of an index constituent outside of
+the quarterly rebalancing schedule should there be any corporate actions that
+may significantly affect the reliability of the indices.
+4.4.6. Float adjustments shall be effective no later than five trading days from the
+announcement.
+Industry Classification Changes
+4.521. Any change in an index constituent's industry classification will be implemented
+simultaneously with a relevant change in its membership in the relevant indices.
+Philippine Stock Exchange I
+11
+===== page 13 / 15 =====
+www.pse.com.ph
+SECTION 5
+POLICY ON INDEX MANAGEMENT
+— Index Calculation
+5.1.
+5.2.
+5.3.
+Prices
+5.1.1. The PSE Index Series use actual last traded prices for computing the index
+levels.
+Calculation Frequency
+512.1. The base calculation frequency of the PSEi and the sector indices is set to 15
+seconds. The broadcast mode of the index levels, which is a multiple of the base
+calculation frequency, is set to 60 seconds. As a result, calculated PSE index
+levels are broadcasted every minute.
+Index Calculation
+5.301. All index levels broadcasted will be displayed up to two decimal places.
+5.3.2g For any trading day, the index is computed by deriving the change in the index
+components' current total free float-adjusted market capitalization from the base
+total free float-adjusted market capitalization, and multiplying this change with
+the previous day's closing index level. The base total free float-adjusted market
+capitalization is the sum of all the products of the index stocks' previous day's
+last traded price and their current free float shares. Below is the formula for
+computing the index:
+PSE Indext= x PSE Indext-l
+where:
+n
+Pit
+Sit
+b
+b
+Number of constituents of the index
+Last traded price of company i at day t
+Number of outstanding shares of company i at day t
+Free float factor of company i to be applied to each security,
+expressed as a number between zero to 1, where 1 represents
+100% free float.
+Base free float-adjusted market capitalization.
+Philippine Stock Exchange I
+12
+===== page 14 / 15 =====
+www.pse.com.ph
+POLICY ON INDEX MANAGEMENT
+5.4.
+5.3-3. Adjustments are applied to the base free float-adjusted market capitalization
+when there are stock dividend declarations, stock rights offerings, stock splits,
+reverse stock splits, or other corporate actions. Such corporate actions result in
+adjustments in a company's previous day's last traded price and/or free float
+factor.
+Index Correction
+5.4.1. Corrections on index values will be made for errors where the discrepancy is
+greater than 0.10%.
+5.402. Only significant index errors discovered within ten (10) trading days will be
+corrected and retroactively computed by the Exchange. Errors discovered beyond
+the prescribed period will no longer be corrected. Management may, however,
+provide exceptions in instances where the retroactivity of applying corrections
+beyond the ten-day limit may be deemed necessary to ensure the integrity of the
+data series maintained by the Exchange.
+5.4.3. Discovery is counted from the day the error occurred to the day it is observed or
+reported. An error may be observed during the daily checking of index values
+using End-Of-Day output files or on the day erroneous price or shares data used
+in the computation is discovered.
+5.4.4. Reports on data error (index, price, outstanding shares, and free float) will be
+investigated immediately. The error is "discovered" on the day a valid report is
+received. Correction(s) will be made on the trading day following the discovery of
+the error.
+5.4.5. The corrected values will be announced in the Daily Quotations Report. Data
+vendors shall also be emailed of the corrections.
+Philippine Stock Exchange I
+13
+===== page 15 / 15 =====
+POLICY ON INDEX MANAGEMENT
+www.pse.com.ph
+Disclaimer
+This policy was created by the PSE for the sole purpose of providing guidance on the calculation
+of the PSEi as a barometer of the market's overall condition. The PSE thus reserves the right to
+change or amend the contents of this document as appropriate to enable the index to achieve
+its objective.
+This document is for information purposes only and shall not serve as a basis for investment
+advice or legal opinion. The PSE shall not be held liable for any losses or damages resulting
+from the use or reliance upon any part or all of the information contained herein.
+O The Philippine Stock Exchange, Inc. 2018. All rights reserved.
+Philippine Stock Exchange I
+14

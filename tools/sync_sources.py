@@ -110,6 +110,7 @@ def main() -> int:
             route = try_fetch(s["canonical_url"], path)
             if route:
                 s["fetch_route"] = route
+                s["fetched_by_sync"] = True
                 counts["fetched"] += 1
                 print(f"  fetched {s['slug']} via {route}")
         if not path.exists():
@@ -134,7 +135,11 @@ def main() -> int:
                 print(f"  UNREADABLE {s['slug']}: {lp}")
                 continue
             s["page_count"] = n
-        s.setdefault("fetch_route", "direct")
+        # fetch_route is recorded only when this script downloaded the file itself; the
+        # research pass archived most documents by hand-picked routes it did not log, and an
+        # invented "direct" would misstate provenance.
+        if s.get("fetch_route") == "direct" and not s.get("fetched_by_sync"):
+            s.pop("fetch_route", None)
         counts["ok"] += 1
 
     orphans = [p for p in sorted(PDFS.glob("*")) if p.is_file() and p.resolve().as_posix().lower() not in claimed]

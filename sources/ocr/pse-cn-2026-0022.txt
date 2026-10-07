@@ -1,0 +1,100 @@
+===== page 1 / 3 =====
+q PSE
+MEMORANDUM
+THE PHILIPPINE STOCK EXCHANGE, INC.
+C] Trading
+C] Disclosure
+C] Listing
+C] PUblic Advisory
+O Administrative/Technology Matters
+@ Others:
+TO
+SUBJECT
+DATE
+THE INVESTING PUBLIC AND MARKET PARTICIPANTS
+UPDATES ON PDTC LENDING AGENCY SERVICE FOR THE PSE
+SBL PROGRAM
+May 18, 2026
+The Exchange is pleased to announce the readiness of the Philippine Depository and
+Trust Corporation ("PDTC") to facilitate Securities Borrowing and Lending ("SBL")
+transactions. The PDTC has successfully onboarded its first set of borrowers and lenders
+onto its SBL system and may now accept borrowing and lending instructions from these
+Trading Participants.
+Trading Participants interested in participating in PDTC's Lending Agency Service may
+submit a Letter of Intent indicating your BP ID and the role being applied for (either
+borrower, lender or both).
+For further information, please refer to the attached PDS Group Memo.
+Ramon S. Monzon
+President and CEO
+CMDD
+IRD
+MOD
+TD
+HRD / RISK / SU
+CCD / FMD / AD
+-mail
+OGC
+ddress: investin
+coo
+se.com. h
+===== page 2 / 3 =====
+PDS Group
+Philippine Dealing System Holdings Corp. & Subsidiaries
+29th Floor, BDO Equitable Tower
+8751 Paseo de Roxas
+1226 Makati City, Philippines
+Main: +63 2 8884 5000
+MEMO FOR EQUITY DEPOSITORY PARTICIPANTS No. 03 2026
+SUBJECT: UPDATES ON PDTC LENDING AGENCY FOR PSE SBL PROGRAM:
+ONBOARDED LENDERS AND BORROWERS WITH BIR-REGISTERED AGREEMENTS
+22 APRIL 2026
+DATE:
+PDTC Lending Agent for PSE SBL Program has successfully onboarded Lenders and Borrowers with
+BIR-registered agreements.
+Onboarded lenders with securities to lend out may access PDTC SBL system anytime and
+input lending instructions for the identified securities to be included in the Lending Pool.
+Onboarded borrowers with BIR-registered agreements and opened cash collateral bank
+accounts may access PDTC SBL system to check for available securities in the Lending Pool
+and initiate a borrowing request for the identified security, provided cash collateral is
+sufficient.
+If lending or borrowing on behalf of your clients, please ensure that necessary internal agreements
+with your clients are in place.
+For Depository Participants interested in availing of PDTC's Lending Agency Service to participate
+in the Lending Pool, please submit a Letter of Intent indicating your BP ID and the role being
+applied for (either borrower, lender or both).
+Upon receipt of the Letter of Intent, our Client Services unit will contact you to schedule your
+users for the systems training. Following the completion of systems training, Borrower/Lender Kits
+containing the template agreements and forms shall be provided.
+The main documentation included in the Kit are the following agreements:
+For Lender: Securities Lending Authorization Agreement (SLAA)
+- between PDTC Lending Agent and Lender
+For Borrower: Master Securities Lending Agreement (MSLA) / Accession Agreement
+- between PDTC Lending Agent and Borrower; this agreement must be registered with the
+BIR under the SEC and PSE SBL Rules
+Please note that for borrowers, PDTC would also facilitate the opening of a separate cash
+collateral bank account with the designated cash collateral bank.
+Philippine Dealing System Holdings Corp. • Philippine Dealing & Exchange Corp.
+• Philippine Depository & Trust Corp. • PCD Nominee Corp.
+===== page 3 / 3 =====
+PDS Group
+Philippine Dealing System Holdings Corp. & Subsidiaries
+Below are the reference materials:
+29th Floor, BDO Equitable Tower
+8751 Paseo de Roxas
+1226 Makati City, Philippines
+Main: +63 2 8884 5000
+Previous webinar series conducted by PSE, for which PDTC also participated in the
+discussion of our Lending Agency Services relative to PSE's SBL Program:
+https://www.youtube.com/playlist?list=PLd0cXbClsbGxJ LNilHwPp-Vw-reuYl rzp
+PSE website on SBL, particularly on documents under "Reference Materials",
+https://www.pse.com.ph/sbl-short-
+and "Rules and Regulations":
+"Presentations" ,
+selling/#sb13
+Should you need any assistance, you may reach out to Client Services at
+client.services@pds.com.ph or call 8884-4417 and 8884-5086.
+For your guidance and information.
+(Original Signed)
+PDS Market Services
+Philippine Dealing System Holdings Corp. • Philippine Dealing & Exchange Corp.
+• Philippine Depository & Trust Corp. • PCD Nominee Corp.

@@ -7,8 +7,10 @@ Windows (tools/ocr_pdf.ps1). Its output is committed under sources/ocr/ rather t
 build/, because it is slow to produce and Windows-only to reproduce;
 tools/extract_text.py then uses it for any page whose text layer is empty.
 
-A document counts as scanned when build/fulltext.json gives it fewer than 5
-characters per page on average. Documents already OCR'd are skipped.
+A document is OCR'd when at least 30% of its pages have no usable text layer (under
+20 characters) in build/fulltext.json -- a per-page test, because a typed cover sheet
+stapled to scanned rule pages defeats any whole-document average. Documents already
+OCR'd are skipped.
 
 Usage:
     python tools/extract_text.py      # first, to find the scanned documents
@@ -40,8 +42,12 @@ def main() -> int:
     todo = []
     for slug, doc in docs.items():
         pages = doc["pages"]
-        chars = doc.get("text_layer_chars", sum(len(p["text"]) for p in pages))
-        if pages and chars < 5 * len(pages) and not (OCR_DIR / f"{slug}.txt").exists():
+        if not pages or (OCR_DIR / f"{slug}.txt").exists():
+            continue
+        # Per-page test: a typed cover sheet stapled to scanned rule pages has plenty of
+        # text on average but none where it matters, so count pages without a text layer.
+        empty = sum(1 for p in pages if not p.get("ocr") and len(p["text"]) < 20)
+        if empty / len(pages) >= 0.3:
             todo.append((slug, doc["local_path"]))
     print(f"{len(todo)} scanned document(s) to OCR")
     failed = 0

@@ -1,0 +1,384 @@
+===== page 1 / 2 =====
+TPA - No. 2026-00 6
+Q
+PSE
+MEMORANDUM
+THE PHILIPPINE STOCK EXCHANGE, INC.
+Trading
+Disclosure
+Listing
+Public Advisory
+Administrative/Technology Matters
+Others: Dynamic Threshold
+TO
+DATE
+SUBJECT
+ALL TRADING PARTICIPANTS
+August 03, 2026
+Dynamic Threshold Semi-Annual Review
+Please be informed of the new dynamic threshold for each security based on trading data for the
+period of January to June 2026.
+The change in the dynamic threshold will be effected on Friday, August 7, 2026. Securities were
+classified into three clusters and subjected to the following dynamic thresholds:
+Security
+Cluster
+c
+Trade Frequency Qualifier
+Traded 20 times or less in the past six months
+Traded 500 times or less but greater than 20
+times in the past six months
+Traded more than 500 times in the past six
+months
+Dynamic
+Threshold
+200/0
+100/0
+Attached is the list of securities and their corresponding cluster.
+For your information and guidance.
+(Original Signed)
+MARVIN M. REFUERZO
+AVP & Head, Market Operations Division
+Noted by:
+(Original Signed)
+ROEL A. REFRAN
+Chief Operating Officer
+CMDD
+Tel. No..
+IRD
+MOD
+HRD / RISK / SU
+632
+8876-4888
+CCD / FMD / AD
+OGC
+E-mail Address: investin
+coo
+se.com. h
+===== page 2 / 2 =====
+PSE
+MEMORANDUM
+THE PHILIPPINE STOCK EXCHANGE, INC
+Trading
+Disclosure
+Listing
+Public Advisory
+Administrative/Technology Matters
+Others: Dynamic Threshold
+Group C
+AAA
+ACPA
+ACPa1
+AL TPZ
+APaZR
+acp
+aid
+COAL
+CIMCP
+OMPAI
+CIMPA2
+EEIPA
+EEIPO
+FaPZ
+FGENG
+GI-OPA
+GLOPP
+GTPPA
+FCPA
+CMDD
+Tel. No..
+Group A
+MGH
+M.JC
+MWP
+MWP2A
+MWP2a
+MWP4
+NXGEN
+PNC
+p NX
+PNX3A
+PNX3a
+pNX4
+PNXP
+PORT
+PAF2A
+PRF3A
+p TT
+RSLGI
+SMCZE
+SMC2F
+SMCG
+SMC2H
+SMC2,I
+SMC2K
+SMC2M
+SMCPI
+•rcaza
+TOPAI
+TOPAZ
+ACE
+ACENA
+ACPAR
+AC.Pa.3
+AC.Æ4
+Al-CPO
+Al-CPF
+ATN
+ATNB
+acoa
+aar•dP
+aaNP8
+CA
+c.Aa
+CAT
+CLAI
+CLIA2
+C.PGPa
+CPM
+csa
+ECP
+FAF
+FDCPA
+FOCPa
+FEU
+GTPPa
+IPM
+JAS
+.JFCPB
+JOH
+LMG
+MACAY
+MAH
+MAHa
+Mac
+MEO
+MHC
+MVC
+MWP5
+MWPBA
+mwpaa
+MWPBC
+MWP7A
+MWP7a
+CIM
+OPMa
+p AX
+pac
+IRD
+Group B
+PHC
+PRC
+PRF4A
+PRF4B
+PRF4C
+PRF40
+PRF4E
+PRMX
+PTC
+REG
+sas
+SMCZI
+SMCZN
+SMCZP
+smcza
+SMCZR
+smczs
+SMCZT
+soc
+TC.a2A
+TFC
+UNH
+UMC
+VVT
+WIN
+WPI
+INFRA
+ZHI
+MOD
+Aac
+Aas
+AaSP
+ACEN
+ACE-NE*
+ACR
+AEV
+AGI
+ALCO
+ALI
+ALLT
+ALLHC
+ALTER
+ANS
+APC
+APO
+APH
+ARA
+AREIT
+ASI-AG
+AT
+ALE
+AXLM
+a,ALAI
+ac
+aca
+aaa
+aldi
+aLDDM
+ar•.JCüM
+am
+apn
+aRNPC
+asc
+cac
+coc
+C.Ea
+CEaCP
+CEU
+CHP
+CLI
+CNPF
+C.NVF:G
+COL
+cosco
+CPG
+CREC
+CREIT
+CROWN
+CTS
+OOMPA
+OCIPR
+OFNN
+OHI
+CITO
+OMC
+OMW
+ONL
+owc
+ECVC
+EEI
+EEIPa
+EGAN
+ELI
+EMI
+EURO
+FCG
+FOC
+FERRO
+FGEN
+FLI
+FMETF
+FRUIT
+GEO
+GERI
+GI-CEA
+Gi-aaa
+GMA7
+GMAP
+GREEN
+GSMI
+GTCAP
+HOME
+ICT
+IMP
+ION
+JFC
+JGS
+KEEPR
+KEP
+LANO
+LBC
+LC
+Lca
+LEM
+LOOE
+CPC
+LPZ
+LSC
+MAE*
+MAC
+MARC
+MAXS
+MECIC
+MEG
+MFC
+MM
+MONOE
+MRC
+MREIT
+MRSGI
+MWC
+MWIOE
+NOW
+NRCP
+OGP
+OPM
+ORE
+PAL
+Paa
+pc.aa
+PERC
+PHA
+PHES
+PHN
+PIZZA
+PLUS
+pMPC
+pr.aa
+PPC
+PRIM
+psa
+PSE
+pxp
+aca
+RCI
+RCR
+RFM
+RI-C
+RLT
+RüC.K
+acc
+sca
+SEUN
+SFI
+SGI
+SHLPH
+SHNG
+SLF
+SLI
+smc
+SMCZL
+smc.2ü
+SMCZU
+SMPH
+SPC
+SPM
+SPNEC
+spac
+STI
+STR
+SUN
+TCB2C
+TCB20
+TECH
+TEL
+TOP
+TUGS
+I-IaP
+UPM
+UPSON
+URC
+HRD / RISK SU
+632 8876-4888
+CCD / FMD / AD
+E-mai
+OGC
+ddress: investin
+ULC
+'ULL
+VLLZA
+VLL2a
+VREIT
+WEB
+WLCON
+coo
+se.com. h

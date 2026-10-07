@@ -1,0 +1,375 @@
+===== page 1 / 10 =====
+MEMORANDUM TPA - No. 2013-01 5
+THE PHILIPPINE STOCK EXCHANGE, INC.
+Trading
+Disclosure
+Listing
+Ü PUbIic Advisory
+Ü Administrative/Technology Matters
+Ü Others:
+C]
+TO
+DATE
+SUBJECT
+THE INVESTING PUBLIC AND TRADING PARTICIPANTS
+NOVEMBER 14, 2013
+APPROVED AMENDMENT TO THE REVISED TRADING RULES
+REGARDING THE EXTENDED PRE-CLOSE PERIOD
+Further to Memorandum TPA - No. 2013-0167 dated October 16, 2013, attached is a copy of
+the amended sections of the Revised Trading Rules and its Implementing Guidelines with
+regards to the implementation of the extended Pre-Close period, bearing the signatures of
+two (2) officials of PSE and Securities and Exchange Commission (SEC) - Markets and
+Securities Regulation Department (MSRD) Director.
+For your information.
+(Original Signed)
+RACHELLE C. BLANCH
+VP and Head, Market Operations Division
+Noted by:
+(Original Signed)
+ROEL A. REFRAN
+Chief Operating Officer
+CTO / HRAO
+tel. NO. y'
+OCC CGO
+cao
+101.
+tel. Na.
+Tet. N". i
+Tel. na
+tel.
+===== page 2 / 10 =====
+4
+Republic of the Philippines
+Department of Finance
+SECURITIES AND EXCHANGE COMMISSION
+SEC Bldg. EDSA, Greenhills, Mandaluyong City
+Markets and Securities Regulation Department
+October 29, 2013
+PHILIPPINE STOCK EXCHANGE, INC.
+PSE Plaza
+Ayala Avenue
+Makati City
+Fax: 891-9004
+Attention:
+Gentlemen:
+Mr. Hans B. Sicat, President & CEO
+Atty. Roel A. Refran, COO
+Attached are two (2) copies of the amended sections of Articles II of the Revised
+Trading Rules and Sections XV and provisions on Trading Hours of the Implementing
+Guidelines of the Revised Trading Rules, as amended bearing the signatures of two (2)
+officials of the Exchange and SEC-MSRD Director on each page.
+Very truly yours,
+VICENTE GRACI
+F ÄENIO, JR.
+Director
+===== page 3 / 10 =====
+REVISED TRADING RULES
+===== page 4 / 10 =====
+ARTICLE II
+TRADING DAY SCHEDULE
+SECTION 1. Trading Day and Non-Trading Day
+Every day shall be a Trading Day except for Saturdays, Sundays, legal holidays, special
+holidays, days when the Bangko Sentra/ ng Pi/ipinas (BSP) is closed, and such other days
+as may otherwise be declared by the SEC or the Exchange, through its President or other
+duly authorized representative, to be a non-Trading Day.
+SECTION 2. Trading Hours
+The Exchange shall determine the hours and schedule of a Trading Day. Unless the
+Exchange decides otherwise, a Trading Day shall conform to the following schedule:
+For half-day trading:
+8:45 a.m.
+9:00 a.m.
+9:30 a.m.
+11:57 a.m.
+12:00 p.m.
+12:10 p.m.
+For whole day trading:
+8:45 a.m.
+9:00 a.m.
+9:30 a.m.
+12:00 p.m.
+1:30 p.m.
+3:15 p.m.
+3:20 p.m.
+3:30 p.m.
+National Anthem
+Pre-Open
+Market Open
+pre—Close
+Run-off/ Trading at Last
+Market Close
+National Anthem
+Pre-Open
+Market Open
+Market Recess
+Market Resumes
+Pre-Close
+Run-off/ Trading-at-Last
+Market Close
+The Exchange may effect changes to the hours and schedule of a Trading Day, as the
+circumstance warrants.
+/16/2-
+===== page 5 / 10 =====
+TRADING HOURS (See Article 11, Section 2 of the Revised Trading Rules)
+Unless the Exchange provides otherwise, the trading of Securities in the Exchange will be
+governed by the following schedule of trading hours:
+For half-day trading
+8:45 am
+9:00 am
+9:15 am — 9:30 am
+9:30 am
+9:30am
+- 11:57 am
+11:57 am
+- 11:59 am
+11:59 pm —
+12:00 nm
+12:00 nn -
+12:10 pm
+NA TIONAL ANTHEM
+PRE-OPEN PERIOD
+No matching of Orders can occur during this period, but
+Trading Participants (T PS) can enter, modify, or cancel
+Orders, which will be processed based on the pre-opening
+algorithm.
+PRE-OPEN NO-CANCEL PERIOD
+TPs are allowed to enter Orders but cannot cancel or modify
+Orders during this period.
+OPENING PERIOD
+The period when the Opening Price for all Securities is
+calculated. During the Opening Period, the Order book is
+frozen and Order entry, modification and cancellation by TPs
+are not allowed.
+CONTINUOUS TRADING
+A period when Orders are automatically matched at the Best
+Price in accordance with the Revised Trading Rules.
+PRE-CLOSE AUCTION PERIOD
+This period is the same as the Pre-Open Auction Period.
+During this period, TPs can enter, modify or cancel Orders.
+PRE-CLOSE NO-CANCEL PERIOD
+During this period, TPs are allowed to enter Orders but they
+cannot cancel or modify Orders.
+RUN-OFF/ TRADING-A T-LAST
+TPs can enter Limit Orders at the Closing Price only or Market
+Orders but matching is executed only at the Closing Price for
+both Order types.
+===== page 6 / 10 =====
+* Market Control Department will perform Beginning-of-Day (BOD) actions prior to Pre-
+Open Period. BOD actions include, but are not limited to, the following:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Broadcast of stocks and metal report
+Broadcast of dividends and stock rights offerings
+Lifting of Static Threshold
+Other corporate messages
+Suspension of TP/ Trader
+Lifting of suspension for TP/Trader
+Halting/suspension of Securities
+Lifting of trading suspension/halt for Securities
+Market Control Department will also perform End-of-Day (EOD) actions after Run-
+Off/Trading-at-Last. EOD actions include, but are not limited to, the following:
+1. Trade Cancellation
+2. Trade Amendment
+3. Suspension of TP/Trader
+4. Lifting of suspension for TP/Trader
+5. Halting/suspension of Securities
+6. Lifting of trading suspension/halt for Securities
+For whole day trading
+8:45 am
+9:00 am
+9:15 am
+- 9:30 am
+9:30 am
+9:30am
+- 12:00 nn
+NA TIONAL ANTHEM
+PRE-OPEN PERIOD
+No matching of Orders can occur during this period, but TPs
+can enter, modify, or cancel Orders, which will be processed
+based on the pre-opening algorithm.
+PRE-OPEN NO-CANCEL PERIOD
+TPs are allowed to enter Orders but cannot cancel or modify
+Orders during this period.
+OPENING PERIOD
+The period when the Opening Price for all Securities is
+calculated. During the Opening Period, the Order book is
+frozen and Order entry, modification and cancellation by TPs
+are not allowed.
+CONTINUOUS TRADING
+A Period when Orders are automatically matched at t e Best
+Price in accordance with the Revised Trading Rules.
+===== page 7 / 10 =====
+12:00 nn
+— 1:30 pm
+1:30 pm — 3:15 pm
+3:15 pm — 3:18 pm
+3:18 pm — 3:20 pm
+3:20 pm —
+3:30 pm
+MARKET RECESS
+During this period, trading for all Securities is halted. TPs
+cannot post, modify or cancel Orders during this period.
+MARKET RESUMES/ AFTERNOON SESSION
+During this period, Orders are automatically matched at the
+Best Price in accordance with the Revised Trading Rules. This
+period operates in the same way as the period of Continuous
+Trading.
+PRE-CLOSE AUCTION PERIOD
+This period is the same as the Pre-Open Auction Period.
+During this period, TPs can enter, modify or cancel Orders.
+PRE-CLOSE NO-CANCEL PERIOD
+During this period, TPs are allowed to enter Orders but cannot
+cancel or modify Orders.
+RUN-OFF/ TRADING-A T-LAST
+TPs can enter Limit Orders at the Closing Price only or Market
+Orders but matching is executed only at the Closing Price for
+both Order types.
+* Market Control Department will perform BOD actions prior to Pre-Open Period. BOD
+actions include, but are not limited to, the following:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Broadcast of stocks and metal report
+Broadcast of dividends and rights offerings
+Lifting of Static Threshold
+Other corporate messages
+Suspension of Trading Participant (TP)/Trader
+Lifting of suspension for TP/Trader
+Halting/suspension of Securities
+Lifting of trading suspension/halt for Securities
+* Market Control Department will also perform EOD actions after Run-Off/Trading-at-Last.
+EOD actions include, but are not limited to, the following:
+1.
+2.
+3.
+4.
+5.
+6.
+Trade Cancellation
+Trade Amendment
+Suspension of TP/Trader
+Lifting of suspension for TP/Trader
+Halting/suspension of Securities
+Lifting of trading suspension/halt for Securities
+===== page 8 / 10 =====
+THE PHILIPPINE STOCK EXCHANGE, INC.
+HANS B. SICAT
+President and Chief Executive Officer
+ROEL A. REFRAN
+Chief Operating Officer
+SECURITIES AND EXCHANGE COMMISSION
+VICENTE GRACI
+. F ENIO, JR.
+Director
+Market Regulation Department
+===== page 9 / 10 =====
+MEMORANDUM TPA - No. 2013-01 7
+THE PHILIPPINE STOCK EXCHANGE, INC.
+Trading
+Disclosure
+C]
+Listing
+TO
+DATE
+SUBJECT
+1:30 pm — 3:15 pm
+3:18 pm — 3:20 pm
+Ü PUbIic Advisory
+Ü Administrative/Technology Matters
+Ü Others:
+THE INVESTING PUBLIC AND TRADING PARTICIPANTS
+OCTOBER 16, 2013
+PRE-CLOSE SCHEDULE
+Further to Memorandum TPA-No. 2013-0165 dated October 14, 2013, this is to clarify the new
+pre-close schedule which shall be effective on Monday, November 4, 2013:
+3:15 pm -
+3:18 pm
+MARKET RESUMES/ AFTERNOON SESSION
+During this period, Orders are automatically matched at
+the Best Price in accordance with the Revised Trading
+Rules. This period operates in the same way as the
+period of Continuous Trading.
+PRE-CLOSE AUCTION PERIOD
+This period is the same as the Pre-Open Auction
+Period. During this period, TPs can enter, modify or
+cancel Orders.
+PRE-CLOSE NO-CANCEL PERIOD
+During this period, TPs are allowed to enter Orders but
+cannot cancel or modify Orders.
+For your information and guidance.
+(Original signed)
+RACHELLE C. BLANCH
+VP and Head, Market Operations Division
+Noted by:
+(Original signed)
+ROEL REFRAN
+Chief Operating Officer
+CTO / HRAO
+tel. NO. y'
+OCC CGO
+cao
+101.
+tel. Na.
+Tet. N". i
+Tel. na
+tel.
+===== page 10 / 10 =====
+MEMORANDUM TPA - No. 2013-01 5
+THE PHILIPPINE STOCK EXCHANGE, INC.
+Trading
+Disclosure
+Listing
+Ü PUbIic Advisory
+Ü Administrative/Technology Matters
+Others.
+TO
+DATE
+SUBJECT
+THE INVESTING PUBLIC AND TRADING PARTICIPANTS
+OCTOBER 14, 2013
+IMPLEMENTATION OF EXTENDED PRE-CLOSE PERIOD
+The Securities and Exchange Commission ("Commission"), in its letter dated September 26,
+2013, informed the Philippine Stock Exchange ("Exchange"), that the Commission approved
+the amendments to the Revised Trading Rules and Implementing Guidelines, specifically
+the extension of the trading Pre-Close Period from three (3) minutes to five (5) minutes.
+Accordingly, the Exchange will implement the following schedule for Trading Phase effective
+November 4, 2013:
+9:00 a.m.
+9:30 a.m.
+12:00 p.m.
+1:30 p.m.
+3:15 p.m.
+3:20 p.m.
+3:30 p.m.
+For your information.
+(Original signed)
+RACHELLE C. BLANCH
+VP and Head, Market Operations Division
+Noted by:
+(Original signed)
+ROEL REFRAN
+Chief Operating Officer
+CTO /
+Tel.
+Pre-Open
+Market Open
+Market Recess
+Market Resumes
+Pre-Close
+Run-off/ Trading-at-Last
+Market Close
+CMOO CPIRO
+Tel. Nv.
+OCC
+coo
+Tea. NO.

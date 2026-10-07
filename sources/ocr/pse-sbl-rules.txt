@@ -1,0 +1,233 @@
+===== page 1 / 6 =====
+PSE RULES AND GUIDELNES ON
+SECURITÆS BORROWNG & LENDNG
+PART 1 - RULES ON SECURITIES BORROWING & LENDING
+General Provisions
+In order to avail of the tax treatment of the Securities Borrowing and Lending (SBL) transactions under BIR Revenue
+Regulations No. 10-2006 dated June 23} 2006, •these Rules set out the requirements for the conduct of SBL
+transactions under the SBL Program administered and supervised by the Exchange.
+1.01 DEFINITION OF TERMS
+When used under these Rules, the following terms shall have the meaning indicated, unless the context provides
+otherwise:
+(a)
+(c)
+(d)
+(f)
+(h)
+0)
+(k)
+Borrower. Any person who borrows shares or securities listed and traded in the PSE from a
+Lender/Lending Agent's portfolio to support hisfits trading activities or for any of the specified purposes
+under the SBL Revenue Regulations
+BIR. Bureau of Internal Revenue.
+Collateral. Cash, equity securities, or govemment securities, or combination thereof or any collateral
+as may be allowed by the Exchange from time to time and provided to the Lender/Lending Agent as
+guarantee until the obligations of the Borrower under the MSLA and SLAA are fully complied with.
+Commission. Securities and Exchange Commission.
+Exchange or PSE* The Philippine Stock Exchange, Inc.
+Lender. Any person who lends securities from hisTlts pool of assets as principal or from the assets of its
+clients.
+Lending Agent. Any juridical person or institution that has the financial and technical capabilities to
+perform the required functions of an SBL intermediary as required under the Rules of the Commission.
+Mark-to-Market The practice of periodically valuing borrowed securities and securities used as
+Collateral based on their current market prices in order to reflect their current market prices.
+Master Securities Lending Agreement (MSLA). An written contract between a Lender/Lending Agent
+and the Borrower that defines and specifies the general terms and conditions under which shares of
+stock listed and traded through the PSE are lent or borrowed under an SBL arrangement. Aside from
+compliance with applicable Philippine laws, the MSLA shall conform to the Global Master Securities
+Lending Agreement (GMSLA) text/outline by the International Securities Lending Association format.
+PSE-MRD. The Market Regulatory Division of The Philippine Stock Exchange, Inc.
+SBL Revenue Regulations. Revenue Regulations No. 10-2006 dated June 23, 2006 entitled
+"Prescribing the Guidelines and Conditions for the Tax treatment of Securities Borrowing and Lending
+Transactions involving Shares of Stock or Securities Listed in the Philippine Stock Exchange", or any
+amendment or revision thereof.
+SEC SBL Circular. SEC Memorandum Circular No. 7, series of 2006 entitled "Rules on Securities
+Borrowing and Lending", or any amendment or revision thereof.
+(m) Securities Lending Authorization Agreement (SLAA). A written contract between the beneficial
+owner of the securities and the Lending Agent/Agent+acilitator by which the former authorizes the latter
+to offer his securities for lending under the terms agreed between them.
+(n) Se rities Borrowing and Lending (SBL). The lending of Shares of Stock from a Lender/Lending
+ent's portfolio on a given date to a Borrowers portfolio to support the Borrower's trading activities or
+===== page 2 / 6 =====
+PSE RULES AND GUIDELNES ON
+SECURITÆS BORROWNG & LENDNG
+1.02
+1.03
+1.04
+for other purposes in accordance with Section 6(f) of the SBL Revenue Regulations with a commitment
+of the Borrower to return and deliver the Shares of Stock or its equivalent to the Lender/Lending Agent.
+(o) Shares of Stock. Shares of stock or securities or derivatives thereof listed and traded in The Philippine
+Stock Exchange, Inc.
+(p) Trading Participant. A broker and/or dealer who is authorized to operate a trading right in the
+Exchange, pursuant to PSE rules.
+(q) Trading Participant!Agent-FaciIitator. A Trading Participant who acts on behalf of a client before a
+Lending Agent to facilitate the lending and borrowing of securities,
+COVERAGE
+SBL Transactions shall comply with these Rules in order to qualify for tax-free treatment provided
+in Section 5 of the SBL Revenue Regulations and Republic Act No. 9243 entitled "An Act
+Rationalizing the Provisions on the Documentary Stamp Tax of the National Intemal Revenue
+Code of 1997, as amended, and for other purposes".
+These Rules shall govern SBL transactions by and between:
+(i) Local Borrowers and Local Lender/Lending Agents ;
+(ii) Local Borrowers and Foreign Lender/Lending Agents;
+(iii) Foreign Borrowers and Local Lender/Lending Agents; and
+(iv) Foreign Borrowers and Foreign Lender/Lending Agents.
+whether executed within or without the Philippines as long as the subject matter pertains to Shares
+of Stock issued by companies listed in the PSE.
+REGISTRATION
+Any person who wishes to act as Lending Agent shall be duly registered with the Commission in
+accordance with the SEC SBL Circular.
+A Lending Agent shali furnish the Exchange a certified true copy of its registration as a Lending
+Agent with the SEC before entering into an SBL transaction in such capacity,
+DOCUMENTATION
+Master Securities Lending Agreement (MSLA)- The Lender/Lending Agent and Borrower shall
+(a)
+execute an MSLA which shall comply with the requirements provided in Sections 6 and 7 of the SBL
+Revenue Regulations. In addition:
+The Borrower shall register the MSLA with the BIR in accordance with Section 8 of the
+SBL Revenue Regulations prior to the execution of the first SBL transaction.
+The Borrower shall inform its counter-party as soon as practicable, of the fact of
+registration of the MSLA with the BIR.
+===== page 3 / 6 =====
+PSE RULES AND GUIDELNES 0N
+SECURITÆS BORROWNG & LENDNG
+(b)
+(d)
+2.01
+Securities Lending Authorization Agreement (SLAA)
+A person acting as Lending Agent in behalf of another person shall execute an SLAA duly
+executed by the latter before the first SBL transaction on behalf of said person.
+Confirmation Notice
+Each SBL transaction shall be evidenced by a Confirmation Notice (in the format
+substantially prescribed in SBLF3) that specifies the details of the SBL transaction and
+shall be kept and maintained by both parties.
+In addition, the signatories in the SBLF3 shall be specified.
+BimAnnual Summary Reports of Outstanding and Liquidated SBL Transactions and Stock
+Returns
+The Borrower shall submit to the Exchange a Certification (in the format substantially
+prescribed in SBLF5) that it has filed the Bi-Annual Summary Report of Outstanding and
+Liquidated SBL Transactions and Stock Retums and its attachments required by the SBL
+Revenue Regulations, within five (5) calendar days from the filing thereof with the BIR.
+COLLATERAL AND COLLATERAL MANAGEMENT
+For every SBL transaction, the Borrower shall provide and deliver to the Lender/Lending Agent,
+prior to or simultaneous with the delivery to the Borrower of the borrowed Shares of Stock, the
+Collateral in such amount or value as provided in the SEC SBL Circular (the "Prescribed Collateral
+Value").
+For every SBL transaction, simultaneous with the return and delivery by the Borrower to the Lender
+of the borrowed Shares of Stock, the Lender shall return and deliver the Collateral to the Borrower
+in its Prescribed Collateral Value at the time of the return and delivery of the Shares of Stock.
+If the value of the Collateral becomes less than the Prescribed Collateral Value, the
+Lender/Lending Agent shall require the Borrower to increase the amount of Collateral. When the
+value of the Collateral becomes greater than the Prescribed Collateral Value, the Borrower may
+require the Lender/Lending Agent to release the Collateral that is in excess of Prescribed Collateral
+Value.
+A Lender/Lending Agent must ensure that its books and records for Collateral received are
+sufficiently updated and will enable prompt and proper accounting.
+In case of failure of the Borrower to return the borrowed Shares of Stock to the Lender/Lending
+Agent or in case of default on the part of the Borrower under the MSLA, upon written notice to the
+Borrower, the Lender/Lending Agent shall have the option to dispose of the assigned Collateral
+and offset the market value of the Collateral against the borrowed Shares of Stock and the
+balance, if any, shall be promptly retumed or refunded to the Borrower. This right is not exclusive
+and shall be without prejudice to the other rights and remedies that the Lender/Lending Agent may
+have against the Borrower under the MSLAT existing laws and regulations.
+Trading Participants
+A Trading Participant who wishes to engage in SBL as Agent-Facilitator shall execute an SLAA with its
+tient before the first SBL transaction on behalf of the client and as a Lender, with the Lending Agent.
+492.1
+30f5
+===== page 4 / 6 =====
+PSE RULES AND GUIDELNES ON
+SECURITIES BORROWNG & LENDING
+2.02
+2.03
+2.04
+2.05
+2.06
+2.07
+2.08
+2.09
+3.01
+3.02
+3.03
+3.04
+A Trading Participant whether acting as an Agent-Facilitator or a principal with respect to securities that it
+owns shall engage a Lending Agent in its conduct of SBL transactions.
+Administrative and reporting requirements prescribed for the Trading Participant should be clearly set out in
+the MSA.
+A Trading Participant who engages in SBL is required to maintain SBL forms (SBLF 2a — 2b, 3 and 4a —
+4d), whether in manual or electronic form in accordance with Section 52 of the Securities Regulation Code
+CSRC") with respect to records retention. The ledgers must be kept up-to-date and must record the full and
+complete details of all SBL transactions. In addition, such Trading Participant shall comply with Sections
+232 — 235 of the National Internal Revenue Code of 1997, as amended, on Keeping of Books of Accounts
+and Records.
+The SBL ledgers shall be subject to reasonable periodic, special, or other examinations by examiners or
+other representatives of the Commission or the PSE„MRD as may be deemed necessary or appropriate for
+the public interest or for the protection of investors.
+All Trading Participants who participate in SBL shall submit, within fifteen (15) calendar days after the end
+of every six months, a summary of all its SBL transactions (in the format provided in SBLF2a & 2b) to the
+PSE-MRD of the Exchange as additional report to the Risk-Based Capital Adequacy requirement.
+Trading Participant acting as principal shall be permitted to borrow or lend securities in accordance with
+applicable laws, and their implementing rules, including the SEC SBL Circular and SBL Revenue
+Regulations.
+In no case will a Trading Participant allow a client to lend their shares to the SBL facility if the result would
+be that the Trading Participant will have a negative exposure from their clients as defined under the Risk
+Based Capital Adequacy Requirement as stated in SEC Memorandum Circular 16, series of 2004.
+Any Trading Participant engaged in SBL who violates any of the provisions of these Rules shall be
+penalized under the applicable rules of the PSE-MRD.
+Miscellaneous Provisions
+The Exchange may restrict or prohibit a listed Share of Stock or security from being borrowed and loaned or
+a Trading Participant acting on his behalf from borrowing and lending securities, indefinitely or temporarily
+for the protection of investors.
+The SBL transaction shall in no way be used to circumvent Sections 24, 26, 30.1 and 30.2 of the SRC,
+Manipulation of Security Prices, Devices and Practices, Fraudulent Transactions, Prohibited Transactions in
+Securities Where Broker or Dealer and Issuer are Linked and other similar laws, rules and regulations
+prohibiting fraud, manipulation and insider trading of securities.
+Any party which conducts or engages in an SBL transaction shall be deemed to have provided the
+Exchange an indemnity holding free and harmless and indemnifying the Exchange and its directors, officers
+and employees against all tax liabilities arising from, or in connection with, the SBL transaction.
+Any and all violations of these Rules either by the Trading Participant or non-Trading Participant shall be
+immediately reported by the Exchange to the Commission and the BIR within a reasonable time from the
+discovery thereof.
+4 of 5
+===== page 5 / 6 =====
+PSE RULES AND GUDELNES ON
+SECURITIES BORROWING & LENDmG
+4.01
+5.01
+6.01
+6.02
+6.03
+D. Applicability of SEC Memorandum
+Circular No. 7, series of 2006
+SEC Memorandum Circular No. 7* series of 2006, shall be considered pan and parcel of these Rules and
+shall have supplementary or suppletory application insofar as the lending and borrowing of shares of stock
+listed in the PSE are concemed.
+E. Separability Clause
+If any portion or provision of these Rules is declared unconstitutional or invalid, the other portions or
+provisions hereof, which are not affected thereby shall constitute in full force and effect.
+E Transitory Provisions
+Within twelve (12) months from the effectivity of these Rules and notwithstanding the requirements under
+Section 2.02 of these Rules, Trading Participants may engage in SBL transactions either through direct
+lending or a Lending Agent.
+Within said period, an SBL transaction by a Trading Participant conducted through direct lending may be
+entitled to the tax treatment under Section 5 of SBL Revenue Regulations and Republic Act No. 9243,
+provided an MSLA is executed by the parties and registered with and approved by the BIR, and the SBL
+SEC Circular and these Rules are complied with.
+After the lapse of said period, Trading Participants shall strictly comply with the all the requirements of the
+SBL program administered and supervised by the Exchange.
+THE PHILIPPINE STOCK EXCHANGE, INC:
+F NCISC ED. LIM
+P esident nd CEO
+LCHOR C. GUERRERO
+Vice President
+Capitat Markets Development Division.
+50f5
+===== page 6 / 6 =====
+PSE RULES AND GUDELINES ON
+SECURITIES BORROWE.IG & LENDE•JG
+ROEL . REFRAN
+General Counsel
+SECURITIES AND EXCHANGE COMMISSION
+JOSE P. AQUINO
+Director, Market Regulation Department
+6 of 5

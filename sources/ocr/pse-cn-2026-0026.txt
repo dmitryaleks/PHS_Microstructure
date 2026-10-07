@@ -1,0 +1,614 @@
+===== page 1 / 14 =====
+MEMORAN D U M CN - No. 2026-00 6
+THE PHILIPPINE STOCK EXCHANGE, INC.
+Ü Trading
+C] Disclosure
+C] Listing
+O PUblic Advisory
+O Administrative/Technology Matters
+@ Others. Proposed PSE Market Making Rules
+TO
+SUBJECT
+DATE
+THE INVESTING PUBLIC AND MARKET PARTICIPANTS
+INVITATION TO SUBMIT COMMENTS ON THE
+AMENDMENTS TO THE PSE MARKET MAKING RULES
+June 3, 2026
+The Exchange is inviting all interested parties to submit comments on the proposed
+amendments to the PSE Market Making Rules.
+The proposed rules aim to enhance market liquidity by introducing a general framework
+applied uniformly to all market-making activities on the Exchange, while adopting tailored
+operational frameworks for specific product categories such as Exchange-Traded Funds and
+Global Philippine Depositary Receipts.
+The proposed rules also set out the accreditation criteria for Market Makers and quoting
+obligations such as maximum bid-ask spreads, minimum quote sizes, and required presence
+times during trading sessions.
+Lastly, the proposed rules permit an incentive framework designed to reward compliant
+market makers for providing continuous liquidity.
+The proposed rules are attached hereto as Annex "A"
+Comments may be sent to the Office of the General Counsel at ogc_list@pse.com.ph until
+June 23, 2026.
+(original signed)
+Ramon S. Monzon
+President and CEO
+CMDD
+IRD
+MOD
+HRD / RISK/ SU
+CCD / FMD / AD
+-mal
+OGC
+coo
+ddress: Investin
+se.com.
+===== page 2 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+ANNEX "A"
+SECTION 1.
+SECTION 2.
+SECTION 3.
+SECTION 4.
+SECTION 5.
+SECTION 6.
+SECTION 7.
+SECTION 8.
+SECTION 9.
+SECTION 10.
+SECTION 11.
+SECTION 12.
+SECTION 13.
+SECTION 14.
+PSE
+AMENDED PSE MARKET MAKING RULES
+Introduction
+Definitions
+Accreditation of Market Makers
+Market Making Agreements
+Market Making Incentives
+Reportorial Requirements
+Obligations of a Market Maker
+Occurrence of a Wide Spread
+Responsibility for Market Making Orders
+Segregation of Functions
+Temporary Suspension of the Obligations to be Performed by the Market Maker
+Voluntary Termination of a Designated Specialist
+Voluntary Withdrawal of Registration as Market Maker
+Consequences of Non-Compliance with Market Making Obligations
+ANNEXES: MARKET MAKING FRAMEWORK FOR SPECIFIC PRODUCTS
+Annex A — Exchange Traded Funds
+Annex B — Global Philippine Depositary Receipts
+Disclaimer: These draft rules are disseminated solely for the purpose of soliciting comments and feedback from the public
+and interested market participants. The provisions contained herein do not constitute final regulatory approval or binding
+exchange policy. The final version of the Rules, once approved by the appropriate regulatory authorities, may differ
+materially from the draft rules contained in this melltorandum.
+===== page 3 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+SECTION 1. Introduction
+These Market Making Rules (hereinafter referred to as "Rules") are issued to govern the
+accreditation, obligations, and reportorial requirements of Market Makers ("MMs") with specific
+regulations for different Exchange-traded products or securities, as indicated in the Annexes to
+these Rules, and as may be amended by the Exchange from time to time.
+To contribute to the maintenance of fair and orderly markets and maintain active markets in
+exchange-traded products, Market Makers must enter Market Making orders when there exists,
+or it is reasonably anticipated that there will exist, a lack of price continuity or a temporary
+disparity between the supply of, or demand for, a particular product.
+SECTION 2. Definitions
+When used in these Rules, the following terms shall have the meaning indicated below, unless
+provided otherwise:
+Commission — Refers to the Securities and Exchange Commission.
+Designated Specialist — A licensed Salesman employed by a Market Maker and accredited by
+the Exchange to perform Market Making obligations.
+Exchange or PSE — Shall mean The Philippine Stock Exchange, Inc.
+Issuer — Any legal entity issuing a financial instrument for which market-making activities are
+permitted under these Rules.
+Market Maker - A registered broker dealer that assumes the obligation of providing two-way
+quotes for the purpose of ensuring liquidity and maintaining a fair and orderly trading market
+for exchange-traded products eligible for market making.
+"Market Making" - Means the continuous provision of liquidity by a Market Maker through the
+simultaneous posting of two-way quotes, executed in compliance with the Exchange Rules and
+applicable regulatory requirements.
+Other capitalized terms used in these Rules but not otherwise defined in this section or elsewhere
+in the Rules shall have the meaning ascribed to them in the relevant rules and regulations of the
+Commission, Exchange, Securities Clearing Corporation of the Philippines ("SCCP"), or Capital
+Markets Integrity Corporation ("CMIC"), as the case may be.
+SECTION 3. Accreditation of Market Makers
+a. In order to be eligible as a Market Maker, an applicant firm must apply with the Exchange
+for accreditation as a Market Maker and possess the following qualifications:
+===== page 4 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+b.
+c.
+d.
+(i) Registered as a broker-dealer by the Commission;
+(ii) Admitted as a trading participant of the Exchange;
+(iii) Have an unimpaired paid-up capital of at least One Hundred Million Pesos
+(iv) Has been continuously operating as a PSE trading participant for the three (3)-year
+period immediately preceding the filing of the application, OR, if the broker-dealer is
+unable to meet the minimum operating history requirement, at least two (2) of its key
+personnel have at least five (5) years' experience in securities trading in a local or
+WFE-member stock exchange. In this regard, the Exchange will take into account the
+experience of the qualified personnel on an individual basis;
+(v) Has at least one (1) Designated Specialist;
+(vi) Has not been found by a domestic or foreign court of competent jurisdiction, the
+Commission or comparable foreign body, or a domestic or foreign exchange,
+electronic marketplace, or self-regulatory organization to have violated a securities or
+commodities law or regulation for the last two (2) years prior to filing the application;
+and
+(vii) Has not been subject to any order, judgment or decree of any court of competent
+jurisdiction, domestic or foreign, permanently enjoining, barring, suspending or
+otherwise limiting its involvement in any type of securities, commodities, or banking
+business or activity.
+An applicant for accreditation as a Market Maker shall submit the following to the
+Exchange:
+(i) Letter of Intent to operate as a Market Maker duly signed by the nominee;
+(ii) Board Resolution authorizing the applicant to engage in Market Making operations;
+(iii) Processing fee in the amount of Five Thousand Pesos (25,000.00) for each issue, or
+such other amount as may be prescribed by the Exchange from time to time; and
+(iv) Such other documents that may be required by the Exchange.
+Upon finding that the applicant complies with the accreditation requirements, the
+Exchange shall issue a notice to the applicant of the approval of its application for
+accreditation as a Market Maker.
+The accreditation of a Trading Participant as a Market Maker shall be non-transferable.
+===== page 5 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+e.
+f.
+g.
+The accreditation of a Market Maker shall be valid until terminated under these Rules. The
+accreditation may be renewed thereafter subject to compliance with the requirements of the
+Exchange.
+Only accredited Market Makers shall be allowed to enter into a Market Making agreement
+and perform Market Making functions pursuant to the agreement and applicable
+regulatory requirements.
+Only accredited Designated Specialists are allowed to perform the Market Making
+functions and obligations of the Market Maker.
+SECTION 4. Market Making Agreements
+a.
+b.
+c.
+A Market Maker may act as a Market Maker for more than one financial product or security,
+subject to approval by the Exchange.
+No Market Maker may enter Market Making orders for a listed security unless a valid
+Market Making Agreement is in effect between the Market Maker and either the Issuer or
+the Exchange.
+Upon expiration of the agreement between the Market Maker and the Issuer or Exchange,
+the Market Maker is prohibited from entering Market Making orders for that particular
+financial product or security.
+SECTION 5. Market Making Incentives
+a. The appointment of Market Makers are subject to commercial agreements between the
+Exchange and Market Makers in terms of Exchange and clearing fee concessions, price
+quoting services, connectivity support, exemption from short selling restrictions, and other
+incentives.
+b. Key information about Market Making arrangements between the Exchange and the
+Market Maker will be reported to the Commission.
+SECTION 6. Reportorial Requirements
+a. The Market Maker shall provide written notice to the PSE Market Operations Division,
+delivered either by hand or via electronic transmission, of any of the following events or
+developments. Such notice must be submitted within one (1) trading day from the Market
+Maker's knowledge of the event or development, and in no event later than three (3) trading
+days from occurrence thereof:
+(i) Any material change in information relating to the Market Maker or its Designated
+Specialist/ s;
+===== page 6 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+Any actual or expected breach by the Designated Specialist/ s of the Market Making
+rules and the requirements of the Exchange;
+Any disciplinary action taken or any penalty imposed by the Commission, SCCP,
+CMIC, or any other self-regulatory organization on the Market Maker or its
+Designated Specialist;
+Any disciplinary action taken by the Market Maker against its Designated
+Specialist/ s;
+Filing or pendency of any criminal case involving fraud by or against the Market
+Maker, its officers, directors or Designated Specialist/ s;
+Filing or pendency of any civil case with a claim amounting to at least One Hundred
+Thousand Pesos (Php100,000.00) by or against the Market Maker.
+b.
+The Market Maker shall supply any additional information or supporting documents that
+may be requested by the Exchange in connection with the aforementioned circumstances.
+The Exchange reserves the right to disclose to the public any and all documentary
+submissions and disclosures of the Market Maker upon a determination that the same is
+necessary in order to maintain a fair and orderly market for the protection of the investing
+public or upon order of the Commission.
+SECTION 7. Obligations of a Market Maker
+a. All Market Makers must comply with the guidelines and parameters established by the
+Exchange to ensure sufficient market liquidity. These guidelines define the applicable
+quoting periods, spread parameters, minimum quote sizes, and the overall compliance
+methodology:
+(i) Maximum Spread
+A Market Maker must ensure two-way quotes, i.e., buy and sell orders, with a maximum
+spread. The limit of the bid and ask spread shall be based on the terms indicated by the
+Exchange for a specific financial product or security.
+(ii) Minimum Order Quantity
+Each Market Making order posted by a Market Maker must have a minimum quantity
+based on the terms indicated by the Exchange for a specific financial product or security.
+The Exchange may prescribe other appropriate volume requirements, as may be necessary.
+===== page 7 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+b.
+c.
+(iii) Presence
+To ensure continuous market liquidity, a Market Maker shall post and maintain two-way
+quotes for a minimum prescribed duration of the trading session as determined by the
+Exchange for a specific financial product or security.
+The Exchange shall regularly monitor the performance of all Market Makers using the
+parameters set forth in these Rules. In the event of any breach or non-compliance with the
+obligations provided herein, Section 14 of the Rules shall apply.
+A Market Maker's agreement with an Issuer or the Exchange may not supersede the
+applicable minimum requirements of the Exchange as set forth in these guidelines. The
+Issuer or Exchange may impose additional obligations for the Market Maker provided that
+the obligations set by the Exchange in these Rules are complied with at the minimum.
+SECTION 8. Occurrence of a Wide Spread
+a.
+b.
+Wide Spread shall mean the occurrence of any of the following during the Continuous
+Trading phase:
+(i) the bid and ask spread is larger than a limit specified by the Exchange from time to
+time;
+(ii) there is only one-sided quotation; or
+(iii) there is no existing quotation on both the bid and ask queues.
+Upon occurrence of Wide Spread, a Market Maker shall be obliged to perform the
+following:
+enter buy and/or sell Market Making orders into the System in quantities not less
+than the minimum volume required by the Exchange to eliminate Wide Spread;
+(ii) observe a maximum bid and offer spread throughout a mandatory period; and
+(iii) maintain presence in the market within the period required by the Exchange.
+The Exchange may periodically assess and revise the parameters to adjust to market conditions
+such as, but not limited to, excessive volatility of the relevant securities.
+SECTION 9. Responsibility for Market Making Orders
+a. A Market Maker shall be fully responsible and liable for all Market Making orders entered
+into the Trading System. Upon entering a Market Making order, the Market Maker
+warrants to the Exchange that the said order is valid, binding and enforceable and that the
+necessary authorizations and approval have been secured.
+===== page 8 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+b. All acts or omissions of the Designated Specialist in the performance of its Market Making
+obligations are binding on and considered the acts or omissions of the Market Maker.
+SECTION 10. Segregation of Functions
+a.
+b.
+c.
+d.
+e.
+The Market Maker shall maintain proper segregation of functions within the firm to prevent
+the flow of information between its Designated Specialists and its other salesmen and any
+conflict of interest that may result.
+The Market Maker shall ensure that its Designated Specialist is able to enter orders or
+handle or manage any transactions relating to client accounts or to any other account
+without compromising the segregation of information between accounts.
+A Market Maker shall use its designated Market Making Account only for entering Market
+Making orders.
+A Market Maker shall maintain only the Market Making and error accounts for the financial
+product/s or securities in which it is designated as a Market Maker.
+The Market Maker shall maintain complete and identifiable books and records for its
+Market Making transactions. The Market Maker shall include a registry pinpointing the
+person who acted as the Designated Specialist(s) during a particular day or period.
+SECTION 11. Temporary Suspension of the Obligations to be Performed by the Market Maker
+Any agreement between the Issuer of the financial product or security and the Market Maker to
+the contrary notwithstanding, the Exchange may grant the request of the temporary suspension
+of the Market Making obligations of a Market Maker under any of the following circumstances:
+a.
+b.
+c.
+If the delay or inability to execute the obligation is due to technical problems arising from
+circumstances outside the reasonable control of the Market Maker;
+If the Designated Specialist is temporarily unable to perform his functions for reasons
+beyond his control and there is no substitute Designated Specialist available; or
+Such other cases as the Exchange may deem necessary for a fair and orderly market and to
+protect the investing public.
+The Exchange and the Market Maker shall immediately disclose any grant of a temporary
+suspension of the Market Making obligations by posting in their respective websites the decision
+to grant the request, the reasons therefor, and the period of the suspension.
+In such event, the continuing disclosure requirements under the Securities Regulation Code and
+the Exchange Rules shall likewise be complied with by the Issuer.
+===== page 9 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+SECTION 12. Voluntary Termination of a Designated Specialist
+The Exchange may, upon the written request of the Market Maker, terminate the accreditation of
+its Designated Specialist, provided the Market Maker immediately appoints a replacement, if
+necessary.
+SECTION 13. Voluntary Withdrawal of Accreditation as Market Maker
+a.
+b.
+c.
+d.
+A Market Maker may voluntarily withdraw as a Market Maker for any financial product or
+security with which it has an existing Market Making agreement provided it submits to the
+Exchange at least thirty (30) trading days prior to the intended date of withdrawal: (i) a
+written request for its withdrawal; and (ii) the written consent of the concerned Issuer.
+If the Market Maker intends to completely cease its Market Making operations, it shall
+submit to the Exchange at least thirty (30) trading days prior to the intended date of
+cessation: (i) a written request for its cessation; and (ii) the written consent of all Issuers
+with which it has existing Market Making agreements.
+A Market Maker which submits both requirements shall be eligible to apply for re-
+accreditation as a Market Maker at any time. If it submits only the request for withdrawal
+or cessation but fails to submit the written consent of the concerned Issuers, it shall only be
+eligible to apply for re-accreditation as a Market Maker after a cooling-off period of one (1)
+month from the effective date of withdrawal or cessation.
+Within a reasonable time and in all cases prior to the intended date of withdrawal by the
+Market Maker or its intended date of cessation of Market Making operations, the Issuer
+shall submit to the Exchange the name and other details of the replacement Market Maker
+appointed by the Issuer. In cases where the previous Market Maker is the sole Market
+Maker of a financial product or security, the appointment of the replacement Market Maker
+shall commence not later than the effective date of withdrawal or the effective date of the
+cessation of the Market Making operations of the previous Market Maker.
+SECTION 14. Consequences of Non-Compliance with Market Making Obligations
+In the event of continuous failure by the Market Maker to comply with its Market Making
+obligations under these Rules, the PSE may contact and request a briefing from the Market Maker
+which may result in the suspension or revocation of a firm's Market Maker status.
+The foregoing shall be without prejudice to any other regulatory action that the Exchange may
+take against the Market Maker or its Designated Specialist, as may be applicable under the
+circumstances.
+===== page 10 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+Market Making Framework for Exchange Traded Funds
+ANNEX A
+Pursuant to Sections 5(14) and 8(2) of the SEC ETF Rules governing the mandatory obligations of
+a Market Maker, any Exchange-Traded Fund ("ETF") qualifying under these regulations shall
+subject its Issuer and participating Market Maker to the Market Making Rules set forth herein,
+alongside all applicable rules, regulations, and subsequent directives issued periodically by the
+Commission or the Exchange.
+To ensure sufficient liquidity in the market, ETF Market Makers are obliged, upon occurrence of
+Wide Spread, to perform the following when posting Market Making orders:
+a.
+b.
+c.
+Maximum Spread
+An ETF Market Maker must ensure two-way quotes, i.e., buy and sell orders, with a
+maximum spread based on the table below:
+Price
+From
+0.0001
+0.5000
+20.0000
+1000.0000
+Minimum Order Quantity
+To
+0.4950
+19.9800
+999.5000
+UP
+Maximum Spread
+20 ticks
+15 ticks
+10 ticks
+5 ticks
+Each Market Making order posted by an ETF Market Maker must have a minimum
+quantity of five (5) board lots. The Exchange may prescribe other appropriate volume
+requirements, as may be necessary.
+Presence
+1. An ETF Market Maker shall maintain Market Making Orders for at least fifty percent
+(50%) of the time for any given trading day. This obligation is measured by getting
+the total number of hours/ minutes that the Market Maker has an active order when
+the market is open at any given trading day.
+===== page 11 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+ANNEX A
+Illustration:
+ETF symbol:
+LTP:
+Tick size:
+Lot size:
+ABC
+Php25.OO
+0.05
+100
+Using the table above, the Market Maker for ETF ABC must maintain a maximum spread
+of 10 ticks. This means that the difference between the best bid price and the best ask price
+for ETF ABC must not exceed .50 (10 ticks x .05). The market making orders to be entered
+must have a minimum quantity of 500 shares (5 board lots x 100 shares).
+Scenario 1:
+Volume
+1,500
+2,300
+Current Order Book
+Bid
+24.90
+24.80
+Ask
+25.50
+25.55
+25.60
+Volume
+6,000
+400
+1,200
+In the current order book, the bid and ask spread is .60 which is beyond the maximum
+spread for ETF ABC. The Market Maker may enter either of the following:
+Sell order: 500 shares at Php25.40
+New Order Book
+Volume
+1,500
+2,300
+Bid
+24.90
+24.80
+Ask
+25.40
+25.50
+25.55
+25.60
+Buy order: 700 shares at Php25.00
+New Order Book
+Volume
+700
+1,500
+2,300
+Bid
+25.00
+24.90
+24.80
+Ask
+25.50
+25.55
+25.60
+Volume
+500
+6,000
+400
+1,200
+Volume
+6,000
+400
+1,200
+===== page 12 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+ANNEX A
+Buy order: 1,000 shares at Php24.95 and Sell order: 800 shares at Php25.45
+New Order Book
+Volume
+1,000
+1,500
+2,300
+Bid
+24.95
+24.90
+24.80
+Ask
+25.45
+25.50
+25.55
+25.60
+Volume
+800
+6,000
+400
+1,200
+Buy order: 900 shares at Php25.00 and Sell order: 1,200 shares at Php25.35
+New Order Book
+Volume
+900
+1,500
+2,300
+Scenario 2:
+Volume
+3,000
+200
+Bid
+25.00
+24.90
+24.80
+Ask
+25.35
+25.50
+25.55
+25.60
+Current Order Book
+Volume
+1,200
+6,000
+400
+1,200
+Volume
+Bid
+24.75
+24.60
+Ask
+This scenario is considered a one-sided quotation or one-sided order book since there
+are no selling orders. In this case, the Market Maker is obliged to enter market making
+orders to maintain the maximum spread for the ETF which is 10 ticks (equivalent to .50
+for ETF ABC). The Market Maker may enter either of the following:
+Sell order: 600 shares at Php25.25
+New Order Book
+Volume
+3,000
+200
+Bid
+24.75
+24.60
+Ask
+25.25
+Volume
+600
+Buy order: 1,100 shares at Php24.80 and Sell order: 500 shares at Php25.30
+New Order Book
+Volume
+1,000
+3,000
+200
+Bid
+24.80
+24.75
+24.60
+Ask
+25.30
+Volume
+500
+===== page 13 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+ANNEX A
+Buy order: 1,300 shares at Php24.85 and Sell order: 700 shares at Php25.00
+New Order Book
+Volume
+1,300
+3,000
+200
+Bid
+24.85
+24.75
+24.60
+Ask
+25.00
+Volume
+700
+The Exchange shall regularly monitor the performance of all ETF Market Makers using the
+parameters set forth in these guidelines. In the event of any breach or non-compliance with the
+obligations provided herein, the PSE may contact and request a briefing from the Market Maker
+which may result in the suspension or revocation of a firm's Market Maker status or any
+disciplinary action deemed appropriate by the Exchange.
+An ETF Market Maker's agreement with an ETF may not supersede the minimum requirements
+of the Exchange as set forth in these guidelines. The ETF may impose additional obligations for
+the ETF Market Maker provided that the obligations set by the Exchange are complied with at
+the minimum
+===== page 14 / 14 =====
+Proposed Amendments to the PSE Market Making Rules
+Market Making Framework for Global Philippine Depositary Receipts
+ANNEX B
+An Issuer of Global Philippine Depositary Receipts ("GPDR") may choose to appoint a Market
+Maker based on the PSE Market Making Rules set forth herein, alongside all applicable rules,
+regulations, and subsequent directives issued periodically by the Commission or the Exchange.
+To ensure sufficient liquidity in the market, a GPDR Market Maker is obliged, upon occurrence
+of Wide Spread, to perform the following when posting Market Making orders:
+a.
+b.
+c.
+Maximum Spread
+A GPDR Market Maker must ensure two-way quotes, i.e., buy and sell orders, with a
+maximum spread based on the table below:
+Price
+From
+0.0001
+0.5000
+20.0000
+1,000.0000
+Minimum Order Quantity
+To
+0.4950
+19.9800
+999.5000
+Maximum Spread
+20 ticks
+15 ticks
+10 ticks
+5 ticks
+Each Market Making order posted by a GPDR Market Maker must have a minimum
+quantity of five (5) board lots. The Exchange may prescribe other appropriate volume
+requirements, as may be necessary.
+Presence
+1. A GPDR Market Maker shall maintain Market Making orders for at least fifty percent
+(50%) of the time for any given trading day. This obligation is measured by getting
+the total number of hours/ minutes that the Market Maker has an active order when
+the market is open at any given trading day.
+The Exchange shall regularly monitor the performance of all GPDR Market Makers using the
+parameters set forth in these guidelines. In the event of any breach or non-compliance with the
+obligations provided herein, the PSE may contact and request a briefing from the Market Maker
+which may result in the suspension or revocation of a firm's Market Maker status Fray-res'd-k40r
+any disciplinary action deemed appropriate by the Exchange.
+A GPDR Market Maker's agreement with a GPDR Issuer may not supersede the minimum
+requirements of the Exchange as set forth in these guidelines. The GPDR Issuer may impose
+additional obligations for the GPDR Market Maker provided that the obligations set by the
+Exchange are complied with at the minimum.

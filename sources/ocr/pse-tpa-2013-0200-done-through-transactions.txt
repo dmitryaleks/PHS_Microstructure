@@ -1,0 +1,396 @@
+===== page 1 / 12 =====
+MEMORANDUM TPA - No. 2013-02 0
+THE PHILIPPINE STOCK EXCHANGE, INC.
+Trading
+Disclosure
+Listing
+Ü PUbIic Advisory
+Ü Administrative/Technology Matters
+Ü Others:
+C]
+TO
+DATE
+SUBJECT
+THE INVESTING PUBLIC AND TRADING PARTICIPANTS
+DECEMBER 13, 2013
+APPROVED AMENDMENT TO THE REVISED TRADING RULES
+REGARDING ACCOUNT CODES AND DONE THROUGH
+TRANSACTIONS
+Please be informed that the Securities and Exchange Commission (SEC) approved the
+amendments to the Revised Trading Rules and its Implementing Guidelines governing
+Account Codes and Done Through Transactions.
+Relatively, all existing account codes for done through should be modified to Special Account
+Institutional via iPSE System of the Exchange under the Client Code Generation module.
+Modification done before 4:00 p.m. will be activated the following business day and any
+modification done beyond 4:00 p.m. will be activated after two (2) business days.
+Upon activation of the modified account code to Special Account Institutional, all existing
+non-day orders under the old account code shall be automatically cancelled. TPs may re-enter
+the affected orders under the Special Account Institutional.
+Attached is a copy of the amended sections. Kindly ensure that all necessary modifications
+have been effected before January 02, 2014.
+For your information and guidance.
+(Original Signed)
+ROEL M. VILLANUEVA
+OIC, Market Operations Division
+Noted by:
+(Original Signed)
+ROEL REFRAN
+Chief Operating Officer
+CTO / HRAO
+tel. NO. y'
+OCC CGO
+cao
+101.
+tel. Na.
+Tet. N". i
+Tel. na
+tel.
+===== page 2 / 12 =====
+23/07/2013
+€9: 58
+MRD
+REVISED TRADIN
+PAGE
+€2
+RULES
+===== page 3 / 12 =====
+23/07/2013 09: se
+PAGE 83
+ARTICLE
+DEFINITIONS AND CO STRUCTION
+SECTION q. Definition of Terms
+As used in these Revised Trading Rules (the u!esR), and unless the context othentvise
+requires:
+ElAdjusted Closing Price" or "ACP" shaj( ean the Closing Price of a Security with
+adjustments due to corporate events.
+"Associated Person" based on the Securftil s Regulation Code (SRC) Section 3.5 and
+as applied under these Rules/ shall mean n employee of a broker or dealer, who
+directly exercises control of supervisory authi rify, but does not include a Salesman, or
+an agent or a person whose functions are soli ly clerical or ministerial,
+"Assigning Trading Participant" shalt me n a Trading Participant that assigns an
+Order to a Settling Trading Participant for cl ring and settlement in a Give-up/Take«up
+Transaction.
+"Best Bid and Offer') or "BBO'J shall mea the highest buying price and the lowest
+selling price.
+ctBest Price" shall mean the best available pr ce for a Security.
+"Bid" shall mean the price offered by an inte Sted investor who is willing to buy.
+"Block Sate" shall mean a pre-arranged tf nsactjon which is executed through the
+facilttles of the Exchange and compliant w,ih the requirements of the Implementing
+Guidelines of these Rules as approved by the Commission;
+"Block Sale Market" shall mean the maket where all pre-arranged transactions
+meeting the requirements set by the Exchang are executed.
+t'Board Lot" shall mean the standardized nul of shares set by the Exchange based
+on a given price range for a Security.
+"Ceiling" or "Ceiling Price" shall mean the upper threshold set by the Exchange for
+any Order for said Security in a Trading Day.
+"Clearing" shall mean the process Of det%rnjning the accountability and creating
+obligations for the Exchange of the Security element and the cash element between
+parties to a transaction.
+"Clearlng Agency" shait mean an entity duy registered in accordance with the SRC
+and SRC implementing rules and guidelines a designated by the Exchange to perform
+Clearing functions-
+"Closing Price" shall mean the price determi: during the Pre.Close Period.
+===== page 4 / 12 =====
+23/07/2013 89: 5B
+MRD
+PAGE 84
+"Cross Transaction" shall mean a transacti n where the same Broker executes buying
+and selling Orders of different clients or Its proprietary account for dfferent beneficial
+Owners for the same Security and at the sam price and quantity.
+UDealer" based on the SRC Section 3.4 anc as applied under these Rules, shall mean
+any person who buys and sells Securities fol his/her proprietary account in the ordinary
+course of business.
+"Designated Specialist" shall mean the apg inted licensed Salesman employed by the
+designated Market Maker to perform Market laking obligations.
+'IDonexThrough Transactions'S shalt refer, to transactions of Clients of a Trading
+Perticipant executed by another Trading Parti . ipant.
+"Dynamic Threshold'S shall mean the perr itted difference in price between two Last
+Traded Price updates for a given Security.
+"Eiigible Security" shall mean listed Secu ties that are eligible for Short Selling in
+accordance with the following standards: (1 market capitalization; and (2) tradability,
+pursuant to the Implementing Guidelines on Short Selling.
+'*Exchange'S or "PSEB shall mean The Philip ine Stock Exchange, Inc.
+"Floor" or ICFIoor Price" shall mean the Io er threshold set by the Exchange for any
+Order for a Security in a Trading Day,
+"Force Majeure" shall mean those event which could not be foreseen, or which,
+though foreseen, were inevitable, and Sha. Include acts of Godt war (declared or
+undeclared), hostilitiee, rebellion, insurrec 5ns, any act of any government, any
+instrumentality or agency thereof, any act c • terrorism, or any act or cause which is
+reasonably beyond the controj of such party.
+Transaction" shalf me an an arrangement where a Trading
+Participant, upon Order entry and on behalf of its client, assigns an Order to another
+Trading Participant for clearing and settlemen purposes.
+"Intervention-BeforeÄOpening/Closlng5' shc mean the latter phase of the Market Pre-
+Open/Pre-Close period where Order modificat ion or cancellation is not allowed.
+"Laet Traded Price" or ULTP" shall mean thc price when the Security was last traded.
+'CMarket Close" shall mean the end of a Trading Day.
+"Market Hal?' Shail mean a temporary stopp age of trading in the entire market on any
+given Trading Day.
+"Market Maker" shali refer to a Trading Pa cipant primarily engaged by the issuer to
+provide liquidity to a Security, pursuant to a agreement and in accordance with the
+requirements of the Exchange.
+===== page 5 / 12 =====
+23/07/2013
+09: 58
+PAGE
+"Market Open/Continuous Trading" shall. mean the period in a Trading Day when
+matching of Orders at the Best Price takes plt• cee
+"Market Pressure" shalt apply either to the uy or sell side of a Securitys order book,
+depending on the side that registers the high er volume or quantity, which is considered
+in determining the Opening or Closing Price.
+"MOD" shali mean the PSE's Market Operati• jns Division or its equivalent.
+S'MRD" shall mean the PSE's Market Regulat on Division or its equivalent.
+"Nominee" or "Authorized Representative.' shall mean the individual duly authorized
+by a Trading Participant to exercise and carry out, for and on its behalf, all its rights and
+obligations in the operation of, or in connect on with, the ownership of its trading right
+pursuant to the Exchange By-taws and appli ble rules.
+"Normat Market" Shail mean the market whe e Orders in Board Lots are traded.
+C'Odd Lot" shall mean an Order with volume r quantity less than the defined Board Lot.
+"Odd Lot Market" shall mean the marketw re Orders with volumes or quantities less
+than the defined Board Lot are traded.
+"Offer" or "Ask" shall mean the price offered by an owner willing to sell a Security.
+UOpening Price" shall mean the price deter Ined during the Pre-Open Period.
+ctOrder'J shall mean a buy or sell instruction e tered into the Trading System.
+"PAM (Poste D'Aecess Aux Marche)" sh I mean the order and trade management
+tool provided by the Exchange used by the Tr Participants for executing trades and
+accessing market data.
+"Pre-Close Period" shall mean the period rior to the Run-Off/Trading-at-Last when
+Orders accepted and queued are considered in the determination af the Closing Price,
+Orders during this period will not be tra d until the market transitions to Run-
+OfffTrading-at-Last.
+"Pre-Open Period" shall mean the period pri or to the Market Open/Continuous Trading
+when Orders accepted and queued are consj' ered in the determination of the Opening
+Price. Orders during this period will not trade ntil the market opens.
+"Price Fluctuation" or "Tick Size" shalt mec n the allowed price step based on a given
+price range for Security,
+"Rule" or 'tRules" unless otherwise indica
+shalf mean the Revised Trading Rules
+and its Implementing Guidelines,
+"Run-Off Period/Trading-at-Last Period') s all mean the period after the Pre-Close
+when Orders are accepted and executed only t the Closing Price.
+===== page 6 / 12 =====
+23/07/2013
+89: 5B
+PAGE
+"SalesmanJTrader" shall mean natural person, who is (a) registered with the
+Commission as a Salesman, (b) authorize by the Exchange to have access to the
+Trading System, and (c) authorized to exec Ite Orders for and on behalf of a Trading
+Participant and its clients.
+"SEC)' or "Commission" shall refer to the Si curittes and Exchange Commission.
+"Security" or "Securities" shall mean sh rest and any other investment products,
+including derivatives, that are listed and trade in the Exchange.
+"Settling Trading Participant" shall Trading Participant accepting an Order
+from an Assigning Trading Participant for cle ring and settlement in a Give-up/Take-up
+Transaction.
+"Short sale", "Short Sell" or "Short Selli
+" as defined in SRC Rule 24.2-2 and as
+applied under these Rules, shall mean any le of a Security which the seller does not
+own at the time of the sale, or any sale WI ich is consummated by the delivery of a
+Security, borrowed by, or for the account of,
+seller.
+ctSRC" or "Code" shall mean Republic Act N . 8799, otherwise known as the Securities
+Regulation Code,
+"Static Threshold", which is equivalent to tl e trading band, shall mean the lower and
+upper price limits (I.e., ceiling and floor prices) of Securities for a given Trading Day.
+"Trading Dayn shell mean any day when th Exchange is open for trading as provided
+in these Rules.
+"Trading Floors(s)" shau mean the Exchan e premises where trading of Securities is
+conducted,
+"Trading Halt" shall mean a temporary age in the trading of a Security not lasting
+longer than one (1) Trading Day.
+"Trading Participant" shall mean an entity authorized by the Exchange to own and
+operate a trading right, pursuant to the Exchat ge By-laws and applicable rules.
+"Trading System" shall mean the Exchange'. electronic trading platform.
+"Trading Threshold" shall mean the altowatle price range for any Security as may be
+determined by the Exchange from time to time
+"Trainee" shall refer to a person under trainil g by a particu)är Trading Participant for a
+one-time, non-extendible period of six (6) mon hs.
+"Transaction" or 'Trade" shall mean a valic; binding and enforceable contract for the
+purchase or sale of Securities,
+===== page 7 / 12 =====
+23/07/2013
+MRD
+ARTICLE
+GENERAL TRADING PERATIONS
+PAGE
+€7
+SECTION 23. Done-Through Transactions
+a.
+b.
+c.
+d.
+e.
+A Trading Participant (hereinafter referred t as the 'Requesting Trading Participant')
+may request another Trading Participant ( ereinafter referred to as the 'Executing
+Trading Participant') to execute transactions the account of the Requesting Trading
+Participant's Clients,
+The Executing Trading Participant shall aintain a designated trading account
+exclusively for Done-Through Transactions, I he trading account code shall indicate that
+it is for Done-Through Transactions only.
+Executing Trading Participant shall not aggrq ate Done-Through Transactions with the
+Orders of its other clients.
+Amendment of Done-Through Transactions is prohibited by the Exchange.
+The Requesting Trading Participant and the ecuting TradJng Participant shall submit,
+not later than 12:00 noon of T+I, a writtE report to the Capital Markets Integrity
+Corporation (CMIC) or its successor, reg rding the details of the Done-Through
+Transactions. The report shall follow a p scribed format and shall contain, at the
+minimum, the fallowing information:
+i.
+iii,
+iv.
+v.
+Trade Date;
+Confirmation Number,
+Trading Account Code(s) of client(s) for whose account(s) the
+Transaction was executed;
+Corresponding name(s) of client(s) or whose account(s) the
+Transaction was executed; and
+tf the Done-Through Transaction w s for multiple clients, the
+shares of each client.
+Done-Through
+Done-Through
+corresponding
+===== page 8 / 12 =====
+23/07/2013 89: 5B
+23/07/2013 09: 5B
+IMPLEMENTING GUIDELINES OF THE EVISED TRADING RULES
+PAGE
+PAGE
+88
+===== page 9 / 12 =====
+23/07/2013
+09: 58
+MRD
+PAGE
+09
+xv.
+ACCOUNT CODES (See Article lv. Section 19 of the Revised Tradinq Rules)
+1.
+2.
+3.
+The TP shall designate a unique trading account code that corresponds to an account
+existing in their back-office.
+An account code shall be provided for the TP based on the information given to the
+Exchange.
+All account codes shall be classified by the Tl lbs as follows:
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+Institutional Client
+— account of i) a 'ank, insurance company, or registered
+investment company; ii) any other entity s et forth in Section 10.1(1) of the Securities
+Regulation Code as a qualified buyer; iii) any other entity (whether a natural person,
+corporation, trust or otherwise) with total ssets of at least Pl .2B; provided, however,
+that the broker-dealer shall obtain fro such entity a declaration, under oath,
+confirming ownership of such assets;
+Retail Client — account of an individual not categorized as an institutional client;
+Tax-Exempt Client — corporate account which is exempt from stock transaction tax
+(STT);
+Aggregate/Bundled Account account the t corresponds to multiple client accounts of
+Proprietary Account — account of the Treding Participant's firm when trading for its
+own account;
+Error Account — account of the Trading P. Irticipant designated for error transactions.
+The error account should always correspo to the nationality of the TP;
+Related Party Account — account of: (a) employees, directors and officers of the TP,
+including relatives up to second deg e by affinity or consanguinity, whether
+legitimate or illegitimate; or (b) corporatior IS which are directly or indirectly controlled
+by, or under common control with, the TP such as when the TP or the parent owns,
+directly or indirectly through subsidiaries, ore than one half of the voting power of
+the related corporation. For this purpose, "control" also exists even when the TP or
+parent owns one half or less of the voting power of another corporation when there
+is:
+i. Power over more than one half of the "Oting rights by virtue of an agreement with
+other investors;
+ii. Power to govern the financial and op.rating policies of the corporation under a
+statute or an agreement;
+iii. Power to appoint or remove the majori y of the members of the board of directors
+or equivalent governing body; or
+iv. Power to cast the majority of votes t meetings of the board of directors or
+equivalent governing body.
+Market Making Account — account used b! the TPs to identify transactions made in
+the performance of its market making obligfätions to the listed company.
+===== page 10 / 12 =====
+23/07/2813 09: se
+PAGE 10
+i. Specia( Account Institutional account . f the Trading Participants designated for
+done-through transactions.
+4, The TP shall further classify the Nationality F! g of each of the accounts as follows:
+5.
+6.
+7.
+8.
+9.
+a, Local
+b. Foreign
+The TP may submit its naming convention or hortcut to identify the client code using the
+facilities of the Exchange, The naming com ntion shalJ be used by the Trader when
+posting an Order using the trading terminal pr vided by the Exchange.
+Any change in the account type and natior lity flag of an existing account code will
+result to a new account code.
+Any requests for new account code and chan e in shortcut of the account code must be
+submitted by 4pm to be made effective forth next Trading Day.
+Any requests received beyond the prescril ed time will be processed on the next
+business day and made effective on the suc .edjng Trading Day.
+All transactions involving accounts of refate parties shall be approved by the TP's
+compliance officer,
+10, The TP must immediately reflect in the Clif nt Account Information Form (CAF) the
+corresponding trading account code.
+11. The TP must maintain a record of the nam of alt its clients and their corresponding
+trading account codes. The TP shall also r aintain a separate record of alf multiple
+accounts under their custody, and the names f at! clients corresponding to the same,
+The record shall be kept current, and shall be aintained in the principal office of the TP.
+The records shall, when so required by C IC or its successor, SEC, any )udicfal,
+administrative or regulatory body or any pet oon deputized or duly authorized by the
+Commission in connection with an investig tjont examination, inquiry or as part of
+surveillance procedures oc in compliance witl other pertinent laws and regulations, be
+made available to CMIC or its successort SEI , any judicial, administrative or regulatory
+body or any person duly deputized or auth pized by the Commission within the next
+trading day, unless the period is specified by e requiring authority.
+===== page 11 / 12 =====
+23/07/2a13
+MRD
+PAGE
+11
+WII.
+DONENTHROUGH TRANSACTIONS (See Arti
+Rules)
+2.
+3.
+4.
+5.
+An executing TP must designate a trading ecount code classified as Special Account
+Institutional and request a corresponding P.GE account code, prior to executing done-
+through transactions,
+The executing TP must classify the Speci. I Account Institutional as either local or
+foreign, depending on the nationality of he beneficial ownerls. All done-through
+transactions must be executed using this ac unt.
+Upon order instruction, the requesting TP mu •t inform the executing TP the nationality of
+client(s) for which the done-through transactic n will be executed,
+In cases where the nationality of the clie ts of the done-through transaction is a
+combination Of foreign and local clients, the S ecial Account Institutional foreign account
+code must be used,
+The written report regarding done-through tra tsactions must be submitted to CMtC or its
+successor by the requesting TP and the exea fting TP on or before 12:00 pm of T+l. The
+report must follow a format prescribed by CMt C and must contain all relevant information
+regarding the transaction.
+===== page 12 / 12 =====
+PAGE
+23/07/2013
+09: 5B
+MRD
+THE PHILIPPINE STOCK •XCHANGE, INC.
+HANS stc T
+President and Chief Ext cutive Officer
+ROEL A, REFRAN
+Chief Operating fficer
+SECURITIES AND EXCHAN E COMMISSION
+12
+VICENTE GRACI
+S Fl, tzp ENIO,
+Director
+Market Regulation D partment

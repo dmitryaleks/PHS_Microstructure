@@ -1,0 +1,426 @@
+===== page 1 / 14 =====
+CuißC MEMORANDUM - 2020-005
+TO
+SUBJECT
+DATE
+THE INVESTING PUBLIC AND THE TRADING PARTICIPANTS
+APPROVAL AND EFFECTIVITY OF THE IMPLEMENTING GUIDELINES
+ON SECURITIES BORROWING AND LENDING AND SHORT SELLING
+10 February 2020
+The Securities and Exchange Commission ("SEC") approved the Implementing Guidelines on
+Securities Borrotoing and Lending ("SBL") and Short Selling that had been proposed by the Capital
+Markets Integrity Corporation ("CMIC").
+The implementing guidelines shall take effect fifteen (15) calendar days after publication on the
+CMIC website or on 25 February 2020.
+For your perusal, attached is a copy of the said implementing guidelines, signed by representatives
+of SEC and CMIC.
+DAIS P. ARCE
+President
+CD
+ED
+D
+===== page 2 / 14 =====
+ClilC
+CAPITAL MARKETS INTEGRITY CORPORATION
+PROFESSIONALISM. INTEGRITY. TEAMWORK. COURAGE. HONESTY AND FAIRNESS
+1.
+IMPLEMENTING GUIDELINES ON
+SECURITIES BORROWING AND LENDING ("SBL")
+AND SHORT SELLING
+GENERAL GUIDELINES
+1.
+2.
+3.
+4.
+5.
+6.
+Short sale transactions shall only be limited to "eligible securities", which shall refer to
+securities of listed companies in the PSEi and exchange traded funds. Short selling of
+non-eligible securities is strictly prohibited.
+Upon receiving an order to sell short, the order should be indicated on the selling order
+and throughout all the records pertinent to the sale.
+Short sale transactions shall be distinguished from selling error transactions. Short sale
+transactions shall be recorded directly on the account ledger of the customer while
+selling error transactions shall be recorded in the TP's error account.
+TPs shall ascertain that the parties have entered into the necessary borrowing
+arrangements prior to entering a short sale transaction, specifically:
+a. A TP who lends securities of one client to another client must be registered with the
+Securities and Exchange Commission ("SEC") and have a Securities Lending
+Authorization Agreement ("SLAA") in place;
+b. TPs who are lending and borrowing shares with their counterparties should have
+a Master Securities Lending Agreement ("MSLA"); and
+Naked short selling is not allowed. Customers are required to execute a notarized
+undertaking prior to entering a short sale specifying, among others, that the customers
+understand the securities laws, rules, and guidelines related to short selling, including
+the prohibition against naked short selling. Refer to Annex "B" for the suggested
+Affidavit of Undertaking.
+Regulation of short sale transactions shall be governed by the pertinent securities laws,
+including, but not limite to the CMIC Rules, these Implementing Guidelines, and
+other applicable rules.
+1
+===== page 3 / 14 =====
+11.
+1.
+2.
+3.
+4.
+GUIDELINES ON FAIR PRESENTATION AND REPORTING
+The lending of securities shall be recorded in the following manner:
+1.1.
+1.2.
+For borrowing shares:
+I.I.I. Stock credit memo for the entry of securities for the borrower.
+1.1.2. Stock debit memo for securities of the lender.
+For the return of the shares:
+1.2.1. Stock debit memo for the entry of securities for the borrower.
+1.2.2. Stock credit memo for the securities of the lender.
+As necessary borrowing arrangements shall be made prior to entering a short selling order,
+the mere presentation of authorization letters from lending clients shall not be sufficient to
+prove compliance with the rules on short selling.
+Short selling orders must be clearly noted as "short" in the order tickets and confirmation
+invoices issued by the TP to the client.
+The TP, through its account with the Philippine Depository and Trust Corporation
+("PDTC"), shall indicate whether a transfer of shares to another depository participant is
+for the purpose of short selling through express comments in the depository system, as
+shown below:
+PDTC Customized Off Exchange Trade Window
+a Daily Depository Participants Report for SBL transactions to the Philippine Stock Exchange.
+2
+===== page 4 / 14 =====
+5. Impact on Risk Based Capital Adequacy (RBCA) Requirement
+a.
+b.
+c.
+d.
+e.
+f.
+6.
+ACCOUNTS AFFECTED
+CASH
+TRADING ACCOUNT SECURITIES ("TAS") /OTHER
+LONG-TERM INVESTMENTS ("OLTI")
+Depending on the classification of securities borrozved or lent,
+corresponding debit or credit on these accounts is to be recorded.
+RECEIVABLE FOR SECURITIES BORROWED
+For lender: in the delivery (debit) and return (credit) of lent sliares
+to the borrozoer.
+PAYABLE FOR SECURITIES LOANED
+For borrozoer: in the delivery (credit) and return (debit) of
+borrozoed shares fronl the lender
+RECEIVABLE FOR SECURITIES FAILED TO DELIVER
+For borrotver: in the delivery (debit) and return (credit) of
+collateral to the lender.
+PAYABLE FOR SECURITIES FAILED TO RECEIVE
+For lender: in the delivery (credit) and return (debit) of collateral
+fi'0111 the borrotoer
+IMPACT ON RBCA
+ELIGIBLE ASSET
+INCREASE IN NLCI
+ELIGIBLE ASSET
+INCREASE IN NLC
+INCREASE IN PRR2 (if
+classified as TAS)
+ELIGIBLE ASSET
+INCREASE IN NLC
+INCREASE IN CRR3
+NO EFFECT IN A1/ NLC4
+ELIGIBLE ASSET
+INCREASE IN NLC
+INCREASE IN CRR
+NO EFFECT IN AI/NLC
+Required Entries in the Ledgers of the Borrower and the Lender for Shares Movement
+a. OUT-LENT
+In the lender's ledger for the delivery of lent shares to the borrower.
+b. IN-LENT
+In the lender's ledger for the return of lent shares by the borrower.
+c. IN-BORROWED
+In the borrower's ledger for the acceptance of borrowed shares from the lender.
+INet Liquid Capital
+2Position Risk Requirement
+3Credit Risk Requirement
+4Aggregate Indebtedness/Net Liquid Capital
+3
+===== page 5 / 14 =====
+d. OUT-BORROWED
+In the borrower's ledger for the return of borrowed shares to the lender.
+e. OUT-COLLATERAL
+In the borrower's ledger for the delivery of securities collateral to the lender.
+In the lender's ledger for the return of securities collateral to the borrower.
+f. IN-COLLATERAL
+In the borrower's ledger for the return of securities collateral from the lender.
+In the lender's ledger for the delivery of securities collateral from the borrower.
+7. All entries shall be in accordance with the applicable accounting standards such as
+Philippine Financial Reporting Standards (PFRS).
+111. REPORTORIAL REQUIREMENTS
+In accordance with Article VII, Section 10 of the CMIC Rules, the reportorial requirements in
+relation to the short selling transactions of a TP are as follows:
+"Short selling transactions sliall be governed by these rules and the revised Rules on Short
+Selling and illiplementing guidelines.
+"(a) Calculation. The Trading Participant shall calculate, as of 15th day and as of the last
+day of each calendar month the aggregate short position of each individual account in
+respect of each security.
+"(b) Written Report. The Trading Participant shall file a zoritten report of the calculation oftlze
+short position to CMIC within two (2) days following the date of computation.
+Refer to Annex "A" for the suggested Short Position Report Template.
+In addition to the above requirements, the following are requirements that must be complied
+with in relation to short selling transactions:
+1. Master Securities Lending Agreement (MSLA)
+The Lænder/Lending Agent and the Borrotoer shall execute an MSLA collic11 shall conwly
+coit11 the requironents provided in Sections 6 and 7 of the SBL Revenue Regulations. In
+addition:
+(i)
+(ii)
+Tlze Borrozoer shall register the MSLA zoith the BIR in accordance zoith Section
+8 of the SBL Revenue Regulation prior to the execution of the first SBL
+transaction; and
+TIW Borrower shall infornl its counterparty as soon as practicable, of the fact of
+the registration of the MSLA toith the BIR.
+4
+===== page 6 / 14 =====
+2.
+3.
+4.
+5.
+Securities Lending Authorization Agreement (SLAA)
+A person actillg as Iwnding Agent on behalfofa110ther person shall execute an SLAA duly
+executed by tlr latter before the first SBL transaction on behalf of the said person.
+Confirmation Notice
+Each SBL transaction shall be evidenced by a Confinnation Notice (in the format
+substantially prescribed in SBLF3) that specifies the details of the SBL transaction and shall
+be kept and Illaintained by both parties.
+Certification of Submission of Bi-annual Summary Reports of Outstanding and
+Liquidated SBL Transactions and Stock Returns
+In the fornillt substantially prescribed in the SBLF5, said report Illust be sublllitted within
+five (5) calendar days from the filing thereof with the BIR.
+Bi-annual Summary reports of the Outstanding and Liquidated SBL Transactions
+and Stock Returns
+All TPs zoli0 participate in SBL shall sublllit, within fifteen (15) calendar days after the
+end of every six months, a sunnnary of all its SBL transactions (in the forlllat provided in
+SBLF2a & 2b) to the CMIC as additional report to the RBCA requirement.
+lv. PENAL PROVISIONS
+Failure to abide by any provisions of these Guidelines and the other rules related to the
+regulation of short sale may be considered as a violation, pursuant to Article XII, Section 3 of
+the CMIC Rules, which expressly provides, in part, the following:
+Grave violations
+Unauthorized use or disposition of funds or securities entrusted by a client to a Trading
+Participant in the course of its trading business including violation of securities
+borrozoing and lending rules (as indicated in subparagraph (ii) of Section 3 (a)ofArticle
+XII ofthe CMIC Rules).
+Major violations
+Violation of SRC Rule 49.2 on Customer Protection Reserves and Custody of Securities
+other than the violation set out in subparagraph (ii) of Section (3) (a) of this Article
+XII;
+Major violations shall include, but not liniited to, the follotoing:
+1.) Short sale transactions of director, officer or principal stockholder involving
+securities of the corporation in rollich tlley are director, officer or principal
+stockholders as providedfor in CMIC Rule Article VII Section 10 (h) in relation to
+Article I V, Section 5.3, paragraph (a) of the Revised Trading Rules
+2.) Naked Short Selling, as provi d for in Article I V, Section 5.2, paragraph (d) on
+the Revised Trading Rules
+5
+===== page 7 / 14 =====
+3.) Violation of LIP Tick Rule as provided for in CMIC Rule Article VII Section 10 (e)
+in relation to Article I V, Section 5.2, paragraph (b) of the Revised Trading Rules
+Minor violations
+All violations other than those Illentioned in paragraphs (a) and (b) Section 3 of Article
+XII shall be considered Illinor violations of the Securities Latos.
+The appropriate disciplinary actions may be meted out by CMIC on the erring TP after the
+conduct of an investigation, in accordance with Article II of the CMIC Rules.
+EFFECTIVITY
+These Guid lines shall take effect fifteen (15) calendar days after publication in the CMIC
+website.
+6
+===== page 8 / 14 =====
+ANNEX "A"
+SHORT POSITION REPORT
+Trading Participant Name:
+Short Selling Transactions from:
+Aggregate Short Position as of:
+[231-15
+15th
+C] 16-31
+C] End
+Month/ Year:
+ACCOUNT NAME
+Prepared by:
+PSE TC
+CODE
+SHORT SELLING TRANSACTION
+NAME OF LENDER
+(Other broker's name if
+outside the TP)
+AGGREGATE
+SHORT SELL
+TRANSACTIONS
+SECURITY
+CODE
+DATE
+7
+VOLUME
+(Name and Designation)
+Submission date:
+===== page 9 / 14 =====
+ANNEX B
+A. AFFIDAVIT OF UNDERTAKING - As Individual
+REPUBLIC OF THE PHILIPPINES
+METRO MANILA
+AFFIDAVIT OF UNDERTAKING
+I, [name], of legal age, [civil status], [citizenship], a resident of
+and with address
+at
+after having subscribed to
+an oath, hereby depose and say that:
+1. I am an investor and client of
+a trading
+participant duly licensed by the Securities and Exchange
+Commission ("SEC" or "Commission") and authorized to exercise a
+trading right pursuant to the rules of The Philippine Stock Exchange,
+Inc. ("PSE" or "Exchange"),
+intending to engage in securities
+borrowing and lending ("SBL") and short selling.
+2. I have read and understood the terms and conditions laid down by
+the PSE's Guidelines for Short Selling Transactions ("Short Selling
+Guidelines") and other provisions material to short selling, as stated
+by the Securities Regulation Code ("SRC"), its Implementing Rules
+and Regulations, and the Capital Markets Integrity Corporation
+Rules, among other securities laws.
+3. Thus, in adherence to the foregoing, I undertake the following:
+8
+===== page 10 / 14 =====
+a. To only place short sell orders for Eligible Securities, as
+defined by the Short Selling Guidelines and other relevant
+securities laws;
+b. If I have direct market access ("DMA"), to course said short
+sell orders through my trading participant; however, if my
+trading participant has the capability to determine that I have
+borrowed the subject securities prior to the entry of any short
+selling order, and upon compliance with such requirements
+that may be imposed by the Exchange, then I may be allowed
+to enter short selling orders without the intervention of my
+trading participant;
+c. To adhere to the requirements of the PSE and the SEC, among
+other authorities, on SBL for the purpose of complying with
+the PSE Trading Rules' prohibition on "naked short sales"
+d. To use the same trading participant that executed my short
+selling transaction in cases where I need to buy back the same
+shares subject of the short selling transaction.
+e. To submit to the same trading participant that would execute
+any of my short selling transactions the following documents,
+as applicable:
+i. Master Securities Lending Agreement;
+ii. Securities Lending Agent Agreement (between the
+lending client and the trading participant acting as the
+agent lender);
+iii. Service agreements (between the borrower client and the
+trading participant acting as agent borrower); and
+iv. Confirmation notice (for every short selling transaction).
+4. Finally, I undertake to comply with all my duties and obligations as
+an investor and client of a trading participant, as provided by the
+applicable laws, rules, and regulations.
+5. I execute this Affidavit of Undertaking in order to attest to the truth
+of the above facts for all legal intents and purposes it may serve.
+9
+===== page 11 / 14 =====
+In witness hereof,
+20
+I hereby set my hand this
+, in
+(Affiant)
+SUBSCRIBED AND SWORN to before me this
+day of
+day of
+20 Affiant exhibited to me his/her Identification
+Card as indicated below his name above.
+NOTARY PUBLIC
+Doc. No.
+Page No.
+Book No.
+Series of 201
+10
+===== page 12 / 14 =====
+B. AFFIDAVIT OF UNDERTAKING - As Corporation
+REPUBLIC OF THE PHILIPPINES
+METRO MANILA
+) s.s.
+AFFIDAVIT OF UNDERTAKING
+1,
+status],
+[citizenship],
+a
+of legal age, [civil
+of
+resident
+and with business address at
+after having subscribed to
+an oath, hereby depose and say that:
+1. I am the incumbent [position of affiant] and duly authorized
+representative of [name of corporation], a domestic/ foreign
+corporation organized under Philippine Laws/ [Foreign State].
+2. [Name of Corporation] ("Company") is an investor and client of
+a trading participant duly licensed by the
+Securities and Exchange Commission ("SEC" or "Commission") and
+authorized to exercise a trading right pursuant to the rules of The
+Philippine Stock Exchange, Inc. ("PSE" or "Exchange"), intending to
+engage in securities borrowing and lending ("SBL") and short
+selling.
+3. I have read and understood the terms and conditions laid down by
+the PSE's Guidelines for Short Selling Transactions ("Short Selling
+Guidelines") and other provisions material to short selling, as stated
+by the Securities Regulation Code ("SRC"), its Implementing Rules
+and Regulations, and the Capital Markets Integrity Corporation
+Rules, among other securities laws.
+4. Thus, in adherence to the foregoing, the Company undertakes the
+following:
+11
+===== page 13 / 14 =====
+a. To only place short sell orders for Eligible Securities, as
+defined by the Short Selling Guidelines and other relevant
+securities laws;
+b. If the Company has direct market access ("DMA"), to course
+said short sell orders through its trading participant; however,
+if its trading participant has the capability to determine that I
+have borrowed the subject securities prior to the entry of any
+short selling order, and upon compliance with such
+requirements that may be imposed by the Exchange, then the
+Company may be allowed to enter short selling orders without
+the intervention of its trading participant;
+c. To adhere to the requirements of the PSE and the SEC, among
+other authorities, on SBL for the purpose of complying with
+the PSE Trading Rules' prohibition on "naked short sales"
+d. To use the same trading participant that executed the short
+selling transaction in cases where the same shares subject of
+the short selling transaction needs to be bought back.
+e. To submit to the same trading participant that would execute
+any of the short selling transactions the following documents,
+as applicable:
+i. Master Securities Lending Agreement;
+ii. Securities Lending Agent Agreement (between the
+lending client and the trading participant acting as the
+agent lender);
+iii. Service agreements (between the borrower client and the
+trading participant acting as agent borrower); and
+iv. Confirmation notice (for every short selling transaction).
+5. Finally, the Company undertakes to comply with all its duties and
+obligations as an investor and client of a trading participant, as
+provided by the applicable laws, rules, and regulations.
+6. I execute this Affidavit of Undertaking for the Company in order to
+attest to the truth of the above facts for all legal intents and purposes it
+may serve.
+12
+===== page 14 / 14 =====
+In witness hereof,
+20
+I hereby set my hand this
+in
+(Affiant)
+SUBSCRIBED AND SWORN to before me this
+day of
+day of
+20 , Affiant exhibited to me his/her Identification
+Card as indicated below his name above.
+Doc. No.
+Page No.
+Book No.
+Series of 201
+NOTARY PUBLIC
+13

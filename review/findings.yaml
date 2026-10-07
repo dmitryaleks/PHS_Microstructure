@@ -1,0 +1,142 @@
+# Coordinator review of the PSE Equity Microstructure knowledge base.
+# Two parts: `verified` -- headline parameters re-checked against the archived source page
+# (independently of the chapter writers), and `findings` -- defects found during assembly,
+# with their resolution. See review/REVIEW.md for the digest.
+
+review:
+  reviewed_at: 2026-10-07
+  as_of: 2026-10-06
+  method: [extracted-text, windows-ocr, page-render, cross-chapter-diff]
+  scope: >-
+    Spot-check of the parameters an execution engine or cost model would hard-code, plus the
+    consistency defects surfaced by eleven parallel chapter writers. Not a line-by-line audit:
+    each chapter writer separately page-checked its own key parameters against the PDFs, and the
+    build refuses any citation to an unknown source or a page past the end of a document.
+
+verified:
+  - id: V-01
+    chapter: 4
+    claim: 15-band board-lot and tick table (0.0001 tick / 1,000,000 lot up to 5.00 tick / 5 lot), keyed on the reference price, unchanged since 26 Jul 2010
+    checked_against: [pse-revised-trading-rules:21 (OCR of scan), pse-cn-2025-0046-board-lot-trading-at-last:4 ("Existing" table, text layer)]
+    result: confirmed
+    note: Both sources agree band-for-band with the chapter table and its CSV.
+  - id: V-02
+    chapter: 7
+    claim: Static threshold +50% / -30% of the previous close or LACP, effective 24 Mar 2020
+    checked_against: [pse-cn-2020-0028:1-2]
+    result: confirmed
+    note: Circular dated 21 Mar 2020; "shall take effect ... beginning Tuesday, March 24, 2020".
+  - id: V-03
+    chapter: 7
+    claim: PSEi circuit breaker -10% / -15% / -20% gives 15 / 30 / 60-minute halts
+    checked_against: [pse-cn-2020-0044:2]
+    result: confirmed
+  - id: V-04
+    chapter: 7
+    claim: Dynamic thresholds 20% / 15% / 10% for clusters of <=20 / 21-500 / >500 trades in six months
+    checked_against: [pse-tpa-2026-0036-dynamic-threshold-review:1 (OCR)]
+    result: confirmed
+  - id: V-05
+    chapter: 3
+    claim: Whole-day timetable 09:00 / 09:15 / 09:30 / 12:00-13:00 / 14:45 / 14:48 / 14:50 / 15:00 / 15:15 and per-phase permissions
+    checked_against: [pse-approved-rules-vwap-trading-2024:3, pse-approved-rules-vwap-trading-2024:5-6 (OCR)]
+    result: confirmed
+  - id: V-06
+    chapter: 12
+    claim: Stock transaction tax cut from 6/10 of 1% to 1/10 of 1% of gross selling price
+    checked_against: [ra-12214-cmepa:16, pse-cn-2025-0028-cmepa-effectivity:1]
+    result: confirmed
+  - id: V-07
+    chapter: 12
+    claim: Minimum commission removed effective 18 Apr 2024 (SEC MC 7-2024)
+    checked_against: [pse-cn-2024-0029-min-commission-removal:1]
+    result: confirmed
+  - id: V-08
+    chapter: 10
+    claim: T+2 for trades from 24 Aug 2023 (first T+2 settlement 29 Aug 2023)
+    checked_against: [pse-cn-2023-0031-t2-settlement:1]
+    result: confirmed
+  - id: V-09
+    chapter: 5
+    claim: Regular block sale >= PHP 20 million, within +/-5% of the LACP, at most four decimal places
+    checked_against: [pse-implementing-guidelines-trading-rules:23]
+    result: confirmed
+  - id: V-10
+    chapter: 11
+    claim: EDGE same-day disclosure cut-off 4:00 pm effective 25 May 2026
+    checked_against: [pse-cn-2026-0024-edge-cutoff-4pm:1]
+    result: confirmed
+  - id: V-11
+    chapter: 17
+    claim: Nasdaq Eqlipse go-live 23 Nov 2026 with Saturday rehearsals 31 Oct, 7 Nov, 14 Nov 2026
+    checked_against: [pse-nte-broker-forum-2026-07-09:9]
+    result: confirmed
+    note: Scheduled date as of the 9 Jul 2026 broker forum; no later change notice was found by 6 Oct 2026.
+  - id: V-12
+    chapter: 7
+    claim: Market-wide halt trigger is TPs with more than 50% of six-month ADTV (ex-block) unable to trade, effective 20 Aug 2025
+    checked_against: [pse-cn-2025-0037:1]
+    result: confirmed
+  - id: V-13
+    chapter: 9
+    claim: Daily Short Sell Report shows zero short volume
+    checked_against: [pse-dssr-2026-10-05:2]
+    result: confirmed
+    note: Spot-checked the latest report; the all-707-files claim rests on the researcher's parse of every report.
+
+findings:
+  - id: F-01
+    severity: defect
+    area: build
+    what: The markdown typographer rewrote "(c)" to "(c)"-symbol and "(r)" to "(r)"-symbol, corrupting legal references such as "s.10(c)".
+    resolution: fixed -- the "replacements" rule is disabled in tools/build_kb.py; smart quotes kept.
+  - id: F-02
+    severity: coverage
+    area: sources
+    what: 83 archived PDFs are fully or partly scanned; the 2010 Revised Trading Rules, DMA rules, VWAP rules, CMIC rules, BIR regulations and Republic Acts had no text layer, so full-text search could not see them.
+    resolution: fixed -- tools/ocr_sources.py (Windows OCR) now OCRs any document with >= 30% text-less pages; 1,346 pages recovered into sources/ocr/. The first pass used a whole-document average and missed 48 partially scanned files (a typed cover over scanned rule pages); detection is now per page.
+  - id: F-03
+    severity: defect
+    area: chapter 11
+    what: Stated that a halted book "re-opens through an intraday auction"; the ITCH spec only says the engine models a halt as an intraday auction (indicative messages, auction type I) and does not say whether an uncross runs at the lift (chapters 06 and 07 say so).
+    resolution: fixed -- wording aligned with chapters 06/07 and marked as inference.
+  - id: F-04
+    severity: defect
+    area: chapter 17
+    what: Dated PSE circular CN-2026-0022 (PDTC lending-pool readiness) 18 May 2026; the circular is dated 6 May 2026 on its face.
+    resolution: fixed.
+  - id: F-05
+    severity: duplication
+    area: archive
+    what: Parallel researchers saved byte-identical PDFs under two slugs.
+    resolution: fixed -- tools/dedupe_archive.py merged 10 pairs onto one canonical slug (rewriting citations in notes and catalog) and moved the copies to build/dupes/; researchers had already removed a few others.
+  - id: F-06
+    severity: currency
+    area: chapters 02, 10
+    what: PSE's January 2025 consolidated listing and disclosure rules still print an ex-date of record date minus 3 trading days; T+2 (24 Aug 2023) moved it to record date minus 1, confirmed on 493 EDGE dividend records.
+    resolution: documented -- chapters state RD-1 and flag the stale compilation in a warn callout.
+  - id: F-07
+    severity: currency
+    area: chapters 11, 13
+    what: The consolidated rules print a 3:30 pm EDGE cut-off; 4:00 pm since 25 May 2026.
+    resolution: documented.
+  - id: F-08
+    severity: currency
+    area: chapter 10
+    what: SCCP's website posts the 13 Mar 2018 T+3 rulebook; the in-force text is that rulebook as amended by memos through 8 Jul 2025.
+    resolution: documented -- chapter 10 reconstructs the in-force rule set from the redline memos.
+  - id: F-09
+    severity: currency
+    area: chapters 12, 14
+    what: PSE's own investor page shows a 30% dividend withholding rate for non-resident foreign corporations; 25% (15% on the tax-sparing route) since CREATE.
+    resolution: documented.
+
+open_in_public_record:
+  - Whether ITCH "broker anonymity" was ever activated (announced 2014, deferred at go-live; no activation notice found). Working assumption: resting orders anonymous, fills broker-identified.
+  - Amend/cancel during the run-off (ITCH state table says no; Implementing Guidelines say cancel allowed).
+  - The official closing price when the pre-close does not cross (working assumption: last traded price).
+  - Block-sale settlement date (Guidelines say T+0; market is T+2) and SCCP guarantee coverage of blocks.
+  - Circuit-breaker clock cut-offs, written for the pre-2020 pre-close, never restated.
+  - Nasdaq Eqlipse order-entry, ITCH and MDF specifications (sub-licence only); SEC approval of One Lot One Share, the new tick table, the run-off change and Negotiated Trades.
+  - Trading status of 16-18 Nov 2026; FTSE's 6 Oct 2026 country-classification announcement.
+  - Real-time market-data fees and latency; message-rate limits; cancel-on-disconnect; institutional commission rates; SBL volumes and borrow fees.

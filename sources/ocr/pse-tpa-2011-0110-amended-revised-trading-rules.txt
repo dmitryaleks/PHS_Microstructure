@@ -1,0 +1,214 @@
+===== page 1 / 6 =====
+MEMORANDUM
+STOC*
+lue.
+x
+The Philippine Stock Exchange,
+TPA - No. 2011-011
+Inc.
+Trading Rules
+Membership Rules
+Listing Rules
+Computer Systems Update
+Administrative Matters
+Others: Trading Schedule
+Date
+Subject
+December 7, 2011
+SEC Approved Amendments to PSE Revised Trading Rules
+Further to Memorandum TPA 2011-0108 dated December 6, 2011, please be informed that the
+Securities and Exchange Commission ("SEC") approved the amendments to the PSE Revised
+Trading Rules which will take effect on January 2012.
+Attached are a copy of SEC and amended Articles of the Revised Trading Rules.
+For your information and guidance.
+Original signed
+RACHELLE C. BLANCH
+VP & Head, Market Operations Division
+Noted by:
+Original signed
+HANS B. SICAT
+President & CEO
+FID/CSD
+Tel 688-756116887508
+Market Regulation Division
+Tel. # 688-7541
+Issuer Regulation Division
+Tel. # 688-7510
+Technology Division
+Tel. # 688-7480
+Market Operations Division
+Tel. # 819-4430
+Capitals Markets Dev't Division
+Tel. # 688-7534
+Office of the General
+Councel
+Tel. # 688-7411
+===== page 2 / 6 =====
+Republic of the Philippines
+Department of Finance
+Securities and Exchange Commission
+SEC Building, EDSA, Greenhills, Mandaluyong City
+Market Regulation Department
+25 October 2011
+PHILIPPINE STOCK EXCHANGE INC.
+PSE Plaza
+Ayala Avenue
+Makati City
+Fax: 891-9004
+Attention: Mr. Hans B. Sicat, President
+Gentlemen:
+Attached are two (2) copies of the approved amendments to the PSE Revised
+Trading Rules, bearing the signatures of PSE representatives and countersigned by the
+Director, Market Regulation Department, SEC.
+Please immediately post the rules in your website.
+Very truly yours,
+VICENTE GR
+Director
+. FE ZMENIOJR.
+? 2üii
+===== page 3 / 6 =====
+ARTICLE II
+TRADING DAY SCHEDULE
+SECTION 1. Trading Day and Non-Trading Day
+Every day shall be a Trading Day except for Saturdays, Sundays, legal holidays, special
+holidays, days when the Bangko Sentra/ ng Pilipinas (BSP) is closed, and such other days
+as may otherwise be declared by the SEC or the Exchange, through its President or other
+duly authorized representative, to be a non-Trading Day.
+SECTION 2. Trading Hours
+The Exchange shall determine the hours and schedule of a Trading Day. Unless the
+Exchange decides otherwise, a Trading Day shall conform to the following schedule:
+For half-day trading:
+8:45 a.m.
+9:00 a.m.
+9:30 a.m.
+11:57 a.m.
+12:00 p.m.
+12:10 p.m.
+For whole day trading:
+8:45 a.m.
+9:00 a.m.
+9:30 a.m.
+12:00 p.m.
+1:30 p.m.
+3:17 p.m.
+3:20 p.m.
+3:30 p.m.
+National Anthem
+Pre-Open
+Market Open
+Pre-Close
+Run-off/ Trading at Last
+Market Close
+National Anthem
+Pre-Open
+Market Open
+Market Recess
+Market Resumes
+Pre-Close
+Run-off/ Trading-at-Last
+Market Close
+The Exchange may effect changes to the hours and schedule of a Trading Day, as the
+circumstance warrants.
+===== page 4 / 6 =====
+ARTICLE IV
+GENERAL TRADING OPERATIONS
+SECTION 13. Order Modification
+a.
+b.
+c.
+d.
+Modification of Orders shall be prohibited within a specific phase during Market Pre-
+Open and Pre-Close Period and Market Recess in accordance with the Implementing
+Guidelines of these Rules.
+A posted and unmatched Order may be modified without losing its priority in the Order
+queue if it involves any or a combination of the following:
+i. a decrease in its volume;
+ii. a modification of validity type; or
+iii. a modification of client account code.
+A modified Order loses its priority when it involves any or a combination of the following:
+i. an increase in its volume;
+ii. a modification of the limit price entered; or
+iii. a modification of the trigger price entered.
+No unmatched Order modification is allowed from client to proprietary or vice versa.
+SECTION 14. Cancellations of Orders
+a.
+b.
+c.
+d.
+Cancellation of Orders shall be prohibited within a specific phase during Market Pre-
+Open and Pre-Close Period and Market Recess in accordance with the Implementing
+Guidelines of these Rules.
+Cancellation of any remaining unexecuted portion of a partially matched Order is
+allowed.
+The Exchange shall cancel the following Orders which are deemed invalid:
+i. Orders for a certain Security in the event of corporate actions resulting to an
+adjustment in the Closing Price;
+ii. Orders on the ex-date for Securities with cash and/or property dividends; or
+iii. Orders for Securities that cross a Board Lot.
+The Trading Participant can only direct the Exchange to execute a cancellation of all the
+Orders already posted when there occurs a system failure or interruption on the PSE-
+===== page 5 / 6 =====
+certified Front-End Order Management System of the Trading Participant or Common
+Customer Gateway (CCG) of the Exchange.
+ARTICLE VI
+CROSS TRANSACTIONS AND BLOCK SALE
+SECTION 3. Block Sales
+a.
+b.
+c.
+d.
+e.
+g.
+h.
+j.
+Upon approval by the Exchange, Block Sales shall be immediately entered into the
+Trading System of the Exchange.
+Block Sales shall comply with the minimum transaction value and the allowable
+execution prices in accordance with the Implementing Guidelines of these Rules.
+Block Sales shall only constitute pre-arranged transactions between and among parties
+to be executed through the Exchange.
+Block Sales shall have an execution price of above or below a prescribed ratio of the
+previous Trading Day's Closing Price or the ACP in the event of corporate actions, or the
+last ACP in cases where there is no trading activity for the Security in the immediately
+preceding Trading Day, in accordance with the Implementing Guidelines of these Rules.
+Block Sales may involve one or two Trading Participants, but shall have different clients
+for the buying and the selling side.
+In Block Sales involving two Trading Participants, a Block Sale declaration which is not
+confirmed by the counterpart Trading Participant shall be eliminated after the period set
+by the Exchange.
+Block Sales shall be settled based on Clearing Agency rules.
+The Block Sale Market adopts the same Security state, other than freezing and
+reservation, implemented in the Normal Market.
+Block Sale transactions can be executed from the Market Pre-Open to the Trading-at-
+Last/Run-Off period, including Market Recess.
+Requests for Block Sales shall be acted upon within two (2) Trading Days.
+===== page 6 / 6 =====
+ARTICLE VIII
+MARKET HALT OR SUSPENSION OF TRADING ACTIVITY
+SECTION 2. Market Halt
+a.
+b.
+c.
+d.
+e.
+The Exchange may halt the trading in the Market if at least one-third (1/3) of the Trading
+Participant-users cannot access the Trading System due to Trading System problems
+such as, but not limited to, server failure, network/link problems, or application errors.
+In the event of Market Halt occurring thirty (30) minutes or more, the Exchange shall
+extend trading hours. However, trading extension will no longer be applicable for whole
+day trading, except for the purpose of completing the remaining market phases, if
+warranted under the circumstances, in accordance with the implementing guidelines.
+Resumption of trading shall be governed by the following guidelines:
+i.
+In the event a Market Halt affects the Pre-Open Period, the Exchange shall allot time
+for the Pre-Open Period upon lifting of Market Halt.
+ii. In the event a Market Halt affects the Pre-Close and/or Run-Off Period, upon lifting of
+the Market Halt the Exchange shall complete the remaining market phases when
+practicable.
+In the event a Market Halt lasts for more than two (2) hours or fifteen (15) minutes
+beyond the Run-Off Period, the Exchange has sole discretion to suspend or cancel the
+trading for the day as the circumstances may warrant.
+The President may authorize trading to proceed on any operational Trading Floor and
+the affected Trading Participant may trade through its correspondent Trading Participant
+or through any other mode of trading not prohibited by the rules of the Exchange.
+101b

@@ -1,0 +1,367 @@
+===== page 1 / 9 =====
+CN - No. 2024-003
+PSE
+MEMORANDUM
+THE PHILIPPINE STOCK EXCHANGE, INC.
+Trading
+Disclosure
+Listing
+C] PUblic Advisory
+Administrative/Technology Matters
+@ Others:
+BIR Revenue Regulations
+TO
+SUBJECT
+DATE
+THE INVESTING PUBLIC AND MARKET PARTICIPANTS
+AMENDMENTS TO BIR REVENUE REGULATIONS
+ON SECURITIES BORROWING AND LENDING
+July 9, 2024
+Please be informed that the Bureau of Internal Revenue (BIR) issued on June 5, 2024
+Revenue Regulations (RR) No. 10-2024, which further amended RR No. 10-2006, as
+amended by RR No. 1-2008, or the guidelines and conditions for the tax treatment of
+securities borrowing and lending ("SBL") transactions involving shares of stock or
+securities listed in PSE.
+RR No. 10-2024 amended certain provisions of RR No. 10-2006 pertaining to the
+registration of Master Securities Lending Agreement ("MSLA") and Global Master
+Securities Lending Agreement ("GMSLA"). The salient revisions are as follows:
+1.
+2.
+CMDD
+el. No.:
+Effectivity of the Approval of MSLA/GMSLA
+A valid MSLA shall be deemed registered with and approved by the BIR upon
+issuance of the Certificate of Registration, but the approval shall retroact to the
+date of complete submission to the BIR of the duly signed MSLA/GMSLA which
+has been pre-cleared and favorably endorsed by PSE and payment of the BIR
+registration fee.
+The registration shall be valid until revoked by the BIR.
+Guidelines for Multilateral MSLA registration
+A Multilateral MSLA shall be registered once with the BIR. Borrowers may be
+added to a previously registered Multilateral MSLA by executing an Accession
+Agreement indicating the conformity of the additional borrowers to be bound by
+IRD
+MOD
+HRD / RISK/ SU CCD / FMD / AD
+OGC
+coo
+632 8876-4888
+-mall Ad ress: Investin
+se.com.
+===== page 2 / 9 =====
+3.
+4.
+the provisions of the Multilateral MSLA. A new Certificate of Registration
+reflecting the additional borrowers shall be issued by the BIR upon evaluation of
+the Accession Agreement and confirmation of payment of the registration fee.
+Capacity in which the parties are acting
+Parties to an MSLA may interchange as lender or borrower, provided they indicate
+in the SBL Confirmation Notice the capacity in which they are acting in a particular
+loan transaction.
+Borrower's Responsibilities
+Borrower shall provide a copy of the BIR-stamped MSLA to PSE within 15 days
+from submission to BIR.
+The acceptance of other forms of collateral allowed by the Securities and Exchange
+Commission and acceptance of GMSLA for registration if either or both parties to an SBL
+transaction are foreign nationals were also codified in RR No. 10-2024.
+A copy of RR No. 10-2024 is attached herewith as Annex "A".
+For your information and guidance.
+(Original signed)
+Ramon S. Monzon
+President and CEO
+CMDD
+MOD
+HRD / RISK / SU
+632
+887
+FD
+-4888
+IRD
+CCD / FMD / AD
+OGC
+-mai Ad ress: Investin
+coo
+se.com. h
+===== page 3 / 9 =====
+ANNEX "A"
+I..JF REVENUE
+REPUBLIC OF THE PHILIPPINES
+DEPARTMENT OF FINANCE
+BUREAU OF NTERNAL REVENUE
+National Office Building
+Quezon City
+i)
+JUN t 5 2024
+REVENUE REGULATIONS NO. 10-2.02-9
+JUN 05 2024
+DIVESION
+10-2006, As
+SUBJECT:
+TO:
+Amending Certain Provisions of Revenue R%ulations No.
+Amended, Relative to the Registration of Master Securities Lending
+Agreement and Global Master Securities Lending Agreement
+All Internal Revenue Officers and Others Concerned
+SECTION 1. Scope. - Pursuant to Section 244 of the National Internal Revenue Code of 1997,
+as amended, these Regulations are hereby promulgated to amend certain provisions of Revenue
+Regulations (RR) No. 10-2006, as amended by RR No. 1-2008.
+SECTION 2. Section 3 of RR No. 10-2006, as amended, is hereby further amended to read as
+follows:
+"SECTION 3. Definition of Terms. —
+xxx xxx xxx
+b. Collateral. Cash, government securities, equity securities, standby
+letter of credit issued by a bank, or other forms of collateral
+provided to the Lender as security in accordance with the rules
+prescribed by the SEC and/or PSE until the borrowed
+share/security is retumed.
+xxx xxx xxx
+f. Global Master Securities Lending Ageement (GMSLA). Master
+Securities Lending Agreement subitmtiglly in the. form published
+b the International Securities Lendin A c•ati n.
+u oses
+of these Regulations. references to MSLA shall also include the
+GMSLA.
+xxx xxx xxx"
+All subsequent paragraphs are hereby re-numbered accordingly.
+SECTION 3. Section 4 of RR No. 10-2006, as amended, is hereby further amended to read as
+follows:
+"SECTION 4. Parties to an SBL transaction. — The parties to an
+SBL transaction are as follows:
+===== page 4 / 9 =====
+xxx xxx xxx
+b. Lender. A Lender is any person, whether natural orjuridical, who
+lends shares of stock/securities from his/its pool ofassets or the assets
+of his clients (in the case of Lending Agents). There are no restrictions
+on the status and qualifications ofa person whp enters into an MSLA
+as a Lender except those provided in SEC and PSE regulations. A
+foreign lender is contemplated within the definition of a Lender for
+the purpose of these Regulations.
+xxx xxx xxx"
+SECTION 4. Section 5 of RR No. 10-2006, as amended, is hereby further amended to read as
+follows:
+"SECTION 5. Tax Treatment of Securities Borrowing and
+Lending (SBL). — For purposes of these Regulations, the Securities
+Borrowing and Lending transactions of shares of stocWsecurities
+listed in the PSE, as well as the delivery to, and return by, the
+Lender/Lending Agent of collateral appurtenant thereto or the
+Equivalent Shares ofStock/Securities, shall not be subject to the stock
+transaction tax under Section 127 or capital gains tax imposed under
+Section 24(C), and ofthe
+Tax Code, and documentary stamp taxes under Section 175 of the
+National Intemal Revenue Code, as amended by RA 9243; provided,
+that, a valid MSLA is executed by the parties and registered with and
+approved by the BIR, the SBL Program is in accordance with the rules
+and regulations of the SEC, and such SBL Program is under the
+administration and supers/ision of the PSE. A valid MSLA shall be
+deemed registered with, and approved by, the BIR in conformity with
+applicable requirements upon issuance by the EJR of the Certificate
+of Registration. which approval shall to the date of complete
+submission to the BIR of the duly signed MSLA. pre-cleared and
+favorably endorsed by PSE. and payment of the BIR registration fee
+in accordance with Section 8 of these Regulations. However, all other
+applicable taxes prescribed by the Tax Code and special laws shall
+continue to apply.
+Unless the tenns and conditions of these Regulations are complied
+with, the lending (borrowing) of shares of stock]securities shall be
+treated as a disposal (an acquisition) by the lender (Borrower), and the
+retum of borrowed shares/securities shall be treated as an acquisition
+(disposal) by the Lendér (Borrower), in which case, the applicable
+taxes on the transaction shall be impoed."
+SECI'ION 5. Section 6 of RR No. 10-2006, as amended, is hereby further amended to read as
+follows:
+"SECTION 6. Master Securities Lending Agreement; Basic
+Requirements.
+or REVENUE
+05
+===== page 5 / 9 =====
+Prior to the borrowing of shares of stocWsecurities by the Borrower
+and negotiating the terms of an SBL, the parties must have entered
+into an MSLA or Multilateral MSLA. A valid MSLA or Multilateral
+MSLA contains the following features:
+xxx xxx xxx
+c. Collateral requirement. — There is no consideration involved in the
+same manner as a regular buy and sell transaction. Instead, the
+Borrower merely puts up a collateral in accordance with the rules
+prescribed by the SEC and/or PSE in order to guarantee his
+obligations under the MSLA, which collateral may not be
+necessarily in the fon•n of cash but may also be in the form of
+govemment or equity securities or letters of credit or other forms
+of collateral allowed by the SEC and/or PSE,
+xxx xxx xxx
+f. Specified purpose(s). — The purpose or purposes for which the
+borrowed shares ofstocWsecurities will be used are specified in and
+accordingly limited by the MSLA, which must be any of the
+following:
+xxx xxx xxx
+4. On-lending of borrowed shæes of stock/secur(ties to another
+Borrower who has effected another SBL agreement. This
+occurs when an SBL is made by an Agent or a Borrower for
+on-lending to another Borrower who also effects an SBL.
+However, the subsequent Borrower must use the borrowed
+shares of stock/securities for any of the purposes specified
+herein. Because of the practical difficulties an intermediary
+original Borrower could face in determining how the
+subsequent Borrower had used the shares of stocWsecurities,
+the BIR shall look at an intermediary's or original Borrower's
+borrowings and on-lendings separately. Thus, provided an
+intermediary or original Borrower borrows for the purpose of
+on-lending, his borrowing transaction will qualifr under a
+conditional tax-free status. Furthemore, as shares of
+stocWsecurities canying the same rights are fungible, it is not
+necessary to match each of the priginal Borrower's or an
+intermediary's SBL with each ofhis on-lendings on a case-by-
+case basis.
+xxx
+KEAU e -
+xxx xxx"
+JCL.1 05
+===== page 6 / 9 =====
+SECTION 6. Section 7 of RR No. 10•2006, as mended, is hereby further amended to read as
+follows:
+"SECTION 7. Guidelines in the Execution oftbe MSLA. -
+xxx xxx xxx
+d. As a general rule, an MSLA should be entered into by the Borrower
+for every Lender/Lending Agent. However, in view of the
+administrative difficulty ofexecuting and registering an MSLA for
+every borrower, a Multilateral MSLA may be executed and
+submitted to the BIR by the LenderLending Agent or the
+concerned party with multiple borrowers. This means that instead
+of executing separate MSLAs for each borrower, the
+Lender/Lending Agent or the concerned party may execute and
+register one-time with the BIR a Multilateral MSLA reflecting their
+undertaking and willingless to be bound by its provisions. For the
+avoidance ofdoubt the Lender/Lending Agent may add borrowers
+to a previously registered Multilateral MSLA by executing an
+Accession Agreement indicating the conformity of the additional
+borrowers to be bound by the provisions of the Multilateral MSLA.
+Such Accession Ayeement shall form an integral part of the
+previously registered MSLA upon submission of the Accession
+Agreement to the BIR and payment of the equivq!ent registration
+fees. It is understood that a Multilateral MSLA shall contain all the
+features of a valid MSLA, including the delivery of collateral,
+pursuant to Section 6 hereof. For this purpose, a new certificate of
+registration reflecting the additional borrowers shall be issued by
+the BIR upon evaluation of the accession Agreement and
+confimation of payment of registration fees.
+e. Parties to an MSLA may interchange as Lender or Borrower. The
+Parties must indicate in the SBL Confimation Notice the capacity
+in which they are acting in a particular loan transaction.
+f. Where an MSLA does not comply with the requirements herein set
+forth, the BIR shall consider the requirements fulfilled if a copy of
+the MSLA is accompanied by an executed copy of an addendum
+duly complying with the deficiency requirement. In such cases, the
+addendum should be attached to a copy of the MSLA. Only
+transactions entered into subsequent to the extension of the
+addendum will be eligible for conditional tax-free status.
+If either or both parties to an SBL transaction are foreign nationals
+who have a GMSLA in place. the BIR shall consider the requirements
+under these Regulations fulfilled if the parties submit together with
+the GMSLA. a duly executed Addendum or Supplemental Agreement
+as may be by. the PSE: altemativelyt the parties may also
+submit an MSLA in case they have no GMSLA in place."
+===== page 7 / 9 =====
+SECTION 7. Section 8 of RR No. 10-2006, as amended, is hereby further amended to read as
+follows:
+I
+'SEcr10N 8. Registration of the MSLA or Multilateral MSLA.
+— The following guidelines shall govern the registration of every
+MSLA or Multilateral MSLA:
+xxx xxx xxx
+c. Place and Time of Registration. The MSLA or Multilateral MSLA
+shall be registered with the BIR bv submitting the following: (i)
+three original or certified true copies ofa duly completed MSLA
+Registration Form (Appendix A): (ii) three original or certified true
+copies of the duly-siaed and completed MSLA (and its addendum
+if applicable). or if executed abroad. an authenticated or apostilled
+version of the MSLA pre-cleared and favorably endorsed by PSE
+and (iii) three original or certified true copies of Lender's
+Notification of Execution of MSLA (Appendix P). to the Legal and
+Legislative Division of the BIR National Office or in such other
+office which the Commissioner may hereafter direct, and filing of
+Registration Form and payment of the registration fee with the
+General Services Division at the BIR National Office. Registration
+ofthe MSLA or Multilateral MSLA in accordance with this section
+should be made within two (2) weeks from execution if executed
+in the Philippines and within one (1) month from its authentication
+or certification via apostille ifexecuted outside the Philippines.
+In case parties have valid existing MSLAs executed outside the
+Philippines prior to the effectivity of these Regulations, the
+borrower must register the MSLA before entering into the first SBL
+transaction involving Philippine equity securities, in accordance
+Approval of MSLA or Multilateral MSLA. The Legal and
+Legislative Division of the BIR National Offce shall take the
+appropriate action on the application for registration within five (5)
+working days from submission of complete documents as
+prescribed in this Section. All applications for registration of
+MSLAs or Multilateral MSLAs shall be approved by the BIR
+Assistant Commissioner. Legal Service. or any other revenue
+official duly-authorized by the Commissioner.
+Only SBL fransactions under an MSLA or Multilateral MSLA
+registered and approved by the BIR shall be entitled to the
+conditional tax-free status ofthe said transactions without preiudice
+to BIR's post-audit review. The regisfration shall be valid until
+by the BIR,
+eREP
+05
+===== page 8 / 9 =====
+e. Failure to Register. MX
+f: Duty ofthe Lender/Lending Agent/Borrower.
+Dub.' of the BIR. It shall be the duty of the concemed Revenue
+District Office or the Large Taxpayer District Offices. as the case
+may be. to determine whether the registered MSLA conforms to the
+requirements herein imposed, to monitor compliance of the parties
+to the conditions herein prescribed, to assess taxes against the
+parties found to have entered into an SBL transaction in violation
+of these Regulations, and to recommend to the BIR Assistant
+Commissioner of Legal Service through the Legal and Legislative
+Division. for the revocation of the MSLA registration."
+SECTION 8. Section 9 of RR No. 10-2006, as amended, is hereby further amended to read as
+follows:
+"SECTION 9. SBL Deemed Sale — An SBL is deemed a sale and
+purchase of the borrowed shares of stock/securities (or part of it, as
+the case may be) when any of the following circumstances is present:
+a. There is no Stock Return.in whole orinpartofthe borrowed shares
+of stock/securities at the end of the borrowing period. A partial
+stock return is permissible; however, the balance of any borrowed
+shares of stock/securities that have not been retumed at the end of
+the borrowing period is deemed to have been bought (sold) by the
+Borrower (Lender). The Lender/Lending Agent may purchase
+Equivalent Shares of Stock/Securities using the collateral of the
+borrower from the stock exchange which purchase is subiect to
+the stock transaction tax under Section 127(a) of the National
+Interpal Revenue Code of 1997. as amended.
+xxx xxx"
+SECTION 9, Section 12(a) of RR No. 10-2006, as amended, is hereby further amended to read
+as follows:
+"SECTION 12. Compliance Requirements. -
+a. Record Keeping and Reporting. The Borrower is required to:
+xxx xxx xxx
+5. Provide a copy of the BIR-stqmped MSLA to PSE within fifteen
+(15) days from submission to BIR.
+xxx xxx xxx"
+REAL] or
+05 2074
+===== page 9 / 9 =====
+SECTION 10. A new Section 14 is hereby added to RR No. 10-2006, as amended, which shall
+read as follows:
+"SECTION 14. Infonnation Sharing. —
+(a) To facilitate monitoring of compliance with these Regulations.
+PSE shall grant authorized BIR representatives access to reports
+provided by the depository and depository participants to PSE with
+respect to SBL transactions.
+(b) To facilitate monitoring of compliance with PSE's reportorial
+requirements. BIR shall provide to the PSE. within fifteen (15)
+calendar days aner the end of each quarter, a list of all MWAs
+registered in such quarter."
+The succeeding section shall be renumbered accordingly.
+SECTION 11. Repealing Clause. — The provisions of any revenue regulations, revenue
+memorandum order, revenue memorandum circular, or any other revenue issuances
+inconsistent with these Regulations are hereby repealed, amended, or modified accordingly.
+SECTION 12. Effectivity. — These Regulations shall uke effect immediately after publication
+in any newspaper of general circulation.
+'S" re f ce
+M 24
+Recommending approval:
+C missioner o nternal Revenue
+3SS
+05 {l

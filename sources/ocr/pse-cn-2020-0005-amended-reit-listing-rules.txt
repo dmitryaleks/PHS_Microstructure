@@ -1,0 +1,576 @@
+===== page 1 / 16 =====
+PSE
+The P
+Trading
+Disclosure
+Listing
+h
+i
+I
+i
+MEMORANDUM CN - No. 2020-0005
+p pine Stock Exchange, Inc.
+Public Advisory
+Administrative / Technology Matters
+Others: Effectivity of Amended REIT Listing Rules
+TO:
+THE INVESTING PUBLIC AND MARKET PARTICIPANTS
+SUBJECT: EFFECTIVITY OF THE AMENDED LISTING RULES FOR
+DATE:
+REAL ESTATE INVESTMENT TRUSTS (REITS)
+February 7, 2020
+Please be informed that in a letter dated February 7, 2020, the Securities
+and Exchange Commission informed the Exchange that it has approved the
+Amended Listing Rules for Real Estate Investment Trusts ("Amended REIT
+Listing Rules").
+For the information and guidance of the investing public and market
+participants, the official copy of the Amended REIT Listing Rules is hereto
+attached.
+The Amended REIT Listing Rules shall take effect immediately.
+(Original Signed)
+RAMON S. MONZON
+President and CEO
+CTD/HRAD
+Tel. No. 876-4831/ 876-4755
+MOD/TD
+Tel. No. 876-4899/ 876-4771
+IRD
+Tel. No. 876-4731
+CMDD/CPIRD
+Tel. No. 876-4813/ 876-4857
+OGC/CGO
+Tel. No. 876-4871/ 876-4841
+coo
+Tel. No. 876-4807
+===== page 2 / 16 =====
+Q PSE
+AMENDED LISTING RULES FOR
+REAL ESTATE INVESTMENT TRUSTS (REITS)
+Table of Contents
+Section 1. Rationale
+Section 2. General Provision
+Applicability of the Rules of the Exchange
+Section 3.
+General Criteria for Admission to Listing
+Section 4.
+Listing Application Documents
+Section 5.
+Disclosure Requirements
+Section 6.
+Continuing Listing Requirements
+Section 7.
+Section 8. Reinvestrnent
+Section 9. Penalties
+Penalty for Violating the Reinvestment Requirement
+Section 10.
+Relisting Prohibition
+Section 11.
+Mandatory Tender Offer in Case of Delisting
+Section 12.
+Name-On Central Depository Arrangement
+Section 13.
+Eligible Brokers
+Section 14.
+Section 15. Amendment
+Documentary Requirements for a REIT IPO
+Annex
+===== page 3 / 16 =====
+PSE
+AMENDED LISTING RULES FOR
+REAL ESTATE INVESTMENT TRUSTS (REITS)I
+These Listing Rules for REITs of The Philippine Stock Exchange, Inc. ("PSE" or the
+"Exchange") must be read in conjunction with the Listing and Disclosure Rules of the
+PSE, Republic Act No. 9856 ("REIT Act of 2009") and its implementing rules and
+regulations issued by the Securities and Exchange Commission and the Bureau of
+Internal Revenue regulations for REITs.
+SECTION 1. RATIONALE - The Listing Rules for Real Estate Investment Trusts (REITs) are
+being made in light of the requirement under Section 5 of Republic Act No. 9856,
+otherwise known as the REIT Act of 2009, that the shares of stock of a REIT must be listed
+in accordance with the rules of the Exchange.
+SECTION 2. GENERAL - A real estate investrnent trust or REIT is a stock corporation
+established in accordance with the Revised Corporation Code of the Philippines and the
+rules and regulations promulgated by the Commission principally for the purpose of
+owning income-generating real estate assets. The Exchange adopts the applicable listing
+and disclosure requirements under the REIT Act of 2009, and its implementing rules and
+regulations (IRR), as may be amended. In case any provision of the rules of the Exchange
+or the Listing Agreement is inconsistent with the provisions of the REIT Act of 2009 or its
+IRR, the provisions of the law, regulation or government issuance shall prevail.
+SECTION 3. APPLICABILITY OF THE RULES OF THE EXCHANGE - In addition to these Rules,
+the Listing and Disclosure Rules of the Exchange, as may be amended from time to time,
+and all applicable Exchange rules, regulations, policies, guidelines, the Listing
+Agreement, and all laws and regulations will apply to REITs; provided, that, in case of
+conflict, the REIT Act of 2009 and its IRR shall prevail.
+SECTION 4. GENERAL CRITERIA FOR ADMISSION TO LISTING - In addition to the criteria for
+listing under the rules of the Exchange, a REIT must also meet the following criteria:
+1 These Rules amend the REIT Listing Rules which took effect on October 8, 2010, to incorporate the
+government's reinvestment policy to develop the Philippine real estate industry through REITs. They form
+part of the REIT regulatory framework which consists of the REIT Act of 2009, its implementing rules and
+regulations ("IRR") issued by the Securities and Exchange Commission ("SEC") and the revenue
+regulations ("RR") for REITs issued by the Bureau of Internal Revenue ("BIR"). On January 20, 2020, the
+Department of Finance, SEC, BIR and PSE held a ceremony for the joint signing of the REIT IRR, RR and
+these Amended Listing Rules.
+1
+===== page 4 / 16 =====
+PSE Listing Rules for REITs (2020)
+Page 2 of 8
+a. A REIT must be a stock corporation established in accordance with the Revised
+Corporation Code of the Philippines and the rules and regulations promulgated
+by the Commission principally for the purpose of owning income-generating real
+estate assets.
+b. A REIT must have a dividend policy of distributing annually at least ninety
+percent (90%) of its distributable income as dividends to its shareholders in
+accordance with the REIT Act of 2009 and its IRR.
+c. A REIT must be a public company upon and after listing, and to be considered as
+such, a REIT must have at least one thousand (1,000) public shareholders each
+owning at least fifty (50) shares of any class of shares who in the aggregate own at
+least one-third (1/3) of the outstanding capital stock.
+d. A REIT must have a minimum paid-up capital of Php 300 million.
+e.
+f.
+g.
+h.
+i.
+j.
+At least seventy-five percent (75%) of the deposited property of the REIT must be
+invested in, or consist of, income-generating real estate; provided, that a REIT shall
+not invest in real estate located outside the Philippines which exceeds more than
+forty percent (40%) of its deposited property and, provided further, that the REIT
+shall at all times secure a special authority from the securities and exchange
+commission in making such investment outside the Philippines.
+At least 1/3 of the board of directors of a REIT must be independent directors,
+which in no case shall be less than two (2).
+A REIT must appoint a qualified fund manager and property manager in
+accordance with the REIT Act of 2009 and its IRR, as may be amended.
+Directors or officers of the REIT, fund manager, property manager, distributor and
+other REIT participants are subjected to the fit and proper rule under the REIT Act
+of 2009 and its IRR.
+A newly formed REIT which invokes the track record or operating history of its
+income-generating real estate assets shall submit audited financial statements and
+any other supporting documents that reflect the track record or operating history
+of the REIT's income-generating real estate assets for the applicable period.
+The Articles of Incorporation and By-Laws of the REIT shall provide that all of the
+shares of stock of the REIT shall be issued in the form of uncertificated securities
+and an investor may not require the REIT to issue a certificate in respect of any
+share recorded in their name.
+===== page 5 / 16 =====
+PSE Listing Rules for REITs (2020)
+Page 3 of 8
+k. Pursuant to Section 8 of these Rules, the REIT shall submit a firm undertaking on
+the part of its sponsors/ promoters which transferred income-generating real
+estate to the REIT to reinvest in real estate or infrastructure projects in the
+Philippines any monies realized by such sponsors/ promoters from (a) the
+subsequent sale of REIT shares or other securities issued in exchange of income-
+generating real estate transferred by such sponsors/ promoters to the REIT; or (b)
+the sale of any income-generating real estate to the REIT. The firm undertaking
+shall also state the firm commitment to regularly report to the REIT the status of
+implementation of the Reinvestment Plan.
+1. The submission of a Reinvestment Plan by the sponsors/ promoters which
+transferred income-generating real estate to the REIT.
+m. The REIT and its sponsors/ promoters which transferred income-generating real
+estate to the REIT shall be parties to a listing agreement with the Exchange which
+contains, among others, their undertaking to comply with these Rules.
+SECTION 5. LISTING APPLICATION DOCUMENTS - The applicant company shall submit all
+the required documents as provided under Annex "A" of these Rules.
+SECTION 6. DISCLOSURE REQUIREMENTS
+6.1. A REIT shall comply with the reportorial and disclosure requirements prescribed by
+the Revised Corporation Code, the Securities Regulation Code, the Exchange, and the
+REIT Act of 2009 and its IRR, as may be amended.
+6.2. Special Quarterly, Annual and Current Reports - The quarterly and annual reports of
+a REIT shall likewise include the following:
+a. Summary of all real estate transactions entered into during the period, including
+the identity of the parties, the contract price, and their valuations, including the
+methods used to value the assets;
+b. Summary of all the REIT's real estate assets, including the location of such assets,
+their purchase prices and the latest valuations, rentals received and occupancy
+rates, and/or the remaining terms of the REITs leasehold properties;
+c. Comparative summary of the financial performance of the REIT covering various
+time periods (e.g. quarterly, one (l)-year, three (3)-year, five (5)-year or (10)-year).
+d. Status of the implementation of the Reinvestment Plan. The status of the
+implementation of the Reinvestment Plan shall be reported in the non-financial
+===== page 6 / 16 =====
+PSE Listing Rules for REITs (2020)
+Page 4 of 8
+portion of the REIT's and sponsors/ promoters' annual, quarterly and current
+reports. Any investment pursuant to the Reinvestment Plan shall also be disclosed
+via SEC Form 17-C as such investment is made.
+6.3. Reinvestment Reports
+a. A REIT shall submit via the Exchange's Electronic Disclosure Generation
+Technology ("EDGE") (or any equivalent or replacement system) a quarterly
+progress report on the Reinvestment Plan by the sponsors/ promoters which
+transferred income-generating real estate to the REIT (the "Reinvestment
+Quarterly Report") on or before the first fifteen (15) days of the following fiscal
+quarter. The Reinveshnent Quarterly Progress Report shall be certified under oath
+by (1) the sponsors/ promoters which transferred income-generating real estate to
+the REIT, if the sponsors/ promoters are individuals; or (2) if sponsors/ promoters
+are corporations, their chief financial officer, treasurer and external auditor. A final
+report on the implementation of the Reinvestment Plan shall also be submitted by
+the REIT upon the complete implementation of the Reinvestment Plan (the "Final
+Reinvestment Report"), but in no case later than the expiration of the one (1) year
+period provided in the Reinvestment Plan. The Final Reinvestment Report shall
+likewise be certified under oath by the sponsors/ promoters which transferred
+income-generating real estate to the REIT, if such sponsors/ promoters are
+individuals or, if the sponsors/ promoters are corporations, by their chief financial
+officer, treasurer and external auditor.
+b. If the sponsors/ promoters which transferred income-generating real estate to the
+REIT are listed in the Exchange, then the Reinvestment Plan and its
+implementation shall be included in the appropriate structured reports of such
+sponsors/ promoters to the Securities and Exchange Commission and the
+Exchange.
+6.4. Foreign Ownership and Public Reports - A REIT shall submit through EDGE (or any
+equivalent or replacement system) reports on its foreign ownership and public
+shareholder levels duly certified by the transfer registrar, within the timelines prescribed
+by the Exchange's Consolidated Listing and Disclosure Rules. The reports should be
+based on information contained in the records of the transfer agent and the depository or
+any entity duly authorized by the Commission.
+SECTION 7. CONTINUING LISTING REQUIREMENTS - In addition to the existing continuing
+listing requirements of the Exchange, a REIT shall also comply with the following:
+a. A REIT shall maintain its status as a public company as defined in the REIT Act of
+2009 and its IRRI as may be amended. Notwithstanding any provision to the
+===== page 7 / 16 =====
+PSE Listing Rules for REITs (2020)
+Page 5 of 8
+contrary in the rule on minimum public ownership, a REIT shall be required to
+comply with the minimum public ownership requirement prescribed by the REIT
+act of 2009, as may be adjusted pursuant to the provisions of the REIT Act. If a
+REIT fails to maintain the required public ownership, then the Exchange will
+impose a trading suspension for a period of not more than six (6) months. If the
+REIT fails to comply with the public ownership requirement within the six-month
+suspension period, then the REIT shall be automatically delisted.
+This is without prejudice to applicable tax regulations if a REIT fails to maintain
+its status as a public company as provided under the REIT Act of 2009.
+b. A REIT shall maintain the registration of its securities with the Commission.
+c. A REIT shall distribute at least ninety percent (90%) of its distributable income
+required under the REIT Act of 2009 and its IRR, as may be amended.
+d. A full valuation of a REIT's assets must be conducted by an independent property
+valuer, duly accredited by the Commission and the Exchange, at least once a year
+in accordance with the applicable rules of asset valuation and valuation
+methodology as prescribed by the Commission; Provided, however, that the same
+REIT shall not have the same property valuer for more than three (3) consecutive
+years. The REIT may, however, re-engage the services of said property valuer after
+the lapse of three (3) years.
+SECTION 8. REINVESTMENT — In line with the policy to promote and develop the
+Philippines' real estate industry, the sponsors/ promoters which transferred income-
+generating real estate to the REIT must reinvest in real estate and/or infrastructure
+projects located in the Philippines the proceeds realized from (a) the subsequent sale of
+REIT shares and other securities issued in exchange for income-generating real estate
+transferred by the sponsors/ promoters to the REIT; or (b) the sale by such
+sponsors/ promoters of any income-generating real estate to the REIT.
+The following guidelines shall be observed in the reinvestment by the
+sponsors/ promoters which transferred income-generating real estate to the REIT:
+8.1. The sponsors/ promoters, either by themselves or through the REIT, shall submit a
+Reinvestment Plan containing their firm undertaking to reinvest any monies realized by
+such sponsors/ promoters from (a) the subsequent sale of REIT shares or other securities
+issued in exchange of income-generating real estate transferred by such
+sponsors/ promoters to the REIT; or (b) the sale of any income-generating real estate to
+the REIT. The reinvestment shall be made within one (1) year from the date of the receipt
+of the proceeds or money by the sponsors/ promoters.
+===== page 8 / 16 =====
+PSE Listing Rules for REITs (2020)
+Page 6 of 8
+Such Reinvestment Plan shall also include a firm undertaking by the sponsors/ promoters
+to report the status of the implementation of their Reinvestment Plan as contained in the
+reports required to be submitted pursuant to these Rules.
+If the sponsors/ promoters intend to sell their REIT shares or other securities in any public
+offering in the Exchange, their Reinvestment Plan shall be submitted as part of their
+listing application.
+8.2. The Securities and Exchange Commission shall be furnished with a copy of the any
+amended/ revised Reinvestment Plan in no more than three (3) days from receipt of the
+amended/ revised Reinvestment Plan by the Exchange;
+8.3. The Reinvestment Plan shall primarily indicate the following information:
+a. The amount and description of the income-generating property transferred by the
+sponsors/ promoters to the REIT;
+b. The estimated amount of proceeds/ money to be realized by the
+sponsors/ promoters from (i) the subsequent sale of REIT shares or other securities
+issued in exchange of income-generating real estate transferred by such
+sponsors/ promoters to the REIT; or (ii) the sale of any income-generating real
+estate to the REIT;
+c. The description of the real property/ infrastructure project which the
+sponsors/ promoters undertake to invest in within a period of one (1) year from
+the receipt of proceeds. the description shall disclose the following information:
+(i) the location of the real estate or infrastructure project;
+(ii) estimated timing of disbursement of the money/ proceeds for the
+reinvestment; and
+(iii) percentage of completion of the real estate or infrastructure project as of the
+date of the report;
+The sponsors/ promoters which transferred income-generating real estate to the REIT
+shall be a party to the listing agreement with the Exchange.
+SECTION 9. PENALTIES - Failure by the REIT to comply with the REIT Act, Securities
+Regulation Code (Republic Act No. 8799), the Implementing Rules and Regulations
+issued by the Securities and Exchange Commission, the listing or disclosure requirements
+===== page 9 / 16 =====
+PSE Listing Rules for REITs (2020)
+Page 7 of 8
+of the Exchange, and other applicable laws and regulations, shall subject the REIT and/ or
+the sponsors/ promoters which transferred income-generating real estate to the REIT to
+the applicable penalties under the rules of the Exchange, including delisting, without
+prejudice to the liability of the REIT for any administrative, civil or criminal action under
+the REIT Act of 2009, as may be amended, or any existing law. Any violation of the REIT
+Act of 2009 not arising out of, or in connection with, the listing and disclosure
+requirements under these Rules shall be determined by a court of competent authority or
+the appropriate regulatory authority.
+SECTION 10. PENALTY FOR VIOLATING THE REINVESTMENT REQUIREMENT
+Notwithstanding Section 9, the failure of the sponsor or promoter to comply with its firm
+undertaking to reinvest pursuant to its Reinvestment Plan under Section 8 of these Rules
+shall be a ground for delisting of the REIT in the Exchange, without prejudice to any
+administrative, civil or criminal liability under applicable laws and regulations.
+SECTION 11. RELISTING PROHIBITION - A REIT that is involuntarily delisted cannot apply
+for relisting within a period of five (5) years from .the time it was delisted. Its directors
+and officers are disqualified from becoming directors or officers of any company
+applying for listing within the same period.
+SECTION 12. MANDATORY TENDER OFFER IN CASE OF DELISTING - A REIT that is about to
+be delisted from the Exchange, whether voluntarily or involuntarily, shall conduct, either
+by itself or its controlling stockholder(s), a tender offer to all stockholders of record. The
+tender offer price shall be determined in accordance with the Exchange's rules on
+delisting and the applicable tender offer price guidelines, as may be amended from time
+to time.
+Failure or refusal to conduct a tender offer in accordance with this section shall be a
+ground for denial of the petition for voluntary delisting, or imposition of a perpetual
+relisting prohibition, in case of involuntary delisting.
+All other applicable rules on delisting of the Exchange shall apply suppletorily in cases
+of a REIT delisting.
+SECTION 13. NAME-ON CENTRAL DEPOSITORY ARRANGEMENT - The REIT shall establish
+sufficient control and procedures that shall ensure that the shares are traceable to the
+names of the shareholders or investors and for their own benefit and not for the benefit
+of any of the non-public shareholders.
+The REIT shall make the necessary arrangement with a central securities depository on
+the recording of its shareholders under a Name-On Central Depository arrangement.
+===== page 10 / 16 =====
+PSE Listing Rules for REITs (2020)
+Page 8 of 8
+SECTION 14. ELIGIBLE BROKERS - In order to be eligible to trade REIT shares, trading
+participants must have attended a REIT training session or seminar conducted by the
+Exchange and must be operationally ready to trade REIT shares. Such trading
+participants shall issue a sworn certification to the Exchange attesting to its operational
+readiness.
+Notwithstanding such certification, the Exchange shall have the option to assess a trading
+participant's operational readiness to trade REIT shares. In addition, the trading
+participant shall comply with the applicable requirements on the recording of share
+ownership under a Name-On Central Depository Arrangement, and any other
+requirements that may be imposed by other regulatory agencies. The Exchange shall
+restrict trading participants that fail to comply with such requirements from trading REIT
+shares.
+SECTION 15. AMENDMENT - Should the Listing and Disclosure Rules of the Exchange and
+all applicable Exchange rules, regulations, policies, and guidelines be amended
+providing additional or different criteria, the REIT shall be given a reasonable period, to
+be determined by the Exchange, to comply with such amendment.
+===== page 11 / 16 =====
+Annex A
+PSE
+THE PHILIPPINE STOCK EXCHANGE, INC.
+Checklist of Documentary Requirements
+(to be submitted in two (2) hard copies and one (1) soft copy* )
+INITIAL PUBLIC OFFERING
+Real Estate Investment Trust (REIT)
+NAME OF REIT CORPORATION:
+This checklist ofdocumentary requirements supplement and must be read in conjunction with the Revised
+Listing Rules of the Exchange, the listing rules for REITs, the REIT Act of 2009 and its implementing rules
+and regulations.
+DATE
+SUBMITTED
+REQUIREMENTS
+Duly accomplished set of listing application (Application for Listing of Stocks,
+Agreement with Registrar or Transfer Agent, Distribution of Capital Stock of
+Corporation to its Stockholders, Listing Agreement) PSE forms should not be
+ed.
+re
+2. SEC certified true copy of the following:
+o Articles of Incorporation and By-Laws and the Certificate of Filing of
+Articles of Incorporation;
+When applicable, latest Amended Articles of Incorporation and Amended
+By-Laws, and the corresponding Certificate of Filing of Amended Articles
+of Incorporation and Amended By-Laws;
+Certificate of Increase in Capital stock, if any;
+o Registration and Licensing Order and Permit to Offer Securities for Sale
+(to be issued within two (2) tradin dats riorto the start o theo er eriod)
+3. Sworn Corporate Secretary's Certificate of Increase in Authorized Capital
+Stock, if a licable.
+4. Certified true copy of the Registration Statement filed and duly received by
+the SEC.
+5. Affidavit of the newspaper publisher on the fact of publication as required
+under the Securities Re lation Code and ertinent laws.
+6. Sworn Corporate Secretary's Certificate on the following:
+a) Approval by the board of directors and by the stockholders of the initial
+public offering and the application for listing;
+b) The Corporation's total number of shares issued (indicate if there are
+treasu shares ;
+===== page 12 / 16 =====
+PSE Listing Rules for REITs (2020)
+Documentary Requirements for REIT IPO
+Page 2 of 5
+DATE
+SUBMITTED
+c)
+d)
+e)
+f)
+g)
+h)
+i)
+j)
+k)
+l)
+REQUIREMENTS
+The Corporation's total number of shares outstanding;
+The percentage of ownership of Filipino citizens and alien shareholders;
+The Corporation has no subscriptions receivable at the time of the filing of
+the application;
+The total number of holders or recipients of options, if any, showing the
+nature, total number of shares, the price, manner of payment, and basis of
+grant. If there is none, the Corporation shall submit a sworn undertaking
+that should the same be granted in the future, the Exchange and the SEC
+shall be immediately informed of the details of the option upon approval
+by the Board of Directors;
+List of officers and members of the corporation's board of directors
+indicating the independent directors and date of the last regular
+stockholder's meeting when they were elected and the date of any
+subsequent special stockholders' meeting held;
+List of shareholdings of each of the corporation's officers and directors and
+their related parties, indicating therein their percentage of ownership, and
+amount paid up before the IPO;
+All pending litigation involving the corporation and involvement, if any,
+of the members of the board of directors and executive officers, in criminal,
+bankruptcy or insolvency investigations or proceedings against them;
+List of shareholders prior to the IPO subject to lock-up indicating the
+number of shares, percentage owned, and lock-up period;
+Dividend declaration history of the corporation indicating therein the
+year, rate of dividend, record date, and amount paid, with corresponding
+details of any waiver of dividend in such years;
+History of issuances and subscriptions of shares from the time of
+incorporation, indicating therein the date, nature, number of shares issued,
+investors and the respective number of shares subscribed, amount paid by
+each and date of full payment;
+m) List of stockholders indicating therein their respective number of
+shareholdings, percentage ownership, and amount paid up before the
+IPO;
+n) List of all Real Property, Income Generating Real Estate Assets and Real
+Estate-Related Assets as defined in the REIT Act (Definition of Terms);
+o) List of all Related Party Transactions as defined in the REIT Act and its
+IRR;
+p) That the REIT, the Fund Manager, Property Manager, and Property
+Valuer, as well as the directors and principal officers of these parties
+comply with the Fit and Proper Rule as provided under the REIT Act and
+its IRR;
+q) That the Property Valuer
+complies with the criteria
+under the REIT Act and its IRR;
+===== page 13 / 16 =====
+PSE Listing Rules for REITs (2020)
+Documentary Requirements for REIT IPO
+DATE
+SUBMITTED
+REQUIREMENTS
+Page 3 of 5
+r) That the Valuation Report complies with the requirements provided under
+the REIT Act and its IRR;
+7. Sworn Transfer Agent's Certification to the effect that, upon filing of
+application for listing, it has no backlog in the transfer and registration of
+shares.
+8. Background on the top 20 stockholders. In case of corporate stockholders
+indicate its nature of business, capital structure (subscribed and paid-up),
+ownershi structure and ke officers.
+9. Audited financial statements for the last three fiscal years of the corporation
+and/or its subsidiaries or income- eneratin real estate assets.
+10. Interim financial statements as of fiscal quarter immediately preceding the
+filin of the listin a lication.
+11. REIT Plan prepared in compliance with the requirements of the REIT Act and
+its IRR. (The Plan should be submitted in 25 copies 7 calendar days prior to
+its resentation to the PSE Board of Directors).
+12. Detailed work program of the application of the proceeds, the corresponding
+timetable of disbursements and status of each project included in the work
+program. For debt retirement application, state which projects were finance
+by debt being retired, the project cost, amount of project financed by debt
+and financin sources for the remainin cost of the ro•ect.
+13. Basis and/or com utation of the offer rice ran e.
+14. Certified True Copies of all material contracts as defined in the REIT Act and
+its IRR entered into by the corporation with a tabular summary indicating
+therein the date, type of contract, parties involved and particulars of the
+contract includin considerations received b the cor oration .
+15. Public Ownership Report (POR) form duly accomplished by an authorized
+officer of the REIT. Form may be submitted upon determination of final
+number of Offer Shares or at least one week prior to the listing date of the
+REIT's shares.
+16. Certified true copy of the Valuation/ Property Appraisal Report prepared by
+at least one (1) independent appraiser duly licensed by the SEC and
+accredited by the Exchange, in determining the value of its assets. When
+required by the Exchange, the applicant company shall engage the services
+of two (2) independent appraisers duly accredited by the Exchange in
+determinin the value of their real estate assets.
+17. Background information on the Fund Manager, Property Manager and
+Property Valuer, including but not limited to:
+a) capital structure,
+b) ownership structure,
+c) key officers and members of the board of directors,
+d) audited financial statements for the last five 5) ears;
+===== page 14 / 16 =====
+Certified True Copy of the Dividend Distribution Plan originally signed by
+an authorized re resentative of the REIT;
+Certified True Copy of all applicable Transfer Certificate Title ("TCT") with
+a corres ondin table summarizin the details of such TCTs;
+Certified True Co of all a licable Insurance Contracts;
+Documentary requirements relative to the Fund Manager as provided under
+the REIT Act such as:
+a) Agreement/ contract between the REIT and the Fund Manager; and
+b) Sworn corporate secretary's certificate attesting to the approval by the
+REIT's board of directors of the appropriate resolutions for the (i)
+appointment of the Fund Manager, (ii) establishment of the account, and
+(iii) desi ation of si atories to the account.
+22. Certified true copy of the Agreement between the REIT and the Property
+Mana er as rovided under the REIT Act and its IRR;
+Special authority from the Securities and Exchange Commission to invest in
+real estate assets located outside the Phili ines, if a licable.
+Reinvestment plan of the sponsors/ promoters which transferred income-
+eneratin real estate to the REIT.
+25. Other documents which may be required by the Exchange, including but not
+limited to u dates on revious documents submitted.
+*The applicant company shall comply with the following procedures:
+1. The applicant company shall submit two (2) printed copies of each required
+document: one (1) original copy, or when specified, certified true copy; and
+one (1) photocopy of each document. The printed copies must be bound in
+the order as indicated in the checklist, and must be properly tabbed.
+2. The applicant company shall submit a CD or DVD containing a scanned
+copy of each required document in .pdf format. The filename for each .pdf
+file must clearly indicate the type of document (e.g., Application for Listing
+of Stocks, Articles of Incorporation, Background of Top 20 Stockholders,
+etc.). The CD or DVD must be properly labeled with the applicant
+company's name, type of listing application and date of filing.
+3. For an application covering an initial public offering, listing by way of
+introduction, follow-on public offering or stock rights offering, the applicant
+company shall submit a soft copy of the draft prospectus in MS Word or
+.doc format.
+PSE Listing Rules for REITs (2020)
+Documentary Requirements for REIT IPO
+DATE
+SUBMITTED
+18.
+19.
+20.
+21.
+23.
+24.
+Page 4 of 5
+REQUIREMENTS
+===== page 15 / 16 =====
+PSE Listing Rules for REITs (2020)
+Documentary Requirements for REIT IPO
+Page 5 of 5
+4. The applicant company shall submit a sworn corporate secretary's
+certification certifying (i) that the photocopies submitted are true copies of
+the original documents; and (ii) that the hard copies and soft copies are
+identical.
+5. Should the applicant company be required to submit any additional
+document after the listing application is officially filed, steps 1 and 2 above
+shall be observed unless the Exchange specifies that the soft copy of the
+additional required document may be submitted through electronic mail.
+PSE Forms/1PO
+===== page 16 / 16 =====
+THE PHILIPPINE STOCK EXCHANGE, INC.:
+RAMON S. MONZON
+President and CEO
+ÉFRAN
+Chief Operating Officer
+SECURITIES AND EXCHANGE COMMISSION:
+EPHYRO LUIS B. AMATONG
+Commissioner
+VICENTE GRACIA P. FE 1 ENIO, JR.
+Director
+Market and Securities Regulation Department

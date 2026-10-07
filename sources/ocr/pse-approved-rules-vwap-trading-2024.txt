@@ -1,0 +1,241 @@
+===== page 1 / 8 =====
+CN - No. 2024-001
+Q
+PSE
+MEMORANDUM
+THE PHILIPPINE STOCK EXCHANGE, INC.
+Trading
+Disclosure
+Listing
+O PUblic Advisory
+Administrative/Technology Matters
+Others:
+TO
+SUBJECT
+DATE
+THE INVESTING PUBLIC AND TRADING PARTICIPANTS
+APPROVED RULES ON VWAP TRADING
+February 01, 2024
+Please be advised that the Securities and Exchange Commission (SEC) has approved the PSE
+Rules on Volume Weighted Average Price (VWAP) Trading ("VWAP Trading Rules"). Accordingly,
+relevant provisions in the PSE Trading Rules and its Implementing Guidelines were amended to
+incorporate the VWAP Trading Rules.
+The approved VWAP Trading Rules, attached herewith as Annex "A," shall take effect
+immediately.
+The Exchange shall advise the public in due course of the official launch and implementation of
+the VWAP Trading Rules.
+For your information and guidance.
+(Original Signed)
+RAMON S. MONZON
+President and CEO
+CMDD
+Tel. No..
+IRD
+MOD
+HRD / RISK / SU
+632
+8876-4888
+CCD / FMD / AD
+OGC
+E-mail Address: investin
+coo
+se.com. h
+===== page 2 / 8 =====
+Annex "A"
+REVISED TRADING RULES
+ARTICLE 1
+DEFINITIONS AND CONSTRUCTIONS
+SECTION 1. Definition of Terms
+"VWAP Transaction" shall mean a pre-arranged transaction executed at the volume weighted
+average price of a Security. A VWAP Trade is executed by a Trading Participant for different
+clients or its proprietary account through the VWAP trading facility of the Exchange, subject to
+the Exchange's discretion to subsequently make the VWAP trading facility available for two-firm
+trading on a date to be determined by the Exchange and subject to prior approval of the
+Commission.
+===== page 3 / 8 =====
+ARTICLE 11
+TRADING DAY SCHEDULE
+SECTION 2. Trading Hours
+The Exchange shall determine the hours and schedule of a Trading Day. Unless the Exchange
+decides otherwise, a Trading Day shall conform to the following schedule:
+For half-day trading:
+9:00 a.m.
+9:15 a.m.
+9:30 a.m.
+11:57 a.m.
+11:59 a.m.
+12:00 nn
+12:10 p.m.
+12:25 p.m.
+Pre-Open
+Pre-Open No Cancel
+Market Open
+Pre-Close
+Pre-Close No Cancel
+Run-off/ Trading-at-Last
+Closing VWAP Session
+Market Close
+For whole day trading:
+9:00 a.m.
+9:15 a.m.
+9:30 a.m.
+12:00 nn
+1:00 p.m.
+2:45 p.m.
+2:48 p.m.
+2:50 p.m.
+3:00 p.m.
+3:15 p.m.
+Pre-Open
+- Pre-Open No Cancel
+Market Open
+Market Recess
+Market Resume
+Pre-Close
+Pre-Close No Cancel
+Run-off/ Trading-at-Last
+Closing VWAP Session
+Market Close
+The Exchange may effect changes to the hours and schedule of a Trading Day, as the circumstance
+warrants.
+2
+===== page 4 / 8 =====
+ARTICLE VI
+VWAP TRADING
+SECTION 1. General Provisions
+a. VWAP Trading shall be allowed by the Exchange.
+b. It shall only be executed during the VWAP Trading session set by the Exchange.
+c. All transactions executed during the VWAP Trading session shall be executed only at the
+VWAP computed by the Exchange.
+d. VWAP transactions shall be settled based on Clearing Agency Rules.
+SECTION 2. Trading
+a.
+b.
+c.
+d.
+e.
+Unless otherwise provided herein, other provisions of the PSE Trading Rules shall apply
+to VWAP Trading in the same manner as they apply to regular trades.
+VWAP Trading shall comply with the conditions set out in the Implementing Guidelines
+of these Rules.
+VWAP Trading is not allowed for a currently suspended or halted Security.
+Only authorized Salesmen/ Traders of the TP shall be allowed to execute VWAP
+transactions.
+The Order value limit set by the TP for each of its Salesmen/ Traders shall also apply in
+VWAP Trading.
+3
+===== page 5 / 8 =====
+IMPLEMENTING GUIDELINES
+11
+TRADING HOURS
+Unless the Exchange provides otherwise, the trading of Securities in the Exchange will be
+governed by the following schedule of trading hours:
+For half-day trading
+9:00 a.m.
+9:15 a.m.
+9:30 a.m.
+9:30 a.m.
+11:57 a.m.
+11:59 a.m.
+12:00 nn
+12:10 p.m.
+12:25 p.m.
+PRE-OPEN
+No matching of Orders can occur, but Trading Participants (T PS) can enter,
+modify, or cancel Orders.
+PRE-OPEN NO CANCEL
+TPs are allowed to enter Orders but cannot cancel or modify Orders.
+OPENING
+Opening Price for all Securities is calculated. The Order book is frozen and
+Order entry, modification and cancellation by TPs are not allowed.
+CONTINUOUS TRADING
+Orders are automatically matched at the Best Price in accordance with the PSE
+Trading Rules.
+PRE-CLOSE
+This is the same as Pre-Open. TPs can enter, modify or cancel Orders.
+PRE-CLOSE NO CANCEL
+TPs are allowed to enter Orders but cannot cancel or modify Orders.
+RUN-OFF/ TRADING-AT-LAST
+TPs can enter Orders at the Closing Price only.
+CLOSING VWAP SESSION
+TPs are allowed to execute transactions but only at V WAP.
+MARKET CLOSE
+End of trading. TPs cannot enter, modify or cancel Orders.
+4
+===== page 6 / 8 =====
+For whole day trading
+9:00 a.m.
+9:15 a.m.
+9:30 a.m.
+9:30 a.m.
+12:00 nn
+1:00 p.m.
+2:45 p.m.
+2:48 p.m.
+2:50 p.m.
+3:00 p.m.
+3:15 p.m.
+PRE-OPEN
+No matching of Orders can occur, but TPs can enter, modify, or cancel Orders.
+PRE-OPEN NO CANCEL
+TPs are allowed to enter Orders but cannot cancel or modify Orders.
+OPENING
+Opening Price for all Securities is calculated. The Order book is frozen and
+Order entry, modification and cancellation by TPs are not allowed.
+CONTINUOUS TRADING
+Orders are automatically matched at the Best Price in accordance with the PSE
+Trading Rules.
+MARKET RECESS
+Trading for all Securities is not allowed. TPs cannot enter, modify or cancel
+Orders.
+MARKET RESUME/ CONTINUOUS TRADING
+Orders are automatically matched at the Best Price in accordance with the PSE
+Trading Rules.
+PRE-CLOSE
+This is the same as Pre-Open. TPs can enter, modify or cancel Orders.
+PRE-CLOSE NO CANCEL
+TPs are allowed to enter Orders but cannot cancel or modify Orders.
+RUN-OFF/ TRADING-AT-LAST
+TPs can enter Orders at the Closing Price only.
+CLOSING VWAP SESSION
+TPs are allowed to execute transactions but only at V WAP.
+MARKET CLOSE
+End of trading. TPs cannot enter, modify or cancel Orders.
+5
+===== page 7 / 8 =====
+VWAP TRADING
+1. VWAP transactions can only be executed through the trading facilities of the Exchange in
+accordance with the following parameters:
+a. The execution price shall be computed based on the volume-weighted average price for the
+Security in a given Trading Day;
+b. The VWAP shall not exceed four (4) decimal places; and
+c. The value of the VWAP transaction shall be no less than PhP500,000.
+2. Except Block Sales, intentional cross and Odd Lot transactions, all other trades shall be
+included in the VWAP computation for the Security.
+3. VWAP transactions can only be executed within fifteen (15) minutes after the Run-
+off/ Trading-at-Last Period.
+If there is delay in the display of VWAP of a Security, the Exchange shall suspend the Closing
+VWAP Session and immediately make an announcement to the Trading Participants. If the
+issue is resolved with at least five (5) minutes remaining in the Closing VWAP Session, the
+Exchange will resume the Closing VWAP session. However, if the issue persists and there is
+less than five (5) minutes remaining in the Closing VWAP Session, the Exchange shall cancel
+VWAP trading for the day.
+4. VWAP transaction may only be executed by a single Trading Participant, provided that the
+Exchange shall have the option to subsequently make the VWAP trading facility available for
+two-firm trading on a date to be determined by the Exchange and subject to prior approval of
+the Commission.
+5. VWAP transactions shall be included in the End-of-Day reports.
+6
+===== page 8 / 8 =====
+THE PHILIPPINE STOCK EXCHANGE, INC.
+(original signed)
+RAMON S. MONZON
+President and Chief Executive Officer
+(original signed)
+ROEL A. REFRAN
+Chief Operating Officer
+SECURITIES AND EXCHANGE COMMISSION
+(original signed)
+VICENTE GRACIANO P. FELIZMENIO, JR.
+Director
+Markets and Securities Regulation Department
